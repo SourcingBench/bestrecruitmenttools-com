@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import Faq from '../../components/Faq.astro';
+import defs from '../../data/definitions.json';
+import { SITE_NAME, SITE_URL, YEAR, LAST_REVIEWED, fmtDate, articleSchema, breadcrumbSchema, faqSchema } from '../../data/site';
+export function getStaticPaths() { return defs.map((d) => ({ params: { slug: d.slug }, props: { d } })); }
+const { d } = Astro.props;
+const path = `/what-is/${d.slug}/`;
+const faq = [{ q: d.question, a: d.short }, ...d.faq];
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'DefinedTerm', name: d.term, description: d.short, url: `${SITE_URL}${path}` },
+  articleSchema({ headline: d.question, description: d.short, path }), faqSchema(faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: d.term, path }]),
+];
+---
+<Base title={`${d.question} | ${SITE_NAME}`} description={d.short} path={path} schema={schema} type="article">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › {d.term}</p>
+    <span class="kicker">Definition · {YEAR}</span>
+    <h1>{d.question}</h1>
+    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)}</p>
+    <div class="verdict"><b>{d.term}:</b> {d.short}</div>
+    <div class="narrow prose">
+      {d.body.map((p) => <div set:html={p} />)}
+      <Faq items={d.faq} />
+      <p><a href="/">Best recruitment tools {YEAR}</a> · <a href="/best-for/">Rankings by use case</a></p>
+    </div>
+  </div>
+</Base>

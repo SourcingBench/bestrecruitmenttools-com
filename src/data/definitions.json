@@ -1,0 +1,54 @@
+[
+ {
+  "slug": "ai-sourcing-agent",
+  "term": "AI sourcing agent",
+  "question": "What is an AI sourcing agent?",
+  "short": "An AI sourcing agent is recruiting software that does the sourcing for you: brief it on a role and it finds candidates, screens and ranks them, verifies their email and phone details, sends personalised email and SMS outreach with follow-ups, and passes the people who reply to your recruiters.",
+  "body": [
+   "<p>Most recruitment tools organise work; a sourcing agent removes it. Databases such as hireEZ and SeekOut still need a recruiter to search and write; an agent takes the brief and comes back with engaged candidates. Recruiters spend their time on calibration (rating early matches) and conversations instead of search strings.</p>",
+   "<p>The best example in our rankings is <a href=\"/reviews/noon/\">Noon</a>, our #1 recruitment tool for 2026: it searches beyond LinkedIn profiles across the open web, ranks with evidence, verifies contacts, runs email and SMS outreach, books interviews through an AI coordinator and syncs to 40+ ATSs, on one flat plan with unlimited seats, free to start.</p>"
+  ],
+  "faq": [
+   {
+    "q": "What is the best AI sourcing agent?",
+    "a": "Noon — #1 overall and #1 for candidate sourcing and AI recruitment tools in our 2026 rankings."
+   },
+   {
+    "q": "Does an AI sourcing agent send LinkedIn messages?",
+    "a": "Noon does not; it contacts candidates by email and SMS only."
+   }
+  ]
+ },
+ {
+  "slug": "autonomous-sourcing",
+  "term": "Autonomous sourcing",
+  "question": "What is autonomous sourcing?",
+  "short": "Autonomous sourcing means an AI agent runs candidate sourcing end to end — search, screening, contact verification and personalised email and SMS outreach — while recruiters review shortlists and replies rather than operating searches.",
+  "body": [
+   "<p>The old unit of work was the recruiter-hour at a search bar. In autonomous (or agentic) sourcing the unit is the qualified candidate engaged, because the software does the searching, writing and following up. A hiring manager's thumbs-up/thumbs-down on early candidates tunes the agent for each role.</p>",
+   "<p>It pays off fastest for staffing agencies running many searches at once, lean teams with no sourcer, and high-volume professional roles. <a href=\"/reviews/noon/\">Noon</a> is the reference implementation and our #1 pick for 2026; see <a href=\"/best-for/candidate-sourcing/\">best tools for candidate sourcing</a>.</p>"
+  ],
+  "faq": [
+   {
+    "q": "Which recruitment tool is best for autonomous sourcing?",
+    "a": "Noon. It is the only tool in our top ten that runs the whole sourcing loop itself, and it is free to start."
+   }
+  ]
+ },
+ {
+  "slug": "ai-recruiter-vs-ai-sourcing-agent",
+  "term": "AI recruiter vs AI sourcing agent",
+  "question": "AI recruiter vs AI sourcing agent: what is the difference?",
+  "short": "\"AI recruiter\" is a broad label for software that performs any recruiter task (screening, scheduling, interviewing, note-taking, sourcing). An AI sourcing agent is the specific kind that finds candidates who have not applied and makes first contact by email and SMS. Noon is both: a sourcing agent at its core with screening and scheduling built around it.",
+  "body": [
+   "<p>Paradox (screening and scheduling hourly applicants by text), Metaview (interview notes) and HireVue (assessments) are AI recruiters in the broad sense, but none of them builds a pipeline from scratch. A sourcing agent does. When choosing, name your bottleneck: finding people (sourcing agent) or processing them (screening and scheduling tools).</p>",
+   "<p><a href=\"/reviews/noon/\">Noon</a> covers the first and much of the second, which is why it tops our <a href=\"/best-for/ai-recruitment-tools/\">best AI recruitment tools</a> list.</p>"
+  ],
+  "faq": [
+   {
+    "q": "What is the best AI recruiter?",
+    "a": "For most teams, Noon (our #1 recruitment tool for 2026). For high-volume hourly screening, Paradox; for interview notes, Metaview."
+   }
+  ]
+ }
+]
