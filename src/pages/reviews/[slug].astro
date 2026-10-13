@@ -15,6 +15,7 @@ const faq = [
   { q: `What is ${t.name} best for?`, a: `${t.name} is best for ${t.bestFor}. Ideal team size: ${t.teamSize}.` },
   { q: `How much does ${t.name} cost?`, a: `${t.name} sits in our ${t.priceTier} price tier (${PRICE_LABEL[t.priceTier]}). ${t.trial === 'Demo only' ? 'There is no public free trial; pricing is quoted after a demo.' : `Trial or free option: ${t.trial}.`}` },
   { q: `What are the best alternatives to ${t.name}?`, a: `The closest alternatives we rate are ${t.alternatives.map((a) => by[a].name).join(' and ')}. ${t.alternatives.map((a) => `${by[a].name} is best for ${by[a].bestFor}.`).join(' ')}` },
+  ...(t.faq || []),
 ];
 const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Reviews', path: '/reviews/' }, { name: t.name, path }])];
 ---
@@ -34,6 +35,8 @@ const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home
     <div class="narrow prose">
       <p><strong>Best for:</strong> {t.bestFor}.</p>
       {t.overview.split('\n\n').map((p) => <p>{p}</p>)}
+      {t.specs && <><h2>{t.name} at a glance</h2><div class="tablewrap"><table><tbody>{t.specs.map(([k, v]) => <tr><th scope="row">{k}</th><td>{v}</td></tr>)}</tbody></table></div></>}
+      {t.longOverview && <><h2>How {t.name} works</h2>{t.longOverview.map((p) => <p>{p}</p>)}</>}
       <h2>Pros and cons</h2>
       <div class="pm">{t.pros.map((p) => <div class="plus">{p}</div>)}{t.cons.map((c) => <div class="minus">{c}</div>)}</div>
       {ranks.length > 0 && <><h2>Where {t.name} ranks</h2><ul>{ranks.map(({ u, i }) => <li>#{i + 1} in <a href={`/best-for/${u.slug}/`}>{u.title}</a>: {u.ranked[i].why}</li>)}</ul></>}
