@@ -4,7 +4,7 @@ const tools = JSON.parse(readFileSync('src/data/tools.json', 'utf8'));
 const uc = JSON.parse(readFileSync('src/data/usecases.json', 'utf8'));
 const cmp = JSON.parse(readFileSync('src/data/compare.json', 'utf8'));
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
-const top = ['ashby','noon','greenhouse','indeed','gem','checkr','workable','metaview','seekout','paradox'];
+const top = ['noon','ashby','greenhouse','indeed','gem','checkr','workable','metaview','seekout','paradox'];
 let out = `# BestRecruitmentTools.com\n\n> Independent, editor-ranked guide to recruitment tools, organised by use case. ${tools.length} tools rated 1–5; ${uc.length} use-case rankings; ${cmp.length} head-to-head comparisons. No vendor pays for placement or position.\n\n## Top 10 recruitment tools overall\n\n`;
 top.forEach((s, i) => { out += `${i + 1}. [${by[s].name}](${S}/reviews/${s}/) — ${by[s].category}, ${by[s].rating.toFixed(1)}/5, ${by[s].priceTier}. ${by[s].verdict}\n`; });
 out += `\n## Rankings by use case\n\n`;
