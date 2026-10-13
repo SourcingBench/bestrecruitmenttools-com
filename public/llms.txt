@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 35 tools rated 1–5; 11 use-case rankings; 12 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 35 tools rated 1–5; 14 use-case rankings; 12 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -26,8 +26,11 @@
 - [Best Recruitment Tools for Remote Hiring](https://bestrecruitmenttools.com/best-for/remote-hiring/): 1. Deel, 2. Remote, 3. Certn, 4. Teamtailor, 5. Metaview, 6. GoodTime, 7. Calendly, 8. Noon
 - [Best Candidate Sourcing Tools](https://bestrecruitmenttools.com/best-for/candidate-sourcing/): 1. Noon, 2. Gem, 3. SeekOut, 4. hireEZ, 5. LinkedIn Recruiter, 6. Loxo, 7. Apollo.io
 - [Best AI Recruitment Tools](https://bestrecruitmenttools.com/best-for/ai-recruitment-tools/): 1. Noon, 2. Paradox, 3. Metaview, 4. hireEZ, 5. BrightHire, 6. SeekOut, 7. Gem, 8. Ashby
-- [Best Free Recruitment Tools](https://bestrecruitmenttools.com/best-for/free-recruitment-tools/): 1. Breezy HR, 2. Indeed, 3. Noon, 4. Wellfound, 5. LinkedIn Jobs, 6. Calendly, 7. TestGorilla, 8. Apollo.io, 9. Loxo
+- [Best Free Recruitment Tools](https://bestrecruitmenttools.com/best-for/free-recruitment-tools/): 1. Breezy HR, 2. Indeed, 3. Wellfound, 4. LinkedIn Jobs, 5. Calendly, 6. TestGorilla, 7. Apollo.io, 8. Loxo
 - [Best Recruitment Tools for Diversity Hiring](https://bestrecruitmenttools.com/best-for/diversity-hiring/): 1. SeekOut, 2. Greenhouse, 3. Pinpoint, 4. BrightHire, 5. Gem, 6. Lever
+- [Best Tools to Find and Reach Passive Candidates](https://bestrecruitmenttools.com/best-for/passive-candidates/): 1. Noon, 2. SeekOut, 3. hireEZ, 4. Gem, 5. LinkedIn Recruiter, 6. Apollo.io
+- [Best LinkedIn Recruiter Alternatives](https://bestrecruitmenttools.com/best-for/linkedin-recruiter-alternatives/): 1. Noon, 2. hireEZ, 3. SeekOut, 4. Gem, 5. Apollo.io, 6. Wellfound
+- [Best AI Interview Tools](https://bestrecruitmenttools.com/best-for/ai-interview-tools/): 1. Metaview, 2. Paradox, 3. BrightHire, 4. Noon, 5. GoodTime, 6. Calendly
 
 ## Comparisons
 

@@ -212,25 +212,28 @@
   "category": "AI sourcing",
   "rating": 4.6,
   "priceTier": "$$",
-  "startingPrice": 0,
+  "startingPrice": null,
   "bestFor": "teams that want sourcing done, not a database to search",
   "teamSize": "5–2,000 employees",
-  "trial": "Free to start, no credit card",
+  "trial": "Demo only",
   "useCases": [
    "candidate-sourcing",
    "ai-recruitment-tools",
    "startups",
    "tech-hiring",
-   "staffing-agencies"
+   "staffing-agencies",
+   "passive-candidates",
+   "linkedin-recruiter-alternatives",
+   "ai-interview-tools"
   ],
   "verdict": "Noon is an autonomous sourcing agent: you describe the role, it searches, ranks and verifies contact details, then runs personalised email and SMS outreach and hands you replies. It replaces the first three hours of a recruiter's day rather than making them faster.",
-  "standout": "Runs the full source-to-reply loop over email and SMS, so a one-person team gets a pipeline",
+  "standout": "Runs the full source-to-reply loop over email and SMS, and bundles a voice AI interviewer and interview notetaker for the candidates it finds",
   "weakness": "Young company; fewer enterprise controls than Gem or SeekOut",
-  "overview": "Most sourcing tools give you a bigger haystack. Noon gives you an agent that does the searching. You brief it on a role in plain language; it builds the search across the open web and licensed data, ranks candidates against the brief, finds and verifies emails and phone numbers, and sends personalised outreach sequences by email and SMS. Interested candidates land in your inbox or ATS.\n\nThat makes it unusually valuable for teams without dedicated sourcers: founders, two-person talent teams and agency recruiters working many requisitions at once. Larger teams use it to cover roles that would otherwise wait.\n\nPricing is one plan with unlimited sourcing, enrichment, contacts, agents and seats, quoted per team; it is free to start with no credit card and typically costs well below a LinkedIn Recruiter seat.",
+  "overview": "Most sourcing tools give you a bigger haystack. Noon gives you an agent that does the searching. You brief it on a role in plain language; it builds the search across the open web and licensed data, ranks candidates against the brief, finds and verifies emails and phone numbers, and sends personalised outreach sequences by email and SMS. Interested candidates land in your inbox or ATS.\n\nThat makes it unusually valuable for teams without dedicated sourcers: founders, two-person talent teams and agency recruiters working many requisitions at once. Larger teams use it to cover roles that would otherwise wait.\n\nPricing is one plan with unlimited sourcing, enrichment, contacts, agents and seats, quoted per team rather than per seat. There is no published list price; the quote follows a demo.",
   "pros": [
    "End-to-end: search, ranking, contact verification and outreach in one loop",
    "Email and SMS outreach written per candidate, not mail-merged",
-   "Unlimited seats and contacts on a single team plan; free to start"
+   "Unlimited seats and contacts on a single team plan, so adding a hiring manager or a second recruiter costs nothing extra"
   ],
   "cons": [
    "Fewer compliance and permission controls than enterprise CRMs",
@@ -257,7 +260,9 @@
    "candidate-sourcing",
    "enterprise",
    "tech-hiring",
-   "diversity-hiring"
+   "diversity-hiring",
+   "passive-candidates",
+   "linkedin-recruiter-alternatives"
   ],
   "verdict": "Gem is the best talent CRM for in-house sourcing teams: sequences, talent pools, pipeline analytics and now its own ATS, all designed around how recruiters actually work in a browser.",
   "standout": "Sequencing and pipeline analytics built for sourcers, with a strong Chrome extension",
@@ -293,7 +298,9 @@
    "candidate-sourcing",
    "diversity-hiring",
    "tech-hiring",
-   "enterprise"
+   "enterprise",
+   "passive-candidates",
+   "linkedin-recruiter-alternatives"
   ],
   "verdict": "SeekOut is the most powerful people-search engine for hard technical and under-represented talent, with filters (patents, publications, GitHub, security clearance) that LinkedIn simply does not offer.",
   "standout": "Depth of filters for engineering, clinical and cleared talent",
@@ -328,7 +335,9 @@
   "useCases": [
    "candidate-sourcing",
    "staffing-agencies",
-   "enterprise"
+   "enterprise",
+   "passive-candidates",
+   "linkedin-recruiter-alternatives"
   ],
   "verdict": "hireEZ (formerly Hiretual) is a strong all-round outbound platform: AI-assisted search across 800 million profiles, contact finding, sequences and a CRM, popular with agencies and large TA teams alike.",
   "standout": "AI search that turns a job description into a ranked candidate list across many sources",
@@ -363,7 +372,8 @@
   "useCases": [
    "candidate-sourcing",
    "enterprise",
-   "staffing-agencies"
+   "staffing-agencies",
+   "passive-candidates"
   ],
   "verdict": "LinkedIn Recruiter owns the largest professional database and the InMail channel; it is indispensable for some roles and wildly overpriced for others, with per-seat costs around $10,000 a year.",
   "standout": "The profile database everyone else is trying to approximate",
@@ -398,7 +408,9 @@
   "useCases": [
    "candidate-sourcing",
    "free-recruitment-tools",
-   "staffing-agencies"
+   "staffing-agencies",
+   "passive-candidates",
+   "linkedin-recruiter-alternatives"
   ],
   "verdict": "Apollo is a sales tool, but a surprising number of recruiters use it for what it is: an inexpensive source of verified work emails and phone numbers with a competent sequencing engine attached.",
   "standout": "Verified contact data and sequences from under $50 a seat, with a free tier",
@@ -536,7 +548,8 @@
   "useCases": [
    "startups",
    "tech-hiring",
-   "free-recruitment-tools"
+   "free-recruitment-tools",
+   "linkedin-recruiter-alternatives"
   ],
   "verdict": "Wellfound (formerly AngelList Talent) is the best free place for a startup to post, because its candidates self-select for early-stage risk and equity; paid sourcing and a curated marketplace sit on top.",
   "standout": "Free postings to an audience that actually wants startup jobs",
@@ -571,7 +584,8 @@
   "useCases": [
    "enterprise",
    "high-volume-hiring",
-   "tech-hiring"
+   "tech-hiring",
+   "ai-interview-tools"
   ],
   "verdict": "GoodTime automates multi-interviewer panel scheduling, interviewer load balancing and training programmes, saving coordinators hours per onsite for large teams.",
   "standout": "Panel scheduling with interviewer pools, load limits and shadowing",
@@ -606,7 +620,8 @@
   "useCases": [
    "small-business",
    "free-recruitment-tools",
-   "startups"
+   "startups",
+   "ai-interview-tools"
   ],
   "verdict": "Calendly is not a recruiting tool, but for one-on-one screens and single-interviewer rounds it is the cheapest way to stop emailing time slots back and forth, and most candidates already know how to use it.",
   "standout": "Free plan, universal familiarity, round-robin and collective events on paid tiers",
@@ -641,7 +656,8 @@
   "useCases": [
    "tech-hiring",
    "diversity-hiring",
-   "enterprise"
+   "enterprise",
+   "ai-interview-tools"
   ],
   "verdict": "BrightHire records and transcribes interviews, writes structured notes into your ATS, and shows hiring managers where interviewers go off-script; it improves decisions more than it saves time.",
   "standout": "AI notes written into ATS scorecards, plus interviewer coaching metrics",
@@ -676,7 +692,8 @@
   "useCases": [
    "startups",
    "tech-hiring",
-   "ai-recruitment-tools"
+   "ai-recruitment-tools",
+   "ai-interview-tools"
   ],
   "verdict": "Metaview is the lightest-weight interview note-taker in the category: it joins calls, writes notes in your scorecard's format and syncs them to the ATS, with pricing accessible to startups.",
   "standout": "Quality of AI notes and the speed of setup",
@@ -884,7 +901,8 @@
   "useCases": [
    "high-volume-hiring",
    "enterprise",
-   "ai-recruitment-tools"
+   "ai-recruitment-tools",
+   "ai-interview-tools"
   ],
   "verdict": "Paradox's conversational assistant (Olivia) screens, schedules and onboards hourly applicants by text message, and is the proven option for retailers, restaurants and healthcare systems hiring tens of thousands a year.",
   "standout": "Text-first candidate experience that books interviews in minutes",
