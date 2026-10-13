@@ -1,0 +1,15 @@
+---
+import { stars, PRICE_LABEL } from '../data/site';
+interface Props { tool: any; why?: string; }
+const { tool: t, why } = Astro.props;
+---
+<li class="rankrow">
+  <div class="no" aria-hidden="true"></div>
+  <div>
+    <span class="tag">{t.category}</span>
+    <h3><a href={`/reviews/${t.slug}/`}>{t.name}</a></h3>
+    <p>{why ?? t.verdict}</p>
+    <div class="pm"><div class="plus">{t.standout}</div><div class="minus">{t.weakness}</div></div>
+  </div>
+  <div class="meta"><span class="stars" aria-label={`${t.rating} out of 5`}>{stars(t.rating)}</span><b>{t.rating.toFixed(1)} / 5</b>{t.priceTier} · {PRICE_LABEL[t.priceTier]}<br/>Best for: {t.bestFor}</div>
+</li>

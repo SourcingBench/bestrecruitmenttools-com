@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestrecruitmenttools.com/sitemap-index.xml

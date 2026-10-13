@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import tools from '../../data/tools.json';
+import usecases from '../../data/usecases.json';
+import compare from '../../data/compare.json';
+import { SITE_NAME, YEAR, LAST_REVIEWED, fmtDate, stars, PRICE_LABEL, reviewSchema, breadcrumbSchema, faqSchema } from '../../data/site';
+export function getStaticPaths() { return tools.map((t) => ({ params: { slug: t.slug }, props: { t } })); }
+const { t } = Astro.props;
+const by = Object.fromEntries(tools.map((x) => [x.slug, x]));
+const path = `/reviews/${t.slug}/`;
+const ranks = usecases.map((u) => ({ u, i: u.ranked.findIndex((r) => r.slug === t.slug) })).filter((x) => x.i >= 0);
+const cmps = compare.filter((c) => c.a === t.slug || c.b === t.slug);
+const sameCat = tools.filter((x) => x.category === t.category && x.slug !== t.slug).sort((a, b) => b.rating - a.rating).slice(0, 4);
+const faq = [
+  { q: `What is ${t.name} best for?`, a: `${t.name} is best for ${t.bestFor}. Ideal team size: ${t.teamSize}.` },
+  { q: `How much does ${t.name} cost?`, a: `${t.name} sits in our ${t.priceTier} price tier (${PRICE_LABEL[t.priceTier]}). ${t.trial === 'Demo only' ? 'There is no public free trial; pricing is quoted after a demo.' : `Trial or free option: ${t.trial}.`}` },
+  { q: `What are the best alternatives to ${t.name}?`, a: `The closest alternatives we rate are ${t.alternatives.map((a) => by[a].name).join(' and ')}. ${t.alternatives.map((a) => `${by[a].name} is best for ${by[a].bestFor}.`).join(' ')}` },
+];
+const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Reviews', path: '/reviews/' }, { name: t.name, path }])];
+---
+<Base title={`${t.name} Review (${YEAR}): Rating, Pricing, Pros & Cons | ${SITE_NAME}`} description={`${t.name} review: ${t.rating.toFixed(1)}/5. ${t.verdict}`} path={path} schema={schema} type="article">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › <a href="/reviews/">Reviews</a> › {t.name}</p>
+    <span class="kicker">{t.category}</span>
+    <h1>{t.name} review</h1>
+    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)} · <a href={t.website} rel="nofollow noopener" target="_blank">{t.website.replace(/^https?:\/\/(www\.)?/, '')}</a></p>
+    <div class="scoreboard">
+      <div><b>{t.rating.toFixed(1)}</b><span style="color:var(--gold)">{stars(t.rating)}</span></div>
+      <div><b>{t.priceTier}</b><span>{PRICE_LABEL[t.priceTier]}</span></div>
+      <div><b style="font-size:1.05rem">{t.trial}</b><span>Trial / free option</span></div>
+      <div><b style="font-size:1.05rem">{t.teamSize}</b><span>Ideal team size</span></div>
+    </div>
+    <div class="verdict"><b>Verdict.</b> {t.verdict}</div>
+    <div class="narrow prose">
+      <p><strong>Best for:</strong> {t.bestFor}.</p>
+      {t.overview.split('\n\n').map((p) => <p>{p}</p>)}
+      <h2>Pros and cons</h2>
+      <div class="pm">{t.pros.map((p) => <div class="plus">{p}</div>)}{t.cons.map((c) => <div class="minus">{c}</div>)}</div>
+      {ranks.length > 0 && <><h2>Where {t.name} ranks</h2><ul>{ranks.map(({ u, i }) => <li>#{i + 1} in <a href={`/best-for/${u.slug}/`}>{u.title}</a>: {u.ranked[i].why}</li>)}</ul></>}
+      {cmps.length > 0 && <><h2>Head-to-head</h2><ul>{cmps.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a>: {c.summary}</li>)}</ul></>}
+      <h2>Alternatives to {t.name}</h2>
+      <div class="cards">{[...new Set([...t.alternatives, ...sameCat.map((x) => x.slug)])].slice(0, 4).map((s) => <a class="card" href={`/reviews/${s}/`}><span class="kicker">{by[s].category}</span><h3>{by[s].name}</h3><p>{by[s].rating.toFixed(1)}/5 · {by[s].bestFor}</p></a>)}</div>
+      <section class="faq"><h2>FAQ</h2>{faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>
+      <p class="note">Ratings reflect the editorial board's assessment of {t.name} for the teams it is best suited to, as of {fmtDate(LAST_REVIEWED)}. {t.name} did not pay for this review or its position. Pricing figures are approximate and change; confirm with the vendor. <a href="/how-we-rank/">How we rank</a> · <a href="/contact/">Request a correction</a>.</p>
+    </div>
+  </div>
+</Base>

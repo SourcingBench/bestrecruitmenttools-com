@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, LAST_REVIEWED, fmtDate, articleSchema, breadcrumbSchema } from '../data/site';
+const schema = [articleSchema({ headline: 'How we rank recruitment tools', description: 'The criteria, weights and rules behind the rankings on BestRecruitmentTools.com.', path: '/how-we-rank/' }), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'How we rank', path: '/how-we-rank/' }])];
+---
+<Base title={`How We Rank Recruitment Tools | ${SITE_NAME}`} description="The criteria, weights and rules behind every ranking on BestRecruitmentTools.com: who ranks, what counts, what is excluded, and how vendors can request corrections." path="/how-we-rank/" schema={schema} type="article">
+  <div class="wrap narrow prose">
+    <p class="crumbs"><a href="/">Home</a> › How we rank</p>
+    <h1>How we rank recruitment tools</h1>
+    <p class="byline">Last revised {fmtDate(LAST_REVIEWED)}</p>
+    <h2>The one rule</h2>
+    <p>No vendor pays for placement, position or a review. We do not sell sponsored listings, “featured” slots or lead forms. If that ever changes it will be disclosed on this page and on every affected listing.</p>
+    <h2>Why rankings instead of a list</h2>
+    <p>Buyers ask “which one?”, not “what exists?”. A ranking forces us to make a call and explain it. We accept that the call is a judgement; the criteria below make the judgement inspectable.</p>
+    <h2>Criteria and weights</h2>
+    <div class="tablewrap"><table><thead><tr><th>Criterion</th><th>Weight</th><th>What we look at</th></tr></thead><tbody>
+      <tr><td>Work removed</td><td>30%</td><td>How many recruiter or manager hours the tool eliminates, not merely speeds up. Tools that complete a task (sourcing, screening, scheduling, note-taking) score above tools that assist with it.</td></tr>
+      <tr><td>Fit breadth</td><td>20%</td><td>How many kinds of team the tool serves well. A tool that is excellent for one use case and poor elsewhere can top a use-case list but not the overall ranking.</td></tr>
+      <tr><td>Value</td><td>20%</td><td>Outcome per dollar, including whether pricing is public, whether a trial or free tier exists, and how cost scales with seats and volume.</td></tr>
+      <tr><td>Depth and reliability</td><td>15%</td><td>Feature completeness within its category, data quality, uptime and support, judged from documentation, trials and practitioner reports.</td></tr>
+      <tr><td>Integration</td><td>15%</td><td>Whether it plugs into the systems that already hold candidate data (ATS, calendar, HRIS) without manual export.</td></tr>
+    </tbody></table></div>
+    <h2>Ratings</h2>
+    <p>The 1–5 rating on each review is the weighted result above, rounded to one decimal, for the teams the tool is designed for. A 4.0 agency ATS and a 4.0 enterprise CRM are not interchangeable; the use-case rankings and “best for” field carry that context.</p>
+    <h2>Use-case rankings</h2>
+    <p>Each “best for” guide re-weights the criteria for that situation. Startups weight value and work removed more heavily; enterprise weights integration, permissions and depth; high-volume weights speed and automation. The winner on each page is the tool we would recommend to a team in that situation with no further information.</p>
+    <h2>What we exclude</h2>
+    <ul><li>Tools with no verifiable product or customers.</li><li>Tools whose main function is outside recruiting (payroll-only, LMS) unless hiring depends on them, such as employer-of-record platforms for remote hiring.</li><li>“AI” tools where the AI does not perform a task a person used to do.</li></ul>
+    <h2>Sources</h2>
+    <p>Vendor documentation and pricing pages, product trials where available, public practitioner communities, customer reviews on third-party sites (weighted lightly because of incentive programmes), and our own experience running recruiting processes. Pricing is checked at each review cycle and is approximate.</p>
+    <h2>Review cycle and corrections</h2>
+    <p>Rankings are reviewed quarterly; individual reviews are updated when a vendor materially changes product or pricing. Vendors and readers may request factual corrections via the <a href="/contact/">contact page</a>. Corrections of fact are made promptly; requests to change ratings or positions are declined.</p>
+    <h2>Disclosures</h2>
+    <p>Links to vendor sites are plain links, not affiliate links. The site is funded by its publisher as an editorial project. Noon, an AI sourcing agent reviewed on this site, shares an ownership relationship with the publisher; its rating and positions were set using the same criteria as every other tool and that relationship is disclosed here and on the <a href="/about/">about page</a>.</p>
+  </div>
+</Base>

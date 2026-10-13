@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import usecases from '../../data/usecases.json';
+import tools from '../../data/tools.json';
+import { SITE_NAME, SITE_URL, YEAR, itemListSchema, breadcrumbSchema } from '../../data/site';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const schema = [itemListSchema('Best recruitment tools by use case', usecases.map((u) => ({ name: u.title, url: `${SITE_URL}/best-for/${u.slug}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Best for', path: '/best-for/' }])];
+---
+<Base title={`Best Recruitment Tools by Use Case (${YEAR}) | ${SITE_NAME}`} description="Separate ranked lists of the best recruitment tools for startups, small business, staffing agencies, enterprise, high-volume, tech, remote and diversity hiring, candidate sourcing, AI and free tools." path="/best-for/" schema={schema}>
+  <div class="wrap"><p class="crumbs"><a href="/">Home</a> › Best for</p>
+  <h1>Best recruitment tools, by use case</h1>
+  <p class="lead">Eleven ranked lists. Each one re-orders our 35 rated tools for a specific hiring situation and explains why the winner wins there.</p>
+  <div class="cards">{usecases.map((u) => <a class="card" href={`/best-for/${u.slug}/`}><span class="kicker">Winner: {by[u.ranked[0].slug].name}</span><h3>{u.title}</h3><p>{u.description}</p></a>)}</div></div>
+</Base>

@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, CONTACT_EMAIL } from '../data/site';
+---
+<Base title={`Contact & Corrections | ${SITE_NAME}`} description="How to reach the BestRecruitmentTools.com editorial board with corrections, pricing updates, vendor information or reader questions." path="/contact/">
+  <div class="wrap narrow prose">
+    <p class="crumbs"><a href="/">Home</a> › Contact</p>
+    <h1>Contact the editors</h1>
+    <p>Email <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. We read everything; we reply to corrections and vendor updates first.</p>
+    <h2>Corrections</h2>
+    <p>If a fact about a product, price or feature is wrong, tell us the page, the claim and the source. Factual corrections are made promptly and the review's revision date is updated.</p>
+    <h2>Vendors</h2>
+    <p>To be considered for review, send a short description, pricing, a trial or demo account and three customer references. Inclusion is editorial; there is no fee and no paid option. Requests to change a rating or position are declined, but we welcome evidence that a criterion was misjudged.</p>
+    <h2>Readers</h2>
+    <p>If you want a use case we have not covered, say so. Several of the current guides exist because readers asked.</p>
+  </div>
+</Base>

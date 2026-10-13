@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import Faq from '../../components/Faq.astro';
+import RankRow from '../../components/RankRow.astro';
+import usecases from '../../data/usecases.json';
+import tools from '../../data/tools.json';
+import { SITE_NAME, SITE_URL, YEAR, LAST_REVIEWED, fmtDate, itemListSchema, faqSchema, articleSchema, breadcrumbSchema } from '../../data/site';
+export function getStaticPaths() { return usecases.map((u) => ({ params: { slug: u.slug }, props: { u } })); }
+const { u } = Astro.props;
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const path = `/best-for/${u.slug}/`;
+const schema = [articleSchema({ headline: u.h1, description: u.description, path }), itemListSchema(u.title, u.ranked.map((r) => ({ name: by[r.slug].name, url: `${SITE_URL}/reviews/${r.slug}/` }))), faqSchema(u.faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Best for', path: '/best-for/' }, { name: u.short, path }])];
+const others = usecases.filter((x) => x.slug !== u.slug);
+---
+<Base title={`${u.title} (${YEAR}): ${u.ranked.length} Ranked | ${SITE_NAME}`} description={u.description} path={path} schema={schema} type="article">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › <a href="/best-for/">Best for</a> › {u.short}</p>
+    <span class="kicker">Ranked for {u.short.toLowerCase()} · {YEAR}</span>
+    <h1>{u.h1}</h1>
+    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)} · no vendor pays for position</p>
+    <div class="narrow prose"><p>{u.intro}</p></div>
+    <div class="verdict"><b>Our pick: {by[u.ranked[0].slug].name}.</b> {u.ranked[0].why} <a href={`/reviews/${u.ranked[0].slug}/`}>Read the review →</a></div>
+    <div class="tablewrap"><table><thead><tr><th>#</th><th>Tool</th><th>Category</th><th>Rating</th><th>Price tier</th><th>Trial</th></tr></thead><tbody>
+      {u.ranked.map((r, i) => <tr><td>{i + 1}</td><td><a href={`/reviews/${r.slug}/`}>{by[r.slug].name}</a></td><td>{by[r.slug].category}</td><td>{by[r.slug].rating.toFixed(1)}</td><td>{by[r.slug].priceTier}</td><td>{by[r.slug].trial}</td></tr>)}
+    </tbody></table></div>
+    <h2>The ranking, explained</h2>
+    <ol class="ranklist">{u.ranked.map((r) => <RankRow tool={by[r.slug]} why={r.why} />)}</ol>
+    <div class="narrow"><Faq items={u.faq} /></div>
+    <h2>Other use cases</h2>
+    <div class="cards">{others.map((o) => <a class="card" href={`/best-for/${o.slug}/`}><h3>{o.short}</h3><p>Winner: {by[o.ranked[0].slug].name}</p></a>)}</div>
+  </div>
+</Base>

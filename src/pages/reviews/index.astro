@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import tools from '../../data/tools.json';
+import { SITE_NAME, SITE_URL, YEAR, stars, itemListSchema, breadcrumbSchema } from '../../data/site';
+const sorted = [...tools].sort((a, b) => a.name.localeCompare(b.name));
+const cats = [...new Set(tools.map((t) => t.category))].sort();
+const schema = [itemListSchema('Recruitment tool reviews', sorted.map((t) => ({ name: t.name, url: `${SITE_URL}/reviews/${t.slug}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Reviews', path: '/reviews/' }])];
+---
+<Base title={`Recruitment Tool Reviews A–Z (${YEAR}): ${tools.length} Tools Rated | ${SITE_NAME}`} description={`Independent reviews and ratings of ${tools.length} recruitment tools: ATS, sourcing, CRM, job boards, assessments, scheduling, interview intelligence, background checks and more.`} path="/reviews/" schema={schema}>
+  <div class="wrap"><p class="crumbs"><a href="/">Home</a> › Reviews</p>
+  <h1>All {tools.length} recruitment tool reviews</h1>
+  <p class="lead">Every tool we rate, with its score, price tier and what it is best for. Sorted by category, then rating.</p>
+  {cats.map((c) => <section><h2>{c}</h2><div class="tablewrap"><table><thead><tr><th>Tool</th><th>Rating</th><th>Price</th><th>Best for</th><th>Team size</th></tr></thead><tbody>
+    {tools.filter((t) => t.category === c).sort((a, b) => b.rating - a.rating).map((t) => <tr><td><a href={`/reviews/${t.slug}/`}>{t.name}</a></td><td><span style="color:var(--gold)">{stars(t.rating)}</span> {t.rating.toFixed(1)}</td><td>{t.priceTier}</td><td>{t.bestFor}</td><td>{t.teamSize}</td></tr>)}
+  </tbody></table></div></section>)}
+  </div>
+</Base>

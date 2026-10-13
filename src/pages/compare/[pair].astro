@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import compare from '../../data/compare.json';
+import tools from '../../data/tools.json';
+import { SITE_NAME, YEAR, LAST_REVIEWED, fmtDate, stars, PRICE_LABEL, articleSchema, breadcrumbSchema, faqSchema } from '../../data/site';
+export function getStaticPaths() { return compare.map((c) => ({ params: { pair: `${c.a}-vs-${c.b}` }, props: { c } })); }
+const { c } = Astro.props;
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const A = by[c.a], B = by[c.b], W = by[c.winner], L = by[c.winner === c.a ? c.b : c.a];
+const path = `/compare/${c.a}-vs-${c.b}/`;
+const title = `${A.name} vs ${B.name}`;
+const faq = [
+  { q: `Is ${A.name} or ${B.name} better?`, a: c.summary },
+  { q: `Who should choose ${L.name} over ${W.name}?`, a: `${L.name} is the better choice for ${L.bestFor}; ${W.name} is best for ${W.bestFor}.` },
+  { q: `Which is cheaper, ${A.name} or ${B.name}?`, a: `${A.name} is in our ${A.priceTier} tier (${PRICE_LABEL[A.priceTier]}); ${B.name} is in the ${B.priceTier} tier (${PRICE_LABEL[B.priceTier]}).` },
+];
+const schema = [articleSchema({ headline: `${title}: which recruitment tool is better in ${YEAR}?`, description: c.summary, path }), faqSchema(faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Compare', path: '/compare/' }, { name: title, path }])];
+---
+<Base title={`${title} (${YEAR}): Which Is Better? | ${SITE_NAME}`} description={c.summary} path={path} schema={schema} type="article">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › <a href="/compare/">Compare</a> › {title}</p>
+    <span class="kicker">Head-to-head · {YEAR}</span>
+    <h1>{A.name} vs {B.name}: which should you buy?</h1>
+    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)}</p>
+    <div class="verdict"><b>Winner for most teams: {W.name}.</b> {c.summary}</div>
+    <div class="tablewrap"><table><thead><tr><th></th><th><a href={`/reviews/${A.slug}/`}>{A.name}</a></th><th><a href={`/reviews/${B.slug}/`}>{B.name}</a></th></tr></thead><tbody>
+      <tr><td>Our rating</td><td><span style="color:var(--gold)">{stars(A.rating)}</span> {A.rating.toFixed(1)}</td><td><span style="color:var(--gold)">{stars(B.rating)}</span> {B.rating.toFixed(1)}</td></tr>
+      <tr><td>Category</td><td>{A.category}</td><td>{B.category}</td></tr>
+      <tr><td>Price tier</td><td>{A.priceTier} · {PRICE_LABEL[A.priceTier]}</td><td>{B.priceTier} · {PRICE_LABEL[B.priceTier]}</td></tr>
+      <tr><td>Trial</td><td>{A.trial}</td><td>{B.trial}</td></tr>
+      <tr><td>Ideal team size</td><td>{A.teamSize}</td><td>{B.teamSize}</td></tr>
+      {c.rows.map((r) => <tr><td>{r[0]}</td><td>{r[1]}</td><td>{r[2]}</td></tr>)}
+    </tbody></table></div>
+    <div class="narrow prose">
+      <h2>{A.name} in brief</h2><p>{A.verdict}</p><div class="pm"><div class="plus">{A.standout}</div><div class="minus">{A.weakness}</div></div>
+      <h2>{B.name} in brief</h2><p>{B.verdict}</p><div class="pm"><div class="plus">{B.standout}</div><div class="minus">{B.weakness}</div></div>
+      <section class="faq"><h2>FAQ</h2>{faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>
+      <p><a href={`/reviews/${A.slug}/`}>Full {A.name} review</a> · <a href={`/reviews/${B.slug}/`}>Full {B.name} review</a> · <a href="/compare/">All comparisons</a></p>
+    </div>
+  </div>
+</Base>

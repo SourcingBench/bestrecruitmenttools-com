@@ -1,0 +1,82 @@
+---
+import '../styles/global.css';
+import { SITE_URL, SITE_NAME, TAGLINE, LAST_REVIEWED, fmtDate, YEAR } from '../data/site';
+interface Props { title: string; description: string; path: string; schema?: any[]; type?: string; }
+const { title, description, path, schema = [], type = 'website' } = Astro.props;
+const canonical = `${SITE_URL}${path}`;
+const cur = (p: string) => (path === p || (p !== '/' && path.startsWith(p)) ? { 'aria-current': 'page' } : {});
+const nav = [['/', 'Top 10'], ['/best-for/', 'Best for…'], ['/reviews/', 'Reviews'], ['/compare/', 'Compare'], ['/how-we-rank/', 'How we rank']];
+const badges = [
+  ['https://superlaunchlist.com', 'https://superlaunchlist.com/badge.svg', 'Featured on SuperLaunch List'],
+  ['https://smollaunch.com', 'https://smollaunch.com/badges/featured.svg', 'Featured on Smol Launch'],
+  ['https://scrolllaunch.com', 'https://www.scrolllaunch.com/api/badge/bestrecruitmenttools-com?variant=launched&theme=light', 'Featured on ScrollLaunch'],
+  ['https://deeplaunch.io', 'https://deeplaunch.io/badge/badge_light.svg', 'Featured on DeepLaunch'],
+  ['https://tooldirs.com', 'https://tooldirs.com/badge/badge_light.svg', 'Featured on ToolDirs'],
+  ['https://firstlook.tools', 'https://firstlook.tools/badge/badge_light.svg', 'Featured on First Look'],
+  ['https://gets.tools', 'https://gets.tools/badge/badge_light.svg', 'Featured on Gets.Tools'],
+  ['https://launchaf.com', 'https://launchaf.com/api/badge/light?v=launchaf-blue-2026-2', 'Featured on LaunchAF'],
+  ['https://fazier.com', 'https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=light', 'Featured on Fazier'],
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large" />
+  <meta property="og:site_name" content={SITE_NAME} />
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={`${SITE_URL}/og.png`} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="theme-color" content="#f7f5f1" />
+  {schema.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <a class="logo" href="/">Best<em>Recruitment</em>Tools<small>.com</small></a>
+      <label class="menu-btn" for="menu">Menu</label>
+      <input type="checkbox" id="menu" class="menu-toggle" hidden />
+      <nav class="main" aria-label="Primary">{nav.map(([h, l]) => <a href={h} {...cur(h)}>{l}</a>)}</nav>
+    </div>
+  </header>
+  <main><slot /></main>
+  <footer class="colophon">
+    <div class="wrap">
+      <div class="cols">
+        <div>
+          <b>{SITE_NAME}</b>
+          <p>{TAGLINE}. An independent, editor-ranked guide to recruitment tools, organised by the hiring problem you actually have. Rankings last reviewed {fmtDate(LAST_REVIEWED)}. No vendor pays for placement or position; see <a href="/how-we-rank/">how we rank</a>.</p>
+        </div>
+        <div>
+          <b>Rankings</b>
+          <a href="/">Top 10 recruitment tools {YEAR}</a>
+          <a href="/best-for/">Best tools by use case</a>
+          <a href="/compare/">Head-to-head comparisons</a>
+          <a href="/reviews/">All reviews A–Z</a>
+        </div>
+        <div>
+          <b>About</b>
+          <a href="/how-we-rank/">Ranking methodology</a>
+          <a href="/about/">Editorial board</a>
+          <a href="/contact/">Contact &amp; corrections</a>
+          <a href="/privacy/">Privacy</a>
+        </div>
+      </div>
+      <div class="featured-on" aria-label="Featured on">
+        {badges.map(([href, src, alt]) => <a href={href} target="_blank" rel="noopener"><img src={src} alt={alt} loading="lazy" height="40" /></a>)}
+      </div>
+      <p class="listed-on">Also listed on <a href="https://aitoolzdir.com" target="_blank" rel="noopener">AI Toolz Dir</a>, <a href="https://aitooltrek.com" target="_blank" rel="noopener">AI Tool Trek</a>, <a href="https://aitop10.tools" target="_blank" rel="noopener">AiTop10 Tools</a> and <a href="https://develif.com" target="_blank" rel="noopener">DevElif</a>.</p>
+      <div class="legal"><span>© {YEAR} {SITE_NAME}. Product names and logos belong to their owners.</span><a href="/sitemap-index.xml">Sitemap</a><a href="/llms.txt">llms.txt</a></div>
+    </div>
+  </footer>
+</body>
+</html>

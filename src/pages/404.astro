@@ -1,0 +1,7 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME } from '../data/site';
+---
+<Base title={`Page not found | ${SITE_NAME}`} description="That page does not exist." path="/404/">
+  <div class="wrap narrow prose"><h1>Page not found</h1><p>Try the <a href="/">top 10 ranking</a>, the <a href="/best-for/">use-case guides</a> or <a href="/reviews/">all reviews</a>.</p></div>
+</Base>

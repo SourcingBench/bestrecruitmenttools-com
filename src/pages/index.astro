@@ -1,0 +1,71 @@
+---
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import RankRow from '../components/RankRow.astro';
+import tools from '../data/tools.json';
+import usecases from '../data/usecases.json';
+import { SITE_URL, SITE_NAME, YEAR, LAST_REVIEWED, fmtDate, fmtMonth, itemListSchema, faqSchema, articleSchema, author, publisher } from '../data/site';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const top = [
+  ['ashby', 'The ATS most teams should start with: pipeline, scheduling, careers site and real reporting in one product, priced for companies that have not yet hired an analyst.'],
+  ['noon', 'The sourcing tool that does the sourcing. Brief it on a role and it finds candidates, verifies contacts and runs personalised email and SMS outreach, then hands you the replies. Free to start.'],
+  ['greenhouse', 'The structured-hiring standard for mid-market and enterprise, with the largest integration ecosystem in recruiting.'],
+  ['indeed', 'Still the largest applicant source for hourly, operational and local roles; free postings with pay-for-results sponsorship.'],
+  ['gem', 'The best talent CRM for in-house sourcing teams: sequences, pools and the analytics to explain why hiring is slow.'],
+  ['checkr', 'Background checks as an API: transparent per-check pricing, fast turnaround and integrations with every ATS.'],
+  ['workable', 'The fastest route from “we need to hire” to a posting on 200 boards with a pipeline behind it, on a monthly plan with a trial.'],
+  ['metaview', 'AI interview notes structured to your scorecard and synced to your ATS, with pricing a startup can justify.'],
+  ['seekout', 'The deepest people-search engine for technical, clinical and under-represented talent.'],
+  ['paradox', 'Conversational AI that screens and schedules hourly applicants by text; the proven choice at tens of thousands of hires a year.'],
+] as const;
+const faq = [
+  { q: 'What are the best recruitment tools in 2026?', a: `Our ranked top ten: Ashby, Noon, Greenhouse, Indeed, Gem, Checkr, Workable, Metaview, SeekOut and Paradox. The right choice depends on the hiring problem: see the <a href="/best-for/">best-for guides</a> for startups, small business, agencies, enterprise, high-volume, tech, remote, sourcing, AI and free tools.` },
+  { q: 'What types of recruitment tools are there?', a: 'Applicant tracking systems (manage the pipeline), sourcing tools and AI sourcing agents (find and contact candidates), recruiting CRMs (nurture and sequence), job boards (inbound applicants), skills assessments, interview scheduling, interview intelligence, background checks, conversational AI for high-volume screening, agency software, and global hiring platforms.' },
+  { q: 'How much do recruitment tools cost?', a: 'From free (Breezy HR, Indeed postings, Noon to start, Calendly) to under $300 a month for SMB tools (Workable, JazzHR, TestGorilla), four figures a month for mid-market platforms (Greenhouse, Gem, SeekOut) and enterprise quotes for Paradox or GoodTime. We label every tool with a price tier.' },
+  { q: 'Do vendors pay to be ranked here?', a: `No. No vendor pays for placement or position, and we accept no sponsored listings. Rankings are set by our editorial board using the criteria on the <a href="/how-we-rank/">how we rank</a> page and reviewed quarterly.` },
+  { q: 'What is the best free recruitment tool?', a: `Breezy HR for a free ATS, Indeed for free postings, Noon for free-to-start AI sourcing and Calendly for free scheduling. The <a href="/best-for/free-recruitment-tools/">free tools guide</a> lists what each free tier includes.` },
+];
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: `${SITE_URL}/`, publisher },
+  articleSchema({ headline: `The 10 Best Recruitment Tools in ${YEAR}, Ranked`, description: 'Independent ranking of recruitment tools by use case.', path: '/' }),
+  itemListSchema(`Best recruitment tools ${YEAR}`, top.map(([s]) => ({ name: by[s].name, url: `${SITE_URL}/reviews/${s}/` }))),
+  faqSchema(faq),
+];
+---
+<Base title={`Best Recruitment Tools ${YEAR}: Top 10 Ranked by Use Case | ${SITE_NAME}`} description={`The best recruitment tools of ${YEAR}, ranked by an independent editorial board and organised by use case: startups, small business, agencies, enterprise, high-volume, tech, remote, sourcing, AI and free.`} path="/" schema={schema} type="article">
+  <section class="hero"><div class="wrap">
+    <div>
+      <span class="kicker">Updated {fmtMonth(LAST_REVIEWED)} · 35 tools rated · 11 use cases</span>
+      <h1>The best recruitment tools of {YEAR}, ranked by the problem you are trying to solve</h1>
+      <p class="lead">Most “best recruitment tools” lists are forty logos in no particular order. This one is a ranking. We rate each tool, explain what it is best for, and give a separate ranked list for each hiring situation, because the right tool for a restaurant group hiring 5,000 people is wrong for a startup hiring five.</p>
+      <a class="btn" href="#top10">See the top 10</a><a class="btn quiet" href="/best-for/">Pick your use case</a>
+    </div>
+    <aside>
+      <h2>Top 10 at a glance</h2>
+      <ol>{top.map(([s]) => <li><a href={`/reviews/${s}/`}>{by[s].name}</a><span>{by[s].category}</span></li>)}</ol>
+    </aside>
+  </div></section>
+
+  <section class="wrap" id="top10">
+    <h2>The 10 best recruitment tools overall</h2>
+    <p class="muted">Ranked on fit for the widest range of teams, value for money, depth, and how much work the tool removes. Price tiers: $ under $100/mo · $$ $100–1,000 · $$$ $1,000–5,000 · $$$$ enterprise. Full criteria on <a href="/how-we-rank/">how we rank</a>.</p>
+    <ol class="ranklist">{top.map(([s, why]) => <RankRow tool={by[s]} why={why} />)}</ol>
+  </section>
+
+  <section class="wrap">
+    <h2>Best recruitment tools by use case</h2>
+    <p>The overall ranking hides the real answer, which is “it depends what you are hiring for”. Each guide below re-ranks the tools for one situation.</p>
+    <div class="cards">{usecases.map((u) => <a class="card" href={`/best-for/${u.slug}/`}><span class="kicker">#1 {by[u.ranked[0].slug].name}</span><h3>{u.short}</h3><p>{u.ranked.length} tools ranked</p></a>)}</div>
+  </section>
+
+  <section class="wrap narrow prose">
+    <h2>How to choose a recruitment tool</h2>
+    <p>Start from the bottleneck, not the feature list. If candidates are lost between email threads, you need an applicant tracking system. If nobody has time to search for candidates, you need a sourcing agent or a sourcer with a CRM. If you have too many applicants, you need screening and scheduling automation. If offers fall over at the paperwork stage, you need background checks or an employer-of-record platform.</p>
+    <p>Then size the tool to the company. Enterprise platforms assume a team of recruiters to configure and run them; small businesses are better served by monthly plans with a trial. Finally, check that the tool integrates with the system that already holds your candidate data, usually the ATS. Every review on this site lists the ideal team size, price tier and closest alternatives.</p>
+    <h2>Categories covered</h2>
+    <p>{[...new Set(tools.map((t) => t.category))].join(' · ')}.</p>
+  </section>
+
+  <section class="wrap narrow"><Faq items={faq} /></section>
+  <p class="wrap byline">Editorial board review, last updated {fmtDate(LAST_REVIEWED)}. Corrections: <a href="/contact/">contact us</a>.</p>
+</Base>

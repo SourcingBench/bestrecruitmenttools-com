@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, CONTACT_EMAIL, LAST_REVIEWED, fmtDate } from '../data/site';
+---
+<Base title={`Privacy Policy | ${SITE_NAME}`} description="Privacy policy for BestRecruitmentTools.com: a static site with no accounts, no tracking cookies and no sale of data." path="/privacy/">
+  <div class="wrap narrow prose">
+    <p class="crumbs"><a href="/">Home</a> › Privacy</p>
+    <h1>Privacy policy</h1>
+    <p class="byline">Effective {fmtDate(LAST_REVIEWED)}</p>
+    <p>{SITE_NAME} is a static website. It has no user accounts, no comment system and no forms that store data on our servers.</p>
+    <h2>What is collected</h2>
+    <p>Our hosting provider (Cloudflare) records standard server logs, including IP address, user agent and requested pages, for security and aggregate traffic statistics. We do not set tracking or advertising cookies and do not use third-party analytics scripts that identify individuals.</p>
+    <h2>Third parties</h2>
+    <p>Footer badges from directories that list this site are loaded from those directories' servers, which may log the request. Links to vendor websites take you to sites with their own privacy policies.</p>
+    <h2>Email</h2>
+    <p>If you email {CONTACT_EMAIL}, we keep the correspondence to handle your request and do not share it or add you to any list.</p>
+    <h2>Your rights</h2>
+    <p>Residents of the EU, UK, California and other jurisdictions with privacy laws may request access to or deletion of any personal data we hold by emailing <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. In practice the only such data is email correspondence.</p>
+  </div>
+</Base>

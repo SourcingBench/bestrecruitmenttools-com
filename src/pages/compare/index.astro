@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import compare from '../../data/compare.json';
+import tools from '../../data/tools.json';
+import { SITE_NAME, SITE_URL, YEAR, itemListSchema, breadcrumbSchema } from '../../data/site';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const schema = [itemListSchema('Recruitment tool comparisons', compare.map((c) => ({ name: `${by[c.a].name} vs ${by[c.b].name}`, url: `${SITE_URL}/compare/${c.a}-vs-${c.b}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Compare', path: '/compare/' }])];
+---
+<Base title={`Recruitment Tool Comparisons (${YEAR}): Head-to-Head Verdicts | ${SITE_NAME}`} description="Head-to-head comparisons of the recruitment tools people most often shortlist together, with a clear winner for each type of team." path="/compare/" schema={schema}>
+  <div class="wrap"><p class="crumbs"><a href="/">Home</a> › Compare</p>
+  <h1>Head-to-head comparisons</h1>
+  <p class="lead">The pairs buyers most often shortlist together. Each page gives a side-by-side table and a verdict for each kind of team.</p>
+  <div class="cards">{compare.map((c) => <a class="card" href={`/compare/${c.a}-vs-${c.b}/`}><span class="kicker">Winner: {by[c.winner].name}</span><h3>{by[c.a].name} vs {by[c.b].name}</h3><p>{c.summary}</p></a>)}</div></div>
+</Base>

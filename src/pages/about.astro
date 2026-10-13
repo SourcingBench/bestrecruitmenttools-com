@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE_NAME, AUTHOR_NAME, CONTACT_EMAIL, SITE_URL, publisher } from '../data/site';
+const schema = [{ '@context': 'https://schema.org', '@type': 'AboutPage', name: `About ${SITE_NAME}`, url: `${SITE_URL}/about/`, publisher }];
+---
+<Base title={`About ${SITE_NAME}: Who Ranks the Tools`} description="BestRecruitmentTools.com is an independent, editor-ranked guide to recruitment software, organised by use case. Who writes it, how it is funded, and how to reach the editors." path="/about/" schema={schema}>
+  <div class="wrap narrow prose">
+    <p class="crumbs"><a href="/">Home</a> › About</p>
+    <h1>About {SITE_NAME}</h1>
+    <p>{SITE_NAME} answers one question: which recruitment tool should a given team buy? We rank rather than list, we organise by hiring situation rather than by vendor category, and we explain every call so that readers can disagree with it intelligently.</p>
+    <h2 id="editors">The editorial board</h2>
+    <p>Rankings are set by the {AUTHOR_NAME}, a small group with backgrounds in in-house talent acquisition, agency recruiting and recruiting-software product work. Board members do not hold positions at the vendors they rate. Decisions on ratings and positions are made collectively and recorded with the reasoning shown on each page.</p>
+    <h2>Funding and independence</h2>
+    <p>The site is funded by its publisher as an editorial project. No vendor pays for placement, position or review, there are no affiliate links, and no lead forms are sold. The publisher has an ownership relationship with Noon, an AI sourcing agent rated on this site; that tool is held to the same criteria as every other and the relationship is disclosed here and on the <a href="/how-we-rank/">methodology page</a>.</p>
+    <h2>What we cover</h2>
+    <p>Applicant tracking systems, sourcing tools and AI sourcing agents, recruiting CRMs, job boards, skills assessments, interview scheduling, interview intelligence, background checks, conversational AI for volume hiring, staffing-agency software and global hiring platforms. We cover tools used by English-speaking teams in North America and Europe; coverage of other regions is limited.</p>
+    <h2>Contact</h2>
+    <p>Corrections, vendor updates and reader questions: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>, or use the <a href="/contact/">contact page</a>.</p>
+  </div>
+</Base>
