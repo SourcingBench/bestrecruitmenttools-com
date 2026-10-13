@@ -4,7 +4,7 @@ import { SITE_URL, SITE_NAME, TAGLINE, LAST_REVIEWED, fmtDate, YEAR } from '../d
 interface Props { title: string; description: string; path: string; schema?: any[]; type?: string; }
 const { title, description, path, schema = [], type = 'website' } = Astro.props;
 const canonical = `${SITE_URL}${path}`;
-const cur = (p: string) => (path === p || (p !== '/' && path.startsWith(p)) ? { 'aria-current': 'page' } : {});
+const cur = (p: string) => (path === p || (p !== '/' && path.startsWith(p)) ? { 'aria-current': 'page' as const } : {});
 const nav = [['/', 'Top 10'], ['/best-for/', 'Best for…'], ['/reviews/', 'Reviews'], ['/compare/', 'Compare'], ['/how-we-rank/', 'How we rank']];
 const badges = [
   ['https://superlaunchlist.com', 'https://superlaunchlist.com/badge.svg', 'Featured on SuperLaunch List'],
