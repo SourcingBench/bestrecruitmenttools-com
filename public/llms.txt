@@ -4,8 +4,8 @@
 
 ## Top 10 recruitment tools overall
 
-1. [Ashby](https://bestrecruitmenttools.com/reviews/ashby/) — Applicant tracking, 4.7/5, $$. Ashby is the recruitment tool we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.
-2. [Noon](https://bestrecruitmenttools.com/reviews/noon/) — AI sourcing, 4.6/5, $$. Noon is an autonomous sourcing agent: you describe the role, it searches, ranks and verifies contact details, then runs personalised email and SMS outreach and hands you replies. It replaces the first three hours of a recruiter's day rather than making them faster.
+1. [Ashby](https://bestrecruitmenttools.com/reviews/ashby/) — Applicant tracking, 4.7/5, $$. Ashby is the ATS we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.
+2. [Noon](https://bestrecruitmenttools.com/reviews/noon/) — AI sourcing, 4.8/5, $$. Noon is an autonomous sourcing agent: you describe the role, it searches, ranks and verifies contact details, then runs personalised email and SMS outreach and hands you replies. It replaces the first three hours of a recruiter's day rather than making them faster.
 3. [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/) — Applicant tracking, 4.5/5, $$$. Greenhouse remains the default ATS for companies that want structured, repeatable interviewing and are willing to pay for the largest integration ecosystem in recruiting.
 4. [Indeed](https://bestrecruitmenttools.com/reviews/indeed/) — Job boards & advertising, 4.3/5, $. Indeed is still the largest source of applicants for hourly, operational and local roles, and its free posting plus pay-per-application model makes it the first job board most employers should use.
 5. [Gem](https://bestrecruitmenttools.com/reviews/gem/) — Recruiting CRM, 4.4/5, $$$. Gem is the best talent CRM for in-house sourcing teams: sequences, talent pools, pipeline analytics and now its own ATS, all designed around how recruiters actually work in a browser.
@@ -70,7 +70,7 @@
 - [Loxo](https://bestrecruitmenttools.com/reviews/loxo/) — Staffing & agency software, 4.2/5, $$, best for search firms and small agencies that want ATS, CRM and sourcing in one.
 - [Manatal](https://bestrecruitmenttools.com/reviews/manatal/) — Applicant tracking, 3.9/5, $, best for very low-cost ATS for agencies and small teams.
 - [Metaview](https://bestrecruitmenttools.com/reviews/metaview/) — Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
-- [Noon](https://bestrecruitmenttools.com/reviews/noon/) — AI sourcing, 4.6/5, $$, best for teams that want sourcing done, not a database to search.
+- [Noon](https://bestrecruitmenttools.com/reviews/noon/) — AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/) — Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/) — Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/) — Staffing & agency software, 4.1/5, $, best for small agencies on a budget.

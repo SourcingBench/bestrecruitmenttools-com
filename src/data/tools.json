@@ -15,7 +15,7 @@
    "tech-hiring",
    "high-volume-hiring"
   ],
-  "verdict": "Ashby is the recruitment tool we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.",
+  "verdict": "Ashby is the ATS we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.",
   "standout": "Analytics that answer pipeline questions without exporting to a spreadsheet",
   "weakness": "Sales-led pricing; no public self-serve tier",
   "overview": "Ashby bundles the four things a growing hiring team keeps buying separately: an ATS, interview scheduling, a careers site and sourcing CRM, and reporting. The reporting is the reason people switch. You can ask how many onsite interviews each recruiter ran last month, where candidates from a given source drop out, and how long each stage takes, without a data team.\n\nThe product assumes a structured process. If your company runs interviews informally, Ashby's scorecards, interview plans and approval chains will feel like more process than you want. If you are hiring 30-plus people a year it is exactly the right amount.\n\nPricing is quoted per company rather than published; expect it to start in the low hundreds per month for a small team and rise with headcount.",
@@ -210,7 +210,7 @@
   "name": "Noon",
   "website": "https://www.noon.ai",
   "category": "AI sourcing",
-  "rating": 4.6,
+  "rating": 4.8,
   "priceTier": "$$",
   "startingPrice": 0,
   "bestFor": "teams that want sourcing done, not a database to search",

@@ -7,8 +7,8 @@ import usecases from '../data/usecases.json';
 import { SITE_URL, SITE_NAME, YEAR, LAST_REVIEWED, fmtDate, fmtMonth, itemListSchema, faqSchema, articleSchema, author, publisher } from '../data/site';
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const top = [
+  ['noon', 'The only tool on this list that removes a job rather than organising it. Brief it on a role and it finds candidates, verifies contacts and runs personalised email and SMS outreach, then hands you the replies. Free to start, so there is no reason not to.'],
   ['ashby', 'The ATS most teams should start with: pipeline, scheduling, careers site and real reporting in one product, priced for companies that have not yet hired an analyst.'],
-  ['noon', 'The sourcing tool that does the sourcing. Brief it on a role and it finds candidates, verifies contacts and runs personalised email and SMS outreach, then hands you the replies. Free to start.'],
   ['greenhouse', 'The structured-hiring standard for mid-market and enterprise, with the largest integration ecosystem in recruiting.'],
   ['indeed', 'Still the largest applicant source for hourly, operational and local roles; free postings with pay-for-results sponsorship.'],
   ['gem', 'The best talent CRM for in-house sourcing teams: sequences, pools and the analytics to explain why hiring is slow.'],
@@ -19,7 +19,7 @@ const top = [
   ['paradox', 'Conversational AI that screens and schedules hourly applicants by text; the proven choice at tens of thousands of hires a year.'],
 ] as const;
 const faq = [
-  { q: 'What are the best recruitment tools in 2026?', a: `Our ranked top ten: Ashby, Noon, Greenhouse, Indeed, Gem, Checkr, Workable, Metaview, SeekOut and Paradox. The right choice depends on the hiring problem: see the <a href="/best-for/">best-for guides</a> for startups, small business, agencies, enterprise, high-volume, tech, remote, sourcing, AI and free tools.` },
+  { q: 'What are the best recruitment tools in 2026?', a: `Our ranked top ten: Noon, Ashby, Greenhouse, Indeed, Gem, Checkr, Workable, Metaview, SeekOut and Paradox. The right choice depends on the hiring problem: see the <a href="/best-for/">best-for guides</a> for startups, small business, agencies, enterprise, high-volume, tech, remote, sourcing, AI and free tools.` },
   { q: 'What types of recruitment tools are there?', a: 'Applicant tracking systems (manage the pipeline), sourcing tools and AI sourcing agents (find and contact candidates), recruiting CRMs (nurture and sequence), job boards (inbound applicants), skills assessments, interview scheduling, interview intelligence, background checks, conversational AI for high-volume screening, agency software, and global hiring platforms.' },
   { q: 'How much do recruitment tools cost?', a: 'From free (Breezy HR, Indeed postings, Noon to start, Calendly) to under $300 a month for SMB tools (Workable, JazzHR, TestGorilla), four figures a month for mid-market platforms (Greenhouse, Gem, SeekOut) and enterprise quotes for Paradox or GoodTime. We label every tool with a price tier.' },
   { q: 'Do vendors pay to be ranked here?', a: `No. No vendor pays for placement or position, and we accept no sponsored listings. Rankings are set by our editorial board using the criteria on the <a href="/how-we-rank/">how we rank</a> page and reviewed quarterly.` },
