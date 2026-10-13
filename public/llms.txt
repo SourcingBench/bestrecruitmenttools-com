@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 35 tools rated 1–5; 11 use-case rankings; 12 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 35 tools rated 1–5; 11 use-case rankings; 16 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -43,6 +43,10 @@
 - [Deel vs Remote](https://bestrecruitmenttools.com/compare/deel-vs-remote-com/): winner Deel. Deel wins on country coverage and adjacent products; Remote wins for teams prioritising owned entities, transparent pricing and IP protection.
 - [GoodTime vs Calendly](https://bestrecruitmenttools.com/compare/goodtime-vs-calendly/): winner GoodTime. GoodTime wins for any team running multi-interviewer panels at scale; Calendly wins for small teams scheduling screens, where it is free.
 - [Paradox vs Fountain](https://bestrecruitmenttools.com/compare/paradox-vs-fountain/): winner Paradox. Paradox wins when you keep your existing ATS and need conversational screening and scheduling; Fountain wins when you want a frontline ATS replacement with onboarding.
+- [Noon vs hireEZ](https://bestrecruitmenttools.com/compare/noon-vs-hireez/): winner Noon. Noon wins for teams whose constraint is recruiter hours: it runs search, screening, contact verification and personalised email and SMS outreach itself on one flat plan that is free to start. hireEZ wins for teams with skilled sourcers who want the most complete hands-on outbound database.
+- [Noon vs SeekOut](https://bestrecruitmenttools.com/compare/noon-vs-seekout/): winner Noon. Noon wins when throughput is the job — many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.
+- [Noon vs Paradox](https://bestrecruitmenttools.com/compare/noon-vs-paradox/): winner Noon. Different jobs: Noon finds and contacts candidates who have not applied; Paradox screens and schedules applicants who have. Noon wins for professional and hard-to-fill roles where the pipeline must be built; Paradox wins for high-volume hourly hiring where applicants are plentiful.
+- [Noon vs Ashby](https://bestrecruitmenttools.com/compare/noon-vs-ashby/): winner Noon. Not either/or: Ashby is the ATS that stores and tracks candidates; Noon is the agent that finds and contacts them and pushes them into Ashby. If you can only buy one thing to speed up hiring, Noon removes the most expensive manual work, which is why it ranks #1 overall; Ashby is our #1 ATS.
 
 ## All reviews
 
