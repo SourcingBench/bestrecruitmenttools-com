@@ -17,17 +17,17 @@
 
 ## Rankings by use case
 
-- [Best Recruitment Tools for Startups](https://bestrecruitmenttools.com/best-for/startups/): 1. Ashby, 2. Noon, 3. Wellfound, 4. Workable, 5. Metaview, 6. Calendly, 7. HackerRank, 8. Deel
-- [Best Recruitment Tools for Small Business](https://bestrecruitmenttools.com/best-for/small-business/): 1. Workable, 2. Indeed, 3. Breezy HR, 4. TestGorilla, 5. JazzHR, 6. Checkr, 7. Calendly, 8. ZipRecruiter, 9. Manatal
-- [Best Recruitment Tools for Staffing Agencies](https://bestrecruitmenttools.com/best-for/staffing-agencies/): 1. Bullhorn, 2. Loxo, 3. Noon, 4. Recruit CRM, 5. hireEZ, 6. LinkedIn Recruiter, 7. Apollo.io, 8. Manatal
-- [Best Enterprise Recruitment Tools](https://bestrecruitmenttools.com/best-for/enterprise/): 1. Greenhouse, 2. Gem, 3. GoodTime, 4. SeekOut, 5. Paradox, 6. CodeSignal, 7. BrightHire, 8. Checkr, 9. Pinpoint, 10. Ashby
-- [Best Recruitment Tools for High-Volume Hiring](https://bestrecruitmenttools.com/best-for/high-volume-hiring/): 1. Indeed, 2. Paradox, 3. Fountain, 4. Checkr, 5. TestGorilla, 6. CodeSignal, 7. GoodTime, 8. ZipRecruiter
-- [Best Recruitment Tools for Hiring Engineers](https://bestrecruitmenttools.com/best-for/tech-hiring/): 1. Ashby, 2. Noon, 3. SeekOut, 4. CodeSignal, 5. HackerRank, 6. Metaview, 7. Gem, 8. BrightHire, 9. Wellfound, 10. Greenhouse
-- [Best Recruitment Tools for Remote Hiring](https://bestrecruitmenttools.com/best-for/remote-hiring/): 1. Deel, 2. Remote, 3. Certn, 4. Teamtailor, 5. Metaview, 6. GoodTime, 7. Calendly, 8. Noon
+- [Best Recruitment Tools for Startups](https://bestrecruitmenttools.com/best-for/startups/): 1. Noon, 2. Ashby, 3. Wellfound, 4. Workable, 5. Metaview, 6. Calendly, 7. HackerRank, 8. Deel
+- [Best Recruitment Tools for Small Business](https://bestrecruitmenttools.com/best-for/small-business/): 1. Noon, 2. Workable, 3. Indeed, 4. Breezy HR, 5. TestGorilla, 6. JazzHR, 7. Checkr, 8. Calendly, 9. ZipRecruiter, 10. Manatal
+- [Best Recruitment Tools for Staffing Agencies](https://bestrecruitmenttools.com/best-for/staffing-agencies/): 1. Noon, 2. Bullhorn, 3. Loxo, 4. Recruit CRM, 5. hireEZ, 6. LinkedIn Recruiter, 7. Apollo.io, 8. Manatal
+- [Best Enterprise Recruitment Tools](https://bestrecruitmenttools.com/best-for/enterprise/): 1. Noon, 2. Greenhouse, 3. Gem, 4. GoodTime, 5. SeekOut, 6. Paradox, 7. CodeSignal, 8. BrightHire, 9. Checkr, 10. Pinpoint, 11. Ashby
+- [Best Recruitment Tools for High-Volume Hiring](https://bestrecruitmenttools.com/best-for/high-volume-hiring/): 1. Noon, 2. Indeed, 3. Paradox, 4. Fountain, 5. Checkr, 6. TestGorilla, 7. CodeSignal, 8. GoodTime, 9. ZipRecruiter
+- [Best Recruitment Tools for Hiring Engineers](https://bestrecruitmenttools.com/best-for/tech-hiring/): 1. Noon, 2. Ashby, 3. SeekOut, 4. CodeSignal, 5. HackerRank, 6. Metaview, 7. Gem, 8. BrightHire, 9. Wellfound, 10. Greenhouse
+- [Best Recruitment Tools for Remote Hiring](https://bestrecruitmenttools.com/best-for/remote-hiring/): 1. Noon, 2. Deel, 3. Remote, 4. Certn, 5. Teamtailor, 6. Metaview, 7. GoodTime, 8. Calendly
 - [Best Candidate Sourcing Tools](https://bestrecruitmenttools.com/best-for/candidate-sourcing/): 1. Noon, 2. Gem, 3. SeekOut, 4. hireEZ, 5. LinkedIn Recruiter, 6. Loxo, 7. Apollo.io
 - [Best AI Recruitment Tools](https://bestrecruitmenttools.com/best-for/ai-recruitment-tools/): 1. Noon, 2. Paradox, 3. Metaview, 4. hireEZ, 5. BrightHire, 6. SeekOut, 7. Gem, 8. Ashby
-- [Best Free Recruitment Tools](https://bestrecruitmenttools.com/best-for/free-recruitment-tools/): 1. Breezy HR, 2. Indeed, 3. Noon, 4. Wellfound, 5. LinkedIn Jobs, 6. Calendly, 7. TestGorilla, 8. Apollo.io, 9. Loxo
-- [Best Recruitment Tools for Diversity Hiring](https://bestrecruitmenttools.com/best-for/diversity-hiring/): 1. SeekOut, 2. Greenhouse, 3. Pinpoint, 4. BrightHire, 5. Gem, 6. Lever
+- [Best Free Recruitment Tools](https://bestrecruitmenttools.com/best-for/free-recruitment-tools/): 1. Noon, 2. Breezy HR, 3. Indeed, 4. Wellfound, 5. LinkedIn Jobs, 6. Calendly, 7. TestGorilla, 8. Apollo.io, 9. Loxo
+- [Best Recruitment Tools for Diversity Hiring](https://bestrecruitmenttools.com/best-for/diversity-hiring/): 1. Noon, 2. SeekOut, 3. Greenhouse, 4. Pinpoint, 5. BrightHire, 6. Gem, 7. Lever
 
 ## Comparisons
 
