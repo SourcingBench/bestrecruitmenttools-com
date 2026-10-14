@@ -413,7 +413,7 @@
   "ranked": [
    {
     "slug": "noon",
-    "why": "The only tool here that runs the whole loop: search, ranking, contact verification and personalised email and SMS outreach, with replies delivered to you. Free to start, unlimited seats."
+    "why": "The only tool here that runs the whole loop: search, ranking, contact verification and personalised email and SMS outreach, with replies delivered to you. One team plan with unlimited seats."
    },
    {
     "slug": "gem",
@@ -604,6 +604,150 @@
    {
     "q": "What is the single most effective tool for fairer hiring?",
     "a": "A structured interview process enforced by your ATS, with the same questions and scorecards for every candidate. Software that records and summarises interviews helps teams actually follow it."
+   }
+  ]
+ },
+ {
+  "slug": "passive-candidates",
+  "title": "Best Tools to Find and Reach Passive Candidates",
+  "short": "Passive candidates",
+  "h1": "The best tools for finding and reaching passive candidates in 2026",
+  "description": "Ranked tools for passive candidate recruiting: who finds people who are not applying, who gets their contact details right, and who actually gets a reply over email and SMS.",
+  "intro": "Passive candidates are the people who are not applying anywhere, so a job post never reaches them. Reaching them is three separate problems: finding the right people beyond the profiles everyone else searches, getting a working email or phone number, and writing a message they answer. Most tools solve one of the three. We ranked on replies per recruiter hour, because a 500-person list nobody answers is worth less than 40 conversations, and we penalised tools whose only channel is a message cap you pay to raise.",
+  "ranked": [
+   {
+    "slug": "noon",
+    "why": "Covers all three problems in one loop: searches public and licensed data beyond LinkedIn, verifies emails and phone numbers, then writes and sends personalised email and SMS sequences and returns the replies. The recruiter approves the shortlist and the messages rather than building them."
+   },
+   {
+    "slug": "seekout",
+    "why": "The widest passive-talent index for technical, clinical and under-represented candidates, with GitHub and publication signals LinkedIn does not show. You still do the outreach."
+   },
+   {
+    "slug": "hireez",
+    "why": "Strong AI search across 800 million profiles with built-in contact finding and sequences; best when a sourcer wants to run outreach from one screen."
+   },
+   {
+    "slug": "gem",
+    "why": "The best CRM for nurturing passive candidates over months: multi-step sequences, re-engagement of silver medallists, and analytics on every touch. Needs a sourcing database or LinkedIn seat in front of it."
+   },
+   {
+    "slug": "linkedin-recruiter",
+    "why": "The largest profile index and in-network InMail delivery, but every message counts against a monthly cap and response rates keep falling. Pair it with an email tool rather than relying on it alone."
+   },
+   {
+    "slug": "apollo",
+    "why": "Cheap verified work emails and sequences built for sales; works well for passive outreach to commercial roles once you have a list from elsewhere."
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is a passive candidate?",
+    "a": "Someone who is employed and not actively looking, so they will never see a job post. Around seven in ten professionals describe themselves this way in most surveys, which is why outbound sourcing exists."
+   },
+   {
+    "q": "Why do passive candidates ignore LinkedIn InMail?",
+    "a": "Senior and technical people receive many InMails a week, most of them templated. Response rates have fallen for years. A short, specific message to a verified personal or work email, followed by a text, is answered more often because far fewer recruiters send one."
+   },
+   {
+    "q": "Do I need a sourcing database and an outreach tool?",
+    "a": "If you buy a database (SeekOut, hireEZ, LinkedIn Recruiter) you also need somewhere to run and track outreach, which is why Gem and Apollo appear here. An agent like Noon collapses the two into one tool, at the cost of less control over the raw search."
+   }
+  ]
+ },
+ {
+  "slug": "linkedin-recruiter-alternatives",
+  "title": "Best LinkedIn Recruiter Alternatives",
+  "short": "LinkedIn Recruiter alternatives",
+  "h1": "The best LinkedIn Recruiter alternatives in 2026",
+  "description": "Ranked alternatives to LinkedIn Recruiter: which tools replace its search, which replace InMail, what each costs against a roughly $10,000-a-year seat, and which jobs nothing replaces.",
+  "intro": "Teams leave LinkedIn Recruiter for two reasons: a seat costs around $10,000 a year and must be bought per recruiter, and InMail is capped per month with falling response rates. No single product replaces everything it does. We ranked tools on how much of the Recruiter workflow they cover (search, contact data, outreach, pipeline), what they cost for a team of three rather than one seat, and whether their outreach runs on channels without a message cap. A tool that only replaces the search still leaves you buying outreach.",
+  "ranked": [
+   {
+    "slug": "noon",
+    "why": "Replaces the search and the outreach at once: an agent searches beyond LinkedIn, verifies contacts and runs email and SMS sequences, and is priced as one team plan with unlimited seats, so a three-recruiter team is not paying three times. It does not give you a database to browse."
+   },
+   {
+    "slug": "hireez",
+    "why": "The closest like-for-like replacement for Recruiter's search, with a larger cross-platform index, contact finding and sequences, and a lower per-seat price."
+   },
+   {
+    "slug": "seekout",
+    "why": "Better than Recruiter for technical and diverse talent pools and for candidates who are thin on LinkedIn; per-seat pricing, so the saving shrinks for larger teams."
+   },
+   {
+    "slug": "gem",
+    "why": "Replaces Recruiter's pipeline and projects features with a proper CRM and far better analytics, and runs email sequences; it needs a search source in front of it, which can still be one LinkedIn seat."
+   },
+   {
+    "slug": "apollo",
+    "why": "A cheap way to replace InMail with verified email for commercial, sales and marketing roles; the candidate search is weaker than any recruiting-specific tool."
+   },
+   {
+    "slug": "wellfound",
+    "why": "For startup roles, a free-to-post board with a talent search where candidates have opted in to being contacted, which Recruiter cannot offer."
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much does LinkedIn Recruiter cost?",
+    "a": "LinkedIn does not publish a list price. Buyers report roughly $10,000 per seat per year for the corporate product, with a limited InMail allowance per month. Recruiter Lite is cheaper but caps searches and InMails much harder."
+   },
+   {
+    "q": "Can anything fully replace LinkedIn Recruiter?",
+    "a": "Not for every role. Recruiter still wins when the only signal about a candidate is their current employer and title, which it reports more accurately than any external index. Most teams keep one seat for that and move volume sourcing and outreach to the tools above."
+   },
+   {
+    "q": "Which alternative avoids per-seat pricing?",
+    "a": "Of the tools here, only Noon prices by team with unlimited seats; the others charge per recruiter. That matters when hiring managers or coordinators also need access."
+   }
+  ]
+ },
+ {
+  "slug": "ai-interview-tools",
+  "title": "Best AI Interview Tools",
+  "short": "AI interview tools",
+  "h1": "The best AI interview tools in 2026",
+  "description": "Ranked AI interview tools: AI interviewers that run first-round screens, interview intelligence that records and summarises, and schedulers that remove the calendar work, with where each fits.",
+  "intro": "'AI interview tool' covers three different jobs. AI interviewers conduct a first-round screening conversation themselves, by voice or chat, and hand the team a transcript and a recommendation. Interview intelligence tools sit in human interviews, record, transcribe and summarise so nobody types notes. Schedulers do none of the interviewing but remove the booking back-and-forth that loses candidates between stages. We ranked on the quality of what the recruiter receives afterwards (a usable summary or a defensible recommendation), on candidate experience, and on how the tool integrates with the ATS, and we flag which job each one does so you do not buy a notetaker expecting a screener.",
+  "ranked": [
+   {
+    "slug": "metaview",
+    "why": "The strongest interview intelligence tool: joins the call, produces structured notes mapped to your scorecard, and writes back to the ATS. It does not interview anyone itself."
+   },
+   {
+    "slug": "paradox",
+    "why": "The leading conversational AI for high-volume hourly hiring: screens applicants by chat, schedules them and answers their questions, best for retail, logistics and healthcare volume."
+   },
+   {
+    "slug": "brighthire",
+    "why": "Interview intelligence with the best coaching layer: records and summarises, then shows interviewers where their questions drift from the plan. Enterprise-leaning and quote-based."
+   },
+   {
+    "slug": "noon",
+    "why": "The only tool here that bundles an AI interviewer and a notetaker with sourcing. Candidates get an email link and complete a voice screen on role-specific questions whenever they are ready; the team receives a transcript, structured analysis and a next-round recommendation. The notetaker joins live interviews and tracks whether planned questions were covered. Best if you also want the sourcing; the interview tools are not sold on their own."
+   },
+   {
+    "slug": "goodtime",
+    "why": "The best dedicated interview scheduler for panel loops and interviewer load balancing. No AI interviewing or notes; pair it with one of the tools above."
+   },
+   {
+    "slug": "calendly",
+    "why": "Cheap self-scheduling for teams running fewer than 20 interviews a week; falls over on multi-interviewer panels."
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the difference between an AI interviewer and an interview notetaker?",
+    "a": "An AI interviewer talks to the candidate itself, usually in a first-round screen, and produces a transcript and recommendation. A notetaker, or interview intelligence tool, listens to a human interview and writes the notes. Metaview and BrightHire are notetakers; Noon's AI Interviewer and Paradox's chat screening are interviewers."
+   },
+   {
+    "q": "Do candidates accept being interviewed by AI?",
+    "a": "For a short, clearly labelled first-round screen that they can take at a time of their choosing, completion rates are generally good, and candidates often prefer it to waiting a week for a phone slot. Using AI for final-round or decision interviews is a different matter and most teams do not."
+   },
+   {
+    "q": "Are AI interview tools regulated?",
+    "a": "In some places. New York City's Local Law 144 requires bias audits and notice for automated employment decision tools, Illinois regulates AI analysis of video interviews, and the EU AI Act classes recruitment AI as high-risk. Check what each vendor publishes on audits before using scores to reject anyone."
    }
   ]
  }
