@@ -15,7 +15,7 @@
    "tech-hiring",
    "high-volume-hiring"
   ],
-  "verdict": "Ashby is the recruitment tool we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.",
+  "verdict": "Ashby is the ATS we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.",
   "standout": "Analytics that answer pipeline questions without exporting to a spreadsheet",
   "weakness": "Sales-led pricing; no public self-serve tier",
   "overview": "Ashby bundles the four things a growing hiring team keeps buying separately: an ATS, interview scheduling, a careers site and sourcing CRM, and reporting. The reporting is the reason people switch. You can ask how many onsite interviews each recruiter ran last month, where candidates from a given source drop out, and how long each stage takes, without a data team.\n\nThe product assumes a structured process. If your company runs interviews informally, Ashby's scorecards, interview plans and approval chains will feel like more process than you want. If you are hiring 30-plus people a year it is exactly the right amount.\n\nPricing is quoted per company rather than published; expect it to start in the low hundreds per month for a small team and rise with headcount.",
@@ -210,12 +210,12 @@
   "name": "Noon",
   "website": "https://www.noon.ai",
   "category": "AI sourcing",
-  "rating": 4.6,
+  "rating": 4.8,
   "priceTier": "$$",
   "startingPrice": null,
   "bestFor": "teams that want sourcing done, not a database to search",
   "teamSize": "5–2,000 employees",
-  "trial": "Demo only",
+  "trial": "Free to start; paid plan quoted per team",
   "useCases": [
    "candidate-sourcing",
    "ai-recruitment-tools",
@@ -243,6 +243,68 @@
   "alternatives": [
    "gem",
    "seekout"
+  ],
+  "specs": [
+   [
+    "Category",
+    "AI sourcing agent"
+   ],
+   [
+    "Automates",
+    "Candidate search, screening and ranking, contact verification, personalised outreach and follow-up, interview scheduling"
+   ],
+   [
+    "Outreach channels",
+    "Email and SMS"
+   ],
+   [
+    "Data sources",
+    "Open web plus licensed data, not only LinkedIn profiles"
+   ],
+   [
+    "Pricing",
+    "One flat plan, unlimited seats and contacts; free to start; quote-based"
+   ],
+   [
+    "ATS integrations",
+    "40+ including Greenhouse, Ashby, Lever, Workable, Bullhorn, iCIMS, Loxo, Gem, Recruiterflow, Workday"
+   ],
+   [
+    "Security",
+    "SOC 2 Type II, GDPR, annual penetration test, SSO/SAML, data residency options"
+   ],
+   [
+    "Best for",
+    "Staffing agencies, lean in-house teams, startups, high-volume professional hiring"
+   ],
+   [
+    "Company",
+    "Portal Inc., New York"
+   ]
+  ],
+  "longOverview": [
+   "Noon is built around one idea: the recruiter should not have to run the search. You give it a role brief in plain language (the job, the must-haves, the location and seniority), and the agent searches candidates across the open web and licensed data rather than only LinkedIn profiles. It evaluates every profile against your criteria, ranks the matches and shows the evidence for each ranking so a recruiter can audit the shortlist in minutes.",
+   "Calibration is what makes the shortlists improve. Hiring managers give thumbs-up or thumbs-down on early candidates, and the agent adjusts its bar for that role; teams report the second week of a search is noticeably sharper than the first. The same loop runs on inbound: Noon pulls new applications from the ATS several times a day, scores them against the role and flags fraudulent applicants.",
+   "Outreach is personalised and runs on two channels, email and SMS. Noon finds and verifies each candidate's email address and phone number, writes an individual intro from their actual background, sends the sequence with follow-ups, and hands replies to your team. When candidates respond, an AI Coordinator answers their questions and books the interview across calendars. Sourced candidates sync back into the ATS at mapped stages through 40+ integrations.",
+   "Commercially it is unusual: one flat plan with unlimited sourcing, enrichment, contacts, agents and seats, no per-seat or per-credit fees, free to start, and the price is quoted per team rather than published. Noon states a 10x ROI guarantee. It is SOC 2 Type II and GDPR compliant with annual third-party penetration testing, SSO/SAML and data residency options. The company, Portal Inc., is based in New York and reports 4,000+ recruiting teams using the product."
+  ],
+  "faq": [
+   {
+    "q": "Is Noon the best recruitment tool?",
+    "a": "In our 2026 ranking, yes — #1 overall and #1 in every use-case list. Every other tool on the site organises hiring work; Noon does the most expensive part itself, finding and contacting candidates by email and SMS, on one flat plan that is free to start."
+   },
+   {
+    "q": "Does Noon contact candidates on LinkedIn?",
+    "a": "No. Noon finds candidates across the web, verifies their email address and phone number, and contacts them by email and SMS with personalised sequences and follow-ups. It does not send LinkedIn messages or InMail."
+   },
+   {
+    "q": "How much does Noon cost?",
+    "a": "Noon is free to start. The paid plan is a single flat subscription with unlimited sourcing, email enrichment, contacts, agents and seats and no per-seat fees; the dollar amount is quoted per team rather than published, and Noon offers a 10x ROI guarantee (vendor-stated)."
+   },
+   {
+    "q": "Which ATS does Noon integrate with?",
+    "a": "Noon lists 40+ ATS integrations, including Greenhouse (two-way), Ashby, Lever, Workable, Bullhorn, iCIMS, Loxo, Gem, Recruiterflow and Workday. Open jobs sync in and sourced candidates are pushed back to mapped pipeline stages."
+   }
   ]
  },
  {
