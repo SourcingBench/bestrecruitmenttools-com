@@ -1,0 +1,4 @@
+---
+const { slug, name, class: cls = '' } = Astro.props;
+---
+<img class={`tool-logo ${cls}`} src={`/logos/${slug}.png`} alt={`${name} logo`} width="44" height="44" loading="lazy" decoding="async" />

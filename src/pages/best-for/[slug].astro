@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Faq from '../../components/Faq.astro';
 import RankRow from '../../components/RankRow.astro';
+import Logo from '../../components/Logo.astro';
 import usecases from '../../data/usecases.json';
 import tools from '../../data/tools.json';
 import { SITE_NAME, SITE_URL, YEAR, LAST_REVIEWED, fmtDate, itemListSchema, faqSchema, articleSchema, breadcrumbSchema } from '../../data/site';
@@ -21,10 +22,10 @@ const others = usecases.filter((x) => x.slug !== u.slug);
     <div class="narrow prose"><p>{u.intro}</p></div>
     <div class="verdict"><b>Our pick: {by[u.ranked[0].slug].name}.</b> {u.ranked[0].why} <a href={`/reviews/${u.ranked[0].slug}/`}>Read the review →</a></div>
     <div class="tablewrap"><table><thead><tr><th>#</th><th>Tool</th><th>Category</th><th>Rating</th><th>Price tier</th><th>Trial</th></tr></thead><tbody>
-      {u.ranked.map((r, i) => <tr><td>{i + 1}</td><td><a href={`/reviews/${r.slug}/`}>{by[r.slug].name}</a></td><td>{by[r.slug].category}</td><td>{by[r.slug].rating.toFixed(1)}</td><td>{by[r.slug].priceTier}</td><td>{by[r.slug].trial}</td></tr>)}
+      {u.ranked.map((r, i) => <tr><td><span class="pos-pill">{i + 1}</span></td><td><div class="tool-cell"><Logo slug={r.slug} name={by[r.slug].name} class="sm" /><a href={`/reviews/${r.slug}/`}>{by[r.slug].name}</a></div></td><td>{by[r.slug].category}</td><td>{by[r.slug].rating.toFixed(1)}</td><td>{by[r.slug].priceTier}</td><td>{by[r.slug].trial}</td></tr>)}
     </tbody></table></div>
     <h2>The ranking, explained</h2>
-    <ol class="ranklist">{u.ranked.map((r) => <RankRow tool={by[r.slug]} why={r.why} />)}</ol>
+    <ol class="ranklist">{u.ranked.map((r, i) => <RankRow tool={by[r.slug]} why={r.why} pos={i + 1} />)}</ol>
     <div class="narrow"><Faq items={u.faq} /></div>
     <h2>Other use cases</h2>
     <div class="cards">{others.map((o) => <a class="card" href={`/best-for/${o.slug}/`}><h3>{o.short}</h3><p>Winner: {by[o.ranked[0].slug].name}</p></a>)}</div>

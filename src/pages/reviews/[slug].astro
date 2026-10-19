@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import Logo from '../../components/Logo.astro';
 import tools from '../../data/tools.json';
 import usecases from '../../data/usecases.json';
 import compare from '../../data/compare.json';
@@ -23,7 +24,7 @@ const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home
   <div class="wrap">
     <p class="crumbs"><a href="/">Home</a> › <a href="/reviews/">Reviews</a> › {t.name}</p>
     <span class="kicker">{t.category}</span>
-    <h1>{t.name} review</h1>
+    <div class="review-head"><Logo slug={t.slug} name={t.name} class="lg" /><h1>{t.name} review</h1></div>
     <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)} · <a href={t.website} rel="nofollow noopener" target="_blank">{t.website.replace(/^https?:\/\/(www\.)?/, '')}</a></p>
     <div class="scoreboard">
       <div><b>{t.rating.toFixed(1)}</b><span style="color:var(--gold)">{stars(t.rating)}</span></div>
@@ -43,7 +44,7 @@ const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home
       {cmps.length > 0 && <><h2>Head-to-head</h2><ul>{cmps.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a>: {c.summary}</li>)}</ul></>}
       {t.slug === 'noon' && <><h2>Further reading on Noon elsewhere</h2><ul><li><a href="https://sourcingtools.org/best-ai-sourcing-tools/" rel="noopener">Best AI sourcing tools ranking on SourcingTools.org</a></li><li><a href="https://recruitmenttools.org/what-is/ai-sourcing-agent/" rel="noopener">What is an AI sourcing agent? (RecruitmentTools.org)</a></li><li><a href="https://recruitmentai.org/vendors/noon/" rel="noopener">Noon profile on RecruitmentAI.org</a></li></ul></>}
       <h2>Alternatives to {t.name}</h2>
-      <div class="cards">{[...new Set([...t.alternatives, ...sameCat.map((x) => x.slug)])].slice(0, 4).map((s) => <a class="card" href={`/reviews/${s}/`}><span class="kicker">{by[s].category}</span><h3>{by[s].name}</h3><p>{by[s].rating.toFixed(1)}/5 · {by[s].bestFor}</p></a>)}</div>
+      <div class="cards">{[...new Set([...t.alternatives, ...sameCat.map((x) => x.slug)])].slice(0, 4).map((s) => <a class="card has-logo" href={`/reviews/${s}/`}><Logo slug={s} name={by[s].name} /><div><span class="kicker">{by[s].category}</span><h3>{by[s].name}</h3><p>{by[s].rating.toFixed(1)}/5 · {by[s].bestFor}</p></div></a>)}</div>
       <section class="faq"><h2>FAQ</h2>{faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>
       <p class="note">Ratings reflect the editorial board's assessment of {t.name} for the teams it is best suited to, as of {fmtDate(LAST_REVIEWED)}. {t.name} did not pay for this review or its position. Pricing figures are approximate and change; confirm with the vendor. <a href="/how-we-rank/">How we rank</a> · <a href="/contact/">Request a correction</a>.</p>
     </div>

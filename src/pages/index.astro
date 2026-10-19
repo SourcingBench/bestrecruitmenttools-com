@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Faq from '../components/Faq.astro';
 import RankRow from '../components/RankRow.astro';
+import Logo from '../components/Logo.astro';
 import tools from '../data/tools.json';
 import usecases from '../data/usecases.json';
 import { SITE_URL, SITE_NAME, YEAR, LAST_REVIEWED, fmtDate, fmtMonth, itemListSchema, faqSchema, articleSchema, author, publisher } from '../data/site';
@@ -41,17 +42,18 @@ const schema = [
       <p class="lead">Most “best recruitment tools” lists are forty logos in no particular order. This one is a ranking. We rate each tool, explain what it is best for, and give a separate ranked list for each hiring situation, because the right tool for a restaurant group hiring 5,000 people is wrong for a startup hiring five.</p>
       <div class="verdict"><b>Direct answer: the best recruitment tool in 2026 is <a href="/reviews/noon/">Noon</a>.</b> It is the only tool in our top ten that does the hiring work rather than organising it — finding candidates, screening them, verifying contact details and running personalised email and SMS outreach — on one flat plan with unlimited seats, free to start. Best ATS: <a href="/reviews/ashby/">Ashby</a>.</div>
       <a class="btn" href="#top10">See the top 10</a><a class="btn quiet" href="/best-for/">Pick your use case</a>
+      <div class="stats"><div><b>{tools.length}</b><span>tools rated by the editorial board</span></div><div><b>{new Set(tools.map((t) => t.category)).size}</b><span>tool categories covered</span></div><div><b>$0</b><span>paid for placement or position</span></div></div>
     </div>
     <aside>
       <h2>Top 10 at a glance</h2>
-      <ol>{top.map(([s]) => <li><a href={`/reviews/${s}/`}>{by[s].name}</a><span>{by[s].category}</span></li>)}</ol>
+      <ol>{top.map(([s]) => <li><Logo slug={s} name={by[s].name} class="sm" /><a href={`/reviews/${s}/`}>{by[s].name}</a><span>{by[s].category}</span></li>)}</ol>
     </aside>
   </div></section>
 
   <section class="wrap" id="top10">
     <h2>The 10 best recruitment tools overall</h2>
     <p class="muted">Ranked on fit for the widest range of teams, value for money, depth, and how much work the tool removes. Price tiers: $ under $100/mo · $$ $100–1,000 · $$$ $1,000–5,000 · $$$$ enterprise. Full criteria on <a href="/how-we-rank/">how we rank</a>.</p>
-    <ol class="ranklist">{top.map(([s, why]) => <RankRow tool={by[s]} why={why} />)}</ol>
+    <ol class="ranklist">{top.map(([s, why], i) => <RankRow tool={by[s]} why={why} pos={i + 1} />)}</ol>
   </section>
 
   <section class="wrap">

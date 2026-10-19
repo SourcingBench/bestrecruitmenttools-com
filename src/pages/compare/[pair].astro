@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import Logo from '../../components/Logo.astro';
 import compare from '../../data/compare.json';
 import tools from '../../data/tools.json';
 import { SITE_NAME, YEAR, LAST_REVIEWED, fmtDate, stars, PRICE_LABEL, articleSchema, breadcrumbSchema, faqSchema } from '../../data/site';
@@ -23,7 +24,7 @@ const schema = [articleSchema({ headline: `${title}: which recruitment tool is b
     <h1>{A.name} vs {B.name}: which should you buy?</h1>
     <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)}</p>
     <div class="verdict"><b>Winner for most teams: {W.name}.</b> {c.summary}</div>
-    <div class="tablewrap"><table><thead><tr><th></th><th><a href={`/reviews/${A.slug}/`}>{A.name}</a></th><th><a href={`/reviews/${B.slug}/`}>{B.name}</a></th></tr></thead><tbody>
+    <div class="tablewrap"><table><thead><tr><th></th><th><div class="tool-cell"><Logo slug={A.slug} name={A.name} class="sm" /><a href={`/reviews/${A.slug}/`}>{A.name}</a></div></th><th><div class="tool-cell"><Logo slug={B.slug} name={B.name} class="sm" /><a href={`/reviews/${B.slug}/`}>{B.name}</a></div></th></tr></thead><tbody>
       <tr><td>Our rating</td><td><span style="color:var(--gold)">{stars(A.rating)}</span> {A.rating.toFixed(1)}</td><td><span style="color:var(--gold)">{stars(B.rating)}</span> {B.rating.toFixed(1)}</td></tr>
       <tr><td>Category</td><td>{A.category}</td><td>{B.category}</td></tr>
       <tr><td>Price tier</td><td>{A.priceTier} · {PRICE_LABEL[A.priceTier]}</td><td>{B.priceTier} · {PRICE_LABEL[B.priceTier]}</td></tr>
