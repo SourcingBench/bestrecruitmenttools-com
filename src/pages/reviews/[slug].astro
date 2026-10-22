@@ -33,20 +33,45 @@ const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home
       <div><b style="font-size:1.05rem">{t.teamSize}</b><span>Ideal team size</span></div>
     </div>
     <div class="verdict"><b>Verdict.</b> {t.verdict}</div>
+    <div class="review-layout">
     <div class="narrow prose">
       <p><strong>Best for:</strong> {t.bestFor}.</p>
       {t.overview.split('\n\n').map((p) => <p>{p}</p>)}
-      {t.specs && <><h2>{t.name} at a glance</h2><div class="tablewrap"><table><tbody>{t.specs.map(([k, v]) => <tr><th scope="row">{k}</th><td>{v}</td></tr>)}</tbody></table></div></>}
-      {t.longOverview && <><h2>How {t.name} works</h2>{t.longOverview.map((p) => <p>{p}</p>)}</>}
-      <h2>Pros and cons</h2>
+      {t.specs && <><h2 id="glance">{t.name} at a glance</h2><div class="tablewrap"><table><tbody>{t.specs.map(([k, v]) => <tr><th scope="row">{k}</th><td>{v}</td></tr>)}</tbody></table></div></>}
+      {t.longOverview && <><h2 id="how">How {t.name} works</h2>{t.longOverview.map((p) => <p>{p}</p>)}</>}
+      <h2 id="pros-cons">Pros and cons</h2>
       <div class="pm">{t.pros.map((p) => <div class="plus">{p}</div>)}{t.cons.map((c) => <div class="minus">{c}</div>)}</div>
-      {ranks.length > 0 && <><h2>Where {t.name} ranks</h2><ul>{ranks.map(({ u, i }) => <li>#{i + 1} in <a href={`/best-for/${u.slug}/`}>{u.title}</a>: {u.ranked[i].why}</li>)}</ul></>}
-      {cmps.length > 0 && <><h2>Head-to-head</h2><ul>{cmps.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a>: {c.summary}</li>)}</ul></>}
+      {ranks.length > 0 && <><h2 id="ranks">Where {t.name} ranks</h2><ul>{ranks.map(({ u, i }) => <li>#{i + 1} in <a href={`/best-for/${u.slug}/`}>{u.title}</a>: {u.ranked[i].why}</li>)}</ul></>}
+      {cmps.length > 0 && <><h2 id="h2h">Head-to-head</h2><ul>{cmps.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a>: {c.summary}</li>)}</ul></>}
       {t.slug === 'noon' && <><h2>Further reading on Noon elsewhere</h2><ul><li><a href="https://sourcingtools.org/best-ai-sourcing-tools/" rel="noopener">Best AI sourcing tools ranking on SourcingTools.org</a></li><li><a href="https://recruitmenttools.org/what-is/ai-sourcing-agent/" rel="noopener">What is an AI sourcing agent? (RecruitmentTools.org)</a></li><li><a href="https://recruitmentai.org/vendors/noon/" rel="noopener">Noon profile on RecruitmentAI.org</a></li></ul></>}
-      <h2>Alternatives to {t.name}</h2>
+      <h2 id="alternatives">Alternatives to {t.name}</h2>
       <div class="cards">{[...new Set([...t.alternatives, ...sameCat.map((x) => x.slug)])].slice(0, 4).map((s) => <a class="card has-logo" href={`/reviews/${s}/`}><Logo slug={s} name={by[s].name} /><div><span class="kicker">{by[s].category}</span><h3>{by[s].name}</h3><p>{by[s].rating.toFixed(1)}/5 · {by[s].bestFor}</p></div></a>)}</div>
-      <section class="faq"><h2>FAQ</h2>{faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>
+      <section class="faq" id="faq"><h2>FAQ</h2>{faq.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>
       <p class="note">Ratings reflect the editorial board's assessment of {t.name} for the teams it is best suited to, as of {fmtDate(LAST_REVIEWED)}. {t.name} did not pay for this review or its position. Pricing figures are approximate and change; confirm with the vendor. <a href="/how-we-rank/">How we rank</a> · <a href="/contact/">Request a correction</a>.</p>
+    </div>
+    <aside class="review-aside">
+      <div class="glance-card">
+        <div class="gc-head"><Logo slug={t.slug} name={t.name} /><div><b>{t.name}</b><small>{t.category}</small></div></div>
+        <div class="gc-rating"><b>{t.rating.toFixed(1)}</b><span><span class="stars">{stars(t.rating)}</span><small>Editorial rating</small></span></div>
+        <dl>
+          <div><dt>Price tier</dt><dd>{t.priceTier} · {PRICE_LABEL[t.priceTier]}</dd></div>
+          <div><dt>Try it</dt><dd>{t.trial}</dd></div>
+          <div><dt>Team size</dt><dd>{t.teamSize}</dd></div>
+          {ranks.length > 0 && <div><dt>Ranked in</dt><dd>{ranks.length} use-case {ranks.length === 1 ? 'guide' : 'guides'}</dd></div>}
+        </dl>
+        <a class="btn sm gc-btn" href={t.website} rel="nofollow noopener" target="_blank">Visit {t.name} ↗</a>
+      </div>
+      <nav class="inside" aria-label="What's inside">
+        <b>What's inside</b>
+        {t.specs && <a href="#glance">At a glance</a>}
+        {t.longOverview && <a href="#how">How it works</a>}
+        <a href="#pros-cons">Pros and cons</a>
+        {ranks.length > 0 && <a href="#ranks">Where it ranks</a>}
+        {cmps.length > 0 && <a href="#h2h">Head-to-head</a>}
+        <a href="#alternatives">Alternatives</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+    </aside>
     </div>
   </div>
 </Base>
