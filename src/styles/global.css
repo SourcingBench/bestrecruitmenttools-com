@@ -65,7 +65,7 @@ nav.main a[aria-current] { background: var(--coral-soft); color: var(--coral-dar
 .hero aside li a:hover { color: var(--coral-dark); }
 .hero aside li span { color: var(--ink-3); font-size: 0.8rem; margin-left: auto; text-align: right; }
 .hero aside .tool-logo { width: 28px; height: 28px; border-radius: 7px; }
-.hero .stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; margin-top: 36px; padding-top: 24px; border-top: 1px solid var(--rule-2); max-width: 640px; }
+.hero .stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin-top: 36px; padding-top: 24px; border-top: 1px solid var(--rule-2); max-width: 440px; }
 .hero .stats b { display: block; font-family: var(--serif); font-size: 2.1rem; color: var(--ink); line-height: 1; letter-spacing: -0.03em; }
 .hero .stats span { color: var(--ink-3); font-size: 0.85rem; display: block; margin-top: 6px; }
 @media (max-width: 860px) { .hero { padding: 44px 0 36px; } .hero .wrap { grid-template-columns: 1fr; gap: 32px; } .hero .stats { gap: 14px; } .hero .stats b { font-size: 1.7rem; } }
@@ -174,7 +174,7 @@ footer .legal a { display: inline; }
 .featured-on img { height: 40px; width: auto; display: block; border-radius: 6px; }
 .listed-on { font-size: 0.8rem; color: var(--ink-3); margin: 12px 0 0; }
 .listed-on a { display: inline; }
-@media (max-width: 700px) { footer .cols { grid-template-columns: 1fr; gap: 24px; } .hero .stats { grid-template-columns: repeat(3, 1fr); } .cards { grid-template-columns: 1fr; } .card.has-logo { grid-template-columns: 40px 1fr; } .scoreboard { grid-template-columns: 1fr 1fr; } .review-head { gap: 14px; } .review-head .tool-logo.lg { width: 56px; height: 56px; } }
+@media (max-width: 700px) { footer .cols { grid-template-columns: 1fr; gap: 24px; } .hero .stats { grid-template-columns: repeat(2, 1fr); } .cards { grid-template-columns: 1fr; } .card.has-logo { grid-template-columns: 40px 1fr; } .scoreboard { grid-template-columns: 1fr 1fr; } .review-head { gap: 14px; } .review-head .tool-logo.lg { width: 56px; height: 56px; } }
 
 /* home: picks-at-a-glance table */
 .picks { background: var(--card); border: 1px solid var(--rule); border-radius: var(--r); box-shadow: var(--shadow); overflow: hidden; margin: 22px 0 8px; }
