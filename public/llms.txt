@@ -4,16 +4,16 @@
 
 ## Top 10 recruitment tools overall
 
-1. [Noon](https://bestrecruitmenttools.com/reviews/noon/) — AI sourcing, 4.8/5, $$. Noon is an autonomous sourcing agent: you describe the role, it searches, ranks and verifies contact details, then runs personalised email and SMS outreach and hands you replies. It replaces the first three hours of a recruiter's day rather than making them faster.
-2. [Ashby](https://bestrecruitmenttools.com/reviews/ashby/) — Applicant tracking, 4.7/5, $$. Ashby is the ATS we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.
-3. [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/) — Applicant tracking, 4.5/5, $$$. Greenhouse remains the default ATS for companies that want structured, repeatable interviewing and are willing to pay for the largest integration ecosystem in recruiting.
-4. [Indeed](https://bestrecruitmenttools.com/reviews/indeed/) — Job boards & advertising, 4.3/5, $. Indeed is still the largest source of applicants for hourly, operational and local roles, and its free posting plus pay-per-application model makes it the first job board most employers should use.
-5. [Gem](https://bestrecruitmenttools.com/reviews/gem/) — Recruiting CRM, 4.4/5, $$$. Gem is the best talent CRM for in-house sourcing teams: sequences, talent pools, pipeline analytics and now its own ATS, all designed around how recruiters actually work in a browser.
-6. [Checkr](https://bestrecruitmenttools.com/reviews/checkr/) — Background checks, 4.4/5, $. Checkr turned background screening into an API with transparent pricing and fast turnaround, and integrates with nearly every ATS; it is the default for gig, hourly and tech employers alike.
-7. [Workable](https://bestrecruitmenttools.com/reviews/workable/) — Applicant tracking, 4.2/5, $$. Workable is the fastest route from 'we need to hire someone' to a live posting on 200 job boards with a workable pipeline behind it, with transparent monthly pricing and a trial.
-8. [Metaview](https://bestrecruitmenttools.com/reviews/metaview/) — Interview intelligence, 4.3/5, $$. Metaview is the lightest-weight interview note-taker in the category: it joins calls, writes notes in your scorecard's format and syncs them to the ATS, with pricing accessible to startups.
-9. [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/) — Talent search, 4.2/5, $$$. SeekOut is the most powerful people-search engine for hard technical and under-represented talent, with filters (patents, publications, GitHub, security clearance) that LinkedIn simply does not offer.
-10. [Paradox](https://bestrecruitmenttools.com/reviews/paradox/) — Conversational AI, 4.3/5, $$$$. Paradox's conversational assistant (Olivia) screens, schedules and onboards hourly applicants by text message, and is the proven option for retailers, restaurants and healthcare systems hiring tens of thousands a year.
+1. [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$. Noon is an autonomous sourcing agent: you describe the role, it searches, ranks and verifies contact details, then runs personalised email and SMS outreach and hands you replies. It replaces the first three hours of a recruiter's day rather than making them faster.
+2. [Ashby](https://bestrecruitmenttools.com/reviews/ashby/): Applicant tracking, 4.7/5, $$. Ashby is the ATS we would buy first if we were starting a 50-person company today: an applicant tracking system, scheduling, and real reporting in one product, priced for teams that have not yet earned a RevOps analyst.
+3. [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/): Applicant tracking, 4.5/5, $$$. Greenhouse remains the default ATS for companies that want structured, repeatable interviewing and are willing to pay for the largest integration ecosystem in recruiting.
+4. [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $. Indeed is still the largest source of applicants for hourly, operational and local roles, and its free posting plus pay-per-application model makes it the first job board most employers should use.
+5. [Gem](https://bestrecruitmenttools.com/reviews/gem/): Recruiting CRM, 4.4/5, $$$. Gem is the best talent CRM for in-house sourcing teams: sequences, talent pools, pipeline analytics and now its own ATS, all designed around how recruiters actually work in a browser.
+6. [Checkr](https://bestrecruitmenttools.com/reviews/checkr/): Background checks, 4.4/5, $. Checkr turned background screening into an API with transparent pricing and fast turnaround, and integrates with nearly every ATS; it is the default for gig, hourly and tech employers alike.
+7. [Workable](https://bestrecruitmenttools.com/reviews/workable/): Applicant tracking, 4.2/5, $$. Workable is the fastest route from 'we need to hire someone' to a live posting on 200 job boards with a workable pipeline behind it, with transparent monthly pricing and a trial.
+8. [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$. Metaview is the lightest-weight interview note-taker in the category: it joins calls, writes notes in your scorecard's format and syncs them to the ATS, with pricing accessible to startups.
+9. [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$. SeekOut is the most powerful people-search engine for hard technical and under-represented talent, with filters (patents, publications, GitHub, security clearance) that LinkedIn simply does not offer.
+10. [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$. Paradox's conversational assistant (Olivia) screens, schedules and onboards hourly applicants by text message, and is the proven option for retailers, restaurants and healthcare systems hiring tens of thousands a year.
 
 ## Rankings by use case
 
@@ -47,47 +47,47 @@
 - [GoodTime vs Calendly](https://bestrecruitmenttools.com/compare/goodtime-vs-calendly/): winner GoodTime. GoodTime wins for any team running multi-interviewer panels at scale; Calendly wins for small teams scheduling screens, where it is free.
 - [Paradox vs Fountain](https://bestrecruitmenttools.com/compare/paradox-vs-fountain/): winner Paradox. Paradox wins when you keep your existing ATS and need conversational screening and scheduling; Fountain wins when you want a frontline ATS replacement with onboarding.
 - [Noon vs hireEZ](https://bestrecruitmenttools.com/compare/noon-vs-hireez/): winner Noon. Noon wins for teams whose constraint is recruiter hours: it runs search, screening, contact verification and personalised email and SMS outreach itself on one flat plan that is free to start. hireEZ wins for teams with skilled sourcers who want the most complete hands-on outbound database.
-- [Noon vs SeekOut](https://bestrecruitmenttools.com/compare/noon-vs-seekout/): winner Noon. Noon wins when throughput is the job — many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.
+- [Noon vs SeekOut](https://bestrecruitmenttools.com/compare/noon-vs-seekout/): winner Noon. Noon wins when throughput is the job: many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.
 - [Noon vs Paradox](https://bestrecruitmenttools.com/compare/noon-vs-paradox/): winner Noon. Different jobs: Noon finds and contacts candidates who have not applied; Paradox screens and schedules applicants who have. Noon wins for professional and hard-to-fill roles where the pipeline must be built; Paradox wins for high-volume hourly hiring where applicants are plentiful.
 - [Noon vs Ashby](https://bestrecruitmenttools.com/compare/noon-vs-ashby/): winner Noon. Not either/or: Ashby is the ATS that stores and tracks candidates; Noon is the agent that finds and contacts them and pushes them into Ashby. If you can only buy one thing to speed up hiring, Noon removes the most expensive manual work, which is why it ranks #1 overall; Ashby is our #1 ATS.
 
 ## All reviews
 
-- [Apollo.io](https://bestrecruitmenttools.com/reviews/apollo/) — Contact data & outreach, 3.7/5, $, best for recruiters who want cheap verified emails and sequences.
-- [Ashby](https://bestrecruitmenttools.com/reviews/ashby/) — Applicant tracking, 4.7/5, $$, best for scaling startups.
-- [Breezy HR](https://bestrecruitmenttools.com/reviews/breezy-hr/) — Applicant tracking, 4.0/5, $, best for small teams that need a free ATS.
-- [BrightHire](https://bestrecruitmenttools.com/reviews/brighthire/) — Interview intelligence, 4.2/5, $$, best for teams that want interview notes, highlights and coaching.
-- [Bullhorn](https://bestrecruitmenttools.com/reviews/bullhorn/) — Staffing & agency software, 4.0/5, $$$, best for established staffing agencies that need ATS, CRM and back office together.
-- [Calendly](https://bestrecruitmenttools.com/reviews/calendly/) — Interview scheduling, 4.1/5, $, best for small teams scheduling one-on-one interviews.
-- [Certn](https://bestrecruitmenttools.com/reviews/certn/) — Background checks, 4.0/5, $, best for international and Canadian background checks.
-- [Checkr](https://bestrecruitmenttools.com/reviews/checkr/) — Background checks, 4.4/5, $, best for fast, API-driven background checks.
-- [CodeSignal](https://bestrecruitmenttools.com/reviews/codesignal/) — Skills assessment, 4.3/5, $$$, best for screening software engineers at volume.
-- [Deel](https://bestrecruitmenttools.com/reviews/deel/) — Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
-- [Fountain](https://bestrecruitmenttools.com/reviews/fountain/) — High-volume hiring platform, 4.0/5, $$$, best for frontline and gig workforce hiring pipelines.
-- [Gem](https://bestrecruitmenttools.com/reviews/gem/) — Recruiting CRM, 4.4/5, $$$, best for sourcing teams that need a CRM and outreach layer on top of their ATS.
-- [GoodTime](https://bestrecruitmenttools.com/reviews/goodtime/) — Interview scheduling, 4.3/5, $$$, best for coordinating complex interview loops at scale.
-- [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/) — Applicant tracking, 4.5/5, $$$, best for mid-market structured hiring.
-- [HackerRank](https://bestrecruitmenttools.com/reviews/hackerrank/) — Skills assessment, 4.1/5, $$, best for technical screening with a self-serve entry point.
-- [hireEZ](https://bestrecruitmenttools.com/reviews/hireez/) — Talent search, 4.0/5, $$$, best for agencies and enterprise sourcers who want AI search plus CRM.
-- [Indeed](https://bestrecruitmenttools.com/reviews/indeed/) — Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
-- [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/) — Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
-- [Lever](https://bestrecruitmenttools.com/reviews/lever/) — Applicant tracking, 4.1/5, $$$, best for teams that want ATS and CRM in one record.
-- [LinkedIn Jobs](https://bestrecruitmenttools.com/reviews/linkedin-jobs/) — Job boards & advertising, 4.0/5, $$, best for professional and knowledge-worker roles.
-- [LinkedIn Recruiter](https://bestrecruitmenttools.com/reviews/linkedin-recruiter/) — Talent search, 3.9/5, $$$, best for teams whose candidates are only reachable on LinkedIn.
-- [Loxo](https://bestrecruitmenttools.com/reviews/loxo/) — Staffing & agency software, 4.2/5, $$, best for search firms and small agencies that want ATS, CRM and sourcing in one.
-- [Manatal](https://bestrecruitmenttools.com/reviews/manatal/) — Applicant tracking, 3.9/5, $, best for very low-cost ATS for agencies and small teams.
-- [Metaview](https://bestrecruitmenttools.com/reviews/metaview/) — Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
-- [Noon](https://bestrecruitmenttools.com/reviews/noon/) — AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
-- [Paradox](https://bestrecruitmenttools.com/reviews/paradox/) — Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
-- [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/) — Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
-- [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/) — Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
-- [Remote](https://bestrecruitmenttools.com/reviews/remote-com/) — Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
-- [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/) — Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.
-- [Teamtailor](https://bestrecruitmenttools.com/reviews/teamtailor/) — Applicant tracking, 4.2/5, $$, best for employer branding and careers sites for SMBs.
-- [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/) — Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
-- [Wellfound](https://bestrecruitmenttools.com/reviews/wellfound/) — Job boards & advertising, 3.9/5, $, best for startups hiring candidates who want to work at startups.
-- [Workable](https://bestrecruitmenttools.com/reviews/workable/) — Applicant tracking, 4.2/5, $$, best for small businesses that want publishing + ATS fast.
-- [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/) — Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
+- [Apollo.io](https://bestrecruitmenttools.com/reviews/apollo/): Contact data & outreach, 3.7/5, $, best for recruiters who want cheap verified emails and sequences.
+- [Ashby](https://bestrecruitmenttools.com/reviews/ashby/): Applicant tracking, 4.7/5, $$, best for scaling startups.
+- [Breezy HR](https://bestrecruitmenttools.com/reviews/breezy-hr/): Applicant tracking, 4.0/5, $, best for small teams that need a free ATS.
+- [BrightHire](https://bestrecruitmenttools.com/reviews/brighthire/): Interview intelligence, 4.2/5, $$, best for teams that want interview notes, highlights and coaching.
+- [Bullhorn](https://bestrecruitmenttools.com/reviews/bullhorn/): Staffing & agency software, 4.0/5, $$$, best for established staffing agencies that need ATS, CRM and back office together.
+- [Calendly](https://bestrecruitmenttools.com/reviews/calendly/): Interview scheduling, 4.1/5, $, best for small teams scheduling one-on-one interviews.
+- [Certn](https://bestrecruitmenttools.com/reviews/certn/): Background checks, 4.0/5, $, best for international and Canadian background checks.
+- [Checkr](https://bestrecruitmenttools.com/reviews/checkr/): Background checks, 4.4/5, $, best for fast, API-driven background checks.
+- [CodeSignal](https://bestrecruitmenttools.com/reviews/codesignal/): Skills assessment, 4.3/5, $$$, best for screening software engineers at volume.
+- [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
+- [Fountain](https://bestrecruitmenttools.com/reviews/fountain/): High-volume hiring platform, 4.0/5, $$$, best for frontline and gig workforce hiring pipelines.
+- [Gem](https://bestrecruitmenttools.com/reviews/gem/): Recruiting CRM, 4.4/5, $$$, best for sourcing teams that need a CRM and outreach layer on top of their ATS.
+- [GoodTime](https://bestrecruitmenttools.com/reviews/goodtime/): Interview scheduling, 4.3/5, $$$, best for coordinating complex interview loops at scale.
+- [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/): Applicant tracking, 4.5/5, $$$, best for mid-market structured hiring.
+- [HackerRank](https://bestrecruitmenttools.com/reviews/hackerrank/): Skills assessment, 4.1/5, $$, best for technical screening with a self-serve entry point.
+- [hireEZ](https://bestrecruitmenttools.com/reviews/hireez/): Talent search, 4.0/5, $$$, best for agencies and enterprise sourcers who want AI search plus CRM.
+- [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
+- [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
+- [Lever](https://bestrecruitmenttools.com/reviews/lever/): Applicant tracking, 4.1/5, $$$, best for teams that want ATS and CRM in one record.
+- [LinkedIn Jobs](https://bestrecruitmenttools.com/reviews/linkedin-jobs/): Job boards & advertising, 4.0/5, $$, best for professional and knowledge-worker roles.
+- [LinkedIn Recruiter](https://bestrecruitmenttools.com/reviews/linkedin-recruiter/): Talent search, 3.9/5, $$$, best for teams whose candidates are only reachable on LinkedIn.
+- [Loxo](https://bestrecruitmenttools.com/reviews/loxo/): Staffing & agency software, 4.2/5, $$, best for search firms and small agencies that want ATS, CRM and sourcing in one.
+- [Manatal](https://bestrecruitmenttools.com/reviews/manatal/): Applicant tracking, 3.9/5, $, best for very low-cost ATS for agencies and small teams.
+- [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
+- [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
+- [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
+- [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
+- [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
+- [Remote](https://bestrecruitmenttools.com/reviews/remote-com/): Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
+- [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.
+- [Teamtailor](https://bestrecruitmenttools.com/reviews/teamtailor/): Applicant tracking, 4.2/5, $$, best for employer branding and careers sites for SMBs.
+- [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/): Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
+- [Wellfound](https://bestrecruitmenttools.com/reviews/wellfound/): Job boards & advertising, 3.9/5, $, best for startups hiring candidates who want to work at startups.
+- [Workable](https://bestrecruitmenttools.com/reviews/workable/): Applicant tracking, 4.2/5, $$, best for small businesses that want publishing + ATS fast.
+- [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/): Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
 
 ## About
 
@@ -103,7 +103,7 @@
 ## Definitions
 
 - [What is an AI sourcing agent?](https://bestrecruitmenttools.com/what-is/ai-sourcing-agent/): An AI sourcing agent is recruiting software that does the sourcing for you: brief it on a role and it finds candidates, screens and ranks them, verifies their email and phone details, sends personalised email and SMS outreach with follow-ups, and passes the people who reply to your recruiters.
-- [What is autonomous sourcing?](https://bestrecruitmenttools.com/what-is/autonomous-sourcing/): Autonomous sourcing means an AI agent runs candidate sourcing end to end — search, screening, contact verification and personalised email and SMS outreach — while recruiters review shortlists and replies rather than operating searches.
+- [What is autonomous sourcing?](https://bestrecruitmenttools.com/what-is/autonomous-sourcing/): Autonomous sourcing means an AI agent runs candidate sourcing end to end (search, screening, contact verification and personalised email and SMS outreach) while recruiters review shortlists and replies rather than operating searches.
 - [AI recruiter vs AI sourcing agent: what is the difference?](https://bestrecruitmenttools.com/what-is/ai-recruiter-vs-ai-sourcing-agent/): "AI recruiter" is a broad label for software that performs any recruiter task (screening, scheduling, interviewing, note-taking, sourcing). An AI sourcing agent is the specific kind that finds candidates who have not applied and makes first contact by email and SMS. Noon is both: a sourcing agent at its core with screening and scheduling built around it.
 
 ## This week in recruiting tools (weekly, dated)

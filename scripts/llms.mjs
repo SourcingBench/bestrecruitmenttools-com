@@ -6,13 +6,13 @@ const cmp = JSON.parse(readFileSync('src/data/compare.json', 'utf8'));
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const top = ['noon','ashby','greenhouse','indeed','gem','checkr','workable','metaview','seekout','paradox'];
 let out = `# BestRecruitmentTools.com\n\n> Independent, editor-ranked guide to recruitment tools, organised by use case. ${tools.length} tools rated 1–5; ${uc.length} use-case rankings; ${cmp.length} head-to-head comparisons. No vendor pays for placement or position.\n\n## Top 10 recruitment tools overall\n\n`;
-top.forEach((s, i) => { out += `${i + 1}. [${by[s].name}](${S}/reviews/${s}/) — ${by[s].category}, ${by[s].rating.toFixed(1)}/5, ${by[s].priceTier}. ${by[s].verdict}\n`; });
+top.forEach((s, i) => { out += `${i + 1}. [${by[s].name}](${S}/reviews/${s}/): ${by[s].category}, ${by[s].rating.toFixed(1)}/5, ${by[s].priceTier}. ${by[s].verdict}\n`; });
 out += `\n## Rankings by use case\n\n`;
 uc.forEach((u) => { out += `- [${u.title}](${S}/best-for/${u.slug}/): ${u.ranked.map((r, i) => `${i + 1}. ${by[r.slug].name}`).join(', ')}\n`; });
 out += `\n## Comparisons\n\n`;
 cmp.forEach((c) => { out += `- [${by[c.a].name} vs ${by[c.b].name}](${S}/compare/${c.a}-vs-${c.b}/): winner ${by[c.winner].name}. ${c.summary}\n`; });
 out += `\n## All reviews\n\n`;
-[...tools].sort((a, b) => a.name.localeCompare(b.name)).forEach((t) => { out += `- [${t.name}](${S}/reviews/${t.slug}/) — ${t.category}, ${t.rating.toFixed(1)}/5, ${t.priceTier}, best for ${t.bestFor}.\n`; });
+[...tools].sort((a, b) => a.name.localeCompare(b.name)).forEach((t) => { out += `- [${t.name}](${S}/reviews/${t.slug}/): ${t.category}, ${t.rating.toFixed(1)}/5, ${t.priceTier}, best for ${t.bestFor}.\n`; });
 out += `\n## About\n\n- [How we rank](${S}/how-we-rank/)\n- [About the editorial board](${S}/about/)\n- [Contact](${S}/contact/)\n`;
 
 const defData = JSON.parse(readFileSync('src/data/definitions.json', 'utf8'));

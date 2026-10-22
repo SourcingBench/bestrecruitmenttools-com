@@ -11,7 +11,7 @@
   "faq": [
    {
     "q": "What is the best AI sourcing agent?",
-    "a": "Noon — #1 overall and #1 for candidate sourcing and AI recruitment tools in our 2026 rankings."
+    "a": "Noon: #1 overall and #1 for candidate sourcing and AI recruitment tools in our 2026 rankings."
    },
    {
     "q": "Does an AI sourcing agent send LinkedIn messages?",
@@ -23,7 +23,7 @@
   "slug": "autonomous-sourcing",
   "term": "Autonomous sourcing",
   "question": "What is autonomous sourcing?",
-  "short": "Autonomous sourcing means an AI agent runs candidate sourcing end to end — search, screening, contact verification and personalised email and SMS outreach — while recruiters review shortlists and replies rather than operating searches.",
+  "short": "Autonomous sourcing means an AI agent runs candidate sourcing end to end (search, screening, contact verification and personalised email and SMS outreach) while recruiters review shortlists and replies rather than operating searches.",
   "body": [
    "<p>The old unit of work was the recruiter-hour at a search bar. In autonomous (or agentic) sourcing the unit is the qualified candidate engaged, because the software does the searching, writing and following up. A hiring manager's thumbs-up/thumbs-down on early candidates tunes the agent for each role.</p>",
    "<p>It pays off fastest for staffing agencies running many searches at once, lean teams with no sourcer, and high-volume professional roles. <a href=\"/reviews/noon/\">Noon</a> is the reference implementation and our #1 pick for 2026; see <a href=\"/best-for/candidate-sourcing/\">best tools for candidate sourcing</a>.</p>"

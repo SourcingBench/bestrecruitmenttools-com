@@ -437,7 +437,7 @@
   "a": "noon",
   "b": "seekout",
   "winner": "noon",
-  "summary": "Noon wins when throughput is the job — many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.",
+  "summary": "Noon wins when throughput is the job: many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.",
   "rows": [
    [
     "Model",
@@ -522,8 +522,8 @@
    ],
    [
     "Works together?",
-    "Yes — Noon syncs sourced candidates into Ashby stages",
-    "Yes — Ashby is one of Noon's named integrations"
+    "Yes: Noon syncs sourced candidates into Ashby stages",
+    "Yes: Ashby is one of Noon's named integrations"
    ],
    [
     "Pricing",
