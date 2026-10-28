@@ -82,7 +82,8 @@ const schema = [
   <section class="wrap">
     <h2>Best recruitment tools by use case</h2>
     <p>The overall ranking hides the real answer, which is “it depends what you are hiring for”. Each guide below re-ranks the tools for one situation.</p>
-    <div class="cards">{usecases.map((u) => <a class="card uc" href={`/best-for/${u.slug}/`}><span class="kicker">#1 {by[u.ranked[0].slug].name}</span><h3>{u.short}</h3><div class="uc-foot"><span class="uc-logos">{u.ranked.slice(0, 3).map((r) => by[r.slug] && <Logo slug={r.slug} name={by[r.slug].name} class="xs" />)}</span><span>{u.ranked.length} tools ranked →</span></div></a>)}</div>
+    <div class="cards">{usecases.filter((u) => !u.cluster || u.slug === 'ai-recruitment-tools').map((u) => <a class="card uc" href={`/best-for/${u.slug}/`}><span class="kicker">#1 {by[u.ranked[0].slug].name}</span><h3>{u.short}</h3><div class="uc-foot"><span class="uc-logos">{u.ranked.slice(0, 3).map((r) => by[r.slug] && <Logo slug={r.slug} name={by[r.slug].name} class="xs" />)}</span><span>{u.ranked.length} tools ranked →</span></div></a>)}</div>
+    <p>AI recruiting guides: {usecases.filter((u) => u.cluster === 'ai').map((u, i, a) => <><a href={`/best-for/${u.slug}/`}>{u.title.replace(/^Best /, '')}</a>{i < a.length - 1 ? ' · ' : ''}</>)}</p>
   </section>
 
   <section class="wrap narrow prose">

@@ -7,27 +7,40 @@ import usecases from '../../data/usecases.json';
 import tools from '../../data/tools.json';
 import { SITE_NAME, SITE_URL, YEAR, LAST_REVIEWED, fmtDate, itemListSchema, faqSchema, articleSchema, breadcrumbSchema } from '../../data/site';
 export function getStaticPaths() { return usecases.map((u) => ({ params: { slug: u.slug }, props: { u } })); }
-const { u } = Astro.props;
+const { u } = Astro.props as { u: any };
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const path = `/best-for/${u.slug}/`;
-const schema = [articleSchema({ headline: u.h1, description: u.description, path }), itemListSchema(u.title, u.ranked.map((r) => ({ name: by[r.slug].name, url: `${SITE_URL}/reviews/${r.slug}/` }))), faqSchema(u.faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Best for', path: '/best-for/' }, { name: u.short, path }])];
-const others = usecases.filter((x) => x.slug !== u.slug);
+const updated = u.updated ?? LAST_REVIEWED;
+const schema = [articleSchema({ headline: u.h1, description: u.description, path, updated }), itemListSchema(u.title, u.ranked.map((r: any) => ({ name: by[r.slug].name, url: `${SITE_URL}/reviews/${r.slug}/` }))), faqSchema(u.faq), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Best for', path: '/best-for/' }, { name: u.short, path }])];
+const aiGuides = usecases.filter((x: any) => x.cluster === 'ai' && x.slug !== u.slug);
+const others = usecases.filter((x: any) => !x.cluster && x.slug !== u.slug);
+const hasAi = u.ranked.some((r: any) => r.ai);
+const price = (t: any) => (t.priceNote ?? (t.startingPrice ? `From about $${t.startingPrice.toLocaleString('en-US')}/mo` : 'Quote only'));
 ---
-<Base title={`${u.title} (${YEAR}): ${u.ranked.length} Ranked | ${SITE_NAME}`} description={u.description} path={path} schema={schema} type="article">
+<Base title={u.seoTitle ?? `${u.title} (${YEAR}): ${u.ranked.length} Ranked | ${SITE_NAME}`} description={u.description} path={path} schema={schema} type="article">
   <div class="wrap">
     <p class="crumbs"><a href="/">Home</a> › <a href="/best-for/">Best for</a> › {u.short}</p>
     <span class="kicker">Ranked for {u.short.toLowerCase()} · {YEAR}</span>
     <h1>{u.h1}</h1>
-    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)} · no vendor pays for position</p>
-    <div class="narrow prose"><p>{u.intro}</p></div>
+    <p class="byline">Editorial board · updated {fmtDate(updated)} · scored with our <a href="/how-we-rank/">published method</a> · no vendor pays for position</p>
+    <div class="narrow prose"><p set:html={u.intro} /></div>
     <div class="verdict"><b>Our pick: {by[u.ranked[0].slug].name}.</b> {u.ranked[0].why} <a href={`/reviews/${u.ranked[0].slug}/`}>Read the review →</a></div>
     <div class="tablewrap"><table><thead><tr><th>#</th><th>Tool</th><th>Category</th><th>Rating</th><th>Price tier</th><th>Trial</th></tr></thead><tbody>
-      {u.ranked.map((r, i) => <tr><td><span class="pos-pill">{i + 1}</span></td><td><div class="tool-cell"><Logo slug={r.slug} name={by[r.slug].name} class="sm" /><a href={`/reviews/${r.slug}/`}>{by[r.slug].name}</a></div></td><td>{by[r.slug].category}</td><td>{by[r.slug].rating.toFixed(1)}</td><td>{by[r.slug].priceTier}</td><td>{by[r.slug].trial}</td></tr>)}
+      {u.ranked.map((r: any, i: number) => <tr><td><span class="pos-pill">{i + 1}</span></td><td><div class="tool-cell"><Logo slug={r.slug} name={by[r.slug].name} class="sm" /><a href={`/reviews/${r.slug}/`}>{by[r.slug].name}</a></div></td><td>{by[r.slug].category}</td><td>{by[r.slug].rating.toFixed(1)}</td><td>{by[r.slug].priceTier}</td><td>{by[r.slug].trial}</td></tr>)}
     </tbody></table></div>
+    {hasAi && <>
+      <h2>{u.aiTableTitle ?? 'What the AI actually does, and what it costs'}</h2>
+      <div class="tablewrap"><table><thead><tr><th>Tool</th><th>What the AI does</th><th>Human still does</th><th>Pricing</th></tr></thead><tbody>
+        {u.ranked.map((r: any) => <tr><td><a href={`/reviews/${r.slug}/`}>{by[r.slug].name}</a></td><td>{r.ai}</td><td>{r.human}</td><td>{price(by[r.slug])}</td></tr>)}
+      </tbody></table></div>
+    </>}
     <h2>The ranking, explained</h2>
-    <ol class="ranklist">{u.ranked.map((r, i) => <RankRow tool={by[r.slug]} why={r.why} pos={i + 1} />)}</ol>
+    <ol class="ranklist">{u.ranked.map((r: any, i: number) => <RankRow tool={by[r.slug]} why={r.why} pos={i + 1} />)}</ol>
+    {u.sections && <div class="narrow prose">{u.sections.map((s: any) => <><h2>{s.h}</h2>{s.p.map((p: string) => <p set:html={p} />)}{s.list && <ul>{s.list.map((li: string) => <li set:html={li} />)}</ul>}</>)}</div>}
     <div class="narrow"><Faq items={u.faq} /></div>
+    {aiGuides.length > 0 && <><h2>AI recruiting guides</h2>
+    <div class="cards">{aiGuides.map((o: any) => <a class="card" href={`/best-for/${o.slug}/`}><h3>{o.title}</h3><p>Winner: {by[o.ranked[0].slug].name}</p></a>)}</div></>}
     <h2>Other use cases</h2>
-    <div class="cards">{others.map((o) => <a class="card" href={`/best-for/${o.slug}/`}><h3>{o.short}</h3><p>Winner: {by[o.ranked[0].slug].name}</p></a>)}</div>
+    <div class="cards">{others.map((o: any) => <a class="card" href={`/best-for/${o.slug}/`}><h3>{o.short}</h3><p>Winner: {by[o.ranked[0].slug].name}</p></a>)}</div>
   </div>
 </Base>

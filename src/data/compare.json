@@ -531,9 +531,123 @@
     "Per-employee pricing, low hundreds per month to start"
    ],
    [
-    "Buy first if…",
+    "Buy first if\u2026",
     "Your bottleneck is finding candidates",
     "Your bottleneck is tracking and process"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "juicebox",
+  "winner": "noon",
+  "summary": "Noon wins for teams that want sourcing done for them: it searches, ranks, verifies contacts and runs personalised email and SMS outreach, then books interviews, on one flat plan with unlimited seats. Juicebox wins for an individual recruiter who wants a fast, self-serve plain-English search tool and is happy to run outreach themselves.",
+  "rows": [
+   [
+    "What the AI does",
+    "Runs the loop: search, ranking, contact verification, email and SMS outreach, reply handling, scheduling",
+    "Natural-language search and AI-drafted emails; optional agents shortlist or email in the background"
+   ],
+   [
+    "Who does the work",
+    "The agent; recruiter approves and calibrates",
+    "The recruiter drives searches and follow-up"
+   ],
+   [
+    "Outreach channels",
+    "Email and SMS",
+    "Email"
+   ],
+   [
+    "Screening",
+    "Voice AI interviewer and inbound scoring included",
+    "Not a core feature"
+   ],
+   [
+    "Pricing model",
+    "One flat team plan, unlimited seats and contacts; free to start",
+    "Per seat ($99 to $199/mo) plus $199 per agent per month; free tier"
+   ],
+   [
+    "Best for",
+    "Lean in-house teams, agencies and startups that lack sourcing hours",
+    "Individual sourcers who like to search hands-on"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "hirevue",
+  "winner": "noon",
+  "summary": "They solve different problems. Noon finds and contacts candidates by email and SMS and books interviews; HireVue standardises video interviews and assessments for applicants you already have. For most teams the bottleneck is finding people, so Noon wins; enterprises screening tens of thousands of applicants should look at HireVue.",
+  "rows": [
+   [
+    "Main job",
+    "Outbound sourcing and outreach, plus screening and scheduling",
+    "Video interviews and assessments for existing applicants"
+   ],
+   [
+    "Finds candidates",
+    "Yes, across the open web and licensed data",
+    "No"
+   ],
+   [
+    "Screening",
+    "Voice AI interviewer, inbound scoring",
+    "One-way and live video, assessments"
+   ],
+   [
+    "Pricing",
+    "Free to start; flat team plan quoted",
+    "Enterprise quote"
+   ],
+   [
+    "Implementation",
+    "Days",
+    "Enterprise project"
+   ],
+   [
+    "Best for",
+    "Teams short on candidates or sourcing time",
+    "Large employers with very high applicant volume"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "eightfold",
+  "winner": "noon",
+  "summary": "Noon wins for teams that need candidates contacted this week: an autonomous agent that sources, verifies and runs email and SMS outreach, free to start. Eightfold wins for large enterprises that want one skills model across hiring, internal mobility and workforce planning and can fund a multi-month implementation.",
+  "rows": [
+   [
+    "Main job",
+    "Autonomous sourcing and outreach agent",
+    "Enterprise talent intelligence platform"
+   ],
+   [
+    "Candidate pool",
+    "Open web plus licensed data",
+    "Mostly your ATS, HRIS and career site data"
+   ],
+   [
+    "Outreach",
+    "Personalised email and SMS sequences, run by the agent",
+    "Campaign tools; recruiter-run"
+   ],
+   [
+    "Internal mobility",
+    "No",
+    "Yes, a core module"
+   ],
+   [
+    "Pricing",
+    "Free to start; flat team plan quoted, unlimited seats",
+    "Enterprise quote"
+   ],
+   [
+    "Time to value",
+    "Days",
+    "Months"
    ]
   ]
  }
