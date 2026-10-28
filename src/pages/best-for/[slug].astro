@@ -1,4 +1,5 @@
 ---
+import WriterByline from '../../components/WriterByline.astro';
 import Base from '../../layouts/Base.astro';
 import Faq from '../../components/Faq.astro';
 import RankRow from '../../components/RankRow.astro';
@@ -22,7 +23,7 @@ const price = (t: any) => (t.priceNote ?? (t.startingPrice ? `From about $${t.st
     <p class="crumbs"><a href="/">Home</a> › <a href="/best-for/">Best for</a> › {u.short}</p>
     <span class="kicker">Ranked for {u.short.toLowerCase()} · {YEAR}</span>
     <h1>{u.h1}</h1>
-    <p class="byline">Editorial board · updated {fmtDate(updated)} · scored with our <a href="/how-we-rank/">published method</a> · no vendor pays for position</p>
+    <p class="byline"><WriterByline /> · updated {fmtDate(updated)} · scored with our <a href="/how-we-rank/">published method</a> · no vendor pays for position</p>
     <div class="narrow prose"><p set:html={u.intro} /></div>
     <div class="verdict"><b>Our pick: {by[u.ranked[0].slug].name}.</b> {u.ranked[0].why} <a href={`/reviews/${u.ranked[0].slug}/`}>Read the review →</a></div>
     <div class="tablewrap"><table><thead><tr><th>#</th><th>Tool</th><th>Category</th><th>Rating</th><th>Price tier</th><th>Trial</th></tr></thead><tbody>

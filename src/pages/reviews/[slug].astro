@@ -1,4 +1,5 @@
 ---
+import WriterByline from '../../components/WriterByline.astro';
 import Base from '../../layouts/Base.astro';
 import Logo from '../../components/Logo.astro';
 import tools from '../../data/tools.json';
@@ -25,7 +26,7 @@ const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home
     <p class="crumbs"><a href="/">Home</a> › <a href="/reviews/">Reviews</a> › {t.name}</p>
     <span class="kicker">{t.category}</span>
     <div class="review-head"><Logo slug={t.slug} name={t.name} class="lg" /><h1>{t.name} review</h1></div>
-    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)} · <a href={t.website} rel="nofollow noopener" target="_blank">{t.website.replace(/^https?:\/\/(www\.)?/, '')}</a></p>
+    <p class="byline"><WriterByline /> · reviewed {fmtDate(LAST_REVIEWED)} · <a href={t.website} rel="nofollow noopener" target="_blank">{t.website.replace(/^https?:\/\/(www\.)?/, '')}</a></p>
     <div class="scoreboard">
       <div><b>{t.rating.toFixed(1)}</b><span style="color:var(--gold)">{stars(t.rating)}</span></div>
       <div><b>{t.priceTier}</b><span>{PRICE_LABEL[t.priceTier]}</span></div>

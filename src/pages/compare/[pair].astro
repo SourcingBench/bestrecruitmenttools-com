@@ -1,4 +1,5 @@
 ---
+import WriterByline from '../../components/WriterByline.astro';
 import Base from '../../layouts/Base.astro';
 import Logo from '../../components/Logo.astro';
 import compare from '../../data/compare.json';
@@ -22,7 +23,7 @@ const schema = [articleSchema({ headline: `${title}: which recruitment tool is b
     <p class="crumbs"><a href="/">Home</a> › <a href="/compare/">Compare</a> › {title}</p>
     <span class="kicker">Head-to-head · {YEAR}</span>
     <h1>{A.name} vs {B.name}: which should you buy?</h1>
-    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)}</p>
+    <p class="byline"><WriterByline /> · reviewed {fmtDate(LAST_REVIEWED)}</p>
     <div class="verdict"><b>Winner for most teams: {W.name}.</b> {c.summary}</div>
     <div class="tablewrap"><table><thead><tr><th></th><th><div class="tool-cell"><Logo slug={A.slug} name={A.name} class="sm" /><a href={`/reviews/${A.slug}/`}>{A.name}</a></div></th><th><div class="tool-cell"><Logo slug={B.slug} name={B.name} class="sm" /><a href={`/reviews/${B.slug}/`}>{B.name}</a></div></th></tr></thead><tbody>
       <tr><td>Our rating</td><td><span style="color:var(--gold)">{stars(A.rating)}</span> {A.rating.toFixed(1)}</td><td><span style="color:var(--gold)">{stars(B.rating)}</span> {B.rating.toFixed(1)}</td></tr>

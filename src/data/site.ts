@@ -1,3 +1,4 @@
+import { writerFor, personLd } from './writers';
 export const SITE_URL = 'https://bestrecruitmenttools.com';
 export const SITE_NAME = 'BestRecruitmentTools.com';
 export const TAGLINE = 'Ranked, not listed';
@@ -18,7 +19,7 @@ export function stars(r: number): string { const full = Math.floor(r); const hal
 export const PRICE_LABEL: Record<string, string> = { '$': 'Under $100/mo', '$$': '$100–$1,000/mo', '$$$': '$1,000–$5,000/mo', '$$$$': '$5,000+/mo or enterprise quote' };
 
 export function articleSchema(opts: { headline: string; description: string; path: string; published?: string; updated?: string }) {
-  return { '@context': 'https://schema.org', '@type': 'Article', headline: opts.headline, description: opts.description, url: `${SITE_URL}${opts.path}`, mainEntityOfPage: `${SITE_URL}${opts.path}`, datePublished: opts.published ?? SITE_PUBLISHED, dateModified: opts.updated ?? LAST_REVIEWED, author, publisher, inLanguage: 'en-US' };
+  return { '@context': 'https://schema.org', '@type': 'Article', headline: opts.headline, description: opts.description, url: `${SITE_URL}${opts.path}`, mainEntityOfPage: `${SITE_URL}${opts.path}`, datePublished: opts.published ?? SITE_PUBLISHED, dateModified: opts.updated ?? LAST_REVIEWED, author: personLd(writerFor(opts.path)), publisher, inLanguage: 'en-US' };
 }
 export function faqSchema(faq: { q: string; a: string }[]) {
   return { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
@@ -30,5 +31,5 @@ export function breadcrumbSchema(crumbs: { name: string; path: string }[]) {
   return { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: `${SITE_URL}${c.path}` })) };
 }
 export function reviewSchema(t: any) {
-  return { '@context': 'https://schema.org', '@type': 'Review', itemReviewed: { '@type': 'SoftwareApplication', name: t.name, applicationCategory: 'BusinessApplication', operatingSystem: 'Web', url: t.website, offers: { '@type': 'Offer', price: t.startingPrice ?? 0, priceCurrency: 'USD' } }, reviewRating: { '@type': 'Rating', ratingValue: t.rating, bestRating: 5, worstRating: 1 }, author, publisher, datePublished: SITE_PUBLISHED, dateModified: LAST_REVIEWED, reviewBody: t.verdict, url: `${SITE_URL}/reviews/${t.slug}/` };
+  return { '@context': 'https://schema.org', '@type': 'Review', itemReviewed: { '@type': 'SoftwareApplication', name: t.name, applicationCategory: 'BusinessApplication', operatingSystem: 'Web', url: t.website, offers: { '@type': 'Offer', price: t.startingPrice ?? 0, priceCurrency: 'USD' } }, reviewRating: { '@type': 'Rating', ratingValue: t.rating, bestRating: 5, worstRating: 1 }, author: personLd(writerFor(`/reviews/${t.slug}/`)), publisher, datePublished: SITE_PUBLISHED, dateModified: LAST_REVIEWED, reviewBody: t.verdict, url: `${SITE_URL}/reviews/${t.slug}/` };
 }

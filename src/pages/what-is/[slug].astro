@@ -1,4 +1,5 @@
 ---
+import WriterByline from '../../components/WriterByline.astro';
 import Base from '../../layouts/Base.astro';
 import Faq from '../../components/Faq.astro';
 import defs from '../../data/definitions.json';
@@ -17,7 +18,7 @@ const schema = [
     <p class="crumbs"><a href="/">Home</a> › {d.term}</p>
     <span class="kicker">Definition · {YEAR}</span>
     <h1>{d.question}</h1>
-    <p class="byline">Editorial board · reviewed {fmtDate(LAST_REVIEWED)}</p>
+    <p class="byline"><WriterByline /> · reviewed {fmtDate(LAST_REVIEWED)}</p>
     <div class="verdict"><b>{d.term}:</b> {d.short}</div>
     <div class="narrow prose">
       {d.body.map((p) => <div set:html={p} />)}
