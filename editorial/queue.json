@@ -1,0 +1,245 @@
+{
+ "note": "Daily article queue. Volumes are US monthly Google searches (DataForSEO, Nov 2026). noon_target is a real noon.ai path; link it in roughly half of articles, never more than once per article.",
+ "items": [
+  {
+   "id": "brt-001",
+   "family": "ranked-use-case",
+   "keyword": "recruiting crm",
+   "volume": 2400,
+   "noon_target": "/built-for/agency-recruiters",
+   "status": "queued"
+  },
+  {
+   "id": "brt-002",
+   "family": "ranked-use-case",
+   "keyword": "interview note takers",
+   "volume": 22200,
+   "noon_target": "/product/ai-notetaker",
+   "status": "queued"
+  },
+  {
+   "id": "brt-003",
+   "family": "ranked-use-case",
+   "keyword": "background check companies",
+   "volume": 4400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-004",
+   "family": "ranked-use-case",
+   "keyword": "pre-employment testing tools",
+   "volume": 880,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-005",
+   "family": "ranked-use-case",
+   "keyword": "free applicant tracking systems",
+   "volume": 590,
+   "noon_target": "/learn/what-is-an-applicant-tracking-system",
+   "status": "queued"
+  },
+  {
+   "id": "brt-006",
+   "family": "ranked-use-case",
+   "keyword": "best ats for small business",
+   "volume": 490,
+   "noon_target": "/learn/what-is-an-applicant-tracking-system",
+   "status": "queued"
+  },
+  {
+   "id": "brt-007",
+   "family": "ranked-use-case",
+   "keyword": "zoominfo alternatives for recruiters",
+   "volume": 1200,
+   "noon_target": "/alternatives/zoominfo",
+   "status": "queued"
+  },
+  {
+   "id": "brt-008",
+   "family": "ranked-use-case",
+   "keyword": "indeed alternatives for employers",
+   "volume": 880,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-009",
+   "family": "ranked-use-case",
+   "keyword": "recruitment agency crm",
+   "volume": 210,
+   "noon_target": "/built-for/agency-recruiters",
+   "status": "queued"
+  },
+  {
+   "id": "brt-010",
+   "family": "ranked-use-case",
+   "keyword": "apollo alternatives for recruiting",
+   "volume": 390,
+   "noon_target": "/alternatives/apollo",
+   "status": "queued"
+  },
+  {
+   "id": "brt-011",
+   "family": "ranked-use-case",
+   "keyword": "gem alternatives",
+   "volume": 1000,
+   "noon_target": "/alternatives/gem",
+   "status": "queued"
+  },
+  {
+   "id": "brt-012",
+   "family": "ranked-use-case",
+   "keyword": "rocketreach alternatives",
+   "volume": 210,
+   "noon_target": "/alternatives/rocketreach",
+   "status": "queued"
+  },
+  {
+   "id": "brt-013",
+   "family": "ranked-use-case",
+   "keyword": "interview scheduling software",
+   "volume": null,
+   "noon_target": "/product/ai-scheduler",
+   "status": "queued"
+  },
+  {
+   "id": "brt-014",
+   "family": "ranked-use-case",
+   "keyword": "candidate fraud detection tools",
+   "volume": null,
+   "noon_target": "/product/fraud-detection",
+   "status": "queued"
+  },
+  {
+   "id": "brt-015",
+   "family": "ranked-use-case",
+   "keyword": "recruiting chatbots",
+   "volume": 140,
+   "noon_target": "/product/inbound-screening",
+   "status": "queued"
+  },
+  {
+   "id": "brt-016",
+   "family": "ranked-use-case",
+   "keyword": "ai phone screening tools",
+   "volume": 110,
+   "noon_target": "/product/ai-interviewer",
+   "status": "queued"
+  },
+  {
+   "id": "brt-017",
+   "family": "ranked-use-case",
+   "keyword": "healthcare recruiting software",
+   "volume": null,
+   "noon_target": "/built-for/healthcare",
+   "status": "queued"
+  },
+  {
+   "id": "brt-018",
+   "family": "ranked-use-case",
+   "keyword": "restaurant hiring software",
+   "volume": null,
+   "noon_target": "/product/inbound-screening",
+   "status": "queued"
+  },
+  {
+   "id": "brt-019",
+   "family": "ranked-use-case",
+   "keyword": "warehouse hiring software",
+   "volume": null,
+   "noon_target": "/product/inbound-screening",
+   "status": "queued"
+  },
+  {
+   "id": "brt-020",
+   "family": "ranked-use-case",
+   "keyword": "executive search software",
+   "volume": null,
+   "noon_target": "/built-for/executive-recruiters",
+   "status": "queued"
+  },
+  {
+   "id": "brt-021",
+   "family": "ranked-use-case",
+   "keyword": "lusha alternatives",
+   "volume": 140,
+   "noon_target": "/alternatives/lusha",
+   "status": "queued"
+  },
+  {
+   "id": "brt-022",
+   "family": "ranked-use-case",
+   "keyword": "seekout alternatives",
+   "volume": null,
+   "noon_target": "/alternatives/seekout",
+   "status": "queued"
+  },
+  {
+   "id": "brt-023",
+   "family": "ranked-use-case",
+   "keyword": "hireez alternatives",
+   "volume": null,
+   "noon_target": "/alternatives/hireez",
+   "status": "queued"
+  },
+  {
+   "id": "brt-024",
+   "family": "ranked-use-case",
+   "keyword": "juicebox alternatives",
+   "volume": 260,
+   "noon_target": "/alternatives/juicebox",
+   "status": "queued"
+  },
+  {
+   "id": "brt-025",
+   "family": "ranked-use-case",
+   "keyword": "recruiting email tools",
+   "volume": 210,
+   "noon_target": "/product/ai-outreach",
+   "status": "queued"
+  },
+  {
+   "id": "brt-026",
+   "family": "ranked-use-case",
+   "keyword": "greenhouse alternatives",
+   "volume": 110,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-027",
+   "family": "ranked-use-case",
+   "keyword": "recruiting software for nonprofits",
+   "volume": null,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-028",
+   "family": "ranked-use-case",
+   "keyword": "recruiting software for schools",
+   "volume": null,
+   "noon_target": "/built-for/teachers",
+   "status": "queued"
+  },
+  {
+   "id": "brt-029",
+   "family": "ranked-use-case",
+   "keyword": "job description generators",
+   "volume": 320,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-030",
+   "family": "ranked-use-case",
+   "keyword": "contact finders for recruiters",
+   "volume": null,
+   "noon_target": "/product/ai-outreach",
+   "status": "queued"
+  }
+ ]
+}
