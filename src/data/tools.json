@@ -1431,5 +1431,111 @@
    "seekout",
    "eightfold"
   ]
+ },
+ {
+  "slug": "beamery",
+  "name": "Beamery",
+  "website": "https://beamery.com",
+  "category": "Talent CRM",
+  "rating": 4.1,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "bestFor": "large employers that nurture passive talent pools against skills data",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "enterprise",
+   "recruiting-crm"
+  ],
+  "verdict": "Beamery pairs a talent CRM with skills and workforce intelligence, so pipelines are built against the skills a business expects to need rather than only today's open requisitions.",
+  "standout": "Skills data that links talent pools to workforce planning",
+  "weakness": "Heavy implementation for teams without a talent marketing function",
+  "overview": "Beamery positions itself as a workforce transformation platform. Its talent CRM recommends people for pipelines based on skills supply and demand data, and customers use it to keep passive contacts warm until a vacancy opens.\n\nIt suits enterprises with dedicated sourcing or talent marketing staff. Smaller teams usually find the setup heavier than the benefit.",
+  "pros": [
+   "Skills based pipeline recommendations",
+   "Built for multi-country employers",
+   "Connects recruiting to workforce planning"
+  ],
+  "cons": [
+   "Quote-only pricing",
+   "Needs an owner to run campaigns",
+   "More platform than a small team needs"
+  ],
+  "alternatives": [
+   "avature",
+   "phenom",
+   "gem"
+  ]
+ },
+ {
+  "slug": "avature",
+  "name": "Avature",
+  "website": "https://www.avature.net",
+  "category": "Talent CRM",
+  "rating": 4.2,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "bestFor": "global employers that need configurable CRM, events and campus workflows",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "enterprise",
+   "recruiting-crm"
+  ],
+  "verdict": "Avature is the most configurable CRM in this list: CRM, ATS and onboarding in one suite, with AI features that can be switched on or off feature by feature.",
+  "standout": "Deep configurability, including event and campus recruiting",
+  "weakness": "Requires dedicated administrators",
+  "overview": "Avature sells a suite that covers CRM, ATS, onboarding and workforce planning. Almost any workflow can be modelled, which is why large employers use it for campus, events and contingent programs.\n\nThe cost of that flexibility is administration: plan for an internal owner and a longer implementation.",
+  "pros": [
+   "CRM, ATS and onboarding in one suite",
+   "AI can be enabled per feature",
+   "Strong for events and campus programs"
+  ],
+  "cons": [
+   "Steep admin learning curve",
+   "Long implementations",
+   "Interface can feel dense"
+  ],
+  "alternatives": [
+   "beamery",
+   "phenom",
+   "gem"
+  ]
+ },
+ {
+  "slug": "phenom",
+  "name": "Phenom",
+  "website": "https://www.phenom.com",
+  "category": "Talent CRM",
+  "rating": 4.2,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "bestFor": "enterprises whose CRM is fed mainly by the career site",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "enterprise",
+   "high-volume-hiring",
+   "recruiting-crm"
+  ],
+  "verdict": "Phenom builds the CRM around the front door: an intelligent career site, a talent CRM and automated scheduling, with AI agents that screen and coordinate in the background.",
+  "standout": "Career site personalization feeding the talent CRM",
+  "weakness": "Pipeline depends on the ATS it sits on",
+  "overview": "Phenom sells a talent intelligence platform that spans hiring, onboarding, internal mobility and workforce planning. On the hiring side the pieces are a talent CRM, an intelligent career site and automated interview scheduling, plus agents for screening and coordination.\n\nIt is commonly layered on an enterprise ATS, so evaluate the integration with yours first.",
+  "pros": [
+   "Career site and CRM share one candidate record",
+   "Agents for screening and scheduling",
+   "Internal mobility in the same platform"
+  ],
+  "cons": [
+   "Enterprise pricing",
+   "Relies on the underlying ATS",
+   "Too broad for small teams"
+  ],
+  "alternatives": [
+   "beamery",
+   "avature",
+   "gem"
+  ]
  }
 ]
