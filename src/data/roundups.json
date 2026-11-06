@@ -50,5 +50,57 @@
       }
     ],
     "directory": "New on BestRecruitmentTools.com this week: vendor-neutral switching guides for teams leaving <a href=\"/switching/linkedin-recruiter/\">LinkedIn Recruiter</a>, <a href=\"/switching/seekout-hireez/\">SeekOut or hireEZ</a> and <a href=\"/switching/gem/\">Gem</a>."
+  },
+  {
+    "slug": "2026-11-06",
+    "title": "This week in recruiting tools: Dayforce goes agentic with Ribbon inside, Gap hires with Paradox, iCIMS tops UX scores again",
+    "date": "2026-11-06",
+    "period": "29 October to 6 November 2026",
+    "summary": "Six stories from a week when HCM suites pulled AI interviewing into the core product. Dayforce rebuilt its recruiting module around agents and Ribbon's interviewer, Gap put a Paradox assistant on top of Workday Recruiting for seasonal hiring, iCIMS kept its spot in an enterprise usability survey, HireVue made the case for structured voice interviews in retail, Deel aimed a security product at fake remote hires, and staffing analysts saw a slow thaw.",
+    "items": [
+      {
+        "vendor": "Dayforce / Ribbon",
+        "category": "HCM and AI interviewing",
+        "headline": "Dayforce unveiled an agentic HCM platform with a rebuilt recruiting product",
+        "detail": "Reported 1 Nov 2026 (iTWire). The new Dayforce Recruiting adds a candidate CRM plus high volume and contingent hiring workflows, with Ribbon's AI built in for sourcing, rediscovery of past applicants, and voice and video interviews. Dayforce announced its deal for Ribbon on 23 Oct, and says the rollout runs into 2027. Buyers comparing standalone interviewers should read our <a href=\"/best-for/ai-interview-tools/\">AI interview tools ranking</a> before signing anything multi-year.",
+        "matters": "When the HCM suite ships an interviewer, standalone vendors have to win on depth, not convenience."
+      },
+      {
+        "vendor": "Gap Inc. / Paradox / Workday",
+        "category": "High volume hiring",
+        "headline": "Gap launched Bridgette, an AI career guide for store and warehouse applicants",
+        "detail": "Reported 29 Oct 2026 (Retail Dive). Bridgette is built with Paradox on top of Workday Recruiting. It helps applicants find and apply for roles, answers questions, schedules interviews and sends reminders. Gap said a pilot in more than 100 stores and six distribution centers had about 45,000 users and more than 7,000 scheduled interviews. See <a href=\"/reviews/paradox/\">our Paradox review</a> for how the product is priced and deployed.",
+        "matters": "The retail playbook for seasonal hiring is now a chat assistant over the ATS, not a bigger recruiting team."
+      },
+      {
+        "vendor": "iCIMS",
+        "category": "Applicant tracking",
+        "headline": "iCIMS placed in the top five enterprise recruiting providers for user experience for the third year running",
+        "detail": "Announced 4 Nov 2026 (PR Newswire). The ranking comes from Sapient Insights Group's annual HR Systems Survey, which scores vendors on feedback from HR practitioners at organizations with more than 5,000 employees.",
+        "matters": "Usability scores are a reasonable shortlist filter for large ATS buyers, but they say nothing about AI roadmap or pricing; compare those separately in <a href=\"/best-for/enterprise/\">our enterprise ranking</a>."
+      },
+      {
+        "vendor": "HireVue",
+        "category": "Assessments and interviews",
+        "headline": "HireVue made the case for structured voice interviews in holiday hiring",
+        "detail": "Reported 5 Nov 2026 (Retail Insider). HireVue pointed retailers at structured two way voice interviews and short job simulations to screen seasonal applicants at volume, paired with transparency to candidates and human review of decisions.",
+        "matters": "Voice screening is moving from pilot to default in hourly hiring, so candidate disclosure language needs to be ready before peak season, not during it."
+      },
+      {
+        "vendor": "Deel",
+        "category": "Global hiring and security",
+        "headline": "Deel launched Deel Security, aimed at identity fraud in remote hiring",
+        "detail": "Launched 30 Oct 2026 (Enterprise Times). The product targets workforce identity fraud, including fake remote hires who pass interviews under a borrowed identity. It now sits in Deel's product line next to Payroll, HR and IT.",
+        "matters": "Candidate fraud checks are spreading from interview tools into the employer of record layer, which is where identity documents already live."
+      },
+      {
+        "vendor": "Staffing market",
+        "category": "Industry",
+        "headline": "Analysts described a reluctant improvement in staffing demand",
+        "detail": "Reported 2 Nov 2026 (Staffing Industry Analysts), citing UBS analyst Joshua Chan. The note described demand as improving, but slowly and without conviction from buyers.",
+        "matters": "Agencies buying tools this quarter should favor plans that scale down cleanly; see the <a href=\"/best-for/staffing-agencies/\">staffing agency ranking</a> for which vendors bill per seat versus flat."
+      }
+    ],
+    "directory": "Also in the directory: rankings for <a href=\"/best-for/high-volume-hiring/\">high volume hiring</a>, <a href=\"/best-for/ai-interview-tools/\">AI interview tools</a> and <a href=\"/best-for/enterprise/\">enterprise teams</a>, plus reviews of <a href=\"/reviews/hirevue/\">HireVue</a> and <a href=\"/reviews/paradox/\">Paradox</a>."
   }
 ]
