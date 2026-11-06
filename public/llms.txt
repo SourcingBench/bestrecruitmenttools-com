@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 39 tools rated 1–5; 18 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 42 tools rated 1–5; 19 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -35,6 +35,7 @@
 - [Best AI Tools and Assistants for Recruiters](https://bestrecruitmenttools.com/best-for/ai-tools-for-recruiters/): 1. Noon, 2. Juicebox, 3. Metaview, 4. hireEZ, 5. SeekOut, 6. Gem, 7. Loxo, 8. BrightHire, 9. GoodTime
 - [Best AI Tools for Talent Acquisition](https://bestrecruitmenttools.com/best-for/ai-tools-for-talent-acquisition/): 1. Noon, 2. Eightfold AI, 3. Ashby, 4. Gem, 5. Paradox, 6. Metaview, 7. Findem, 8. GoodTime, 9. HireVue, 10. CodeSignal
 - [Best AI Hiring Tools](https://bestrecruitmenttools.com/best-for/ai-hiring-tools/): 1. Noon, 2. Paradox, 3. HireVue, 4. Metaview, 5. CodeSignal, 6. TestGorilla, 7. Ashby, 8. Fountain, 9. GoodTime
+- [Best Recruiting CRM for In-House Teams](https://bestrecruitmenttools.com/best-for/recruiting-crm/): 1. Gem, 2. Ashby, 3. Lever, 4. Avature, 5. Beamery, 6. Phenom, 7. Teamtailor, 8. Pinpoint, 9. Noon
 
 ## Comparisons
 
@@ -62,6 +63,8 @@
 
 - [Apollo.io](https://bestrecruitmenttools.com/reviews/apollo/): Contact data & outreach, 3.7/5, $, best for recruiters who want cheap verified emails and sequences.
 - [Ashby](https://bestrecruitmenttools.com/reviews/ashby/): Applicant tracking, 4.7/5, $$, best for scaling startups.
+- [Avature](https://bestrecruitmenttools.com/reviews/avature/): Talent CRM, 4.2/5, $$$$, best for global employers that need configurable CRM, events and campus workflows.
+- [Beamery](https://bestrecruitmenttools.com/reviews/beamery/): Talent CRM, 4.1/5, $$$$, best for large employers that nurture passive talent pools against skills data.
 - [Breezy HR](https://bestrecruitmenttools.com/reviews/breezy-hr/): Applicant tracking, 4.0/5, $, best for small teams that need a free ATS.
 - [BrightHire](https://bestrecruitmenttools.com/reviews/brighthire/): Interview intelligence, 4.2/5, $$, best for teams that want interview notes, highlights and coaching.
 - [Bullhorn](https://bestrecruitmenttools.com/reviews/bullhorn/): Staffing & agency software, 4.0/5, $$$, best for established staffing agencies that need ATS, CRM and back office together.
@@ -90,6 +93,7 @@
 - [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
 - [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
+- [Phenom](https://bestrecruitmenttools.com/reviews/phenom/): Talent CRM, 4.2/5, $$$$, best for enterprises whose CRM is fed mainly by the career site.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
 - [Remote](https://bestrecruitmenttools.com/reviews/remote-com/): Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
