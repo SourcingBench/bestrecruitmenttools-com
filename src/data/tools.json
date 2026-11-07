@@ -1537,5 +1537,107 @@
    "avature",
    "gem"
   ]
- }
+ },
+  {
+    "slug": "otter",
+    "name": "Otter",
+    "website": "https://otter.ai",
+    "category": "AI meeting notes",
+    "rating": 4.0,
+    "priceTier": "$",
+    "startingPrice": 0,
+    "bestFor": "recruiters who want cheap, general meeting transcription across Zoom, Teams and Meet",
+    "teamSize": "1 to 500 employees",
+    "trial": "Free Basic plan",
+    "useCases": [
+      "interview-note-takers",
+      "small-business"
+    ],
+    "verdict": "Otter is a dependable general meeting notetaker with a real free tier and low paid plans, but it knows nothing about scorecards, requisitions or your ATS, so recruiters must move its notes by hand.",
+    "standout": "Live transcription and a free plan that works on Zoom, Teams and Google Meet",
+    "weakness": "No recruiting workflow or ATS scorecard sync",
+    "overview": "Otter joins Zoom, Microsoft Teams and Google Meet calls, transcribes them live with speaker identification and lets you chat with an AI over one meeting or many. It runs on desktop, iOS, Android and as a Chrome extension.\n\nPricing on its site in November 2026 starts with a free Basic plan; Pro is listed at $8.33 per user per month and Business at $19.99 per user per month on annual billing, with Enterprise by demo.",
+    "pros": [
+      "Free plan plus low paid tiers",
+      "Live transcription with speaker labels",
+      "Works across the three main video platforms"
+    ],
+    "cons": [
+      "No interview kits or scorecard templates",
+      "No ATS integration for candidate records",
+      "Candidates may be put off by a generic meeting bot"
+    ],
+    "alternatives": [
+      "fireflies",
+      "metaview"
+    ]
+  },
+  {
+    "slug": "fireflies",
+    "name": "Fireflies",
+    "website": "https://fireflies.ai",
+    "category": "AI meeting notes",
+    "rating": 4.0,
+    "priceTier": "$",
+    "startingPrice": 0,
+    "bestFor": "teams that interview in many languages and want unlimited transcription on a budget",
+    "teamSize": "1 to 1,000 employees",
+    "trial": "Free forever plan",
+    "useCases": [
+      "interview-note-takers",
+      "remote-hiring"
+    ],
+    "verdict": "Fireflies is the broadest general notetaker for multilingual interviews, with transcription in more than 100 languages and inexpensive seats, though recruiting teams will need to build their own templates and ATS handoff.",
+    "standout": "Transcription in 100+ languages across Zoom, Google Meet and Teams",
+    "weakness": "Built for meetings in general, not structured interviews",
+    "overview": "Fireflies sends a meeting assistant into Zoom, Google Meet, Teams and other platforms to record, transcribe and summarize calls, with action items and searchable transcripts. It lists transcription in more than 100 languages.\n\nIts November 2026 pricing page shows a free plan with unlimited transcription and limited AI summaries, Pro at $10 per seat per month and Business at $19 per seat per month billed annually, and Enterprise at $39 per seat per month with HIPAA compliance and custom data retention.",
+    "pros": [
+      "Free plan with unlimited transcription",
+      "100+ languages",
+      "Enterprise tier with custom retention and HIPAA"
+    ],
+    "cons": [
+      "No interview plan or scorecard structure out of the box",
+      "AI summaries limited on the free plan",
+      "Recruiting ATS sync needs extra setup"
+    ],
+    "alternatives": [
+      "otter",
+      "metaview"
+    ]
+  },
+  {
+    "slug": "hirelogic",
+    "name": "HireLogic",
+    "website": "https://hirelogic.com",
+    "category": "Interview intelligence",
+    "rating": 4.0,
+    "priceTier": "$",
+    "startingPrice": 0,
+    "bestFor": "staffing firms and HR teams that want interview notes plus intake call analysis",
+    "teamSize": "5 to 1,000 employees",
+    "trial": "Free sign-up",
+    "useCases": [
+      "interview-note-takers",
+      "staffing-agencies"
+    ],
+    "verdict": "HireLogic is a recruiting-specific note and insight tool with a free sign-up and dedicated plans for staffing and RPO firms, a good fit when intake calls matter as much as interviews.",
+    "standout": "Turns intake calls into job descriptions as well as summarizing interviews",
+    "weakness": "Smaller ecosystem and fewer ATS integrations than the category leaders",
+    "overview": "HireLogic records and analyzes interviews to produce notes and instant insights, and it also analyzes hiring manager intake calls to draft job descriptions. Newer features include an interview chatbot, an interview companion app, smart resume analysis and automated AI interviews.\n\nIt sells separate packages for HR teams and for staffing and RPO firms, and lets new users sign up free.",
+    "pros": [
+      "Recruiting-specific notes and insights",
+      "Intake call analysis for job descriptions",
+      "Free sign-up and a staffing and RPO package"
+    ],
+    "cons": [
+      "Less known brand, so do more reference checks",
+      "Fewer integrations than BrightHire or Metaview",
+      "Analytics depth varies by plan"
+    ],
+    "alternatives": [
+      "brighthire",
+      "metaview"
+    ]
+  }
 ]
