@@ -1639,5 +1639,147 @@
       "brighthire",
       "metaview"
     ]
-  }
+  },
+ {
+  "slug": "zoho-recruit",
+  "name": "Zoho Recruit",
+  "website": "https://www.zoho.com/recruit/",
+  "category": "Applicant Tracking System",
+  "rating": 4.2,
+  "priceTier": "$",
+  "startingPrice": 0,
+  "priceNote": "Forever Free plan; paid tiers from Standard",
+  "bestFor": "small teams that want a free ATS for one active job",
+  "teamSize": "1 to 500 employees",
+  "trial": "Forever Free plan and 15-day trial",
+  "useCases": [
+   "free-applicant-tracking-systems",
+   "small-business",
+   "staffing-agencies"
+  ],
+  "verdict": "Zoho Recruit is the most complete free ATS for a small company, with a clear upgrade path once hiring grows past one active job.",
+  "standout": "Forever Free plan with candidate management, email and interview scheduling",
+  "weakness": "Free plan allows one active job per recruiter license",
+  "overview": "Zoho Recruit serves both corporate HR teams and staffing agencies. The Forever Free plan covers recruitment basics: candidate management, email management, interview scheduling and support during business hours, limited to one active job per recruiter license.\n\nThe Standard tier raises that to ten active jobs and adds candidate sourcing, resume management, premium job boards, a branded careers site, referrals, assessments and reports. It also connects to the rest of the Zoho suite.",
+  "pros": [
+   "Genuinely free plan, not just a trial",
+   "Versions for corporate HR and staffing agencies",
+   "Large integration catalogue"
+  ],
+  "cons": [
+   "One active job on the free plan",
+   "Sourcing and job boards require a paid tier",
+   "Interface is dense for first-time users"
+  ],
+  "alternatives": [
+   "odoo-recruitment",
+   "workable"
+  ]
+ },
+ {
+  "slug": "homebase",
+  "name": "Homebase",
+  "website": "https://www.joinhomebase.com/hiring-and-onboarding",
+  "category": "Applicant Tracking System",
+  "rating": 4.1,
+  "priceTier": "$",
+  "startingPrice": 0,
+  "priceNote": "Hiring tools free; paid plans for scheduling and payroll",
+  "bestFor": "hourly teams in restaurants, retail and local services",
+  "teamSize": "1 to 100 employees",
+  "trial": "Free hiring tools; 14-day trial of paid plans",
+  "useCases": [
+   "free-applicant-tracking-systems",
+   "small-business",
+   "high-volume-hiring"
+  ],
+  "verdict": "Homebase is the easiest free way for an hourly business to post jobs and track applicants, especially if you already schedule shifts there.",
+  "standout": "Free job posting and applicant tracking inside a shift scheduling app",
+  "weakness": "Built for hourly roles, not salaried or professional searches",
+  "overview": "Homebase is a workforce app for small businesses that covers scheduling, time clocks, payroll and team communication. Its hiring tools let owners post jobs widely and track every applicant at no cost, with optional AI help on top.\n\nOnce a candidate is hired, onboarding happens in the same app, which removes a handoff that small shops often run on paper.",
+  "pros": [
+   "Free applicant tracking",
+   "Hiring connects to scheduling and onboarding",
+   "Designed for owners, not recruiters"
+  ],
+  "cons": [
+   "Limited structure for multi-round interviews",
+   "Best value requires paid workforce plans",
+   "Not suited to agency or technical hiring"
+  ],
+  "alternatives": [
+   "zoho-recruit",
+   "workable"
+  ]
+ },
+ {
+  "slug": "odoo-recruitment",
+  "name": "Odoo Recruitment",
+  "website": "https://www.odoo.com/app/recruitment",
+  "category": "Applicant Tracking System",
+  "rating": 4.0,
+  "priceTier": "$",
+  "startingPrice": 0,
+  "priceNote": "One App Free plan with unlimited users",
+  "bestFor": "companies that want many free seats or already run Odoo",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "One App Free plan",
+  "useCases": [
+   "free-applicant-tracking-systems",
+   "small-business"
+  ],
+  "verdict": "Odoo Recruitment is the free ATS to choose when many colleagues need access, as long as recruitment is the only Odoo app you use for free.",
+  "standout": "Unlimited users at $0 on the One App Free plan",
+  "weakness": "Adding a second Odoo app moves you to per user pricing",
+  "overview": "Odoo is a suite of business apps, and its One App Free plan lets you use one of them with unlimited users. Recruitment provides a pipeline per job position, automatic indexing of online applications, stage-based automated emails, self-scheduled interviews through Google Calendar and Outlook, and reporting by channel.\n\nHires can move straight into Odoo Employees and onboarding if you later upgrade to more apps.",
+  "pros": [
+   "Unlimited users on the free plan",
+   "Kanban pipeline and stage automation",
+   "Candidates can book their own interviews"
+  ],
+  "cons": [
+   "Free plan covers one app only",
+   "Fewer job board integrations than specialist ATS tools",
+   "Configuration takes some setup time"
+  ],
+  "alternatives": [
+   "zoho-recruit",
+   "opencats"
+  ]
+ },
+ {
+  "slug": "opencats",
+  "name": "OpenCATS",
+  "website": "https://www.opencats.org/",
+  "category": "Applicant Tracking System",
+  "rating": 3.6,
+  "priceTier": "$",
+  "startingPrice": 0,
+  "priceNote": "Free, open source and self-hosted",
+  "bestFor": "technical teams and agencies that want to host their own ATS",
+  "teamSize": "Any size, self-hosted",
+  "trial": "Free download and online demo",
+  "useCases": [
+   "free-applicant-tracking-systems",
+   "staffing-agencies"
+  ],
+  "verdict": "OpenCATS is the only option here with no usage limits at all, provided someone on your team will run and patch the server.",
+  "standout": "Free, community-maintained ATS and recruiting CRM with no vendor lock-in",
+  "weakness": "You handle hosting, backups and security updates yourself",
+  "overview": "OpenCATS is an open-source applicant tracking system and recruiting CRM maintained by its community. It manages candidates, jobs, submissions and hiring activity, and its source code is hosted on GitHub.\n\nBecause you host it, there are no seat or job caps. The project publishes security advisories and expects administrators to apply security releases promptly on every production instance.",
+  "pros": [
+   "No license fees or usage caps",
+   "Full ownership of candidate data",
+   "Agency-style submissions tracking"
+  ],
+  "cons": [
+   "Requires a server and technical upkeep",
+   "Dated interface",
+   "Community support only"
+  ],
+  "alternatives": [
+   "odoo-recruitment",
+   "zoho-recruit"
+  ]
+ }
 ]
