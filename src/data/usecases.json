@@ -1598,5 +1598,89 @@
         "a": "Recruiting-specific tools such as Metaview and BrightHire push notes and scorecards into common applicant tracking systems. General meeting tools usually stop at the transcript. Our <a href=\"/best-for/recruiting-crm/\">recruiting CRM ranking</a> covers the systems these notes usually land in."
       }
     ]
-  }
+  },
+ {
+  "slug": "free-applicant-tracking-systems",
+  "updated": "2026-11-07",
+  "title": "Best Free Applicant Tracking Systems",
+  "short": "Free applicant tracking systems",
+  "seoTitle": "Best Free Applicant Tracking Systems 2026: 5 ATS Options Ranked | BestRecruitmentTools.com",
+  "h1": "The best free applicant tracking systems in 2026",
+  "description": "Five free applicant tracking systems ranked: Zoho Recruit's Forever Free plan, Homebase hiring, Odoo Recruitment's One App Free plan, open-source OpenCATS and Gem's six free months for startups, with the limits of each.",
+  "intro": "Our pick: <b>Zoho Recruit</b> is the free ATS most small teams should start with, because its Forever Free plan includes candidate management, email and interview scheduling for one active job. <b>Homebase</b> is the better fit for restaurants and shops hiring hourly staff, <b>Odoo Recruitment</b> wins if you want unlimited users at no cost, and <b>OpenCATS</b> is the choice for anyone willing to host software themselves. <b>Gem</b> is not free forever, but companies under 30 employees get its full platform free for six months. Every free plan below has a ceiling, and the ceiling, not the feature list, is what decides which one you outgrow first.",
+  "ranked": [
+   {
+    "slug": "zoho-recruit",
+    "why": "The Forever Free plan covers recruitment basics for startups hiring their first teams: one active job per recruiter license, candidate management, email management, interview scheduling and support during business hours. When you need more openings, the Standard tier adds ten active jobs, sourcing, premium job boards and a branded careers site."
+   },
+   {
+    "slug": "homebase",
+    "why": "Homebase markets free AI hiring software and an ATS for small businesses: post jobs everywhere and track every applicant without paying. It is built around hourly teams, so scheduling, time clocks and onboarding live in the same app once you hire."
+   },
+   {
+    "slug": "odoo-recruitment",
+    "why": "Odoo's One App Free plan gives you one app with unlimited users at $0, and Recruitment can be that app. You get a kanban pipeline by job, automatic parsing of online applications, stage-based emails and self-scheduled interviews through Google Calendar or Outlook."
+   },
+   {
+    "slug": "opencats",
+    "why": "A free, community-maintained applicant tracking system and recruiting CRM you download and host yourself. No license fees and no vendor lock-in, but you are responsible for the server, backups and applying security releases."
+   },
+   {
+    "slug": "gem",
+    "why": "Through its startup program, companies under 30 employees get Gem All-in-One free for six months, including the ATS, AI sourcing and CRM, scheduling and analytics, then 50% off a paid plan. The strongest feature set here, on a clock."
+   }
+  ],
+  "sections": [
+   {
+    "h": "What \"free\" actually means for an ATS",
+    "p": [
+     "Free applicant tracking software falls into four models, and they behave very differently a year in. A <b>freemium tier</b> such as Zoho Recruit's limits active jobs, so it suits a company hiring one role at a time. A <b>single free app</b> such as Odoo's lets unlimited people collaborate, but adding a second Odoo app moves you to a per user price. A <b>free bundle</b> such as Homebase keeps hiring free because the vendor earns money on scheduling, payroll and other paid plans. <b>Open source</b>, like OpenCATS, has no limits at all but costs you hosting and admin time.",
+     "Then there are <b>time-limited offers</b>, like Gem's six free months for startups. These are worth taking if you expect to raise money or grow headcount, because migrating off a free tool later is the real cost. If you are still deciding whether you need an ATS at all, this <a href=\"https://www.noon.ai/learn/what-is-an-applicant-tracking-system\">plain guide to what an applicant tracking system does</a> covers the core functions in a few minutes."
+    ]
+   },
+   {
+    "h": "Limits to check before you sign up",
+    "p": [
+     "Count your open roles for the next six months, not today. One active job is plenty for a founder hiring an engineer, and painful for a clinic hiring front desk, nursing and billing staff at once.",
+     "Ask how you get your data out. Export of candidate records and resumes should be possible on the free plan; if it is gated behind an upgrade, you are not really on a free plan. OpenCATS is the safest here because you own the database outright."
+    ],
+    "list": [
+     "Active job or user caps and what happens when you exceed them",
+     "Whether job board posting is included or a paid add-on",
+     "Email and calendar sync on the free tier",
+     "Candidate data export and deletion for privacy requests",
+     "Support level, from business hours email to community forums"
+    ]
+   },
+   {
+    "h": "When a free ATS stops being enough",
+    "p": [
+     "The usual trigger is volume. Once several hiring managers need structured scorecards, approvals and reporting by source, a paid ATS such as Workable, Ashby or Greenhouse saves more time than it costs; our <a href=\"/best-for/small-business/\">small business ranking</a> compares those. A second trigger is sourcing: a free ATS stores applicants, but it does not find people who never applied. Teams in that position often add a sourcing tool with outreach, for example Noon, which finds candidates and contacts them by email and SMS, rather than paying for a bigger ATS.",
+     "For the wider set of no-cost hiring software, including job boards, scheduling and assessments, see our list of <a href=\"/best-for/free-recruitment-tools/\">free recruitment tools</a>. Early-stage teams should also read the <a href=\"/best-for/startups/\">startup ranking</a>, which weighs what to pay for first."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is there a completely free applicant tracking system?",
+    "a": "Yes. OpenCATS is free and open source with no usage limits if you host it yourself. Among hosted options, Zoho Recruit's Forever Free plan, Odoo's One App Free plan and Homebase's hiring tools cost nothing, each with its own limits."
+   },
+   {
+    "q": "What is the best free ATS for small businesses?",
+    "a": "Zoho Recruit for most small offices hiring one role at a time, Homebase for hourly teams in retail, restaurants and services, and Odoo Recruitment when many people need access without per user fees."
+   },
+   {
+    "q": "What are the limits of Zoho Recruit's free plan?",
+    "a": "The Forever Free plan allows one active job per recruiter license and includes candidate management, email management and interview scheduling. Sourcing, premium job boards and a branded careers site start on the Standard tier."
+   },
+   {
+    "q": "Is Gem free for startups?",
+    "a": "Gem says companies under 30 employees get Gem All-in-One free for six months, then 50% off when they move to a paid plan. After the six months it is a paid product."
+   },
+   {
+    "q": "Is open-source ATS software safe to use?",
+    "a": "It can be, if someone maintains it. OpenCATS asks administrators to monitor its published security advisories and apply security releases promptly on every production instance."
+   }
+  ]
+ }
 ]

@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 45 tools rated 1–5; 20 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 49 tools rated 1–5; 21 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -37,6 +37,7 @@
 - [Best AI Hiring Tools](https://bestrecruitmenttools.com/best-for/ai-hiring-tools/): 1. Noon, 2. Paradox, 3. HireVue, 4. Metaview, 5. CodeSignal, 6. TestGorilla, 7. Ashby, 8. Fountain, 9. GoodTime
 - [Best Recruiting CRM for In-House Teams](https://bestrecruitmenttools.com/best-for/recruiting-crm/): 1. Gem, 2. Ashby, 3. Lever, 4. Avature, 5. Beamery, 6. Phenom, 7. Teamtailor, 8. Pinpoint, 9. Noon
 - [Best Interview Note Takers](https://bestrecruitmenttools.com/best-for/interview-note-takers/): 1. Metaview, 2. BrightHire, 3. HireLogic, 4. Noon, 5. Otter, 6. Fireflies
+- [Best Free Applicant Tracking Systems](https://bestrecruitmenttools.com/best-for/free-applicant-tracking-systems/): 1. Zoho Recruit, 2. Homebase, 3. Odoo Recruitment, 4. OpenCATS, 5. Gem
 
 ## Comparisons
 
@@ -85,6 +86,7 @@
 - [hireEZ](https://bestrecruitmenttools.com/reviews/hireez/): Talent search, 4.0/5, $$$, best for agencies and enterprise sourcers who want AI search plus CRM.
 - [HireLogic](https://bestrecruitmenttools.com/reviews/hirelogic/): Interview intelligence, 4.0/5, $, best for staffing firms and HR teams that want interview notes plus intake call analysis.
 - [HireVue](https://bestrecruitmenttools.com/reviews/hirevue/): Video interviews & assessments, 4.0/5, $$$$, best for large employers running structured video interviews and assessments at volume.
+- [Homebase](https://bestrecruitmenttools.com/reviews/homebase/): Applicant Tracking System, 4.1/5, $, best for hourly teams in restaurants, retail and local services.
 - [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
 - [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
 - [Juicebox](https://bestrecruitmenttools.com/reviews/juicebox/): AI search & sourcing, 4.3/5, $$, best for recruiters who want natural-language search with self-serve pricing.
@@ -95,6 +97,8 @@
 - [Manatal](https://bestrecruitmenttools.com/reviews/manatal/): Applicant tracking, 3.9/5, $, best for very low-cost ATS for agencies and small teams.
 - [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
 - [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
+- [Odoo Recruitment](https://bestrecruitmenttools.com/reviews/odoo-recruitment/): Applicant Tracking System, 4.0/5, $, best for companies that want many free seats or already run Odoo.
+- [OpenCATS](https://bestrecruitmenttools.com/reviews/opencats/): Applicant Tracking System, 3.6/5, $, best for technical teams and agencies that want to host their own ATS.
 - [Otter](https://bestrecruitmenttools.com/reviews/otter/): AI meeting notes, 4.0/5, $, best for recruiters who want cheap, general meeting transcription across Zoom, Teams and Meet.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
 - [Phenom](https://bestrecruitmenttools.com/reviews/phenom/): Talent CRM, 4.2/5, $$$$, best for enterprises whose CRM is fed mainly by the career site.
@@ -107,6 +111,7 @@
 - [Wellfound](https://bestrecruitmenttools.com/reviews/wellfound/): Job boards & advertising, 3.9/5, $, best for startups hiring candidates who want to work at startups.
 - [Workable](https://bestrecruitmenttools.com/reviews/workable/): Applicant tracking, 4.2/5, $$, best for small businesses that want publishing + ATS fast.
 - [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/): Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
+- [Zoho Recruit](https://bestrecruitmenttools.com/reviews/zoho-recruit/): Applicant Tracking System, 4.2/5, $, best for small teams that want a free ATS for one active job.
 
 ## About
 
