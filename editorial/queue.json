@@ -17,7 +17,9 @@
    "keyword": "interview note takers",
    "volume": 22200,
    "noon_target": "/product/ai-notetaker",
-   "status": "queued"
+   "status": "published",
+   "slug": "interview-note-takers",
+   "date": "2026-11-07"
   },
   {
    "id": "brt-003",

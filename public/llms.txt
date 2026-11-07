@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 42 tools rated 1–5; 19 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 45 tools rated 1–5; 20 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -36,6 +36,7 @@
 - [Best AI Tools for Talent Acquisition](https://bestrecruitmenttools.com/best-for/ai-tools-for-talent-acquisition/): 1. Noon, 2. Eightfold AI, 3. Ashby, 4. Gem, 5. Paradox, 6. Metaview, 7. Findem, 8. GoodTime, 9. HireVue, 10. CodeSignal
 - [Best AI Hiring Tools](https://bestrecruitmenttools.com/best-for/ai-hiring-tools/): 1. Noon, 2. Paradox, 3. HireVue, 4. Metaview, 5. CodeSignal, 6. TestGorilla, 7. Ashby, 8. Fountain, 9. GoodTime
 - [Best Recruiting CRM for In-House Teams](https://bestrecruitmenttools.com/best-for/recruiting-crm/): 1. Gem, 2. Ashby, 3. Lever, 4. Avature, 5. Beamery, 6. Phenom, 7. Teamtailor, 8. Pinpoint, 9. Noon
+- [Best Interview Note Takers](https://bestrecruitmenttools.com/best-for/interview-note-takers/): 1. Metaview, 2. BrightHire, 3. HireLogic, 4. Noon, 5. Otter, 6. Fireflies
 
 ## Comparisons
 
@@ -75,12 +76,14 @@
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
 - [Findem](https://bestrecruitmenttools.com/reviews/findem/): Talent data & sourcing platform, 4.1/5, $$$, best for mid-market and enterprise TA teams that want attribute-based search, CRM and sourcing agents.
+- [Fireflies](https://bestrecruitmenttools.com/reviews/fireflies/): AI meeting notes, 4.0/5, $, best for teams that interview in many languages and want unlimited transcription on a budget.
 - [Fountain](https://bestrecruitmenttools.com/reviews/fountain/): High-volume hiring platform, 4.0/5, $$$, best for frontline and gig workforce hiring pipelines.
 - [Gem](https://bestrecruitmenttools.com/reviews/gem/): Recruiting CRM, 4.4/5, $$$, best for sourcing teams that need a CRM and outreach layer on top of their ATS.
 - [GoodTime](https://bestrecruitmenttools.com/reviews/goodtime/): Interview scheduling, 4.3/5, $$$, best for coordinating complex interview loops at scale.
 - [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/): Applicant tracking, 4.5/5, $$$, best for mid-market structured hiring.
 - [HackerRank](https://bestrecruitmenttools.com/reviews/hackerrank/): Skills assessment, 4.1/5, $$, best for technical screening with a self-serve entry point.
 - [hireEZ](https://bestrecruitmenttools.com/reviews/hireez/): Talent search, 4.0/5, $$$, best for agencies and enterprise sourcers who want AI search plus CRM.
+- [HireLogic](https://bestrecruitmenttools.com/reviews/hirelogic/): Interview intelligence, 4.0/5, $, best for staffing firms and HR teams that want interview notes plus intake call analysis.
 - [HireVue](https://bestrecruitmenttools.com/reviews/hirevue/): Video interviews & assessments, 4.0/5, $$$$, best for large employers running structured video interviews and assessments at volume.
 - [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
 - [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
@@ -92,6 +95,7 @@
 - [Manatal](https://bestrecruitmenttools.com/reviews/manatal/): Applicant tracking, 3.9/5, $, best for very low-cost ATS for agencies and small teams.
 - [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
 - [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
+- [Otter](https://bestrecruitmenttools.com/reviews/otter/): AI meeting notes, 4.0/5, $, best for recruiters who want cheap, general meeting transcription across Zoom, Teams and Meet.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
 - [Phenom](https://bestrecruitmenttools.com/reviews/phenom/): Talent CRM, 4.2/5, $$$$, best for enterprises whose CRM is fed mainly by the career site.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.

@@ -1522,5 +1522,81 @@
     "a": "Gem lists from about $1,500 a month in our data; enterprise suites such as Avature, Beamery and Phenom are quote-only and usually sold on annual contracts."
    }
   ]
- }
+ },
+  {
+    "slug": "interview-note-takers",
+    "updated": "2026-11-07",
+    "title": "Best Interview Note Takers",
+    "short": "Interview note takers",
+    "seoTitle": "Best Interview Note Takers 2026: 6 AI Tools Ranked for Recruiters | BestRecruitmentTools.com",
+    "h1": "The best interview note takers for recruiters in 2026",
+    "description": "Six AI interview note takers ranked for recruiting teams: Metaview, BrightHire, HireLogic, Noon, Otter and Fireflies, with pricing, ATS scorecard sync and when a general meeting bot is enough.",
+    "intro": "Verdict first: <b>Metaview</b> is the interview note taker most recruiting teams should trial, <b>BrightHire</b> is the stronger pick when you also want interviewer coaching, and <b>HireLogic</b> suits staffing desks that live on intake calls. <b>Otter</b> and <b>Fireflies</b> are fine for a two-person team on a budget, provided someone is willing to copy notes into the ATS. The split that matters is simple: recruiting-specific tools write notes against your scorecard; general meeting bots write a transcript and leave the rest to you.",
+    "ranked": [
+      {
+        "slug": "metaview",
+        "why": "Notes, scorecards and follow-ups are produced automatically from each interview, and the product has grown into a wider recruiting agent platform with sourcing and screening. A free starting tier makes it easy to test on one hiring team."
+      },
+      {
+        "slug": "brighthire",
+        "why": "AI interview notes with templates you can customize, scorecards filled into the ATS, interview planning and fraud detection. Best when hiring leaders want to see how each interviewer runs a conversation, not just what was said."
+      },
+      {
+        "slug": "hirelogic",
+        "why": "Interview notes and instant insights plus intake call analysis that drafts job descriptions, with a package aimed at staffing and RPO firms and a free sign-up."
+      },
+      {
+        "slug": "noon",
+        "why": "Noon's interview notetaker joins live interviews, labels speakers, summarizes, flags which planned questions were covered and saves the result on the candidate record. Most useful for teams already sourcing and contacting candidates by email and SMS in Noon."
+      },
+      {
+        "slug": "otter",
+        "why": "The cheapest dependable transcript: a free Basic plan, Pro at $8.33 per user per month on annual billing, and support for Zoom, Teams and Google Meet. No scorecard structure."
+      },
+      {
+        "slug": "fireflies",
+        "why": "Unlimited transcription on the free plan and more than 100 languages, which helps teams interviewing across regions. Paid seats start at $10 per month on annual billing."
+      }
+    ],
+    "sections": [
+      {
+        "h": "Recruiting note taker or meeting bot?",
+        "p": [
+          "A recruiting note taker knows the interview plan. It maps what the candidate said to the competencies on the scorecard, drafts the feedback form and pushes it into Greenhouse, Ashby or whichever ATS you use. A meeting bot records and summarizes, which is useful, but the interviewer still has to translate a transcript into a hiring signal.",
+          "That translation step is where most of the time goes. If your interviewers routinely submit feedback days late, a recruiting-specific tool is worth the higher price. Some sourcing platforms now bundle one as well; <a href=\"https://www.noon.ai/product/ai-notetaker\">Noon's AI notetaker</a>, for example, checks which planned questions were covered and files the summary on the candidate record. If you run a handful of interviews a week and already write good notes, a free tier from Otter or Fireflies covers the gap."
+        ]
+      },
+      {
+        "h": "Consent and candidate experience",
+        "p": [
+          "Every tool here records the call, so tell candidates in the invite and again at the start, and check the recording consent rules in each state or country where you interview. Some candidates relax once they know the interviewer is not typing; others ask for the bot to leave, and your process should allow that.",
+          "Decide how long recordings are kept before you roll out. Enterprise plans from Fireflies and the recruiting vendors offer custom retention; free plans often do not."
+        ]
+      },
+      {
+        "h": "How we ranked them",
+        "p": [
+          "We weighted scorecard and ATS integration most heavily, then note quality on structured interviews, admin controls, and price. Vendor features and prices were checked on each vendor's site in November 2026. For a broader look at interview software, see our <a href=\"/best-for/ai-interview-tools/\">AI interview tools ranking</a>, and our <a href=\"/how-we-rank/\">ranking method</a> explains the scoring."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the best AI note taker for interviews?",
+        "a": "Metaview for most in-house recruiting teams, BrightHire if you also want interviewer coaching and analytics, and HireLogic for staffing firms that want intake call analysis as well."
+      },
+      {
+        "q": "Can I use Otter or Fireflies for job interviews?",
+        "a": "Yes. Both transcribe and summarize interviews on Zoom, Teams and Google Meet, and both have free plans. They do not fill ATS scorecards, so plan to copy key points across yourself."
+      },
+      {
+        "q": "Do I need candidate consent to record an interview?",
+        "a": "You should always tell candidates the call is recorded and why. Some U.S. states and many countries require consent from every party, so get the notice into the calendar invite and repeat it at the start of the call."
+      },
+      {
+        "q": "Do interview note takers integrate with an ATS?",
+        "a": "Recruiting-specific tools such as Metaview and BrightHire push notes and scorecards into common applicant tracking systems. General meeting tools usually stop at the transcript. Our <a href=\"/best-for/recruiting-crm/\">recruiting CRM ranking</a> covers the systems these notes usually land in."
+      }
+    ]
+  }
 ]
