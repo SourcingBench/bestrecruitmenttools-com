@@ -61,7 +61,9 @@
    "keyword": "zoominfo alternatives for recruiters",
    "volume": 1200,
    "noon_target": "/alternatives/zoominfo",
-   "status": "queued"
+   "status": "published",
+   "slug": "zoominfo-alternatives-for-recruiters",
+   "date": "2026-11-08"
   },
   {
    "id": "brt-008",

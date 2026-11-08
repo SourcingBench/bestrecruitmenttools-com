@@ -224,7 +224,8 @@
    "staffing-agencies",
    "passive-candidates",
    "linkedin-recruiter-alternatives",
-   "ai-interview-tools"
+   "ai-interview-tools",
+   "zoominfo-alternatives-for-recruiters"
   ],
   "verdict": "Noon is an autonomous sourcing agent: you describe the role, it searches, ranks and verifies contact details, then runs personalised email and SMS outreach and hands you replies. It replaces the first three hours of a recruiter's day rather than making them faster.",
   "standout": "Runs the full source-to-reply loop over email and SMS, and bundles a voice AI interviewer and interview notetaker for the candidates it finds",
@@ -325,7 +326,8 @@
    "tech-hiring",
    "diversity-hiring",
    "passive-candidates",
-   "linkedin-recruiter-alternatives"
+   "linkedin-recruiter-alternatives",
+   "zoominfo-alternatives-for-recruiters"
   ],
   "verdict": "Gem is the best talent CRM for in-house sourcing teams: sequences, talent pools, pipeline analytics and now its own ATS, all designed around how recruiters actually work in a browser.",
   "standout": "Sequencing and pipeline analytics built for sourcers, with a strong Chrome extension",
@@ -363,7 +365,8 @@
    "tech-hiring",
    "enterprise",
    "passive-candidates",
-   "linkedin-recruiter-alternatives"
+   "linkedin-recruiter-alternatives",
+   "zoominfo-alternatives-for-recruiters"
   ],
   "verdict": "SeekOut is the most powerful people-search engine for hard technical and under-represented talent, with filters (patents, publications, GitHub, security clearance) that LinkedIn simply does not offer.",
   "standout": "Depth of filters for engineering, clinical and cleared talent",
@@ -400,7 +403,8 @@
    "staffing-agencies",
    "enterprise",
    "passive-candidates",
-   "linkedin-recruiter-alternatives"
+   "linkedin-recruiter-alternatives",
+   "zoominfo-alternatives-for-recruiters"
   ],
   "verdict": "hireEZ (formerly Hiretual) is a strong all-round outbound platform: AI-assisted search across 800 million profiles, contact finding, sequences and a CRM, popular with agencies and large TA teams alike.",
   "standout": "AI search that turns a job description into a ranked candidate list across many sources",
@@ -473,7 +477,8 @@
    "free-recruitment-tools",
    "staffing-agencies",
    "passive-candidates",
-   "linkedin-recruiter-alternatives"
+   "linkedin-recruiter-alternatives",
+   "zoominfo-alternatives-for-recruiters"
   ],
   "verdict": "Apollo is a sales tool, but a surprising number of recruiters use it for what it is: an inexpensive source of verified work emails and phone numbers with a competent sequencing engine attached.",
   "standout": "Verified contact data and sequences from under $50 a seat, with a free tier",
@@ -1305,7 +1310,8 @@
   "trial": "Free plan",
   "useCases": [
    "ai-recruitment-tools",
-   "candidate-sourcing"
+   "candidate-sourcing",
+   "zoominfo-alternatives-for-recruiters"
   ],
   "verdict": "Juicebox (PeopleGPT) is a natural-language people search: type the role in plain English and it returns ranked profiles with contact details and AI-drafted emails. It is the best self-serve AI search tool, but the recruiter still drives each search and most of the follow-up.",
   "standout": "Plain-English search with published, self-serve pricing and a free tier",
