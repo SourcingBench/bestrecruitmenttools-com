@@ -1844,5 +1844,94 @@
     "a": "Gem, hireEZ and SeekOut all publish ATS integrations, Loxo includes its own ATS, and Juicebox offers ATS or CRM integration on its Business plan."
    }
   ]
+ },
+ {
+  "slug": "candidate-fraud-detection-tools",
+  "updated": "2026-11-09",
+  "title": "Best Candidate Fraud Detection Tools",
+  "short": "Candidate fraud detection tools",
+  "seoTitle": "Best Candidate Fraud Detection Tools 2026: 7 Ranked | BestRecruitmentTools.com",
+  "h1": "The best candidate fraud detection tools in 2026",
+  "description": "Seven candidate fraud detection tools ranked for 2026, from application screening and ATS level identity checks to live deepfake detection in interviews and post offer verification: Noon, Greenhouse Real Talent, Talview, GetReal Security, Pindrop, Checkr and Certn.",
+  "intro": "Verdict first: no single product catches every fake candidate, because fraud shows up at three different moments. A fabricated profile arrives with the application, a proxy or deepfake appears in the interview, and a borrowed identity surfaces at the background check. The best setup puts one tool at each gate. Pindrop says one in six job applicants showed signs of fraud, and GetReal Security's candidate fraud page cites a Gartner forecast that a quarter of applicants will be fake by 2028. We ranked seven tools by how early they stop a fraudulent candidate, how much recruiter time they save and how clearly they explain each flag.",
+  "ranked": [
+   {
+    "slug": "noon",
+    "why": "Noon runs fraud checks on every inbound applicant and every sourced profile before a recruiter spends time on them. Applications pulled from your ATS are checked for VPN, proxy and datacenter connections, mismatches between claimed location and observed timezone, and disposable email domains; sourced profiles are built from the public record and tested for overlapping tenures and implausible career jumps. The signals combine into one explainable flag that follows the candidate across roles, and contact emails are verified before any email or SMS outreach goes out. It is free to start, with paid plans quoted per team."
+   },
+   {
+    "slug": "greenhouse",
+    "why": "Greenhouse Real Talent adds fraud detection, identity verification and AI candidate matching inside the ATS, so suspicious applications are flagged and spam is blocked where recruiters already work. If Greenhouse is your system of record, this is the lowest friction way to add a first fraud gate."
+   },
+   {
+    "slug": "talview",
+    "why": "Talview's candidate verification matches a selfie or ID scan against a base image and keeps checking face, voice and device during the interview, which is the most direct answer to proxy interviewing. It works best when your interviews or assessments already run on Talview."
+   },
+   {
+    "slug": "getreal-security",
+    "why": "GetReal Security detects manipulated audio and video in live meetings and has a candidate fraud solution aimed at imposters using deepfakes in remote interviews. Pick it when a fake hire would be a security incident, for example in engineering roles with system access."
+   },
+   {
+    "slug": "pindrop",
+    "why": "Pindrop applies its voice and deepfake detection, a large signal set and a database of known bad actors to calls and virtual meetings, including fake job candidates. It suits enterprises whose security teams already buy this category."
+   },
+   {
+    "slug": "checkr",
+    "why": "Checkr verifies identity, employment and criminal history at the offer stage through ATS integrations. It will not stop a fake applicant from consuming interview time, but it is the last gate before access is granted."
+   },
+   {
+    "slug": "certn",
+    "why": "Certn covers credential and employment verification, international checks in more than 200 countries and territories and continuous monitoring after hire. It is the stronger pick when you hire across borders or need to recheck workers over time."
+   }
+  ],
+  "sections": [
+   {
+    "h": "Three gates where fraud gets caught",
+    "p": [
+     "Think of candidate fraud as a pipeline problem. At the application gate, the question is whether the person and the work history are real; network signals, email reputation and career consistency checks answer that cheaply and at scale. At the interview gate, the question is whether the person on camera is the person who applied; face, voice and device verification or deepfake detection handle that. At the offer gate, the question is whether the identity and credentials hold up legally; background screening answers it.",
+     "Most teams start at the last gate because they already pay for background checks. That is the most expensive place to discover a problem, after a recruiter screen, a hiring manager interview and a technical loop. Moving detection to the application stage is what saves the most hours. For the screening tools that sit next to these products, see our <a href=\"/best-for/ai-interview-tools/\">AI interview tools ranking</a>."
+    ]
+   },
+   {
+    "h": "How to choose for your stack",
+    "p": [
+     "If you already run Greenhouse, turn on Real Talent and measure how many flags it raises in a month before buying anything else. If your sourcing and first screening happen in one place, a tool that scores fraud at the same moment it evaluates fit, such as <a href=\"https://www.noon.ai/product/fraud-detection\">Noon's candidate fraud screening</a>, keeps the flag next to the evaluation rather than in a separate dashboard.",
+     "Remote engineering and IT hiring justify an interview stage tool. Talview is the pick when you want verification wrapped around the interview, while GetReal Security and Pindrop fit organizations where the CISO owns the risk. Keep Checkr or Certn for the offer stage regardless; they answer legal and compliance questions the other tools do not. Teams comparing broader platforms can start with our <a href=\"/best-for/ai-hiring-tools/\">AI hiring tools list</a> or the <a href=\"/best-for/enterprise/\">enterprise recruiting software ranking</a>."
+    ]
+   },
+   {
+    "h": "What a good fraud flag looks like",
+    "p": [
+     "A useful flag names the signals that fired, such as a datacenter IP plus a timezone that does not match the stated city, and lets a recruiter decide. A bare risk score with no explanation trains people to ignore it, and it creates fairness problems if candidates are rejected on signals nobody can describe. Ask every vendor to show a sample flag and the audit trail behind it.",
+     "Plan for false positives. Candidates travel, use corporate VPNs and change email providers. Treat one anomaly as context and several together as a reason for a verification step, such as a live video call with ID, rather than an automatic rejection."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is candidate fraud?",
+    "a": "Candidate fraud covers fabricated resumes, fake or borrowed identities, proxy interviewers who stand in for the real applicant, and deepfake audio or video used in remote interviews. It ranges from embellishment to organized schemes to gain system access."
+   },
+   {
+    "q": "What is the best candidate fraud detection tool?",
+    "a": "Noon ranks first for catching fraud at the application and sourcing stage, Greenhouse Real Talent is the easiest add for Greenhouse users, and Talview leads for verifying identity during interviews. Most teams combine one early check with a background check at offer."
+   },
+   {
+    "q": "Can background checks catch fake candidates?",
+    "a": "They catch some identity and credential problems, but only at the offer stage, after the fraudulent candidate has used interview time. Earlier checks on applications and interviews stop fraud sooner."
+   },
+   {
+    "q": "How do you detect a deepfake in a job interview?",
+    "a": "Interview stage tools such as GetReal Security, Pindrop and Talview analyze audio, video and device signals during the call. Simple steps help too: ask the candidate to turn their head, hold up ID and answer follow up questions about details on their resume."
+   },
+   {
+    "q": "Do fraud detection tools create bias risk?",
+    "a": "They can if candidates are rejected on unexplained scores. Choose tools that show which signals fired, route flags to a human decision and give candidates a way to verify themselves."
+   },
+   {
+    "q": "Is there a free candidate fraud detection tool?",
+    "a": "Noon is free to start and includes fraud checks on inbound and sourced candidates. Interview stage deepfake tools and background screening are paid, with Checkr priced per check."
+   }
+  ]
  }
 ]
