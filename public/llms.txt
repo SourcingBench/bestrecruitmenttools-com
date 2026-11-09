@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 49 tools rated 1–5; 21 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 49 tools rated 1–5; 23 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -38,6 +38,8 @@
 - [Best Recruiting CRM for In-House Teams](https://bestrecruitmenttools.com/best-for/recruiting-crm/): 1. Gem, 2. Ashby, 3. Lever, 4. Avature, 5. Beamery, 6. Phenom, 7. Teamtailor, 8. Pinpoint, 9. Noon
 - [Best Interview Note Takers](https://bestrecruitmenttools.com/best-for/interview-note-takers/): 1. Metaview, 2. BrightHire, 3. HireLogic, 4. Noon, 5. Otter, 6. Fireflies
 - [Best Free Applicant Tracking Systems](https://bestrecruitmenttools.com/best-for/free-applicant-tracking-systems/): 1. Zoho Recruit, 2. Homebase, 3. Odoo Recruitment, 4. OpenCATS, 5. Gem
+- [Best ZoomInfo Alternatives for Recruiters](https://bestrecruitmenttools.com/best-for/zoominfo-alternatives-for-recruiters/): 1. Noon, 2. SeekOut, 3. hireEZ, 4. Gem, 5. Juicebox, 6. Apollo.io
+- [Best Apollo Alternatives for Recruiting](https://bestrecruitmenttools.com/best-for/apollo-alternatives-for-recruiting/): 1. Noon, 2. Gem, 3. Juicebox, 4. Loxo, 5. hireEZ, 6. SeekOut
 
 ## Comparisons
 
