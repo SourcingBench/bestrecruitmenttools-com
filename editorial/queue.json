@@ -121,7 +121,9 @@
    "keyword": "candidate fraud detection tools",
    "volume": null,
    "noon_target": "/product/fraud-detection",
-   "status": "queued"
+   "status": "published",
+   "slug": "candidate-fraud-detection-tools",
+   "date": "2026-11-09"
   },
   {
    "id": "brt-015",

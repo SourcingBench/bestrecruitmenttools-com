@@ -46,6 +46,7 @@
   "teamSize": "100\u201310,000 employees",
   "trial": "Demo only",
   "useCases": [
+   "candidate-fraud-detection-tools",
    "enterprise",
    "tech-hiring",
    "diversity-hiring"
@@ -217,6 +218,7 @@
   "teamSize": "5\u20132,000 employees",
   "trial": "Free to start; paid plan quoted per team",
   "useCases": [
+   "candidate-fraud-detection-tools",
    "candidate-sourcing",
    "ai-recruitment-tools",
    "startups",
@@ -902,6 +904,7 @@
   "teamSize": "Any",
   "trial": "Pay per check",
   "useCases": [
+   "candidate-fraud-detection-tools",
    "high-volume-hiring",
    "small-business",
    "enterprise"
@@ -937,6 +940,7 @@
   "teamSize": "Any",
   "trial": "Pay per check",
   "useCases": [
+   "candidate-fraud-detection-tools",
    "remote-hiring",
    "enterprise"
   ],
@@ -1792,6 +1796,111 @@
   "alternatives": [
    "odoo-recruitment",
    "zoho-recruit"
+  ]
+ },
+ {
+  "slug": "getreal-security",
+  "name": "GetReal Security",
+  "website": "https://www.getrealsecurity.com",
+  "category": "Deepfake & identity fraud detection",
+  "rating": 4.3,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "priceNote": "Enterprise quote; no published price",
+  "bestFor": "security and talent teams worried about deepfake candidates in remote interviews",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "candidate-fraud-detection-tools",
+   "enterprise"
+  ],
+  "verdict": "GetReal Security is a deepfake detection company with a dedicated candidate fraud use case. It suits employers that treat a fake hire as an insider threat and want security tooling inside their interview calls.",
+  "standout": "Real time detection of manipulated audio and video in live meetings, from a team led by deepfake researchers",
+  "weakness": "Built for security buyers; recruiters will need IT to deploy and tune it",
+  "overview": "GetReal Security sells detection and forensic tools for synthetic media. Its candidate fraud solution focuses on imposters who use deepfakes and deception in remote interviews, and the company also markets products for executive impersonation and help desk social engineering. Co-founder and chief science officer Hany Farid is a well known researcher on manipulated media.\n\nFor hiring teams the appeal is protection at the interview itself, which is where face swaps and voice clones show up. Pricing is quoted per deployment.",
+  "pros": [
+   "Live interview deepfake detection",
+   "Staffing and recruiting use case documented",
+   "Forensic expertise behind the product"
+  ],
+  "cons": [
+   "No published pricing",
+   "Security style rollout",
+   "Does not screen resumes or applications"
+  ],
+  "alternatives": [
+   "pindrop",
+   "talview"
+  ]
+ },
+ {
+  "slug": "talview",
+  "name": "Talview",
+  "website": "https://www.talview.com",
+  "category": "Interview integrity & proctoring",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "priceNote": "Unit based pricing quoted by candidate volume",
+  "bestFor": "teams that want identity checks built into interviews and assessments",
+  "teamSize": "Mid-market to enterprise",
+  "trial": "Free trial and demo",
+  "useCases": [
+   "candidate-fraud-detection-tools",
+   "ai-interview-tools"
+  ],
+  "verdict": "Talview combines interviewing, proctoring and candidate verification, so the identity check happens inside the same session where the candidate is assessed. It is the most direct fix for proxy interviews.",
+  "standout": "Face, voice and device checks before and during every interview",
+  "weakness": "Most valuable if you run interviews or assessments in Talview itself",
+  "overview": "Talview started in online proctoring and now sells AI interviewing, live interview rooms and a candidate verification product. Candidates submit a selfie or ID scan that is matched against a base image, and the platform keeps checking face, voice and device during the session to surface proxy candidates.\n\nTwo way ATS integrations let recruiters follow a flagged candidate through the process. Pricing is unit based and sized by candidate volume.",
+  "pros": [
+   "Verification tied to the interview session",
+   "Proctoring heritage for assessments",
+   "SOC 2 and ISO 27001 listed"
+  ],
+  "cons": [
+   "Quote based pricing",
+   "Less useful if interviews happen elsewhere",
+   "Candidates must accept camera checks"
+  ],
+  "alternatives": [
+   "hirevue",
+   "getreal-security"
+  ]
+ },
+ {
+  "slug": "pindrop",
+  "name": "Pindrop",
+  "website": "https://www.pindrop.com",
+  "category": "Deepfake & identity fraud detection",
+  "rating": 4.0,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "priceNote": "Enterprise quote; no published price",
+  "bestFor": "large employers already using voice security who now see fake applicants",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "candidate-fraud-detection-tools",
+   "enterprise"
+  ],
+  "verdict": "Pindrop brings voice and deepfake detection from bank contact centers to hiring. It fits enterprises with phone and video screening at scale and a security team that already buys this category.",
+  "standout": "Large signal set and known bad actor database applied to calls and meetings",
+  "weakness": "Hiring is one use case among many; recruiting workflows are not its core",
+  "overview": "Pindrop is known for voice authentication and fraud detection in contact centers. It now markets a use case for catching fake job candidates alongside insider threat detection, and its site says one in six job applicants showed signs of fraud.\n\nThe product inspects calls and virtual meetings for synthetic voices, bots and risky signals. Recruiting teams usually reach it through their security organization.",
+  "pros": [
+   "Mature voice and deepfake detection",
+   "Covers phone screens as well as video",
+   "Strong enterprise security footprint"
+  ],
+  "cons": [
+   "No public pricing",
+   "Not built around recruiter workflows",
+   "Overkill for small teams"
+  ],
+  "alternatives": [
+   "getreal-security",
+   "talview"
   ]
  }
 ]
