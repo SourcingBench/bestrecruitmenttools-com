@@ -1902,5 +1902,73 @@
    "getreal-security",
    "talview"
   ]
+ },
+ {
+  "slug": "contactout",
+  "name": "ContactOut",
+  "website": "https://contactout.com",
+  "category": "Contact data & outreach",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Free sign up with limited searches; paid plans on the ContactOut pricing page",
+  "bestFor": "recruiters who need personal emails and direct dials for candidates they already found",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "Free plan",
+  "useCases": [
+   "rocketreach-alternatives"
+  ],
+  "verdict": "ContactOut is a contact finder with a large personal email dataset and a Chrome extension that works on profile pages. It suits recruiters whose main gap is reaching a candidate, not finding one.",
+  "standout": "Personal email coverage, which matters more for candidates than work email",
+  "weakness": "Search and outreach are lighter than in dedicated sourcing platforms",
+  "overview": "ContactOut sells a search portal, a Chrome extension, Gmail enrichment, email campaigns and a data enrichment API. Its homepage reports 800 million people profiles, 150 million personal emails, 200 million work emails and 100 million direct dials, with SOC 2 certification and GDPR and CCPA compliance.",
+  "pros": [
+   "Strong personal email coverage",
+   "Chrome extension works where recruiters already browse",
+   "Has a dedicated recruiter use case"
+  ],
+  "cons": [
+   "Pricing details sit behind the pricing page and change often",
+   "Campaign features are basic",
+   "Data coverage outside North America varies"
+  ],
+  "alternatives": [
+   "lusha",
+   "noon"
+  ]
+ },
+ {
+  "slug": "lusha",
+  "name": "Lusha",
+  "website": "https://www.lusha.com",
+  "category": "Contact data & outreach",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Free plan with 40 credits a month; paid plans priced by credits",
+  "bestFor": "small teams that want a free, credit based phone and email finder with a browser extension",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "Free plan",
+  "useCases": [
+   "rocketreach-alternatives"
+  ],
+  "verdict": "Lusha is a credit based contact data tool built mainly for sales teams, with a usable free plan and strong compliance paperwork. Recruiters use it for quick phone and email lookups.",
+  "standout": "Published security certifications, including SOC 2 Type II and ISO 27001",
+  "weakness": "Phone numbers cost several times more credits than emails",
+  "overview": "Lusha offers a browser extension, a prospecting workspace, CRM integrations and an API. Its pricing page says the free plan includes up to 40 credits a month, and its site lists GDPR and CCPA compliance and certifications including SOC 2 Type II, ISO 27001, ISO 27701 and ISO 42001.",
+  "pros": [
+   "Free plan with monthly credits",
+   "Strong compliance documentation",
+   "Simple browser extension"
+  ],
+  "cons": [
+   "Built for sales rather than recruiting",
+   "Phone reveals use more credits",
+   "No candidate pipeline or ATS features"
+  ],
+  "alternatives": [
+   "contactout",
+   "apollo"
+  ]
  }
 ]

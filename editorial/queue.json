@@ -105,7 +105,9 @@
    "keyword": "rocketreach alternatives",
    "volume": 210,
    "noon_target": "/alternatives/rocketreach",
-   "status": "queued"
+   "status": "published",
+   "slug": "rocketreach-alternatives",
+   "date": "2026-11-10"
   },
   {
    "id": "brt-013",
