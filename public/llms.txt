@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 54 tools rated 1–5; 25 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 57 tools rated 1–5; 26 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -42,6 +42,7 @@
 - [Best Apollo Alternatives for Recruiting](https://bestrecruitmenttools.com/best-for/apollo-alternatives-for-recruiting/): 1. Noon, 2. Gem, 3. Juicebox, 4. Loxo, 5. hireEZ, 6. SeekOut
 - [Best Candidate Fraud Detection Tools](https://bestrecruitmenttools.com/best-for/candidate-fraud-detection-tools/): 1. Noon, 2. Greenhouse, 3. Talview, 4. GetReal Security, 5. Pindrop, 6. Checkr, 7. Certn
 - [Best RocketReach Alternatives for Recruiters](https://bestrecruitmenttools.com/best-for/rocketreach-alternatives/): 1. Noon, 2. ContactOut, 3. Lusha, 4. Apollo.io, 5. Juicebox, 6. SeekOut
+- [Best Recruiting Chatbots for High-Volume Hiring](https://bestrecruitmenttools.com/best-for/recruiting-chatbots/): 1. Paradox, 2. Humanly, 3. Fountain, 4. Sense, 5. Talkpush, 6. Phenom
 
 ## Comparisons
 
@@ -93,6 +94,7 @@
 - [HireLogic](https://bestrecruitmenttools.com/reviews/hirelogic/): Interview intelligence, 4.0/5, $, best for staffing firms and HR teams that want interview notes plus intake call analysis.
 - [HireVue](https://bestrecruitmenttools.com/reviews/hirevue/): Video interviews & assessments, 4.0/5, $$$$, best for large employers running structured video interviews and assessments at volume.
 - [Homebase](https://bestrecruitmenttools.com/reviews/homebase/): Applicant Tracking System, 4.1/5, $, best for hourly teams in restaurants, retail and local services.
+- [Humanly](https://bestrecruitmenttools.com/reviews/humanly/): Conversational AI, 4.2/5, $$$, best for mid-market and enterprise frontline hiring that wants chat screening, AI interviews and scheduling in one product.
 - [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
 - [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
 - [Juicebox](https://bestrecruitmenttools.com/reviews/juicebox/): AI search & sourcing, 4.3/5, $$, best for recruiters who want natural-language search with self-serve pricing.
@@ -114,6 +116,8 @@
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
 - [Remote](https://bestrecruitmenttools.com/reviews/remote-com/): Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
 - [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.
+- [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.
+- [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.
 - [Talview](https://bestrecruitmenttools.com/reviews/talview/): Interview integrity & proctoring, 4.2/5, $$$, best for teams that want identity checks built into interviews and assessments.
 - [Teamtailor](https://bestrecruitmenttools.com/reviews/teamtailor/): Applicant tracking, 4.2/5, $$, best for employer branding and careers sites for SMBs.
 - [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/): Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
