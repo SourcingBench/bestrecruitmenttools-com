@@ -1970,5 +1970,106 @@
    "contactout",
    "apollo"
   ]
+ },
+ {
+  "slug": "humanly",
+  "name": "Humanly",
+  "website": "https://www.humanly.io",
+  "category": "Conversational AI",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "mid-market and enterprise frontline hiring that wants chat screening, AI interviews and scheduling in one product",
+  "teamSize": "200 to 10,000 employees",
+  "trial": "Demo only",
+  "useCases": [
+   "high-volume-hiring",
+   "ai-interview-tools",
+   "ai-recruitment-tools"
+  ],
+  "verdict": "Humanly runs an AI recruiter that engages, screens, interviews and schedules hourly applicants, and adds a notetaker, CRM and its own ATS for teams that want fewer systems.",
+  "standout": "Chat screening and an AI interviewer from the same vendor",
+  "weakness": "Pricing is quote only",
+  "overview": "Humanly sells to employers that hire frontline staff in volume, such as restaurants, retailers, healthcare providers and logistics operators. Its product list covers an AI Recruiter, an AI Interviewer, an AI Notetaker, a Talent CRM and an ATS, so a buyer can start with the chat assistant and add pieces later.\n\nThe homepage cites a 4.8 out of 5 candidate experience score and says more than 1,000 high volume hiring teams use the product.",
+  "pros": [
+   "Covers screening, interviewing and scheduling",
+   "Strong focus on hourly and frontline roles",
+   "Optional ATS for teams replacing an older system"
+  ],
+  "cons": [
+   "No public pricing",
+   "Less suited to salaried professional searches"
+  ],
+  "alternatives": [
+   "paradox",
+   "fountain"
+  ]
+ },
+ {
+  "slug": "sense",
+  "name": "Sense",
+  "website": "https://www.sensehq.com",
+  "category": "Conversational AI",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS",
+  "teamSize": "50 to 5,000 employees",
+  "trial": "Demo only",
+  "useCases": [
+   "staffing-agencies",
+   "high-volume-hiring",
+   "recruiting-crm"
+  ],
+  "verdict": "Sense pairs an AI chatbot and AI Recruiter with SMS, WhatsApp and mass texting, and has a separate platform for staffing agencies that includes an AI receptionist and redeployment workflows.",
+  "standout": "Staffing specific features such as redeployment and an AI receptionist",
+  "weakness": "Many modules to configure",
+  "overview": "Sense started as an engagement layer for staffing firms and now sells two platforms: one for staffing agencies and one for corporate talent acquisition. The chatbot answers questions, pre-screens and matches candidates to jobs, while messaging tools send texts and WhatsApp messages at scale.\n\nFor agencies the useful part is redeployment, which reaches contractors whose assignments are ending before they take work elsewhere.",
+  "pros": [
+   "Built with staffing workflows in mind",
+   "Texting, WhatsApp and chat in one place",
+   "Works on top of common staffing ATS products"
+  ],
+  "cons": [
+   "Quote only pricing",
+   "Setup takes time across many modules"
+  ],
+  "alternatives": [
+   "paradox",
+   "bullhorn"
+  ]
+ },
+ {
+  "slug": "talkpush",
+  "name": "Talkpush",
+  "website": "https://talkpush.com",
+  "category": "Conversational AI",
+  "rating": 4.0,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "BPO, contact center and multilingual high-volume hiring",
+  "teamSize": "500+ employees",
+  "trial": "Demo only",
+  "useCases": [
+   "high-volume-hiring",
+   "ai-interview-tools"
+  ],
+  "verdict": "Talkpush is an AI-powered ATS and recruiting CRM for high-volume hiring, with chat and voice agents that attract, screen, interview and schedule candidates in many languages.",
+  "standout": "Voice and chat agents that work in many languages",
+  "weakness": "Replaces your ATS rather than sitting beside it",
+  "overview": "Talkpush sells a full ATS rather than a bolt-on assistant. Its agent product, called Crew, uses a lead agent named Clara to coordinate specialist agents that source, screen, interview and schedule around the clock under rules the recruiting team sets.\n\nBPO and contact center hiring is a core market, which explains the emphasis on language coverage and voice screening.",
+  "pros": [
+   "Strong fit for contact center and BPO hiring",
+   "Chat and voice in one system",
+   "Multilingual screening"
+  ],
+  "cons": [
+   "You adopt its ATS",
+   "Overkill for a few dozen hires a year"
+  ],
+  "alternatives": [
+   "paradox",
+   "humanly"
+  ]
  }
 ]

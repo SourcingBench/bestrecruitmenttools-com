@@ -133,7 +133,9 @@
    "keyword": "recruiting chatbots",
    "volume": 140,
    "noon_target": "/product/inbound-screening",
-   "status": "queued"
+   "status": "published",
+   "slug": "recruiting-chatbots",
+   "date": "2026-11-10"
   },
   {
    "id": "brt-016",
