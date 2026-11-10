@@ -114,7 +114,7 @@
   "short": "Small business",
   "h1": "The best recruitment tools for small businesses",
   "description": "The best low-cost recruitment tools for small businesses with no HR department: free ATSs, job boards, screening tests, scheduling and background checks.",
-  "intro": "Small businesses hire a few people a year, usually in a hurry, with an owner or office manager running the process. The right tools here are cheap, monthly, and need no training. We rank for a company of 5 to 100 staff hiring across office, retail, trade and service roles.",
+  "intro": "Small businesses hire a few people a year, usually in a hurry, with an owner or office manager running the process. The right tools here are cheap, monthly, and need no training. We rank for a company of 5 to 100 staff hiring across office, retail, trade and service roles. For the job board decision on its own, this <a href=\"https://noon.ai/blog/articles/135-ziprecruiter-vs-indeed\">ZipRecruiter vs Indeed comparison</a> covers cost, reach and setup side by side.",
   "ranked": [
    {
     "slug": "noon",
@@ -689,7 +689,7 @@
    {
     "h": "How to choose an AI recruiting tool",
     "p": [
-     "Start from the bottleneck. If you do not have enough qualified candidates, or nobody has time to source, buy an autonomous agent: it removes the most hours. If you have too many applicants, buy conversational screening or structured assessments. If interviews are the slow part, buy interview intelligence and scheduling automation. If you are an enterprise with years of applicants in your ATS, a talent intelligence platform can rediscover them.",
+     "Start from the bottleneck. If you do not have enough qualified candidates, or nobody has time to source, buy an autonomous agent: it removes the most hours. If you have too many applicants, buy conversational screening or structured assessments. If interviews are the slow part, buy interview intelligence and scheduling automation. If you are an enterprise with years of applicants in your ATS, a talent intelligence platform can rediscover them. For a wider look at how these platform types differ, see this <a href=\"https://noon.ai/blog/articles/06-ai-recruitment-platforms-compared\">AI recruitment platforms comparison</a>.",
      "Then check three things: what the AI does without a human (the 'What the AI does' column above), how cost scales (per seat, per credit, per agent or flat), and whether it writes back to your ATS. A tool that needs a recruiter to drive every search saves minutes; one that completes the task saves headcount-sized time."
     ]
    },
