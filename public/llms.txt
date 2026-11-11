@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 57 tools rated 1–5; 26 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 61 tools rated 1–5; 27 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -43,6 +43,7 @@
 - [Best Candidate Fraud Detection Tools](https://bestrecruitmenttools.com/best-for/candidate-fraud-detection-tools/): 1. Noon, 2. Greenhouse, 3. Talview, 4. GetReal Security, 5. Pindrop, 6. Checkr, 7. Certn
 - [Best RocketReach Alternatives for Recruiters](https://bestrecruitmenttools.com/best-for/rocketreach-alternatives/): 1. Noon, 2. ContactOut, 3. Lusha, 4. Apollo.io, 5. Juicebox, 6. SeekOut
 - [Best Recruiting Chatbots for High-Volume Hiring](https://bestrecruitmenttools.com/best-for/recruiting-chatbots/): 1. Paradox, 2. Humanly, 3. Fountain, 4. Sense, 5. Talkpush, 6. Phenom
+- [Best Restaurant Hiring Software](https://bestrecruitmenttools.com/best-for/restaurant-hiring-software/): 1. Workstream, 2. Harri, 3. 7shifts, 4. Homebase, 5. HigherMe, 6. Paradox
 
 ## Comparisons
 
@@ -68,6 +69,7 @@
 
 ## All reviews
 
+- [7shifts](https://bestrecruitmenttools.com/reviews/7shifts/): Restaurant scheduling and hiring, 4.3/5, $, best for independent restaurants and small groups that schedule in 7shifts.
 - [Apollo.io](https://bestrecruitmenttools.com/reviews/apollo/): Contact data & outreach, 3.7/5, $, best for recruiters who want cheap verified emails and sequences.
 - [Ashby](https://bestrecruitmenttools.com/reviews/ashby/): Applicant tracking, 4.7/5, $$, best for scaling startups.
 - [Avature](https://bestrecruitmenttools.com/reviews/avature/): Talent CRM, 4.2/5, $$$$, best for global employers that need configurable CRM, events and campus workflows.
@@ -90,6 +92,8 @@
 - [GoodTime](https://bestrecruitmenttools.com/reviews/goodtime/): Interview scheduling, 4.3/5, $$$, best for coordinating complex interview loops at scale.
 - [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/): Applicant tracking, 4.5/5, $$$, best for mid-market structured hiring.
 - [HackerRank](https://bestrecruitmenttools.com/reviews/hackerrank/): Skills assessment, 4.1/5, $$, best for technical screening with a self-serve entry point.
+- [Harri](https://bestrecruitmenttools.com/reviews/harri/): Hospitality workforce platform, 4.1/5, $$$, best for restaurant groups and hotel brands with a corporate HR team.
+- [HigherMe](https://bestrecruitmenttools.com/reviews/higherme/): Hourly hiring platform, 4.0/5, $$, best for franchise restaurants hiring crew members every week.
 - [hireEZ](https://bestrecruitmenttools.com/reviews/hireez/): Talent search, 4.0/5, $$$, best for agencies and enterprise sourcers who want AI search plus CRM.
 - [HireLogic](https://bestrecruitmenttools.com/reviews/hirelogic/): Interview intelligence, 4.0/5, $, best for staffing firms and HR teams that want interview notes plus intake call analysis.
 - [HireVue](https://bestrecruitmenttools.com/reviews/hirevue/): Video interviews & assessments, 4.0/5, $$$$, best for large employers running structured video interviews and assessments at volume.
@@ -123,6 +127,7 @@
 - [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/): Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
 - [Wellfound](https://bestrecruitmenttools.com/reviews/wellfound/): Job boards & advertising, 3.9/5, $, best for startups hiring candidates who want to work at startups.
 - [Workable](https://bestrecruitmenttools.com/reviews/workable/): Applicant tracking, 4.2/5, $$, best for small businesses that want publishing + ATS fast.
+- [Workstream](https://bestrecruitmenttools.com/reviews/workstream/): Hourly hiring platform, 4.2/5, $$, best for multi-unit restaurant and quick service operators.
 - [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/): Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
 - [Zoho Recruit](https://bestrecruitmenttools.com/reviews/zoho-recruit/): Applicant Tracking System, 4.2/5, $, best for small teams that want a free ATS for one active job.
 

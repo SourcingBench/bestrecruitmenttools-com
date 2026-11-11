@@ -2071,5 +2071,141 @@
    "paradox",
    "humanly"
   ]
+ },
+ {
+  "slug": "workstream",
+  "name": "Workstream",
+  "website": "https://www.workstream.us",
+  "category": "Hourly hiring platform",
+  "rating": 4.2,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Packages quoted on request",
+  "bestFor": "multi-unit restaurant and quick service operators",
+  "teamSize": "Multi-location hourly employers",
+  "trial": "Demo only",
+  "useCases": [
+   "restaurant-hiring-software",
+   "high-volume-hiring"
+  ],
+  "verdict": "Workstream is an hourly hiring platform with text to apply, job board posting, interview scheduling and AI phone and video screening, sold in packages that can add HR, payroll and onboarding.",
+  "standout": "VoiceAI that phones and screens hourly applicants",
+  "weakness": "Pricing is quote based, so small operators cannot compare it at a glance",
+  "overview": "Workstream sells to employers with large hourly teams, including restaurant and quick service brands. Applicants can apply by text, jobs post to thousands of boards, and VoiceAI and VideoAI agents screen candidates before a manager sees them.\n\nIts higher packages add onboarding, payroll and HR tools, which makes it a candidate for operators that want one system for the whole hourly employee lifecycle.",
+  "pros": [
+   "Text to apply and automated scheduling",
+   "AI voice and video screening",
+   "Grows into onboarding and payroll"
+  ],
+  "cons": [
+   "No public price list",
+   "More than a single store needs"
+  ],
+  "alternatives": [
+   "harri",
+   "fountain"
+  ]
+ },
+ {
+  "slug": "harri",
+  "name": "Harri",
+  "website": "https://harri.ai",
+  "category": "Hospitality workforce platform",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "priceNote": "Custom pricing by bundle",
+  "bestFor": "restaurant groups and hotel brands with a corporate HR team",
+  "teamSize": "500+ employees",
+  "trial": "Demo only",
+  "useCases": [
+   "restaurant-hiring-software",
+   "high-volume-hiring"
+  ],
+  "verdict": "Harri is a workforce platform built only for hospitality, with an ATS, AI screening calls and candidate matching alongside scheduling, labor compliance and HR.",
+  "standout": "Hospitality specific hiring, scheduling and compliance in one system",
+  "weakness": "A large suite to adopt if you only need hiring",
+  "overview": "Harri describes itself as an AI first workforce operating system for hospitality, and it says more than 70,000 locations run on it. Hiring covers sourcing, an applicant tracking system, AI screening calls, profile matching and side by side candidate comparison.\n\nPricing is custom, and the AI screening calls sit in its higher bundle, so get the bundle contents in writing during the sales process.",
+  "pros": [
+   "Designed around restaurant and hotel roles",
+   "Hiring connects to scheduling and labor rules",
+   "Suits brands with many locations"
+  ],
+  "cons": [
+   "Custom pricing only",
+   "Heavier rollout than a small business tool"
+  ],
+  "alternatives": [
+   "workstream",
+   "7shifts"
+  ]
+ },
+ {
+  "slug": "7shifts",
+  "name": "7shifts",
+  "website": "https://www.7shifts.com/hiring-software/",
+  "category": "Restaurant scheduling and hiring",
+  "rating": 4.3,
+  "priceTier": "$",
+  "startingPrice": 0,
+  "priceNote": "Free for one location; paid plans from $39.99 per location per month",
+  "bestFor": "independent restaurants and small groups that schedule in 7shifts",
+  "teamSize": "1 to 15 employees free; paid plans per location",
+  "trial": "Free plan and paid plan trial",
+  "useCases": [
+   "restaurant-hiring-software",
+   "high-volume-hiring"
+  ],
+  "verdict": "7shifts adds a restaurant applicant tracker to its scheduling app, with a job post builder, screening questions, applicant tracking and onboarding paperwork.",
+  "standout": "Hiring that feeds straight into the restaurant schedule",
+  "weakness": "Hiring features are lighter than a dedicated ATS",
+  "overview": "7shifts is best known as a restaurant scheduling and team management app. Its hiring module lets managers build and post a job, add custom screening questions, track each applicant's status and send new hires their onboarding documents.\n\nThe free plan covers one location with up to 15 employees, and paid plans are priced per location, which keeps costs predictable for small groups.",
+  "pros": [
+   "Free entry plan",
+   "Built for restaurant managers",
+   "Onboarding flows into scheduling"
+  ],
+  "cons": [
+   "Little automation for large applicant volumes",
+   "Best value only if you schedule in 7shifts"
+  ],
+  "alternatives": [
+   "homebase",
+   "higherme"
+  ]
+ },
+ {
+  "slug": "higherme",
+  "name": "HigherMe",
+  "website": "https://higherme.com",
+  "category": "Hourly hiring platform",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Quoted per location",
+  "bestFor": "franchise restaurants hiring crew members every week",
+  "teamSize": "Multi-location hourly employers",
+  "trial": "Demo only",
+  "useCases": [
+   "restaurant-hiring-software",
+   "high-volume-hiring"
+  ],
+  "verdict": "HigherMe is hiring and payroll software for hourly employers, with text to apply, AI assisted prescreening and onboarding.",
+  "standout": "Fast hourly hiring with prescreening and payroll in one tool",
+  "weakness": "Less suited to salaried management hiring",
+  "overview": "HigherMe says more than 20,000 locations use it to source, screen and onboard hourly workers. Applicants can apply by text, its NextMatch feature prescreens them, and the company claims an average time to hire of two days.\n\nPayroll and onboarding are part of the same product, which reduces the paperwork between an accepted offer and a first shift.",
+  "pros": [
+   "Built for franchise crew hiring",
+   "Text to apply",
+   "Hiring, onboarding and payroll together"
+  ],
+  "cons": [
+   "Pricing not published",
+   "Few tools for corporate roles"
+  ],
+  "alternatives": [
+   "workstream",
+   "7shifts"
+  ]
  }
 ]
