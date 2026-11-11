@@ -167,7 +167,9 @@
    "keyword": "warehouse hiring software",
    "volume": null,
    "noon_target": "/product/inbound-screening",
-   "status": "queued"
+   "status": "published",
+   "slug": "warehouse-hiring-software",
+   "date": "2026-11-11"
   },
   {
    "id": "brt-020",
