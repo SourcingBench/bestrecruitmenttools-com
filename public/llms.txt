@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 61 tools rated 1–5; 28 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 63 tools rated 1–5; 29 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -45,6 +45,7 @@
 - [Best Recruiting Chatbots for High-Volume Hiring](https://bestrecruitmenttools.com/best-for/recruiting-chatbots/): 1. Paradox, 2. Humanly, 3. Fountain, 4. Sense, 5. Talkpush, 6. Phenom
 - [Best Restaurant Hiring Software](https://bestrecruitmenttools.com/best-for/restaurant-hiring-software/): 1. Workstream, 2. Harri, 3. 7shifts, 4. Homebase, 5. HigherMe, 6. Paradox
 - [Best Warehouse Hiring Software](https://bestrecruitmenttools.com/best-for/warehouse-hiring-software/): 1. Fountain, 2. Paradox, 3. Workstream, 4. Humanly, 5. Sense, 6. Indeed
+- [Best Lusha Alternatives for Recruiters](https://bestrecruitmenttools.com/best-for/lusha-alternatives/): 1. Noon, 2. ContactOut, 3. Wiza, 4. Kaspr, 5. Apollo.io, 6. hireEZ
 
 ## Comparisons
 
@@ -103,6 +104,7 @@
 - [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
 - [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
 - [Juicebox](https://bestrecruitmenttools.com/reviews/juicebox/): AI search & sourcing, 4.3/5, $$, best for recruiters who want natural-language search with self-serve pricing.
+- [Kaspr](https://bestrecruitmenttools.com/reviews/kaspr/): Contact data & outreach, 3.9/5, $, best for recruiters hiring in Europe who need contact details from profile pages.
 - [Lever](https://bestrecruitmenttools.com/reviews/lever/): Applicant tracking, 4.1/5, $$$, best for teams that want ATS and CRM in one record.
 - [LinkedIn Jobs](https://bestrecruitmenttools.com/reviews/linkedin-jobs/): Job boards & advertising, 4.0/5, $$, best for professional and knowledge-worker roles.
 - [LinkedIn Recruiter](https://bestrecruitmenttools.com/reviews/linkedin-recruiter/): Talent search, 3.9/5, $$$, best for teams whose candidates are only reachable on LinkedIn.
@@ -127,6 +129,7 @@
 - [Teamtailor](https://bestrecruitmenttools.com/reviews/teamtailor/): Applicant tracking, 4.2/5, $$, best for employer branding and careers sites for SMBs.
 - [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/): Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
 - [Wellfound](https://bestrecruitmenttools.com/reviews/wellfound/): Job boards & advertising, 3.9/5, $, best for startups hiring candidates who want to work at startups.
+- [Wiza](https://bestrecruitmenttools.com/reviews/wiza/): Contact data & outreach, 4.0/5, $$, best for recruiters who want unlimited email reveals instead of rationing credits.
 - [Workable](https://bestrecruitmenttools.com/reviews/workable/): Applicant tracking, 4.2/5, $$, best for small businesses that want publishing + ATS fast.
 - [Workstream](https://bestrecruitmenttools.com/reviews/workstream/): Hourly hiring platform, 4.2/5, $$, best for multi-unit restaurant and quick service operators.
 - [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/): Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
