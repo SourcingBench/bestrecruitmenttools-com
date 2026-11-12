@@ -227,7 +227,9 @@
    "keyword": "greenhouse alternatives",
    "volume": 110,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "greenhouse-alternatives",
+   "date": "2026-11-12"
   },
   {
    "id": "brt-027",

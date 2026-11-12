@@ -2331,5 +2331,92 @@
     "a": "Yes, many recruiters do. Apollo includes unlimited email addresses and sequencing at a low entry price, but its filters and language are built for sales, so expect to adapt searches to candidates."
    }
   ]
+ },
+ {
+  "slug": "greenhouse-alternatives",
+  "updated": "2026-11-12",
+  "title": "Best Greenhouse Alternatives",
+  "short": "Greenhouse alternatives",
+  "seoTitle": "Best Greenhouse Alternatives 2026: 6 ATS Options Ranked | BestRecruitmentTools.com",
+  "h1": "The best Greenhouse alternatives in 2026",
+  "description": "Six Greenhouse alternatives ranked for 2026: Ashby, Lever, Teamtailor, Workable, Pinpoint and JazzHR, compared on published pricing, plan structure, analytics and who each one suits.",
+  "intro": "Most teams that look for a Greenhouse alternative are not unhappy with structured hiring. They are unhappy with the quote. Greenhouse's pricing page, read on 12 November 2026, lists three plans (Core, Plus and Pro) and says the price is customized to your hiring volume, organizational complexity and the features you need, with no public number. That is reasonable for a 2,000 person company with a recruiting operations team. It is harder to justify for a 60 person startup that opens ten roles a year. We ranked six applicant tracking systems that replace Greenhouse, starting with the closest like for like option and ending with the cheapest published price. Prices below come from each vendor's own pricing page on the same day.",
+  "ranked": [
+   {
+    "slug": "ashby",
+    "why": "Ashby is the closest replacement for teams that chose Greenhouse for its rigor and then outgrew its reporting. It combines the ATS, CRM, scheduling, sourcing and analytics in one product, and it is the only vendor here with a published entry price that covers the whole suite: its Foundations plan for companies up to 100 employees shows a total of $400 a month. Plus covers 101 to 1,000 employees and Enterprise covers larger companies, both on a quote. Sourcing projects, a Chrome extension and automated outreach sequences are built in, so many teams drop a separate sourcing CRM. Our <a href=\"/compare/ashby-vs-greenhouse/\">Ashby vs Greenhouse comparison</a> goes through the differences row by row."
+   },
+   {
+    "slug": "lever",
+    "why": "Lever is the alternative for teams that want an applicant tracking system and a candidate relationship manager in one record rather than two products. Its pricing page says every plan includes the core ATS, CRM, advanced reporting and analytics and key integrations, and that price scales with team size and hiring needs. Like Greenhouse, it is quote only, so it wins on workflow rather than on a cheaper sticker. Choose it if nurturing past applicants and referrals matters as much as running interviews."
+   },
+   {
+    "slug": "teamtailor",
+    "why": "Teamtailor is the pick when the career site is the reason you are leaving. Its pricing page is quote based but spells out what every customer gets: unlimited job postings and unlimited users, support for all users, more than 250 features, and Teamtailor AI with unlimited usage. Structured interviews, smart scheduling and advanced analytics are listed as included, while requisition approval flows and multi brand management sit in a premium tier. Unlimited users removes the seat math that makes hiring manager access expensive elsewhere."
+   },
+   {
+    "slug": "workable",
+    "why": "Workable is the most transparent mid market option. Its Standard plan is listed at $299 a month, or $3,588 a year, for companies with 1 to 20 employees, and Premier starts at $599 a month, with tiers stepping up by headcount bands to 1,000 and beyond. There is a free trial, which Greenhouse does not offer. Workable also bundles HR tools with recruiting at a discount of up to 20 percent and has just released an AI recruiting agent, so a small team can cover posting, screening and onboarding in one login."
+   },
+   {
+    "slug": "pinpoint",
+    "why": "Pinpoint suits companies that want Greenhouse level structure with more built in fairness controls. Its product pages list anonymized screening, AI candidate filters, an AI criteria checklist, an AI match score, an AI notetaker, employee referrals and a recruitment agency portal. Pricing is a custom quote through its request pricing page. It is a strong choice for regulated or international employers who need approval workflows and blind review without adding separate tools."
+   },
+   {
+    "slug": "jazzhr",
+    "why": "JazzHR is the budget exit. Its Hero plan is $1,000 a year billed annually, Plus is $3,480 a year with up to 200 active jobs and AI powered candidate matching, and Pro is $5,508 a year with offers, e signatures and advanced visual reporting. Paying yearly saves up to 24 percent. It lacks the interview kit depth and reporting of Greenhouse, but for a small business filling hourly and entry level roles, the price gap is hard to ignore."
+   }
+  ],
+  "sections": [
+   {
+    "h": "Why teams leave Greenhouse",
+    "p": [
+     "Price is the first reason, and the second is that the price is opaque. Greenhouse does not publish a number for Core, Plus or Pro, so budgeting means a sales cycle. Three of the six tools here (Ashby, Workable and JazzHR) publish an entry price.",
+     "The third reason is the add on stack. Many Greenhouse customers run separate tools for sourcing, CRM and scheduling. Ashby and Lever fold those into the core product, which is why they sit at the top of this list. If budget is the only driver, start with our <a href=\"/best-for/free-applicant-tracking-systems/\">free applicant tracking systems</a> list before you sign anything."
+    ]
+   },
+   {
+    "h": "How to choose among the six",
+    "p": [
+     "Match the tool to the reason you are switching rather than to a feature list."
+    ],
+    "list": [
+     "Want deeper analytics and an all in one suite: Ashby.",
+     "Want ATS and CRM in one candidate record: Lever.",
+     "Want unlimited users and a strong career site: Teamtailor.",
+     "Want a published price and a free trial: Workable.",
+     "Want anonymized screening and approval controls: Pinpoint.",
+     "Want the lowest annual cost: JazzHR."
+    ]
+   },
+   {
+    "h": "What to check before you migrate",
+    "p": [
+     "Export candidate records, interview scorecards and offer history from Greenhouse before the contract ends, and confirm the new vendor can import attachments and custom fields. Rebuild interview kits rather than copying them, since scorecard structures differ between systems. Our <a href=\"/reviews/greenhouse/\">Greenhouse review</a> lists the integrations most teams need to reconnect, and the <a href=\"/best-for/startups/\">best tools for startups</a> page covers the smaller stack around an ATS."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the best alternative to Greenhouse?",
+    "a": "Ashby is the closest like for like replacement because it matches Greenhouse on structured hiring and adds built in analytics, CRM and scheduling. Workable and JazzHR are better if the main goal is a lower, published price."
+   },
+   {
+    "q": "How much does Greenhouse cost in 2026?",
+    "a": "Greenhouse does not publish prices. Its pricing page lists Core, Plus and Pro plans and says the cost depends on the plan, hiring volume, organizational complexity and required features."
+   },
+   {
+    "q": "Is there a cheaper ATS than Greenhouse?",
+    "a": "Yes. JazzHR starts at $1,000 a year billed annually, Workable's Standard plan is $299 a month for companies with up to 20 employees, and Ashby's Foundations plan shows $400 a month for up to 100 employees."
+   },
+   {
+    "q": "Which Greenhouse alternatives offer a free trial?",
+    "a": "Workable offers a free trial on its pricing page. Ashby, Lever, Teamtailor and Pinpoint route buyers to a demo or a quote."
+   },
+   {
+    "q": "Is Lever or Ashby better for replacing Greenhouse?",
+    "a": "Ashby is stronger on analytics and has a published entry price. Lever is the better fit if you want the ATS and a candidate relationship manager to share one record for every person."
+   }
+  ]
  }
 ]

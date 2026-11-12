@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 63 tools rated 1–5; 29 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 63 tools rated 1–5; 30 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -46,6 +46,7 @@
 - [Best Restaurant Hiring Software](https://bestrecruitmenttools.com/best-for/restaurant-hiring-software/): 1. Workstream, 2. Harri, 3. 7shifts, 4. Homebase, 5. HigherMe, 6. Paradox
 - [Best Warehouse Hiring Software](https://bestrecruitmenttools.com/best-for/warehouse-hiring-software/): 1. Fountain, 2. Paradox, 3. Workstream, 4. Humanly, 5. Sense, 6. Indeed
 - [Best Lusha Alternatives for Recruiters](https://bestrecruitmenttools.com/best-for/lusha-alternatives/): 1. Noon, 2. ContactOut, 3. Wiza, 4. Kaspr, 5. Apollo.io, 6. hireEZ
+- [Best Greenhouse Alternatives](https://bestrecruitmenttools.com/best-for/greenhouse-alternatives/): 1. Ashby, 2. Lever, 3. Teamtailor, 4. Workable, 5. Pinpoint, 6. JazzHR
 
 ## Comparisons
 
