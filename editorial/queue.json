@@ -185,7 +185,9 @@
    "keyword": "lusha alternatives",
    "volume": 140,
    "noon_target": "/alternatives/lusha",
-   "status": "queued"
+   "status": "published",
+   "slug": "lusha-alternatives",
+   "date": "2026-11-12"
   },
   {
    "id": "brt-022",

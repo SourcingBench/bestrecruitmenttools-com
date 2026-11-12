@@ -2207,5 +2207,73 @@
    "workstream",
    "7shifts"
   ]
+ },
+ {
+  "slug": "wiza",
+  "name": "Wiza",
+  "website": "https://wiza.co",
+  "category": "Contact data & outreach",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Free plan with 20 emails and 5 phones; Email plan $83 per user a month billed yearly",
+  "bestFor": "recruiters who want unlimited email reveals instead of rationing credits",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "Free plan",
+  "useCases": [
+   "lusha-alternatives"
+  ],
+  "verdict": "Wiza is a contact finder that verifies emails and phone numbers at the moment you request them, with yearly plans that remove the credit meter.",
+  "standout": "Unlimited email reveals on paid yearly plans",
+  "weakness": "Exports are capped at 2,500 a month and there is no candidate pipeline",
+  "overview": "Wiza says it verifies contact data on request rather than relying on a preloaded database, and reports 850M+ contacts. Its pricing page lists Free, Email and Email + Phone plans, with unlimited email reveals on paid plans and unlimited phone reveals on Email + Phone.",
+  "pros": [
+   "Unlimited email reveals on paid plans",
+   "Published per user pricing",
+   "CRM integrations"
+  ],
+  "cons": [
+   "Phone reveals cost extra on the Email plan",
+   "Built for sales prospecting",
+   "No screening or outreach sequences for candidates"
+  ],
+  "alternatives": [
+   "contactout",
+   "kaspr"
+  ]
+ },
+ {
+  "slug": "kaspr",
+  "name": "Kaspr",
+  "website": "https://www.kaspr.io",
+  "category": "Contact data & outreach",
+  "rating": 3.9,
+  "priceTier": "$",
+  "startingPrice": 49,
+  "priceNote": "Free plan; Starter from $49 per user a month with unlimited B2B email credits",
+  "bestFor": "recruiters hiring in Europe who need contact details from profile pages",
+  "teamSize": "1 to 500 employees",
+  "trial": "Free plan",
+  "useCases": [
+   "lusha-alternatives"
+  ],
+  "verdict": "Kaspr is a browser extension contact finder focused on European data, with unlimited B2B email credits and tiered phone credits.",
+  "standout": "European contact data with GDPR alignment",
+  "weakness": "Phone credits are limited by plan and search stays manual",
+  "overview": "Kaspr offers a browser extension, CSV enrichment and CRM exports. Its pricing page lists unlimited B2B email credits, Starter at $49 per user per month with 100 phone credits a month, and credits shared across users.",
+  "pros": [
+   "Unlimited B2B email credits",
+   "Strong European coverage",
+   "Shared credits across a team"
+  ],
+  "cons": [
+   "Phone credits run out on lower tiers",
+   "Built for sales teams",
+   "No candidate pipeline"
+  ],
+  "alternatives": [
+   "lusha",
+   "wiza"
+  ]
  }
 ]
