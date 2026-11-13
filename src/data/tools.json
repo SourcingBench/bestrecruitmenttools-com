@@ -2275,5 +2275,107 @@
    "lusha",
    "wiza"
   ]
+ },
+ {
+  "slug": "criteria",
+  "name": "Criteria",
+  "website": "https://www.criteriacorp.com",
+  "category": "Skills assessment",
+  "rating": 4.2,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Quote only; free trial",
+  "bestFor": "validated cognitive aptitude and personality testing for professional and hourly roles",
+  "teamSize": "50 to 10,000 employees",
+  "trial": "Free trial",
+  "useCases": [
+   "pre-employment-testing-tools"
+  ],
+  "verdict": "Criteria is the most complete pre-employment testing suite for non-technical roles, combining cognitive aptitude, personality, emotional intelligence and risk tests with video interviewing.",
+  "standout": "Validated cognitive aptitude test (CCAT) plus personality and risk tests in one platform",
+  "weakness": "No published price; test depth for specialist technical roles is limited",
+  "overview": "Criteria offers cognitive aptitude tests including the CCAT, personality, emotional intelligence, risk, skills and game based assessments, with AI proctoring and both async and live video interviewing. An AI scoring add on is available. The company says more than 80 million assessments have been delivered for over 4,000 organizations.",
+  "pros": [
+   "Broad set of validated test types",
+   "Assessments and video interviews in one product",
+   "Free trial available"
+  ],
+  "cons": [
+   "Pricing is quote only",
+   "Coding assessments are not its focus",
+   "AI scoring is an add on"
+  ],
+  "alternatives": [
+   "testgorilla",
+   "vervoe"
+  ]
+ },
+ {
+  "slug": "vervoe",
+  "name": "Vervoe",
+  "website": "https://vervoe.com",
+  "category": "Skills assessment",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Quote only; book a demo",
+  "bestFor": "job simulations that show how a candidate would do the actual work",
+  "teamSize": "20 to 5,000 employees",
+  "trial": "Demo",
+  "useCases": [
+   "pre-employment-testing-tools"
+  ],
+  "verdict": "Vervoe is built around job simulations graded by machine learning, which suits roles where a work sample says more than a test score.",
+  "standout": "Job simulations with ML grading and candidate ranking",
+  "weakness": "No self serve plan or public price",
+  "overview": "Vervoe provides skills assessments, job simulations, cognitive tests and an AI assessment builder, with machine learning that grades and ranks responses. It also offers chat and voice screening. A customer case on its site, iSelect, reports a 75 percent increase in hire rate.",
+  "pros": [
+   "Realistic work sample format",
+   "Automated grading and ranking",
+   "AI builder speeds up custom tests"
+  ],
+  "cons": [
+   "Demo required to see pricing",
+   "Simulations take candidates longer than short tests",
+   "Smaller library of off the shelf tests"
+  ],
+  "alternatives": [
+   "criteria",
+   "testgorilla"
+  ]
+ },
+ {
+  "slug": "adaface",
+  "name": "Adaface",
+  "website": "https://www.adaface.com",
+  "category": "Skills assessment",
+  "rating": 3.9,
+  "priceTier": "$",
+  "startingPrice": 15,
+  "priceNote": "Individual $180 a year for 12 credits; Starter $500 a year for 50",
+  "bestFor": "small teams that want published per credit pricing and short tests",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "Free trial",
+  "useCases": [
+   "pre-employment-testing-tools"
+  ],
+  "verdict": "Adaface sells 40 minute skills tests for more than 500 roles on published annual credit plans, which makes it the easiest testing tool on this list to budget for.",
+  "standout": "Published credit pricing from $180 a year",
+  "weakness": "Credits expire with the annual plan",
+  "overview": "Adaface offers short role based tests covering programming, aptitude, Big 5 personality, language, typing and data entry, finance and role specific skills, with proctoring options. Plans are sold per year in credit bundles: Individual at $180 for 12 credits, Starter at $500 for 50, Pro at $900 for 100, up to Enterprise at $20,000 for 5,000.",
+  "pros": [
+   "Transparent annual pricing",
+   "Wide role library",
+   "Short tests improve completion"
+  ],
+  "cons": [
+   "Credit bundles need forecasting",
+   "Fewer validated psychometric options than Criteria",
+   "Interface is functional rather than polished"
+  ],
+  "alternatives": [
+   "testgorilla",
+   "criteria"
+  ]
  }
 ]
