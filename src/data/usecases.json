@@ -2418,5 +2418,77 @@
     "a": "Ashby is stronger on analytics and has a published entry price. Lever is the better fit if you want the ATS and a candidate relationship manager to share one record for every person."
    }
   ]
+ },
+ {
+  "slug": "pre-employment-testing-tools",
+  "updated": "2026-11-13",
+  "title": "Best Pre-Employment Testing Tools",
+  "short": "Pre-employment testing tools",
+  "seoTitle": "Best Pre-Employment Testing Tools 2026: 5 Ranked for Non-Technical Roles | BestRecruitmentTools.com",
+  "h1": "The best pre-employment testing tools for non-technical roles in 2026",
+  "description": "Five pre-employment testing tools ranked for 2026 hiring outside engineering: Criteria, TestGorilla, Vervoe, Adaface and HireVue, compared on test types, published pricing and fit.",
+  "intro": "Our verdict first: Criteria is the strongest pre-employment testing tool for sales, support, operations and office roles in 2026, and TestGorilla is the best value if you want to start free. This page leaves coding tests aside on purpose. Engineering screens are a different buying decision, covered in our <a href=\"/best-for/tech-hiring/\">tech hiring guide</a>. Here we ranked the five tools that do the most for everyone else: cognitive aptitude, personality, job simulations, language and typing tests, and the interview that follows. Prices and features come from each vendor's own site, read on 13 November 2026.",
+  "ranked": [
+   {
+    "slug": "criteria",
+    "why": "Criteria wins because it covers the widest range of validated test types for roles outside engineering. Its platform lists cognitive aptitude tests, including the well known CCAT, alongside personality, emotional intelligence, risk, skills and game based assessments, and it adds AI proctoring plus async and real time video interviewing. Criteria says it has delivered more than 80 million assessments for over 4,000 organizations. Pricing is not published, but a free trial is offered, so you can run a pilot on one requisition before talking to sales."
+   },
+   {
+    "slug": "testgorilla",
+    "why": "TestGorilla is the best value and the only tool here with a permanent free tier. Its pricing page lists a free Assessments plan with 10 credits a month, a Core plan from $215 a month per account billed annually and Plus from $520 a month, with 25 percent off for annual billing. The library mixes cognitive ability, personality, language and role skills, so a small business can build one short test for a customer service or bookkeeping role in minutes."
+   },
+   {
+    "slug": "vervoe",
+    "why": "Vervoe is the pick when a work sample matters more than a score. Instead of multiple choice tests alone, it runs job simulations, cognitive tests and skills assessments, then grades and ranks answers with machine learning. An AI assessment builder drafts a test from a job description, and chat and voice screening cover the first conversation. Vervoe's site cites a customer, iSelect, that raised its hire rate by 75 percent. Pricing requires a demo."
+   },
+   {
+    "slug": "adaface",
+    "why": "Adaface is the easiest to budget for. It publishes annual credit plans: Individual at $180 a year for 12 credits, Starter at $500 for 50, Pro at $900 for 100, Scale at $3,000 for 500 and Growth at $5,500 for 1,000. Tests are capped around 40 minutes and cover more than 500 roles, including typing and data entry, finance, languages and a Big 5 personality test, with proctoring options. It is a sensible choice for a team that tests a few dozen candidates a year."
+   },
+   {
+    "slug": "hirevue",
+    "why": "HireVue fits enterprises that want testing and interviewing under one contract with heavy compliance requirements. Its site lists an AI Interviewer and an Assessment Builder, and its security credentials include SOC 2 Type 2, ISO 27001 and FedRAMP authorization, which matters to government contractors and regulated employers. HireVue reports a candidate net promoter score of 71. There is no public price, so expect an annual enterprise agreement."
+   }
+  ],
+  "sections": [
+   {
+    "h": "What pre-employment tests actually measure",
+    "p": [
+     "Most tests fall into five families. Cognitive aptitude tests predict how quickly someone learns and solves problems. Personality tests describe work style. Skills tests check a concrete ability such as typing speed, Excel or a language. Job simulations ask the candidate to do a slice of the real job. Video interviews structure the conversation that follows.",
+     "Criteria and TestGorilla cover the first three families well. Vervoe is the strongest on simulations. HireVue leads on structured interviewing. Adaface covers skills and personality with the shortest test length."
+    ]
+   },
+   {
+    "h": "Fairness and the law",
+    "p": [
+     "In the United States, any test that screens people out can be challenged if it has an adverse impact on a protected group and is not job related. Pick tests linked to the actual duties, keep pass marks consistent, and check pass rates by group after the first few hundred candidates. If a tool uses AI to score results, New York City and Colorado have specific rules; see our guide to <a href=\"/best-for/candidate-fraud-detection-tools/\">candidate fraud detection tools</a> for the related identity checks many teams now add."
+    ]
+   },
+   {
+    "h": "Where testing sits in the funnel",
+    "p": [
+     "Testing works best right after a short application and before any recruiter time is spent. For roles with thousands of applicants, combine it with the screening tools in our <a href=\"/best-for/high-volume-hiring/\">high volume hiring</a> ranking. Small employers should also read the <a href=\"/best-for/small-business/\">small business tools list</a>, where TestGorilla appears alongside an ATS and a scheduler."
+    ],
+    "list": [
+     "<b>Hourly and frontline roles:</b> keep the test under 15 minutes on mobile.",
+     "<b>Office and finance roles:</b> combine an aptitude test with one skills test.",
+     "<b>Customer facing roles:</b> add a short simulation or a recorded answer."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the best pre-employment testing tool?",
+    "a": "For non-technical roles, Criteria is the most complete option, with cognitive, personality, emotional intelligence and risk tests plus video interviewing. TestGorilla is the best value and has a free plan."
+   },
+   {
+    "q": "Are pre-employment tests legal?",
+    "a": "Yes, as long as they are job related and applied consistently. Employers should monitor pass rates by group for adverse impact and follow local rules on AI scored assessments."
+   },
+   {
+    "q": "How much do pre-employment testing tools cost?",
+    "a": "TestGorilla starts free and its Core plan is from $215 a month billed annually. Adaface plans start at $180 a year. Criteria, Vervoe and HireVue quote prices on request."
+   }
+  ]
  }
 ]
