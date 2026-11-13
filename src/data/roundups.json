@@ -102,5 +102,64 @@
       }
     ],
     "directory": "Also in the directory: rankings for <a href=\"/best-for/high-volume-hiring/\">high volume hiring</a>, <a href=\"/best-for/ai-interview-tools/\">AI interview tools</a> and <a href=\"/best-for/enterprise/\">enterprise teams</a>, plus reviews of <a href=\"/reviews/hirevue/\">HireVue</a> and <a href=\"/reviews/paradox/\">Paradox</a>."
+  },
+  {
+    "slug": "2026-11-13",
+    "title": "This week in recruiting tools: Workday folds HiredScore grades into Recruiting, Eightfold ships an AI teammate, Employment Hero bills per placement",
+    "date": "2026-11-13",
+    "period": "7 to 13 November 2026",
+    "summary": "Seven dated stories on pricing and rankings. Workday put AI grading inside its core recruiting screen, Eightfold pitched an agent that owns a hiring goal, Employment Hero charged only on placement, HiringDesk.ai published a $199 monthly plan, Talroo collected two third party badges, ZipRecruiter beat guidance, and Payscale measured how far AI is reshaping headcount plans.",
+    "items": [
+      {
+        "vendor": "Workday / HiredScore",
+        "category": "ATS and AI screening",
+        "headline": "Workday moved HiredScore grading inside Workday Recruiting",
+        "detail": "Published 12 Nov 2026 (<a href=\"https://blog.workday.com/en-us/screen-candidates-50-faster-workday-recruiting.html\">Workday blog</a>). HiredScore's fit and gap grades now appear on the requisition itself, so recruiters can sort applicants by grade and filter on qualifications without a second login. Workday ties the change to volume: its Global Workforce Report counts 69 applications per offer in July 2026, up from 58 a year earlier. The vendor claims screening time falls by half on average; treat that as a vendor figure until your own pilot confirms it. Teams weighing a suite add on against a standalone product can start with our <a href=\"/best-for/enterprise/\">enterprise ranking</a>.",
+        "matters": "AI grading is now a checkbox inside the biggest enterprise suite, which squeezes the price standalone screeners can charge Workday customers."
+      },
+      {
+        "vendor": "Eightfold AI",
+        "category": "AI recruiting agents",
+        "headline": "Eightfold introduced AI Recruiting Teammate, a goal driven agent across requisitions",
+        "detail": "Announced 12 Nov 2026 in a paid GlobeNewswire release (<a href=\"https://finance.yahoo.com/technology/ai/articles/eightfold-ai-introduces-ai-recruiting-160000051.html\">via Yahoo Finance</a>). Eightfold says the agent takes a hiring goal and works it from intake to onboarding, following up with candidates over days or weeks while recruiters can review, redirect, pause or take over, with a reviewable log of what it did. The release also points to an independent Local Law 144 bias audit of its matching model by BABL AI. No pricing was published. See how it compares in our <a href=\"/reviews/eightfold/\">Eightfold review</a> and the <a href=\"/best-for/ai-recruiters/\">AI recruiters ranking</a>.",
+        "matters": "Vendors are starting to sell outcomes per requisition instead of a bundle of separate agents, which changes how buyers should compare quotes."
+      },
+      {
+        "vendor": "Employment Hero",
+        "category": "Pricing model",
+        "headline": "Employment Hero reported 30 percent revenue growth and a recruitment agent billed per placement",
+        "detail": "Reported 11 Nov 2026 (<a href=\"https://www.hcamag.com/au/specialisation/hr-technology/employment-hero-lifts-revenue-30-boosts-output-with-ai/596898\">Human Resources Director</a>). The Australian HR platform said revenue rose 30 percent and annual recurring revenue passed $400 million. Its recruitment agent charges customers only when a candidate is placed, and it was reviewing more than 600,000 applications a month by July.",
+        "matters": "Success based pricing for software borrows the agency model; if it spreads, seat licenses for small business recruiting tools will face pressure. Compare current options in our <a href=\"/best-for/small-business/\">small business ranking</a>."
+      },
+      {
+        "vendor": "HiringDesk.ai",
+        "category": "Hourly hiring",
+        "headline": "HiringDesk.ai launched Ava for local employers, starting at $199 a month",
+        "detail": "Announced 7 Nov 2026 (<a href=\"https://www.financialcontent.com/article/marketersmedia-2026-11-7-hiringdeskai-launches-ava-an-ai-hiring-assistant-that-screens-applicants-texts-candidates-and-schedules-interviews-for-local-employers\">MarketersMedia via FinancialContent</a>). The Royal Oak, Michigan company says Ava texts applicants, collects short video introductions, scores candidates from 1 to 10 and books interviews without a separate calendar tool. The starting plan includes unlimited locations, a published price point that is rare in this category.",
+        "matters": "A flat, public monthly price undercuts per location quotes from larger high volume vendors. Our <a href=\"/best-for/restaurant-hiring-software/\">restaurant hiring software</a> list covers the incumbents it targets."
+      },
+      {
+        "vendor": "Talroo",
+        "category": "Rankings",
+        "headline": "Select Software Reviews named Talroo among the best job advertising and job posting platforms of 2026",
+        "detail": "Announced 9 Nov 2026 (<a href=\"https://www.rutlandherald.com/news/business/talroo-recognized-among-best-job-advertising-and-best-job-posting-platforms-of-2026-by-select/article_b165d380-4a64-58e6-af02-773ddf206923.html\">Business Wire via Rutland Herald</a>). Talroo appears in two Select Software Reviews lists. The reviewer says its picks weigh practitioner recommendations, product demos, customer retention and transparency.",
+        "matters": "Third party lists are increasingly cited in vendor marketing; check the criteria behind any badge before it influences a shortlist."
+      },
+      {
+        "vendor": "ZipRecruiter",
+        "category": "Job boards",
+        "headline": "ZipRecruiter beat its own third quarter guidance and raised its full year outlook",
+        "detail": "Reported 9 Nov 2026 (<a href=\"https://finance.yahoo.com/markets/stocks/articles/ziprecruiter-announces-third-quarter-2026-210500981.html\">company release via Yahoo Finance</a>). Revenue was $124.4 million, net income $5.1 million and adjusted EBITDA $20.8 million, a 17 percent margin, all above the range the company had guided. Read our <a href=\"/reviews/ziprecruiter/\">ZipRecruiter review</a> for what the paid plans include.",
+        "matters": "A profitable, growing job board has less reason to discount annual contracts, so expect firmer renewal pricing."
+      },
+      {
+        "vendor": "Payscale",
+        "category": "Market data",
+        "headline": "Payscale found 74 percent of employers expect AI to change headcount plans",
+        "detail": "Reported 11 Nov 2026 (<a href=\"https://www.staffingindustry.com/news/global-daily-news/74-of-employers-say-ai-will-affect-headcount-payscale-finds\">Staffing Industry Analysts</a>). In Payscale's survey, 74 percent of employers said AI would affect headcount or hiring plans, and 40 percent said they struggle to find staff with AI skills.",
+        "matters": "Budgets are shifting from adding recruiters to buying tools, which is the backdrop for every price change above."
+      }
+    ],
+    "directory": "Also in the directory: rankings for <a href=\"/best-for/ai-hiring-tools/\">AI hiring tools</a>, <a href=\"/best-for/high-volume-hiring/\">high volume hiring</a> and <a href=\"/best-for/staffing-agencies/\">staffing agencies</a>, plus reviews of <a href=\"/reviews/eightfold/\">Eightfold</a> and <a href=\"/reviews/ziprecruiter/\">ZipRecruiter</a>."
   }
 ]
