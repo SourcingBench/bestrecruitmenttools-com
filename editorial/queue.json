@@ -99,7 +99,9 @@
    "keyword": "gem alternatives",
    "volume": 1000,
    "noon_target": "/alternatives/gem",
-   "status": "queued"
+   "status": "published",
+   "slug": "gem-alternatives",
+   "date": "2026-11-14"
   },
   {
    "id": "brt-012",
