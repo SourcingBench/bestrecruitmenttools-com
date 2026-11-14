@@ -147,7 +147,9 @@
    "keyword": "ai phone screening tools",
    "volume": 110,
    "noon_target": "/product/ai-interviewer",
-   "status": "queued"
+   "status": "published",
+   "slug": "ai-phone-screening-tools",
+   "date": "2026-11-14"
   },
   {
    "id": "brt-017",

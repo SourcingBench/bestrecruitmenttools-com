@@ -2578,5 +2578,107 @@
     "a": "SeekOut offers 14 days, hireEZ offers seven days, Juicebox has a free plan, Findem lets you try an agent for free and Noon is free to start. Ashby and Beamery route buyers through sales."
    }
   ]
+ },
+ {
+  "slug": "ai-phone-screening-tools",
+  "updated": "2026-11-14",
+  "title": "Best AI Phone Screening Tools",
+  "short": "AI phone screening tools",
+  "seoTitle": "Best AI Phone Screening Tools 2026: 7 Voice Screeners Ranked | BestRecruitmentTools.com",
+  "h1": "The best AI phone screening tools in 2026, ranked by how they reach the candidate",
+  "description": "Seven AI phone screening tools ranked for 2026: Alex, Ribbon, Noon, HireVue, ConverzAI, Talkpush and Humanly, compared on whether they dial out, how the voice interview runs and what a recruiter still decides.",
+  "intro": "Does the software actually ring the candidate's phone, or does it send a link and wait? That one question splits this category in half, and it is the first thing to settle before you book a demo. Some tools place outbound calls to every new applicant within minutes. Others run the same structured voice conversation in a browser after the candidate taps a link in an email or text. Both replace the 15 minute recruiter screen; they just fail differently. Below are seven tools we checked on November 14, 2026, ranked for teams that want the first conversation handled by AI and the hiring decision kept with a person.",
+  "ranked": [
+   {
+    "slug": "alex",
+    "why": "Alex ranks first because it does the literal job: it calls applicants on the phone, runs a structured screen and hands the recruiter a scored summary. Video, SMS and WhatsApp sit in the same product for candidates who would rather not talk.",
+    "ai": "Dials applicants, asks screening questions, scores answers",
+    "human": "Sets questions and pass criteria, reviews shortlists"
+   },
+   {
+    "slug": "ribbon",
+    "why": "Ribbon is the best pick for frontline volume on a smaller budget. It reaches applicants by SMS, WhatsApp, voice and email, runs a voice AI interview and ranks results, and it is free to start.",
+    "ai": "Outreach, voice interview, transcript and ranking",
+    "human": "Picks finalists and runs the in-person step"
+   },
+   {
+    "slug": "noon",
+    "why": "Noon fits teams that also need to find the candidates. Its AI Interviewer runs a live voice screening interview through a link, while the sourcing agent builds the pipeline and contacts people by email and SMS. It does not place outbound phone calls, which is why it sits below the first two here.",
+    "ai": "Sources candidates, sends email and SMS, runs the voice screen",
+    "human": "Approves the role brief and decides who advances"
+   },
+   {
+    "slug": "hirevue",
+    "why": "HireVue's AI interviewer runs a two way voice conversation with follow up probes, scores against a competency rubric and comes with adverse impact testing, which matters to large employers with legal review.",
+    "ai": "Asks and probes questions, scores to rubric",
+    "human": "Calibrates rubrics and makes the final call"
+   },
+   {
+    "slug": "converzai",
+    "why": "ConverzAI is built only for staffing firms. Its Virtual Recruiter calls, texts and emails candidates against open orders and writes outcomes into staffing ATS platforms such as Bullhorn and JobDiva.",
+    "ai": "Calls and texts candidates, screens, updates the ATS",
+    "human": "Owns client relationships and submittals"
+   },
+   {
+    "slug": "talkpush",
+    "why": "Talkpush combines an AI ATS and recruiting CRM with chat and voice agents that screen in many languages, a good match for BPO and contact center hiring across regions.",
+    "ai": "Chat and voice screening, scheduling",
+    "human": "Final interviews and offers"
+   },
+   {
+    "slug": "humanly",
+    "why": "Humanly is the choice when phone screening is one piece of a wider frontline stack: chat screening, an AI interviewer, scheduling and an optional ATS from one vendor.",
+    "ai": "Chat and voice screens, scheduling, notes",
+    "human": "Reviews flagged candidates and hires"
+   }
+  ],
+  "sections": [
+   {
+    "h": "Outbound calls versus link based voice screens",
+    "p": [
+     "Outbound callers like Alex and ConverzAI phone the applicant shortly after they apply. That catches people while they are still thinking about the job, and it suits hourly roles where applicants rarely check email. The cost is that some candidates do not answer unknown numbers, so the tool needs a fallback such as a text.",
+     "Link based screens, including Noon's AI Interviewer and HireVue's interviewer, send the candidate to a page where a voice AI asks the questions. Completion depends on the invitation landing, but the candidate chooses the moment, and the recording and transcript come out cleaner. Ribbon sits between the two by mixing voice outreach with link based interviews."
+    ]
+   },
+   {
+    "h": "Questions to ask in every demo",
+    "p": [
+     "Use the same short list with every vendor so the answers line up."
+    ],
+    "list": [
+     "Does the tool place outbound calls, and from what kind of number?",
+     "Which languages does the voice agent support for both questions and scoring?",
+     "How are answers scored, and can we see the rubric behind each score?",
+     "What happens to recordings and transcripts, and for how long are they kept?",
+     "Which ATS fields are written back, and does a recruiter approve rejections?",
+     "How do candidates request a human screen instead?"
+    ]
+   },
+   {
+    "h": "Where AI phone screening goes wrong",
+    "p": [
+     "Most failures come from the setup, not the voice model. A screen with eight knockout questions feels like an interrogation and drops completion. A rubric nobody calibrated with the hiring manager produces confident scores that do not predict anything. Start with three to five questions tied to real requirements, review the first 50 transcripts by hand and adjust.",
+     "Disclosure matters too. Several US jurisdictions regulate automated employment decision tools, so tell candidates they are speaking with AI and offer an alternative. Our guides to <a href=\"/best-for/ai-interview-tools/\">AI interview tools</a> and <a href=\"/best-for/high-volume-hiring/\">high volume hiring software</a> cover adjacent options, and <a href=\"/best-for/recruiting-chatbots/\">recruiting chatbots</a> handle the text side."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the best AI phone screening tool?",
+    "a": "Alex is our top pick for 2026 because it places outbound phone calls to applicants and runs a structured screen at volume, with SMS, WhatsApp and video as fallbacks."
+   },
+   {
+    "q": "Is there a free AI phone screening tool?",
+    "a": "Ribbon lets teams start for free. Noon is also free to start, with paid plans quoted per team, and covers sourcing as well as voice screening."
+   },
+   {
+    "q": "Do candidates know they are talking to an AI?",
+    "a": "They should. Good tools open with a disclosure, and some state and city rules on automated hiring tools require notice. Offer a human screen to anyone who asks."
+   },
+   {
+    "q": "Can AI phone screening replace recruiters?",
+    "a": "It replaces the repetitive first call, not the recruiter. People still set the criteria, review shortlists, sell the role and make offers."
+   }
+  ]
  }
 ]
