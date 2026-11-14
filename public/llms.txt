@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 66 tools rated 1–5; 31 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 66 tools rated 1–5; 32 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -48,6 +48,7 @@
 - [Best Lusha Alternatives for Recruiters](https://bestrecruitmenttools.com/best-for/lusha-alternatives/): 1. Noon, 2. ContactOut, 3. Wiza, 4. Kaspr, 5. Apollo.io, 6. hireEZ
 - [Best Greenhouse Alternatives](https://bestrecruitmenttools.com/best-for/greenhouse-alternatives/): 1. Ashby, 2. Lever, 3. Teamtailor, 4. Workable, 5. Pinpoint, 6. JazzHR
 - [Best Pre-Employment Testing Tools](https://bestrecruitmenttools.com/best-for/pre-employment-testing-tools/): 1. Criteria, 2. TestGorilla, 3. Vervoe, 4. Adaface, 5. HireVue
+- [Best Gem Alternatives](https://bestrecruitmenttools.com/best-for/gem-alternatives/): 1. Noon, 2. Ashby, 3. SeekOut, 4. Juicebox, 5. hireEZ, 6. Findem, 7. Beamery
 
 ## Comparisons
 
