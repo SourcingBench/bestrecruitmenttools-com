@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 66 tools rated 1–5; 32 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 69 tools rated 1–5; 33 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -49,6 +49,7 @@
 - [Best Greenhouse Alternatives](https://bestrecruitmenttools.com/best-for/greenhouse-alternatives/): 1. Ashby, 2. Lever, 3. Teamtailor, 4. Workable, 5. Pinpoint, 6. JazzHR
 - [Best Pre-Employment Testing Tools](https://bestrecruitmenttools.com/best-for/pre-employment-testing-tools/): 1. Criteria, 2. TestGorilla, 3. Vervoe, 4. Adaface, 5. HireVue
 - [Best Gem Alternatives](https://bestrecruitmenttools.com/best-for/gem-alternatives/): 1. Noon, 2. Ashby, 3. SeekOut, 4. Juicebox, 5. hireEZ, 6. Findem, 7. Beamery
+- [Best AI Phone Screening Tools](https://bestrecruitmenttools.com/best-for/ai-phone-screening-tools/): 1. Alex, 2. Ribbon, 3. Noon, 4. HireVue, 5. ConverzAI, 6. Talkpush, 7. Humanly
 
 ## Comparisons
 
@@ -76,6 +77,7 @@
 
 - [7shifts](https://bestrecruitmenttools.com/reviews/7shifts/): Restaurant scheduling and hiring, 4.3/5, $, best for independent restaurants and small groups that schedule in 7shifts.
 - [Adaface](https://bestrecruitmenttools.com/reviews/adaface/): Skills assessment, 3.9/5, $, best for small teams that want published per credit pricing and short tests.
+- [Alex](https://bestrecruitmenttools.com/reviews/alex/): AI interviews, 4.4/5, $$$, best for high-volume teams that want an AI recruiter to phone every applicant and run the first screen.
 - [Apollo.io](https://bestrecruitmenttools.com/reviews/apollo/): Contact data & outreach, 3.7/5, $, best for recruiters who want cheap verified emails and sequences.
 - [Ashby](https://bestrecruitmenttools.com/reviews/ashby/): Applicant tracking, 4.7/5, $$, best for scaling startups.
 - [Avature](https://bestrecruitmenttools.com/reviews/avature/): Talent CRM, 4.2/5, $$$$, best for global employers that need configurable CRM, events and campus workflows.
@@ -88,6 +90,7 @@
 - [Checkr](https://bestrecruitmenttools.com/reviews/checkr/): Background checks, 4.4/5, $, best for fast, API-driven background checks.
 - [CodeSignal](https://bestrecruitmenttools.com/reviews/codesignal/): Skills assessment, 4.3/5, $$$, best for screening software engineers at volume.
 - [ContactOut](https://bestrecruitmenttools.com/reviews/contactout/): Contact data & outreach, 4.1/5, $$, best for recruiters who need personal emails and direct dials for candidates they already found.
+- [ConverzAI](https://bestrecruitmenttools.com/reviews/converzai/): AI recruiter for staffing, 4.1/5, $$$, best for staffing firms that want a virtual recruiter calling, texting and emailing candidates from inside their ATS.
 - [Criteria](https://bestrecruitmenttools.com/reviews/criteria/): Skills assessment, 4.2/5, $$, best for validated cognitive aptitude and personality testing for professional and hourly roles.
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
@@ -127,6 +130,7 @@
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
 - [Remote](https://bestrecruitmenttools.com/reviews/remote-com/): Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
+- [Ribbon](https://bestrecruitmenttools.com/reviews/ribbon/): AI interviews, 4.3/5, $$, best for frontline and hourly hiring teams that want every applicant interviewed by AI within hours.
 - [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.
 - [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.
 - [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.

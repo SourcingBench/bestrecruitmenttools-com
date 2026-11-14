@@ -2377,5 +2377,106 @@
    "testgorilla",
    "criteria"
   ]
+ },
+ {
+  "slug": "alex",
+  "name": "Alex",
+  "website": "https://www.alex.com",
+  "category": "AI interviews",
+  "rating": 4.4,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "high-volume teams that want an AI recruiter to phone every applicant and run the first screen",
+  "teamSize": "50 to 10,000 employees",
+  "trial": "Demo only",
+  "useCases": [
+   "ai-phone-screening-tools",
+   "ai-interview-tools",
+   "high-volume-hiring"
+  ],
+  "verdict": "Alex is an AI recruiter that calls candidates on the phone, runs a structured screening interview and also works over video, SMS and WhatsApp, with more than 33 supported ATS integrations.",
+  "standout": "Places outbound phone calls to applicants instead of waiting for them to click a link",
+  "weakness": "Pricing is quote only",
+  "overview": "Alex positions itself as one AI recruiter for the whole front of the funnel. Its phone product says Alex can call thousands of candidates at once and pick up the phone first, so the screen happens while the applicant is still interested. The same product line covers video interviews, SMS and WhatsApp conversations, resume screens, scheduling and identity checks.\n\nThe company says it has raised $20M and lists more than 33 officially supported ATS integrations.",
+  "pros": [
+   "True outbound phone calling at volume",
+   "Video, SMS and WhatsApp channels in the same product",
+   "Identity and fraud checks alongside the interview"
+  ],
+  "cons": [
+   "No public pricing",
+   "Built for volume, so light for one-off executive searches"
+  ],
+  "alternatives": [
+   "ribbon",
+   "hirevue"
+  ]
+ },
+ {
+  "slug": "ribbon",
+  "name": "Ribbon",
+  "website": "https://www.ribbon.ai",
+  "category": "AI interviews",
+  "rating": 4.3,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "frontline and hourly hiring teams that want every applicant interviewed by AI within hours",
+  "teamSize": "10 to 5,000 employees",
+  "trial": "Free to start",
+  "useCases": [
+   "ai-phone-screening-tools",
+   "ai-interview-tools",
+   "high-volume-hiring"
+  ],
+  "verdict": "Ribbon interviews every applicant with a voice AI interviewer, reaches them by SMS, WhatsApp, voice and email, and ranks the results for recruiters; teams can start for free.",
+  "standout": "Self-serve start with a live demo interview on the homepage",
+  "weakness": "Focus on frontline roles means less depth for senior professional screens",
+  "overview": "Ribbon sells AI interviews for frontline hiring. Applicants are contacted across SMS, WhatsApp, voice and email, then interviewed by an AI interviewer that records, transcribes and scores the conversation. Recruiters get a ranked list instead of a stack of phone screens.\n\nThe homepage says more than one million interviews have been completed and that more than 500 recruiting companies use it, and it offers a free start plus an API for job boards and marketplaces.",
+  "pros": [
+   "Free to start",
+   "Multichannel outreach before the interview",
+   "API for platforms that want to embed interviews"
+  ],
+  "cons": [
+   "Pricing beyond the free start is not published",
+   "Less suited to senior or highly technical screens"
+  ],
+  "alternatives": [
+   "alex",
+   "humanly"
+  ]
+ },
+ {
+  "slug": "converzai",
+  "name": "ConverzAI",
+  "website": "https://www.converzai.com",
+  "category": "AI recruiter for staffing",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "staffing firms that want a virtual recruiter calling, texting and emailing candidates from inside their ATS",
+  "teamSize": "Staffing firms of 20 to 5,000 employees",
+  "trial": "Demo only",
+  "useCases": [
+   "ai-phone-screening-tools",
+   "staffing-agencies"
+  ],
+  "verdict": "ConverzAI builds Virtual Recruiters for staffing firms that call, text and email candidates, screen them and update records in staffing ATS platforms such as Bullhorn, Avionte, JobDiva and TempWorks.",
+  "standout": "Built around staffing ATS workflows rather than corporate hiring",
+  "weakness": "Narrow fit outside staffing",
+  "overview": "ConverzAI sells only to staffing firms. Its Virtual Recruiter connects with candidates by phone call, text and email, screens them against open orders and writes the outcome back to the ATS so the recruiter sees a shortlist rather than a call list.\n\nThe demo form lists Avionte, Bullhorn, Ceipal, JobDiva, LaborEdge, Salesforce, TargetRecruit and TempWorks among supported systems.",
+  "pros": [
+   "Deep staffing ATS coverage",
+   "Phone, text and email from one agent",
+   "Focus on submittals and placements"
+  ],
+  "cons": [
+   "No public pricing",
+   "Not designed for in-house corporate teams"
+  ],
+  "alternatives": [
+   "alex",
+   "talkpush"
+  ]
  }
 ]
