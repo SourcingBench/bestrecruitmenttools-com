@@ -2778,5 +2778,79 @@
     "a": "Most of the tools ranked here sync with major applicant tracking systems. Check that replies, stage changes and unsubscribes write back to the ATS so two recruiters never email the same person."
    }
   ]
- }
+ },
+{
+ "slug": "recruiting-software-for-nonprofits",
+ "updated": "2026-11-15",
+ "title": "Best Recruiting Software for Nonprofits",
+ "short": "Recruiting software for nonprofits",
+ "seoTitle": "Best Recruiting Software for Nonprofits 2026: 6 Options Ranked | BestRecruitmentTools.com",
+ "h1": "Recruiting software for nonprofits in 2026: six options ranked on discounts, volunteers and safeguarding",
+ "description": "Six recruiting software options for nonprofits ranked for 2026: Pinpoint, Manatal, Zoho Recruit, Workable, JazzHR and OpenCATS, compared on charity discounts, volunteer pipelines, safeguarding checks and total yearly cost.",
+ "intro": "A charity hiring three people a year needs a different system from a national nonprofit with a hundred open roles and a volunteer program, but both are buying on a tight budget and answering to a board. Pinpoint takes the top spot because it is the only vendor here with a page built for nonprofit hiring that covers volunteers, trustees and safeguarding stages. Manatal and Zoho Recruit follow because both publish real nonprofit pricing programs. We read each vendor's own pricing and nonprofit pages on November 15, 2026, and ranked on four things: whether a nonprofit discount exists in writing, how well the tool handles volunteers alongside paid staff, whether background and safeguarding steps can be made mandatory, and what a small team will actually pay in year one.",
+ "ranked": [
+  {
+   "slug": "pinpoint",
+   "why": "Pinpoint's nonprofit page describes one system for staff, volunteers, trustees and specialist roles, each with its own process. Safeguarding and background check stages can be made mandatory before an offer, screening can be anonymized, and interview scorecards are structured, which helps a hiring panel of volunteers stay consistent. It also lists job board integrations that include CharityJob and Guardian Jobs alongside Indeed and LinkedIn, and talent pools let you tag former volunteers and alumni for later roles. It is the most complete fit, though pricing is by quote."
+  },
+  {
+   "slug": "manatal",
+   "why": "Manatal says it offers a special benefit for nonprofits that can show proof of registration, applied for through its live chat or by email, on top of a 14 day free trial. That makes it the cheapest way for a small organization to get a modern, cloud ATS with candidate sourcing and a careers page. It is built for recruiters in general rather than for volunteer programs, so expect to set up your own pipelines for volunteers."
+  },
+  {
+   "slug": "zoho-recruit",
+   "why": "Zoho's nonprofit program gives eligible organizations credits worth up to 50 percent of the subscription cost, capped at a one time 5,000 US dollar credit across Zoho products, with eligibility validated through TechSoup. If you already run Zoho CRM for donors or Zoho People for HR, Recruit slots in next to them at a meaningful discount. Not every Zoho app is covered, so check Recruit's eligibility before you commit."
+  },
+  {
+   "slug": "workable",
+   "why": "Workable publishes clear pricing: the Standard plan starts at 299 US dollars a month for organizations with one to twenty employees, or 3,588 US dollars a year, with paid add ons for texting, video interviews and assessments. We found no published nonprofit discount, so it ranks lower on price, but it is the easiest tool here to run without an HR specialist and its job posting reach is broad."
+  },
+  {
+   "slug": "jazzhr",
+   "why": "JazzHR lists flat annual plans, starting at 1,000 US dollars a year for Hero and rising to 3,480 for Plus and 5,508 for Pro, with standard pricing aimed at organizations up to 250 employees. That predictability suits a finance committee setting an annual budget. It has no nonprofit program on its pricing page, and volunteer handling is whatever you build with custom workflows."
+  },
+  {
+   "slug": "opencats",
+   "why": "OpenCATS is free, open source and self hosted, which makes it the only option with zero license cost. The tradeoff is that someone has to install, secure, update and back it up, and its interface and features lag the paid tools. It suits a nonprofit with a technical volunteer or an IT partner, not a team that wants support on call."
+  }
+ ],
+ "sections": [
+  {
+   "h": "How nonprofit discounts actually work",
+   "p": [
+    "Discounts come in three shapes. Manatal offers a benefit after you send proof of registered nonprofit status. Zoho uses credits tied to TechSoup validation, capped across its whole product suite. Others, such as BambooHR on its pricing page, simply say volume and nonprofit discounts are available, which means you need to ask a salesperson. If a vendor has no written program, ask anyway, and get the discount and its renewal terms in the order form, because first year offers often disappear at renewal."
+   ]
+  },
+  {
+   "h": "Volunteers are a second pipeline, not an afterthought",
+   "p": [
+    "Most ATS products assume every applicant wants a paid job. Nonprofits also recruit volunteers, board members and interns, and those people move through different steps: an interest form, a background check, an orientation. Pinpoint is the only tool in this list that markets separate processes for these groups out of the box. With the others, create a distinct job template and pipeline for volunteers so their records do not clutter paid roles, and tag strong volunteers so you can invite them to apply when a staff role opens."
+   ]
+  },
+  {
+   "h": "Where nonprofits post jobs",
+   "p": [
+    "Software is only half the work; reach matters too. <a href=\"https://www.idealist.org/en/orgs/resources\" target=\"_blank\" rel=\"noopener\">Idealist</a> remains the main mission driven job board in the US, offers free recruitment tools and volunteer listings, and sells an optional Annual Membership at 149 US dollars a year for nonprofits and government agencies. Check that your ATS can post there or that you can paste its apply link into a listing. In the UK, Pinpoint's CharityJob and Guardian Jobs integrations do the same job. For general advice on comparing systems, see <a href=\"/how-we-rank/\">how we rank tools</a> and our <a href=\"/reviews/pinpoint/\">Pinpoint review</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is there free recruiting software for nonprofits?",
+   "a": "OpenCATS is free and open source but you host and maintain it yourself. Manatal and Workable offer free trials, and Manatal and Zoho Recruit offer nonprofit pricing programs that lower the paid cost."
+  },
+  {
+   "q": "Which recruiting software is best for managing volunteers?",
+   "a": "Pinpoint, because its nonprofit offering runs separate processes for staff, volunteers and trustees and supports mandatory safeguarding stages. With other tools, set up a dedicated volunteer pipeline."
+  },
+  {
+   "q": "How do I get a nonprofit discount on an ATS?",
+   "a": "Have your registration documents ready. Manatal asks for proof of registration through live chat or email, and Zoho validates eligibility through TechSoup. For vendors without a published program, ask sales directly and write the discount into the contract."
+  },
+  {
+   "q": "What should a small nonprofit budget for recruiting software?",
+   "a": "On published pricing, JazzHR starts at 1,000 US dollars a year and Workable's Standard plan at 3,588 US dollars a year for small organizations, before add ons. Discount programs can bring Manatal or Zoho Recruit lower."
+  }
+ ]
+}
 ]
