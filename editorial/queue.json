@@ -225,7 +225,9 @@
    "keyword": "recruiting email tools",
    "volume": 210,
    "noon_target": "/product/ai-outreach",
-   "status": "queued"
+   "status": "published",
+   "slug": "recruiting-email-tools",
+   "date": "2026-11-15"
   },
   {
    "id": "brt-026",

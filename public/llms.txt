@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 69 tools rated 1–5; 33 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 69 tools rated 1–5; 34 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -50,6 +50,7 @@
 - [Best Pre-Employment Testing Tools](https://bestrecruitmenttools.com/best-for/pre-employment-testing-tools/): 1. Criteria, 2. TestGorilla, 3. Vervoe, 4. Adaface, 5. HireVue
 - [Best Gem Alternatives](https://bestrecruitmenttools.com/best-for/gem-alternatives/): 1. Noon, 2. Ashby, 3. SeekOut, 4. Juicebox, 5. hireEZ, 6. Findem, 7. Beamery
 - [Best AI Phone Screening Tools](https://bestrecruitmenttools.com/best-for/ai-phone-screening-tools/): 1. Alex, 2. Ribbon, 3. Noon, 4. HireVue, 5. ConverzAI, 6. Talkpush, 7. Humanly
+- [Best Recruiting Email Tools](https://bestrecruitmenttools.com/best-for/recruiting-email-tools/): 1. Noon, 2. Gem, 3. ContactOut, 4. SeekOut, 5. Loxo, 6. Juicebox, 7. hireEZ, 8. Apollo.io
 
 ## Comparisons
 
