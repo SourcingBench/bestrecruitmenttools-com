@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 69 tools rated 1–5; 35 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 72 tools rated 1–5; 36 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -52,6 +52,7 @@
 - [Best AI Phone Screening Tools](https://bestrecruitmenttools.com/best-for/ai-phone-screening-tools/): 1. Alex, 2. Ribbon, 3. Noon, 4. HireVue, 5. ConverzAI, 6. Talkpush, 7. Humanly
 - [Best Recruiting Email Tools](https://bestrecruitmenttools.com/best-for/recruiting-email-tools/): 1. Noon, 2. Gem, 3. ContactOut, 4. SeekOut, 5. Loxo, 6. Juicebox, 7. hireEZ, 8. Apollo.io
 - [Best Recruiting Software for Nonprofits](https://bestrecruitmenttools.com/best-for/recruiting-software-for-nonprofits/): 1. Pinpoint, 2. Manatal, 3. Zoho Recruit, 4. Workable, 5. JazzHR, 6. OpenCATS
+- [Best Recruitment Agency CRM](https://bestrecruitmenttools.com/best-for/recruitment-agency-crm/): 1. Bullhorn, 2. Loxo, 3. Recruit CRM, 4. Crelate, 5. Recruiterflow, 6. JobAdder, 7. Manatal, 8. Zoho Recruit
 
 ## Comparisons
 
@@ -93,6 +94,7 @@
 - [CodeSignal](https://bestrecruitmenttools.com/reviews/codesignal/): Skills assessment, 4.3/5, $$$, best for screening software engineers at volume.
 - [ContactOut](https://bestrecruitmenttools.com/reviews/contactout/): Contact data & outreach, 4.1/5, $$, best for recruiters who need personal emails and direct dials for candidates they already found.
 - [ConverzAI](https://bestrecruitmenttools.com/reviews/converzai/): AI recruiter for staffing, 4.1/5, $$$, best for staffing firms that want a virtual recruiter calling, texting and emailing candidates from inside their ATS.
+- [Crelate](https://bestrecruitmenttools.com/reviews/crelate/): Staffing & agency software, 4.1/5, $$, best for search firms and small agencies that want an ATS and CRM in one record per contact.
 - [Criteria](https://bestrecruitmenttools.com/reviews/criteria/): Skills assessment, 4.2/5, $$, best for validated cognitive aptitude and personality testing for professional and hourly roles.
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
@@ -113,6 +115,7 @@
 - [Humanly](https://bestrecruitmenttools.com/reviews/humanly/): Conversational AI, 4.2/5, $$$, best for mid-market and enterprise frontline hiring that wants chat screening, AI interviews and scheduling in one product.
 - [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
 - [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
+- [JobAdder](https://bestrecruitmenttools.com/reviews/jobadder/): Staffing & agency software, 4.0/5, $$, best for mid sized agencies, especially in Australia, New Zealand and the UK, that want broad job board and payroll integrations.
 - [Juicebox](https://bestrecruitmenttools.com/reviews/juicebox/): AI search & sourcing, 4.3/5, $$, best for recruiters who want natural-language search with self-serve pricing.
 - [Kaspr](https://bestrecruitmenttools.com/reviews/kaspr/): Contact data & outreach, 3.9/5, $, best for recruiters hiring in Europe who need contact details from profile pages.
 - [Lever](https://bestrecruitmenttools.com/reviews/lever/): Applicant tracking, 4.1/5, $$$, best for teams that want ATS and CRM in one record.
@@ -131,6 +134,7 @@
 - [Pindrop](https://bestrecruitmenttools.com/reviews/pindrop/): Deepfake & identity fraud detection, 4.0/5, $$$$, best for large employers already using voice security who now see fake applicants.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
+- [Recruiterflow](https://bestrecruitmenttools.com/reviews/recruiterflow/): Staffing & agency software, 4.2/5, $$, best for agencies that want sales and recruiting pipelines plus email sequences in one tool.
 - [Remote](https://bestrecruitmenttools.com/reviews/remote-com/): Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
 - [Ribbon](https://bestrecruitmenttools.com/reviews/ribbon/): AI interviews, 4.3/5, $$, best for frontline and hourly hiring teams that want every applicant interviewed by AI within hours.
 - [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.

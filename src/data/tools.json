@@ -1073,7 +1073,7 @@
   "category": "Staffing & agency software",
   "rating": 4.2,
   "priceTier": "$$",
-  "startingPrice": 119,
+  "startingPrice": 149,
   "bestFor": "search firms and small agencies that want ATS, CRM and sourcing in one",
   "teamSize": "1\u2013200 recruiters",
   "trial": "Free plan",
@@ -1108,7 +1108,7 @@
   "category": "Staffing & agency software",
   "rating": 4.1,
   "priceTier": "$",
-  "startingPrice": 85,
+  "startingPrice": 95,
   "bestFor": "small agencies on a budget",
   "teamSize": "1\u2013100 recruiters",
   "trial": "Free trial",
@@ -2477,6 +2477,102 @@
   "alternatives": [
    "alex",
    "talkpush"
+  ]
+ },
+ {
+  "slug": "crelate",
+  "name": "Crelate",
+  "website": "https://www.crelate.com",
+  "category": "Staffing & agency software",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": 85,
+  "bestFor": "search firms and small agencies that want an ATS and CRM in one record per contact",
+  "teamSize": "Agencies of 1 to 200 recruiters",
+  "trial": "Demo and free trial",
+  "useCases": [
+   "recruitment-agency-crm"
+  ],
+  "verdict": "Crelate combines an applicant tracking system and a recruiting CRM for search and staffing firms, with pipelines for both candidates and clients and published per user pricing.",
+  "standout": "One record for a person whether they are a candidate, a client contact or both",
+  "weakness": "Contact limits on the entry plan",
+  "overview": "Crelate is built for executive search, recruiting and staffing firms. Each contact carries their candidate history and any client relationship, so a hiring manager who later becomes a candidate stays on one record.\n\nIts pricing page lists an Essentials plan at $85 per user a month on annual billing for teams of up to two users, and a Business plan at $119 per user a month.",
+  "pros": [
+   "Published pricing",
+   "Client and candidate pipelines side by side",
+   "Fits retained search workflows"
+  ],
+  "cons": [
+   "Entry plan capped on users and contacts",
+   "Fewer native job board integrations than Bullhorn"
+  ],
+  "alternatives": [
+   "loxo",
+   "recruit-crm"
+  ]
+ },
+ {
+  "slug": "recruiterflow",
+  "name": "Recruiterflow",
+  "website": "https://recruiterflow.com",
+  "category": "Staffing & agency software",
+  "rating": 4.2,
+  "priceTier": "$$",
+  "startingPrice": 149,
+  "bestFor": "agencies that want sales and recruiting pipelines plus email sequences in one tool",
+  "teamSize": "Agencies of 2 to 300 recruiters",
+  "trial": "Demo only",
+  "useCases": [
+   "recruitment-agency-crm"
+  ],
+  "verdict": "Recruiterflow is an ATS and CRM for recruitment agencies with business development pipelines, outreach sequences and reporting, priced per user on its website.",
+  "standout": "Business development CRM built in, not bolted on",
+  "weakness": "Higher entry price than Recruit CRM or Manatal",
+  "overview": "Recruiterflow sells to recruitment and staffing agencies. Besides candidate pipelines it runs a client side sales pipeline, so a desk can track a prospect from first email to signed terms to open job.\n\nIts pricing page lists the core platform at $149 per user a month, and the title tag says more than 1,700 agencies use it.",
+  "pros": [
+   "Sales pipeline for winning new clients",
+   "Built in sequences",
+   "Published pricing"
+  ],
+  "cons": [
+   "Pricier than lighter tools",
+   "Advanced reporting sits on higher tiers"
+  ],
+  "alternatives": [
+   "loxo",
+   "crelate"
+  ]
+ },
+ {
+  "slug": "jobadder",
+  "name": "JobAdder",
+  "website": "https://jobadder.com",
+  "category": "Staffing & agency software",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "mid sized agencies, especially in Australia, New Zealand and the UK, that want broad job board and payroll integrations",
+  "teamSize": "Agencies of 5 to 500 recruiters",
+  "trial": "Demo only",
+  "useCases": [
+   "recruitment-agency-crm"
+  ],
+  "verdict": "JobAdder is a recruitment CRM and ATS for agencies with a large integration marketplace and email and SMS sequences, sold on quoted plans.",
+  "standout": "Large marketplace of job board, payroll and onboarding integrations",
+  "weakness": "No public prices",
+  "overview": "JobAdder sells several plans, from Recruiter Lite to Essential and higher tiers, and quotes pricing on request. It covers job posting, candidate and client records, placements and outreach sequences by email and SMS.",
+  "pros": [
+   "Integration marketplace",
+   "Email and SMS sequences",
+   "Strong presence outside the US"
+  ],
+  "cons": [
+   "Quote only pricing",
+   "Interface takes time to configure"
+  ],
+  "alternatives": [
+   "bullhorn",
+   "recruit-crm"
   ]
  }
 ]

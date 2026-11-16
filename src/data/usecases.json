@@ -2852,5 +2852,87 @@
    "a": "On published pricing, JazzHR starts at 1,000 US dollars a year and Workable's Standard plan at 3,588 US dollars a year for small organizations, before add ons. Discount programs can bring Manatal or Zoho Recruit lower."
   }
  ]
-}
+},
+ {
+  "slug": "recruitment-agency-crm",
+  "updated": "2026-11-16",
+  "title": "Best Recruitment Agency CRM",
+  "short": "Recruitment agency CRM",
+  "seoTitle": "Best Recruitment Agency CRM 2026: 8 Ranked by Price and Fit | BestRecruitmentTools.com",
+  "h1": "The best recruitment agency CRM in 2026, ranked by desk size and price",
+  "description": "Eight CRMs for recruitment agencies ranked for 2026: Bullhorn, Loxo, Recruit CRM, Crelate, Recruiterflow, JobAdder, Manatal and Zoho Recruit, with prices checked on each vendor site in November 2026.",
+  "intro": "An agency CRM has two customers to track: the companies that pay fees and the candidates you place with them. Corporate recruiting CRMs only handle the second. We ranked eight agency systems on how well they run both sides, then priced each from its own pricing page on November 16, 2026. <b>Bullhorn</b> remains the default for staffing firms with a large back office, <b>Loxo</b> is the strongest pick for search firms that want sourcing built in, and <b>Recruit CRM</b> is the best value for a desk of two to twenty.",
+  "ranked": [
+   {
+    "slug": "bullhorn",
+    "why": "Bullhorn is the system most staffing firms grow into: front office CRM, ATS, placements, timesheets through its wider suite and the largest partner ecosystem in the category. It quotes pricing only, and it is more than a two person search boutique needs."
+   },
+   {
+    "slug": "loxo",
+    "why": "Loxo pairs an agency ATS and CRM with its own people data and outreach, so a recruiter can source, contact and track a candidate without a second tool. Its pricing page lists the Core plan at $149 per user a month on annual billing."
+   },
+   {
+    "slug": "recruit-crm",
+    "why": "Recruit CRM is the value pick. Its pricing page lists Pro at $95 and Business at $135 per user a month, with annual billing saving up to 17 percent, and it bundles the ATS and CRM with outreach sequences, a sourcing extension and contract timesheets and billing."
+   },
+   {
+    "slug": "crelate",
+    "why": "Crelate keeps candidate and client history on one contact record, which suits retained search firms whose hiring managers become candidates later. Essentials is $85 per user a month annually for up to two users; Business is $119."
+   },
+   {
+    "slug": "recruiterflow",
+    "why": "Recruiterflow is the pick for agencies that live on business development. It runs a sales pipeline next to the recruiting pipeline, with sequences on both, at $149 per user a month according to its pricing page."
+   },
+   {
+    "slug": "jobadder",
+    "why": "JobAdder is strongest for agencies that depend on job boards and back office integrations, especially in Australia, New Zealand and the UK. Plans run from Recruiter Lite upward and pricing is quoted on request."
+   },
+   {
+    "slug": "manatal",
+    "why": "Manatal is the cheapest way to get an ATS with client records. Its pricing page lists plans at $15, $35 and $55 per user a month on annual billing, which makes it a fit for new agencies watching every dollar."
+   },
+   {
+    "slug": "zoho-recruit",
+    "why": "Zoho Recruit has a forever free plan and paid tiers that add candidate and staffing portals, and agencies already on Zoho CRM or Zoho Books get the tightest fit. It is less specialized for retained search than Crelate or Loxo."
+   }
+  ],
+  "sections": [
+   {
+    "h": "Agency CRM versus in house recruiting CRM",
+    "p": [
+     "An agency CRM tracks clients, contacts, job orders, submittals and placements, and it usually handles fee and invoice data. An in house CRM such as Gem or Beamery nurtures candidates for one employer and has no concept of a client. If you work inside a company, our <a href=\"/best-for/recruiting-crm/\">recruiting CRM ranking for in house teams</a> is the better list."
+    ]
+   },
+   {
+    "h": "What the prices above leave out",
+    "p": [
+     "Per user prices are only part of the bill. Ask each vendor about data migration from your current system, job board posting credits, SMS fees, extra storage for resumes and the cost of integrations such as payroll or a VMS connector. Bullhorn and JobAdder quote everything, so request a three year total before you compare them with the published list prices of Loxo, Recruit CRM, Crelate, Recruiterflow and Manatal."
+    ]
+   },
+   {
+    "h": "Where sourcing and outreach tools fit",
+    "p": [
+     "Most agency CRMs store candidates well but find new ones slowly. Many desks add a separate sourcing tool that writes back to the CRM. <a href=\"https://noon.ai/built-for/agency-recruiters\">Noon for agency recruiters</a> is one example: it finds candidates for open job orders and contacts them by email and SMS, then hands replies to the recruiter. For a full stack view, see <a href=\"/best-for/staffing-agencies/\">the best recruitment tools for staffing agencies</a> and our <a href=\"/best-for/recruiting-email-tools/\">recruiting email tools</a> ranking."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is a recruitment agency CRM?",
+    "a": "It is software that tracks both sides of agency work: client companies, hiring managers and job orders on one side, candidates, submittals and placements on the other. Most agency CRMs include an applicant tracking system, so the terms are often used together."
+   },
+   {
+    "q": "Which recruitment agency CRM is cheapest?",
+    "a": "Of the tools on this list, Manatal has the lowest published price, starting at $15 per user a month on annual billing. Zoho Recruit also has a free tier, though agencies usually need a paid staffing plan."
+   },
+   {
+    "q": "Is Bullhorn worth it for a small agency?",
+    "a": "For a desk of one to five recruiters, usually not. Loxo, Recruit CRM and Crelate cover client and candidate pipelines at published prices. Bullhorn pays off when you need placements, back office and many integrations at scale."
+   },
+   {
+    "q": "Can I migrate from Bullhorn to another agency CRM?",
+    "a": "Yes. Loxo, Recruit CRM, Crelate, Recruiterflow and JobAdder all market migration help. Ask whether notes, attachments and placement history move over, and whether migration is included or billed separately."
+   }
+  ]
+ }
 ]
