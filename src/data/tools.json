@@ -2574,5 +2574,133 @@
    "bullhorn",
    "recruit-crm"
   ]
- }
+ },
+{
+ "slug": "frontline-education",
+ "name": "Frontline Recruiting & Hiring",
+ "website": "https://www.frontlineeducation.com/school-hcm-software/recruiting-hiring/",
+ "category": "K-12 recruiting software",
+ "rating": 4.3,
+ "priceTier": "$$$",
+ "startingPrice": null,
+ "bestFor": "public school districts that want applicant tracking connected to an education job board and onboarding",
+ "teamSize": "Districts of any size",
+ "trial": "Demo only",
+ "useCases": [
+  "recruiting-software-for-schools"
+ ],
+ "verdict": "Frontline Recruiting & Hiring is the most complete K-12 hiring system we checked, with a native link to the K12JobSpot job board and a handoff to onboarding in Frontline Central.",
+ "standout": "Native connection to K12JobSpot, so one job seeker profile covers search, application and status tracking",
+ "weakness": "No public pricing; sold as part of a wider district software suite",
+ "overview": "Frontline Education sells software to school districts across human capital, student and business operations, and says it has built products for districts for 25 years. Its Recruiting & Hiring product posts district jobs to K12JobSpot, runs structured recruitment funnels across schools and passes new hires into onboarding in Frontline Central, with candidate messaging and document management built in.",
+ "pros": [
+  "Built only for K-12 districts",
+  "Job board, applicant tracking and onboarding connected",
+  "Fits districts already on Frontline absence or HR modules"
+ ],
+ "cons": [
+  "Quote only pricing",
+  "Less relevant to private schools outside the K-12 district model"
+ ],
+ "alternatives": [
+  "red-rover",
+  "schoolspring"
+ ]
+},
+{
+ "slug": "red-rover",
+ "name": "Red Rover",
+ "website": "https://www.redroverk12.com/hiring",
+ "category": "K-12 recruiting software",
+ "rating": 4.1,
+ "priceTier": "$$",
+ "startingPrice": null,
+ "bestFor": "districts that want a modern hiring and onboarding module alongside substitute absence management",
+ "teamSize": "Districts of any size",
+ "trial": "Demo only",
+ "useCases": [
+  "recruiting-software-for-schools"
+ ],
+ "verdict": "Red Rover is a K-12 HR platform whose Hiring module covers posting, real time applicant tracking, resume parsing and paperless onboarding, and it pairs naturally with its absence management product.",
+ "standout": "One platform for hiring, absence, time, professional development and records",
+ "weakness": "No published prices and a shorter track record in hiring than in absence management",
+ "overview": "Red Rover describes itself as one platform for the whole employee lifecycle in K-12: hiring, absence management, time tracking, professional development and records. The Hiring product lets a district customize its own process, follow applicants on a real time application board, parse resumes for a faster application and complete onboarding paperwork online.",
+ "pros": [
+  "Customizable district hiring workflow",
+  "Resume parsing and paperless onboarding",
+  "Connected to substitute absence management"
+ ],
+ "cons": [
+  "Pricing by quote only",
+  "Fewer job board reach claims than Frontline"
+ ],
+ "alternatives": [
+  "frontline-education",
+  "schoolspring"
+ ]
+},
+{
+ "slug": "schoolspring",
+ "name": "SchoolSpring",
+ "website": "https://www.schoolspring.com",
+ "category": "Education job board",
+ "rating": 3.9,
+ "priceTier": "$",
+ "startingPrice": null,
+ "bestFor": "districts and schools that need an education specific job board to reach teachers and staff",
+ "teamSize": "Schools and districts of any size",
+ "trial": "Free for job seekers",
+ "useCases": [
+  "recruiting-software-for-schools"
+ ],
+ "verdict": "SchoolSpring is an education job board run by PowerSchool, free for job seekers, and best used as a reach channel feeding a district's applicant tracking system.",
+ "standout": "Education only audience of teachers and school staff",
+ "weakness": "A job board rather than a full hiring workflow",
+ "overview": "SchoolSpring lists teaching, educator and school jobs and tells job seekers the service is free. The site footer identifies it as a PowerSchool Group LLC property, so districts already using PowerSchool products may find it the easiest board to add.",
+ "pros": [
+  "Education specific audience",
+  "Free for candidates, which helps application volume",
+  "Part of the PowerSchool family"
+ ],
+ "cons": [
+  "Not an applicant tracking system on its own",
+  "Employer pricing not published"
+ ],
+ "alternatives": [
+  "edjoin",
+  "frontline-education"
+ ]
+},
+{
+ "slug": "edjoin",
+ "name": "EDJOIN",
+ "website": "https://www.edjoin.org",
+ "category": "Education job board",
+ "rating": 3.8,
+ "priceTier": "$",
+ "startingPrice": null,
+ "bestFor": "districts and county offices that want a widely used public education job board with region search",
+ "teamSize": "Schools and districts of any size",
+ "trial": "Free account for job seekers",
+ "useCases": [
+  "recruiting-software-for-schools"
+ ],
+ "verdict": "EDJOIN bills itself as the nation's number one education job board, with region search, job events and employer posting, and it works best as a reach channel next to an ATS.",
+ "standout": "Region based search that suits candidates looking within commuting distance",
+ "weakness": "Posting board only; no structured hiring or onboarding workflow",
+ "overview": "EDJOIN calls itself The Nation's #1 Education Job Board. Candidates register to save jobs to a wishlist and search by region, and employers post jobs and promote hiring events. It does not replace an applicant tracking system, but many districts use a board like it to widen reach.",
+ "pros": [
+  "Large education focused audience",
+  "Region search and event listings",
+  "Simple for candidates"
+ ],
+ "cons": [
+  "No applicant tracking depth",
+  "Interface is dated"
+ ],
+ "alternatives": [
+  "schoolspring",
+  "frontline-education"
+ ]
+}
 ]
