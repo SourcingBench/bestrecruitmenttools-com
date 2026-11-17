@@ -3000,5 +3000,77 @@
    "a": "Yes. Private and charter schools usually lack district HR requirements, so a general ATS such as Workable, paired with one education job board, is often enough."
   }
  ]
-}
+},
+ {
+  "slug": "job-description-generators",
+  "updated": "2026-11-17",
+  "title": "Best Job Description Generators",
+  "short": "Job description generators",
+  "seoTitle": "Best Job Description Generators (2026): 5 Ranked",
+  "h1": "The best job description generators in 2026, ranked",
+  "description": "Five job description generators ranked for 2026: Textio, Datapeople, Ongig, Workable's free tools and Indeed's free generator, with what each one checks for, how it connects to your ATS and what it costs, verified November 17, 2026.",
+  "intro": "Three of the five tools in this ranking are built to manage hundreds of job descriptions at once, and two are free single page generators. That split matters more than any feature list. If you post a handful of roles a year, <b>Indeed's generator</b> or <b>Workable's free tools</b> will give you a usable first draft in seconds. If you run a talent team with a library of roles, legal review and pay transparency rules, the job is governance, and <b>Textio</b>, <b>Datapeople</b> and <b>Ongig</b> are the tools to compare. Textio takes first place for the quality of its language guidance.",
+  "ranked": [
+   {
+    "slug": "textio",
+    "why": "Textio ranks first because it does more than draft. It generates a job post from a few details, then grades every post, email and careers page with the Textio Score to predict who will apply, and flags language that skews the audience with suggested fixes. Teams can keep a library of approved job descriptions, and the same guidance covers interview feedback. Pricing is by demo and quote."
+   },
+   {
+    "slug": "datapeople",
+    "why": "Datapeople is the choice for teams that want job description management inside the tools they already use. Its AI and guidance are distilled from over 100 million jobs and outcomes, it embeds in the ATS or HRIS, and its compliance features monitor pay transparency, brand guidelines and biased wording before a post goes live. The site now says Datapeople has been acquired by Payscale, which makes it a natural pairing for compensation teams. Pricing is on request."
+   },
+   {
+    "slug": "ongig",
+    "why": "Ongig is the only enterprise option here that publishes prices. The Lite tier costs $4,900 a year for up to 100 jobs and three users, and higher tiers add unlimited users and jobs, AI writing and templates, version history, pay transparency compliance and two way ATS or HRIS sync. A separate job description bias audit starts at $6,900. It suits HR teams cleaning up a large, messy library."
+   },
+   {
+    "slug": "workable",
+    "why": "Workable's free tools page generates a job description and a matching set of interview questions in one click, with inline AI editing to change tone or extend the questions. The free version has a daily limit of three AI uses, so it is a sampler rather than a workflow. The real value is for teams already on the Workable ATS, where the same AI sits inside job creation."
+   },
+   {
+    "slug": "indeed",
+    "why": "Indeed's free AI Job Description Generator has a Generator mode and an Optimizer mode for improving a draft you already have. Indeed says it pairs OpenAI models with taxonomy insights from millions of job descriptions, and labels the tool as beta that may make mistakes. It needs only a job title and location, and the output is written for posting on Indeed, which is why it ranks last for teams that publish anywhere else."
+   }
+  ],
+  "sections": [
+   {
+    "h": "Generator or job description management?",
+    "p": [
+     "A generator writes one draft. A management platform keeps every approved description in one library, routes changes for review, pushes the final version into the ATS and checks each post against rules you set. Free generators are fine for a founder hiring the third employee. Once several recruiters write postings for the same role family, inconsistency creeps in: different titles, different requirements and pay ranges that do not match the law in the state where the job sits. That is the problem Textio, Datapeople and Ongig are priced to solve.",
+     "If your main gap is the hiring system itself, start with our <a href=\"/best-for/small-business/\">ATS ranking for small businesses</a>, since most applicant tracking systems now include a basic AI writer."
+    ]
+   },
+   {
+    "h": "What to test in a trial",
+    "p": [
+     "Paste in three real job descriptions: one that worked, one that drew the wrong applicants and one you are about to post. Compare what each tool flags. Ask how the tool handles pay ranges and location rules, whether it can enforce your own banned words and brand voice and whether edits sync back to the ATS or have to be copied by hand. For the enterprise tools, ask how long it takes to import your existing library and who maps your job families.",
+     "Treat any AI draft as a first pass. A hiring manager still needs to confirm the duties, the real must haves and the salary band. Our guide to <a href=\"/best-for/free-recruitment-tools/\">free recruitment tools</a> lists other no cost options, and the <a href=\"/best-for/pre-employment-testing-tools/\">pre-employment testing tools ranking</a> covers what to do once the applicants arrive."
+    ]
+   },
+   {
+    "h": "How we ranked them",
+    "p": [
+     "We opened each vendor's product and pricing pages on November 17, 2026 and ranked on four things: the quality and specificity of language guidance, library and workflow features for teams, ATS and HRIS integration and price transparency. No vendor paid for placement."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the best free job description generator?",
+    "a": "Indeed's AI Job Description Generator is free and only needs a job title and location. Workable's free tools also write a description plus interview questions, with a limit of three AI uses per day."
+   },
+   {
+    "q": "How much does job description software cost?",
+    "a": "Ongig publishes its pricing: the Lite tier is $4,900 a year for up to 100 jobs and three users. Textio and Datapeople quote prices after a demo."
+   },
+   {
+    "q": "Can a job description generator remove bias?",
+    "a": "It can flag wording that research links to narrower applicant pools, and Textio, Datapeople and Ongig all check for exclusionary language. It cannot fix requirements that are unnecessary, so a human still needs to review what the role really demands."
+   },
+   {
+    "q": "Who owns Datapeople now?",
+    "a": "Datapeople's website says the company has been acquired by Payscale."
+   }
+  ]
+ }
 ]

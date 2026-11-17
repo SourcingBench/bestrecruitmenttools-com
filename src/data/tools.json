@@ -2702,5 +2702,104 @@
   "schoolspring",
   "frontline-education"
  ]
-}
+},
+ {
+  "slug": "textio",
+  "name": "Textio",
+  "website": "https://textio.com/products/recruiting",
+  "category": "Job description and recruiting content software",
+  "rating": 4.4,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "priceNote": "Quote only",
+  "bestFor": "talent teams that want scored, inclusive job posts and a shared library of approved descriptions",
+  "teamSize": "Mid-market and enterprise",
+  "trial": "Demo on request",
+  "useCases": [
+   "job-description-generators"
+  ],
+  "verdict": "Textio is the strongest pure language tool for job posts, combining a generator with the Textio Score and bias guidance.",
+  "standout": "Textio Score predicts who will apply to a post and shows how to fix skewed language",
+  "weakness": "No public pricing, and the depth is wasted on teams that post a few roles a year",
+  "overview": "Textio generates optimized job posts from a few details, keeps a library of trusted job descriptions and grades every email, post and page with the Textio Score. It also offers employer branding content guidance and interview feedback tools aimed at fairer decisions. Textio says its AI is trained on a proprietary data set of millions of real hiring outcomes.",
+  "pros": [
+   "Specific, explainable language guidance",
+   "Job post library for consistency",
+   "Covers employer branding and interview feedback"
+  ],
+  "cons": [
+   "Quote only pricing",
+   "More than a small team needs"
+  ],
+  "alternatives": [
+   "datapeople",
+   "ongig"
+  ]
+ },
+ {
+  "slug": "datapeople",
+  "name": "Datapeople",
+  "website": "https://datapeople.io/",
+  "category": "Job description management",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "priceNote": "Quote only",
+  "bestFor": "enterprise TA and compensation teams that need compliant job content inside the ATS",
+  "teamSize": "Enterprise",
+  "trial": "Demo on request",
+  "useCases": [
+   "job-description-generators"
+  ],
+  "verdict": "Datapeople manages and monitors job content inside your existing ATS or HRIS, and now sits under Payscale.",
+  "standout": "Pay transparency and anti-bias monitoring before a post goes live",
+  "weakness": "Pricing is on request and the platform is built for large job libraries",
+  "overview": "Datapeople centralizes job descriptions and offers First Draft AI and templates distilled from over 100 million jobs and outcomes. Its compliance tools monitor brand guidelines, pay transparency and biased language, and it embeds in ATS and HRIS systems so teams do not change tools. The site states that Datapeople has been acquired by Payscale.",
+  "pros": [
+   "ATS and HRIS embedded workflow",
+   "Pay transparency monitoring",
+   "Audit ready job content repository"
+  ],
+  "cons": [
+   "No published prices",
+   "Ownership change may shift the roadmap"
+  ],
+  "alternatives": [
+   "textio",
+   "ongig"
+  ]
+ },
+ {
+  "slug": "ongig",
+  "name": "Ongig",
+  "website": "https://www.ongig.com/",
+  "category": "Job description management",
+  "rating": 4.0,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "priceNote": "From $4,900/year (Lite tier)",
+  "bestFor": "HR teams cleaning up a large job description library with published pricing",
+  "teamSize": "Mid-market and enterprise",
+  "trial": "Demo on request",
+  "useCases": [
+   "job-description-generators"
+  ],
+  "verdict": "Ongig is the job description management platform with the clearest pricing, from a $4,900 Lite tier to full ATS sync.",
+  "standout": "Published tier pricing and a separate job description bias audit",
+  "weakness": "The entry tier caps you at 100 jobs and three users",
+  "overview": "Ongig offers a cloud based job library, AI writing and templates, version history, pay transparency compliance and one or two way ATS and HRIS integration depending on tier. The Lite tier costs $4,900 a year for up to 100 jobs and three users, and a job description bias audit starts at $6,900. It flags language that might exclude candidates.",
+  "pros": [
+   "Public pricing",
+   "ATS and HRIS sync on higher tiers",
+   "Bias audit service"
+  ],
+  "cons": [
+   "Entry tier limits",
+   "Higher tiers are quote based"
+  ],
+  "alternatives": [
+   "datapeople",
+   "textio"
+  ]
+ }
 ]
