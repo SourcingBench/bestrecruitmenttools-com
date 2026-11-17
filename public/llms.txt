@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 76 tools rated 1–5; 37 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 79 tools rated 1–5; 38 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -54,6 +54,7 @@
 - [Best Recruiting Software for Nonprofits](https://bestrecruitmenttools.com/best-for/recruiting-software-for-nonprofits/): 1. Pinpoint, 2. Manatal, 3. Zoho Recruit, 4. Workable, 5. JazzHR, 6. OpenCATS
 - [Best Recruitment Agency CRM](https://bestrecruitmenttools.com/best-for/recruitment-agency-crm/): 1. Bullhorn, 2. Loxo, 3. Recruit CRM, 4. Crelate, 5. Recruiterflow, 6. JobAdder, 7. Manatal, 8. Zoho Recruit
 - [Best Recruiting Software for Schools](https://bestrecruitmenttools.com/best-for/recruiting-software-for-schools/): 1. Frontline Recruiting & Hiring, 2. Red Rover, 3. SchoolSpring, 4. EDJOIN, 5. Workable
+- [Best Job Description Generators](https://bestrecruitmenttools.com/best-for/job-description-generators/): 1. Textio, 2. Datapeople, 3. Ongig, 4. Workable, 5. Indeed
 
 ## Comparisons
 
@@ -97,6 +98,7 @@
 - [ConverzAI](https://bestrecruitmenttools.com/reviews/converzai/): AI recruiter for staffing, 4.1/5, $$$, best for staffing firms that want a virtual recruiter calling, texting and emailing candidates from inside their ATS.
 - [Crelate](https://bestrecruitmenttools.com/reviews/crelate/): Staffing & agency software, 4.1/5, $$, best for search firms and small agencies that want an ATS and CRM in one record per contact.
 - [Criteria](https://bestrecruitmenttools.com/reviews/criteria/): Skills assessment, 4.2/5, $$, best for validated cognitive aptitude and personality testing for professional and hourly roles.
+- [Datapeople](https://bestrecruitmenttools.com/reviews/datapeople/): Job description management, 4.2/5, $$$, best for enterprise TA and compensation teams that need compliant job content inside the ATS.
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
 - [EDJOIN](https://bestrecruitmenttools.com/reviews/edjoin/): Education job board, 3.8/5, $, best for districts and county offices that want a widely used public education job board with region search.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
@@ -130,6 +132,7 @@
 - [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
 - [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
 - [Odoo Recruitment](https://bestrecruitmenttools.com/reviews/odoo-recruitment/): Applicant Tracking System, 4.0/5, $, best for companies that want many free seats or already run Odoo.
+- [Ongig](https://bestrecruitmenttools.com/reviews/ongig/): Job description management, 4.0/5, $$$, best for HR teams cleaning up a large job description library with published pricing.
 - [OpenCATS](https://bestrecruitmenttools.com/reviews/opencats/): Applicant Tracking System, 3.6/5, $, best for technical teams and agencies that want to host their own ATS.
 - [Otter](https://bestrecruitmenttools.com/reviews/otter/): AI meeting notes, 4.0/5, $, best for recruiters who want cheap, general meeting transcription across Zoom, Teams and Meet.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
@@ -148,6 +151,7 @@
 - [Talview](https://bestrecruitmenttools.com/reviews/talview/): Interview integrity & proctoring, 4.2/5, $$$, best for teams that want identity checks built into interviews and assessments.
 - [Teamtailor](https://bestrecruitmenttools.com/reviews/teamtailor/): Applicant tracking, 4.2/5, $$, best for employer branding and careers sites for SMBs.
 - [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/): Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
+- [Textio](https://bestrecruitmenttools.com/reviews/textio/): Job description and recruiting content software, 4.4/5, $$$, best for talent teams that want scored, inclusive job posts and a shared library of approved descriptions.
 - [Vervoe](https://bestrecruitmenttools.com/reviews/vervoe/): Skills assessment, 4.0/5, $$, best for job simulations that show how a candidate would do the actual work.
 - [Wellfound](https://bestrecruitmenttools.com/reviews/wellfound/): Job boards & advertising, 3.9/5, $, best for startups hiring candidates who want to work at startups.
 - [Wiza](https://bestrecruitmenttools.com/reviews/wiza/): Contact data & outreach, 4.0/5, $$, best for recruiters who want unlimited email reveals instead of rationing credits.

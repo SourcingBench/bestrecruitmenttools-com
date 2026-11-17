@@ -265,7 +265,9 @@
    "keyword": "job description generators",
    "volume": 320,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "job-description-generators",
+   "date": "2026-11-17"
   },
   {
    "id": "brt-030",
