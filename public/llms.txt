@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 79 tools rated 1–5; 38 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 79 tools rated 1–5; 39 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -55,6 +55,7 @@
 - [Best Recruitment Agency CRM](https://bestrecruitmenttools.com/best-for/recruitment-agency-crm/): 1. Bullhorn, 2. Loxo, 3. Recruit CRM, 4. Crelate, 5. Recruiterflow, 6. JobAdder, 7. Manatal, 8. Zoho Recruit
 - [Best Recruiting Software for Schools](https://bestrecruitmenttools.com/best-for/recruiting-software-for-schools/): 1. Frontline Recruiting & Hiring, 2. Red Rover, 3. SchoolSpring, 4. EDJOIN, 5. Workable
 - [Best Job Description Generators](https://bestrecruitmenttools.com/best-for/job-description-generators/): 1. Textio, 2. Datapeople, 3. Ongig, 4. Workable, 5. Indeed
+- [Best Contact Finders for Recruiters](https://bestrecruitmenttools.com/best-for/contact-finders-for-recruiters/): 1. Noon, 2. ContactOut, 3. Wiza, 4. Lusha, 5. Kaspr, 6. Apollo.io
 
 ## Comparisons
 
