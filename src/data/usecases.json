@@ -3072,5 +3072,91 @@
     "a": "Datapeople's website says the company has been acquired by Payscale."
    }
   ]
+ },
+ {
+  "slug": "contact-finders-for-recruiters",
+  "updated": "2026-11-17",
+  "title": "Best Contact Finders for Recruiters",
+  "short": "Contact finders for recruiters",
+  "seoTitle": "Best Contact Finders for Recruiters (2026): 6 Ranked",
+  "h1": "The best contact finders for recruiters in 2026, ranked by what happens after the reveal",
+  "description": "Six contact finders ranked for recruiters in 2026: Noon, ContactOut, Wiza, Lusha, Kaspr and Apollo.io, compared on personal email coverage, credit rules, free plans and what each does once you have the address.",
+  "intro": "Verdict first: a contact finder earns its seat only if the email or phone number it reveals turns into a reply. Most tools on this list stop at the reveal and leave the message to you. We loaded every vendor's pricing and product page on November 17, 2026 and ranked the six on three questions a recruiter actually asks: does it find personal addresses rather than only work email, how fast do the credits run out, and what does it help you do next. If you are replacing one specific product, our <a href=\"/best-for/lusha-alternatives/\">Lusha alternatives</a> and <a href=\"/best-for/rocketreach-alternatives/\">RocketReach alternatives</a> pages go deeper on switching.",
+  "ranked": [
+   {
+    "slug": "noon",
+    "why": "Noon ranks first because it treats the address as the start of the job, not the end. You describe the role, it finds and ranks matching people, verifies their contact details and then sends <a href=\"https://noon.ai/product/ai-outreach\" target=\"_blank\" rel=\"noopener\">personalized email and SMS sequences</a> that reference each candidate's background. It is free to start, and the paid plan is quoted per team rather than metered per reveal, so a recruiter working twenty roles is not rationing lookups."
+   },
+   {
+    "slug": "contactout",
+    "why": "ContactOut is the pure contact finder with the clearest recruiter angle. Its recruiter page promises candidate lists by job title, skills and industry, with email and calling from the same place, and its strength is personal email, which is the address a passive candidate actually reads. Pick it if your sourcing already works and the gap is simply reaching people."
+   },
+   {
+    "slug": "wiza",
+    "why": "Wiza publishes the most transparent price card in this group. The free plan gives 20 valid emails and 5 phone numbers; Starter is $49 per user a month for 100 valid emails; the Email plan is $99 a month, or $83 a month billed yearly, with unlimited email reveals on the annual plan; Email plus Phone is $199 a month, or $166 billed yearly. Paying yearly removes the email meter, which suits steady high volume users."
+   },
+   {
+    "slug": "lusha",
+    "why": "Lusha's free plan includes up to 40 credits a month, and its pricing page spells out the exchange rate: a verified email costs 1 credit and a phone number costs 5. That makes budgeting simple, but phone heavy recruiting burns credits five times faster. It is built for sales teams, so expect to bring your own candidate workflow."
+   },
+   {
+    "slug": "kaspr",
+    "why": "Kaspr is a browser extension finder with strong European coverage. Its pricing page lists a free plan with 15 B2B email credits and 5 phone credits a month, and a Starter tier from $49 per user a month with unlimited B2B email credits. Choose it when a large share of your candidates are in Europe and you mostly need phone numbers in small quantities."
+   },
+   {
+    "slug": "apollo",
+    "why": "Apollo.io keeps a free Starter plan with no time limit and pools paid credits across the team, granted at the start of each billing cycle. Credits reset every cycle and unused ones do not roll over, so plan monthly usage carefully. It is a sales platform, which shows in the lack of candidate fields and ATS sync."
+   }
+  ],
+  "sections": [
+   {
+    "h": "Personal email or work email?",
+    "p": [
+     "Sales tools are tuned for work addresses because a buyer reads mail at the office. A candidate who is quietly open to a move does not want a recruiter in the employer's inbox, and many will ignore or delete the message on principle. Before you trial anything, take ten people you sourced last month and see how many personal addresses each tool returns, not just how many results.",
+     "Phone numbers are the other split. Tools price them several times higher than email, and mobile numbers raise consent and texting rules that differ by country. If SMS is part of your plan, confirm how the vendor records the source of each number."
+    ]
+   },
+   {
+    "h": "Read the credit rules before the price",
+    "p": [
+     "Every vendor here meters something: reveals, credits, exports or seats. The traps are the same across the market. Credits that expire at the end of the month, phone reveals that cost five credits each, and exports capped separately from reveals all raise the real price per hire.",
+     "A quick test: estimate how many candidates you contact per role, multiply by your open roles, then by the share that needs a phone number. Run that number against each plan's monthly allowance before you look at the headline price."
+    ],
+    "list": [
+     "Do unused credits roll over?",
+     "Is a phone reveal priced the same as an email reveal?",
+     "Are failed lookups refunded?",
+     "Does the yearly plan remove the meter or only discount it?"
+    ]
+   },
+   {
+    "h": "Where the contact finder sits in your stack",
+    "p": [
+     "A finder that only reveals addresses needs three other things around it: somewhere to store candidates, a way to send sequences without hurting your domain and a record of who said no. Our guide to <a href=\"/best-for/recruiting-email-tools/\">recruiting email tools</a> covers the sending side, and the <a href=\"/best-for/candidate-sourcing/\">candidate sourcing</a> ranking covers tools that find the people in the first place."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is a contact finder for recruiters?",
+    "a": "It is a tool that looks up an email address or phone number for a person you already identified, usually through a browser extension or a search portal, so you can contact them outside a job board or social network."
+   },
+   {
+    "q": "Which contact finder has the best free plan?",
+    "a": "Lusha's free plan includes up to 40 credits a month, Wiza's free plan includes 20 valid emails and 5 phone numbers, and Apollo.io keeps a free Starter plan with no time limit. The best one depends on whether you need emails or phone numbers."
+   },
+   {
+    "q": "Are contact finders legal to use for recruiting?",
+    "a": "They are widely used, but you are responsible for how you contact people. Check the vendor's compliance documentation, honor opt outs, and follow the email and texting rules for each candidate's country and state."
+   },
+   {
+    "q": "Why do phone numbers cost more credits than emails?",
+    "a": "Direct dials are harder to source and verify, so vendors price them higher. Lusha, for example, charges 5 credits for a phone number and 1 for an email."
+   },
+   {
+    "q": "Do I still need a contact finder if I use a sourcing platform?",
+    "a": "Often not. Some sourcing platforms verify contact details as part of the search and send outreach themselves, which removes the separate finder and its credit meter."
+   }
+  ]
  }
 ]

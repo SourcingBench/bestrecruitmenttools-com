@@ -275,7 +275,9 @@
    "keyword": "contact finders for recruiters",
    "volume": null,
    "noon_target": "/product/ai-outreach",
-   "status": "queued"
+   "status": "published",
+   "slug": "contact-finders-for-recruiters",
+   "date": "2026-11-17"
   }
  ]
 }
