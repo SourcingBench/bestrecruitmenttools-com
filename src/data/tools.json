@@ -2801,5 +2801,170 @@
    "datapeople",
    "textio"
   ]
+ },
+ {
+  "slug": "boon",
+  "name": "Boon",
+  "website": "https://www.goboon.co",
+  "category": "Employee referrals",
+  "rating": 4.5,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "referral programs employees actually use, inside Slack",
+  "teamSize": "Mid-market and enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "employee-referral-software"
+  ],
+  "verdict": "Boon is a dedicated referral platform built around low effort for employees: referral links, Slack prompts, rewards and analytics, with an external referral network on top.",
+  "standout": "Slack app plus internal and external referrals in one product",
+  "weakness": "Pricing is quote based and not published",
+  "overview": "Boon was founded by Dakota Younger after he sold his recruiting firms in 2015, and the company says its platform has supported more than 1,150,000 referral hires across 50+ countries. Employees get personal referral links, automatic notifications and weekly job roundups; recruiters get gamification, a rewards portal, ATS integrations and referral analytics. A separate external referral product extends the same mechanics to people outside the company.",
+  "pros": [
+   "Slack native referral prompts",
+   "External referral program available",
+   "Rewards and gamification built in"
+  ],
+  "cons": [
+   "Quote based pricing",
+   "Value depends on employee adoption"
+  ],
+  "alternatives": [
+   "employeereferrals",
+   "radancy",
+   "teamable"
+  ]
+ },
+ {
+  "slug": "employeereferrals",
+  "name": "EmployeeReferrals.com",
+  "website": "https://www.employeereferrals.com",
+  "category": "Employee referrals",
+  "rating": 4.3,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "branded referral programs tied to ATS, HRIS and payroll",
+  "teamSize": "Mid-market",
+  "trial": "Demo only",
+  "useCases": [
+   "employee-referral-software"
+  ],
+  "verdict": "EmployeeReferrals.com is a long running referral platform that focuses on program mechanics: branded portals, social sharing, leaderboards and payouts connected to HR systems.",
+  "standout": "Payroll connected reward workflows",
+  "weakness": "Interface and reporting are less modern than newer tools",
+  "overview": "EmployeeReferrals.com says it was founded in early 2011 and that jobs on its platform have been shared with more than one million people. It sells branded referral programs with automatic job sharing, leaderboards and rewards, and it publishes a list of ATS integrations so referrals land in the recruiter's existing workflow. The company also publishes research from its own customers on how referral volume relates to hires.",
+  "pros": [
+   "Mature referral program features",
+   "ATS, HRIS and payroll connections",
+   "Publishes its own referral research"
+  ],
+  "cons": [
+   "Quote based pricing",
+   "Fewer collaboration app integrations than Boon"
+  ],
+  "alternatives": [
+   "boon",
+   "radancy",
+   "hireology"
+  ]
+ },
+ {
+  "slug": "radancy",
+  "name": "Radancy",
+  "website": "https://www.radancy.com",
+  "category": "Talent acquisition platform",
+  "rating": 4.2,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "bestFor": "enterprises that want referrals inside a full talent acquisition suite",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "employee-referral-software"
+  ],
+  "verdict": "Radancy offers employee referrals as one module of a broad talent acquisition platform, which suits large employers that already buy career sites and recruitment marketing from it.",
+  "standout": "Referrals connected to career sites, CRM and recruitment marketing",
+  "weakness": "Too much platform for a team that only wants a referral tool",
+  "overview": "Radancy's employee referrals product automates referral campaigns and reminders and sits inside the company's AI powered talent acquisition platform, next to career sites, recruitment marketing and candidate engagement. For a global employer, the appeal is one vendor and one data model for every source of candidates; for a smaller team, it is more than needed.",
+  "pros": [
+   "Part of a full talent acquisition suite",
+   "Built for global, multi brand employers",
+   "Automated referral campaigns"
+  ],
+  "cons": [
+   "Enterprise sales cycle",
+   "Referral module rarely bought alone"
+  ],
+  "alternatives": [
+   "boon",
+   "employeereferrals",
+   "teamable"
+  ]
+ },
+ {
+  "slug": "teamable",
+  "name": "Teamable",
+  "website": "https://www.teamable.com",
+  "category": "Sourcing and referrals",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "turning employees' networks into a searchable talent pool",
+  "teamSize": "Mid-market",
+  "trial": "Demo only",
+  "useCases": [
+   "employee-referral-software"
+  ],
+  "verdict": "Teamable approaches referrals from the sourcing side: it maps employees' professional networks so recruiters can search them and ask for warm introductions.",
+  "standout": "Searchable employee network for proactive referrals",
+  "weakness": "Requires employees to connect their networks",
+  "overview": "Teamable sells sourcing, inbound, CRM, diversity analytics and referrals as modules of one AI hiring platform. Its referrals module turns the company's network into a searchable talent pool, so recruiters can find people their colleagues already know and ask for an introduction instead of waiting for employees to submit names. Its inbound module shows when an applicant is already connected to someone inside.",
+  "pros": [
+   "Recruiter led referrals, not only employee submissions",
+   "Sourcing and CRM in the same product",
+   "Shows network context on inbound applicants"
+  ],
+  "cons": [
+   "Employees must opt in and connect accounts",
+   "Less focus on rewards and payouts"
+  ],
+  "alternatives": [
+   "boon",
+   "radancy",
+   "employeereferrals"
+  ]
+ },
+ {
+  "slug": "hireology",
+  "name": "Hireology",
+  "website": "https://www.hireology.com",
+  "category": "Applicant tracking",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "small and multi location businesses that want referrals inside their ATS",
+  "teamSize": "Small business and multi location",
+  "trial": "Demo only",
+  "useCases": [
+   "employee-referral-software"
+  ],
+  "verdict": "Hireology is an applicant tracking system for smaller and multi location employers that includes a referrals feature next to job boards, career sites, SMS and email.",
+  "standout": "Referrals, texting and scheduling in one ATS",
+  "weakness": "Referral features are simpler than dedicated platforms",
+  "overview": "Hireology lists referrals among its attract and source features alongside job board posting, career sites, QR codes and campaigns, and pairs them with SMS and email messaging, prescreen surveys and interview scheduling. For a dealership group or a chain of clinics, that removes the need to buy a separate referral tool.",
+  "pros": [
+   "No separate referral vendor needed",
+   "Built for multi location employers",
+   "Texting and scheduling included"
+  ],
+  "cons": [
+   "Basic gamification and rewards",
+   "Less suited to large enterprises"
+  ],
+  "alternatives": [
+   "employeereferrals",
+   "boon",
+   "teamable"
+  ]
  }
 ]

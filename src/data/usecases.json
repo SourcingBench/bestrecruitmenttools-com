@@ -3158,5 +3158,92 @@
     "a": "Often not. Some sourcing platforms verify contact details as part of the search and send outreach themselves, which removes the separate finder and its credit meter."
    }
   ]
+ },
+ {
+  "slug": "employee-referral-software",
+  "updated": "2026-11-18",
+  "title": "Best Employee Referral Software",
+  "short": "Employee referral software",
+  "seoTitle": "Best Employee Referral Software (2026): 5 Ranked",
+  "h1": "The best employee referral software in 2026, ranked by how well it keeps employees referring",
+  "description": "Five employee referral software tools ranked for 2026: Boon, EmployeeReferrals.com, Radancy, Teamable and Hireology, compared on employee engagement, ATS workflow, rewards and fit by company size.",
+  "intro": "Verdict up front: Boon is the best employee referral software for most growing companies in 2026, because it puts referral requests where employees already work and covers external referrals too. Referral programs rarely fail for lack of a bonus; they fail because employees forget the open roles exist. We loaded each vendor's product page on November 18, 2026 and ranked five tools on how they keep employees referring, how referrals reach the ATS and what the program costs to run. If referrals are one part of a wider hiring stack, compare our picks for <a href='/best-for/small-business/'>small business</a> and <a href='/best-for/enterprise/'>enterprise</a> hiring, and our <a href='/best-for/recruiting-crm/'>recruiting CRM ranking</a> for nurturing referred candidates who are not ready yet.",
+  "ranked": [
+   {
+    "slug": "boon",
+    "why": "Boon ranks first because it attacks the real bottleneck, employee attention. Its <a href='https://www.goboon.co/employee-referral-platform' target='_blank' rel='noopener'>referral platform</a> sends roles to employees through Slack and weekly roundups, gives each person a referral link, and handles rewards and analytics in one place. The <a href='https://www.goboon.co/external-referral-platform' target='_blank' rel='noopener'>external referral product</a> lets you pay referral fees to people outside the company, which most rivals here do not offer."
+   },
+   {
+    "slug": "employeereferrals",
+    "why": "EmployeeReferrals.com has run referral programs since 2011, according to its <a href='https://www.employeereferrals.com/about-us' target='_blank' rel='noopener'>about page</a>, and it shows in the mechanics: branded portals, automatic sharing, leaderboards and payouts tied to payroll. It is a safe pick for HR teams that care most about administering rewards accurately."
+   },
+   {
+    "slug": "radancy",
+    "why": "Radancy belongs on the list for large employers. Its <a href='https://www.radancy.com/platform-overview/employee-referrals/' target='_blank' rel='noopener'>employee referrals module</a> automates referral campaigns inside a platform that also runs career sites and recruitment marketing, so referral data sits next to every other source. Buy it if you are already a Radancy customer; it is too heavy otherwise."
+   },
+   {
+    "slug": "teamable",
+    "why": "Teamable flips the model: instead of waiting for submissions, recruiters search employees' networks. Its <a href='https://www.teamable.com/products' target='_blank' rel='noopener'>product suite</a> combines referrals with sourcing, inbound and CRM, which suits teams that want referrals to become a proactive sourcing channel."
+   },
+   {
+    "slug": "hireology",
+    "why": "Hireology is the pragmatic choice for small and multi location businesses. Its <a href='https://www.hireology.com/' target='_blank' rel='noopener'>ATS</a> includes referrals next to job boards, career sites, texting and scheduling, so a franchise group can run a referral program without a second vendor."
+   }
+  ],
+  "sections": [
+   {
+    "h": "How we ranked employee referral software",
+    "p": [
+     "We weighted three things. Engagement: how the tool reminds employees about open roles and makes referring take seconds. Workflow: whether referrals arrive in the ATS with the referrer attached and tracked through to hire. Administration: rewards, payouts and reporting that HR can trust.",
+     "Every vendor in this ranking quotes pricing after a demo, so the tiers shown are our estimate of typical spend, not list prices. Ask each vendor for pricing by employee count and for any fees on external referral payouts."
+    ]
+   },
+   {
+    "h": "Dedicated platform or ATS feature?",
+    "p": [
+     "Most applicant tracking systems can record a referral source. That is enough if you hire a few dozen people a year and your team is small enough to share roles in a staff meeting.",
+     "A dedicated platform earns its cost when you have hundreds of employees, many open roles and a referral bonus budget that needs tracking. The signals are the same in every company: employees ask what roles are open, bonuses are paid late or by hand, and nobody can say how many hires came from referrals last quarter."
+    ],
+    "list": [
+     "Under 100 employees: use your ATS referral feature, such as Hireology's.",
+     "100 to 2,000 employees: a dedicated tool such as Boon or EmployeeReferrals.com.",
+     "Global enterprise already on Radancy: add its referrals module.",
+     "Recruiter led sourcing culture: Teamable."
+    ]
+   },
+   {
+    "h": "Program design matters more than the tool",
+    "p": [
+     "Software cannot fix a referral program with unclear rules. Publish who is eligible, which roles pay a bonus, when it is paid and how duplicate referrals are resolved. Tell referrers what happened to their candidate, even when the answer is no; silence is the fastest way to stop future referrals.",
+     "Watch diversity too. Referrals tend to mirror the existing team, so pair the program with sourcing that reaches new networks and track the demographics of referred hires over time."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is employee referral software?",
+    "a": "Software that distributes open roles to employees, lets them refer people with a link or form, sends those referrals into the ATS and tracks rewards and results."
+   },
+   {
+    "q": "Do I need referral software if my ATS has a referral field?",
+    "a": "Not always. If you are small and hire occasionally, the ATS field is enough. Dedicated software pays off when you need reminders, rewards administration and reporting across many roles and employees."
+   },
+   {
+    "q": "What are external referrals?",
+    "a": "Referrals from people who do not work for you, such as former employees, alumni or industry contacts, who are paid a fee if their candidate is hired. Boon sells an external referral product for this."
+   },
+   {
+    "q": "How much does employee referral software cost?",
+    "a": "None of the five vendors ranked here publishes list prices. Expect pricing to scale with employee count or modules, and get quotes from at least two vendors."
+   },
+   {
+    "q": "Which ATS integrations matter most?",
+    "a": "The one you already use. Confirm the referral arrives with the referrer's name, keeps its source through each stage and triggers the reward when the hire starts."
+   },
+   {
+    "q": "Can referral software help with diversity hiring?",
+    "a": "It can track who refers whom and the outcomes, which shows whether referrals narrow your pipeline. It cannot widen networks on its own, so pair it with outreach to new communities."
+   }
+  ]
  }
 ]
