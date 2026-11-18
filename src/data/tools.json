@@ -2966,5 +2966,203 @@
    "boon",
    "teamable"
   ]
+ },
+ {
+  "slug": "sap-fieldglass",
+  "name": "SAP Fieldglass",
+  "website": "https://www.sap.com/products/hcm/workforce-management.html",
+  "category": "Vendor management system",
+  "rating": 4.5,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "bestFor": "global enterprises managing contractors, consultants and statements of work across many countries",
+  "teamSize": "Global enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "vendor-management-system-software"
+  ],
+  "verdict": "SAP Fieldglass is the most widely deployed enterprise vendor management system for contingent labor and services procurement, with the strongest fit for companies already running SAP.",
+  "standout": "Services procurement and contingent labor across 180 countries",
+  "weakness": "Heavy implementation and best value inside an SAP estate",
+  "overview": "SAP describes Fieldglass as a vendor management system for procuring and managing external workers, from contractors and consultants to freelancers and service providers. It is offered in 180 countries and 21 languages, connects to SAP and non SAP ERP systems, and now includes an AI Contingent Workforce Management Assistant.",
+  "pros": [
+   "Covers temp labor and statement of work services",
+   "Very broad country and language coverage",
+   "Integrates with SAP and other ERPs"
+  ],
+  "cons": [
+   "Long, partner led implementations",
+   "Interface feels dated next to newer tools"
+  ],
+  "alternatives": [
+   "workday-vndly",
+   "beeline",
+   "magnit"
+  ]
+ },
+ {
+  "slug": "workday-vndly",
+  "name": "Workday VNDLY",
+  "website": "https://www.workday.com/en-us/products/vndly-vms/overview.html",
+  "category": "Vendor management system",
+  "rating": 4.4,
+  "priceTier": "$$$$",
+  "startingPrice": null,
+  "bestFor": "Workday HCM customers that want contingent workers in the same system as employees",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "vendor-management-system-software"
+  ],
+  "verdict": "Workday VNDLY is the natural vendor management system for Workday HCM customers, bringing contractors into the same workforce data as employees.",
+  "standout": "One global instance tied to Workday HCM",
+  "weakness": "Strongest only when you already run Workday",
+  "overview": "Workday positions VNDLY as a VMS that pairs with Workday HCM to cover external workers from requisition to offboarding on one global instance, with local compliance, in country invoicing and tax management. Workday says VNDLY was named a Leader in Everest Group's 2026 VMS PEAK Matrix.",
+  "pros": [
+   "Single view of employees and contractors",
+   "Global instance with local invoicing and tax handling",
+   "Analyst recognition in 2026"
+  ],
+  "cons": [
+   "Less compelling outside the Workday ecosystem",
+   "Enterprise pricing and contracts"
+  ],
+  "alternatives": [
+   "sap-fieldglass",
+   "beeline",
+   "simplifyvms"
+  ]
+ },
+ {
+  "slug": "beeline",
+  "name": "Beeline",
+  "website": "https://www.beeline.com/",
+  "category": "Vendor management system",
+  "rating": 4.4,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "enterprises and mid sized companies that want separate products for complex programs, frontline shifts and independent contractors",
+  "teamSize": "Mid sized to global enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "vendor-management-system-software"
+  ],
+  "verdict": "Beeline offers the broadest extended workforce portfolio here, with separate VMS editions for enterprise and mid sized companies plus shift labor and contractor compliance.",
+  "standout": "Enterprise and mid market VMS editions plus AOR and EOR through MBO Partners",
+  "weakness": "Several products to evaluate and license",
+  "overview": "Beeline sells Beeline Enterprise for large, global and complex programs and Beeline Professional for mid sized companies with 50 or more external workers, staffing agencies and MSPs. JoinedUp covers frontline shift labor, and MBO Partners by Beeline provides agent of record and employer of record services for independent contractors.",
+  "pros": [
+   "Edition built for mid sized companies",
+   "Shift labor and contractor compliance in the same family",
+   "Usable by staffing firms and MSPs"
+  ],
+  "cons": [
+   "Portfolio can be confusing to scope",
+   "Advanced features sit in separate products"
+  ],
+  "alternatives": [
+   "sap-fieldglass",
+   "magnit",
+   "simplifyvms"
+  ]
+ },
+ {
+  "slug": "simplifyvms",
+  "name": "SimplifyVMS",
+  "website": "https://www.simplifyvms.com/",
+  "category": "Vendor management system",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "multi country enterprises that want a modern VMS with direct sourcing, healthcare credentialing and strong reporting",
+  "teamSize": "Enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "vendor-management-system-software"
+  ],
+  "verdict": "SimplifyVMS is the best independent alternative to the ERP backed suites, with a cloud native platform, direct sourcing and a deep reporting library.",
+  "standout": "Direct sourcing, services procurement and healthcare credentialing in one platform",
+  "weakness": "Smaller partner ecosystem than SAP or Workday",
+  "overview": "SimplifyVMS describes itself as an AI powered, cloud native VMS for multi country enterprise deployments. Its product menu covers vendor management, direct sourcing and talent pools, services procurement and healthcare credentialing, and it advertises more than 70 standard report templates, supplier scorecards and headcount and milestone tracking. It also cites Leader and Star Performer status in Everest Group's 2026 PEAK Matrix.",
+  "pros": [
+   "Independent of any ERP vendor",
+   "Direct sourcing and talent pools included",
+   "Large standard report library"
+  ],
+  "cons": [
+   "Fewer implementation partners",
+   "Brand less familiar to procurement committees"
+  ],
+  "alternatives": [
+   "beeline",
+   "workday-vndly",
+   "magnit"
+  ]
+ },
+ {
+  "slug": "magnit",
+  "name": "Magnit",
+  "website": "https://magnitglobal.com/vendor-management-system/",
+  "category": "Vendor management system",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "companies that want software and a managed service provider from the same vendor",
+  "teamSize": "Mid sized to global enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "vendor-management-system-software"
+  ],
+  "verdict": "Magnit fits buyers who want a VMS and an MSP program from one company, with US and EU versions of two VMS platforms.",
+  "standout": "VMS plus MSP, EOR and direct sourcing from one provider",
+  "weakness": "Two VMS product lines to choose between",
+  "overview": "Magnit's VMS page lists two platforms, Wand VMS and Workforce Logiq VMS, each in US and EU editions, alongside Magnit Shift for hourly workers, Pay Intel, managed service provider programs, employer of record and services procurement. The pairing of software with an MSP suits companies that want to outsource program management as well as buy a tool.",
+  "pros": [
+   "Software and managed program from one vendor",
+   "Separate US and EU editions",
+   "Shift and pay intelligence products"
+  ],
+  "cons": [
+   "Product line inherited from acquisitions",
+   "Less attractive if you only want software"
+  ],
+  "alternatives": [
+   "beeline",
+   "sap-fieldglass",
+   "flextrack"
+  ]
+ },
+ {
+  "slug": "flextrack",
+  "name": "Flextrack",
+  "website": "https://www.flextrack.com/",
+  "category": "Vendor management system",
+  "rating": 3.9,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "Salesforce customers that want contingent workforce management inside their existing platform",
+  "teamSize": "Mid sized to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "vendor-management-system-software"
+  ],
+  "verdict": "Flextrack is the VMS to shortlist if your company runs on Salesforce and wants contractor data in the same platform.",
+  "standout": "Built natively on Salesforce",
+  "weakness": "Smaller vendor with less global payment infrastructure",
+  "overview": "Flextrack builds its contingent workforce and services procurement software on Salesforce, so requisitions, suppliers and workers live in the same platform as the rest of a Salesforce customer's data. Its guides cover agency temps, directly sourced temps, freelancers, gig workers and statement of work consultants.",
+  "pros": [
+   "Native Salesforce data model and permissions",
+   "Covers temp labor and SOW consultants",
+   "Familiar interface for Salesforce users"
+  ],
+  "cons": [
+   "Requires Salesforce to make sense",
+   "Smaller footprint than the market leaders"
+  ],
+  "alternatives": [
+   "magnit",
+   "simplifyvms",
+   "beeline"
+  ]
  }
 ]
