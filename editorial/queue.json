@@ -81,7 +81,9 @@
    "keyword": "recruitment agency crm",
    "volume": 210,
    "noon_target": "/built-for/agency-recruiters",
-   "status": "published", "slug": "recruitment-agency-crm", "date": "2026-11-16"
+   "status": "published",
+   "slug": "recruitment-agency-crm",
+   "date": "2026-11-16"
   },
   {
    "id": "brt-010",
@@ -295,7 +297,7 @@
    "keyword": "vendor management system software",
    "volume": 1000,
    "noon_target": null,
-   "status": "queued"
+   "status": "published", "slug": "vendor-management-system-software", "date": "2026-11-18"
   },
   {
    "id": "brt-033",
