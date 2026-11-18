@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 79 tools rated 1–5; 39 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 84 tools rated 1–5; 40 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -56,6 +56,7 @@
 - [Best Recruiting Software for Schools](https://bestrecruitmenttools.com/best-for/recruiting-software-for-schools/): 1. Frontline Recruiting & Hiring, 2. Red Rover, 3. SchoolSpring, 4. EDJOIN, 5. Workable
 - [Best Job Description Generators](https://bestrecruitmenttools.com/best-for/job-description-generators/): 1. Textio, 2. Datapeople, 3. Ongig, 4. Workable, 5. Indeed
 - [Best Contact Finders for Recruiters](https://bestrecruitmenttools.com/best-for/contact-finders-for-recruiters/): 1. Noon, 2. ContactOut, 3. Wiza, 4. Lusha, 5. Kaspr, 6. Apollo.io
+- [Best Employee Referral Software](https://bestrecruitmenttools.com/best-for/employee-referral-software/): 1. Boon, 2. EmployeeReferrals.com, 3. Radancy, 4. Teamable, 5. Hireology
 
 ## Comparisons
 
@@ -88,6 +89,7 @@
 - [Ashby](https://bestrecruitmenttools.com/reviews/ashby/): Applicant tracking, 4.7/5, $$, best for scaling startups.
 - [Avature](https://bestrecruitmenttools.com/reviews/avature/): Talent CRM, 4.2/5, $$$$, best for global employers that need configurable CRM, events and campus workflows.
 - [Beamery](https://bestrecruitmenttools.com/reviews/beamery/): Talent CRM, 4.1/5, $$$$, best for large employers that nurture passive talent pools against skills data.
+- [Boon](https://bestrecruitmenttools.com/reviews/boon/): Employee referrals, 4.5/5, $$, best for referral programs employees actually use, inside Slack.
 - [Breezy HR](https://bestrecruitmenttools.com/reviews/breezy-hr/): Applicant tracking, 4.0/5, $, best for small teams that need a free ATS.
 - [BrightHire](https://bestrecruitmenttools.com/reviews/brighthire/): Interview intelligence, 4.2/5, $$, best for teams that want interview notes, highlights and coaching.
 - [Bullhorn](https://bestrecruitmenttools.com/reviews/bullhorn/): Staffing & agency software, 4.0/5, $$$, best for established staffing agencies that need ATS, CRM and back office together.
@@ -103,6 +105,7 @@
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
 - [EDJOIN](https://bestrecruitmenttools.com/reviews/edjoin/): Education job board, 3.8/5, $, best for districts and county offices that want a widely used public education job board with region search.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
+- [EmployeeReferrals.com](https://bestrecruitmenttools.com/reviews/employeereferrals/): Employee referrals, 4.3/5, $$, best for branded referral programs tied to ATS, HRIS and payroll.
 - [Findem](https://bestrecruitmenttools.com/reviews/findem/): Talent data & sourcing platform, 4.1/5, $$$, best for mid-market and enterprise TA teams that want attribute-based search, CRM and sourcing agents.
 - [Fireflies](https://bestrecruitmenttools.com/reviews/fireflies/): AI meeting notes, 4.0/5, $, best for teams that interview in many languages and want unlimited transcription on a budget.
 - [Fountain](https://bestrecruitmenttools.com/reviews/fountain/): High-volume hiring platform, 4.0/5, $$$, best for frontline and gig workforce hiring pipelines.
@@ -116,6 +119,7 @@
 - [HigherMe](https://bestrecruitmenttools.com/reviews/higherme/): Hourly hiring platform, 4.0/5, $$, best for franchise restaurants hiring crew members every week.
 - [hireEZ](https://bestrecruitmenttools.com/reviews/hireez/): Talent search, 4.0/5, $$$, best for agencies and enterprise sourcers who want AI search plus CRM.
 - [HireLogic](https://bestrecruitmenttools.com/reviews/hirelogic/): Interview intelligence, 4.0/5, $, best for staffing firms and HR teams that want interview notes plus intake call analysis.
+- [Hireology](https://bestrecruitmenttools.com/reviews/hireology/): Applicant tracking, 4.0/5, $$, best for small and multi location businesses that want referrals inside their ATS.
 - [HireVue](https://bestrecruitmenttools.com/reviews/hirevue/): Video interviews & assessments, 4.0/5, $$$$, best for large employers running structured video interviews and assessments at volume.
 - [Homebase](https://bestrecruitmenttools.com/reviews/homebase/): Applicant Tracking System, 4.1/5, $, best for hourly teams in restaurants, retail and local services.
 - [Humanly](https://bestrecruitmenttools.com/reviews/humanly/): Conversational AI, 4.2/5, $$$, best for mid-market and enterprise frontline hiring that wants chat screening, AI interviews and scheduling in one product.
@@ -140,6 +144,7 @@
 - [Phenom](https://bestrecruitmenttools.com/reviews/phenom/): Talent CRM, 4.2/5, $$$$, best for enterprises whose CRM is fed mainly by the career site.
 - [Pindrop](https://bestrecruitmenttools.com/reviews/pindrop/): Deepfake & identity fraud detection, 4.0/5, $$$$, best for large employers already using voice security who now see fake applicants.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
+- [Radancy](https://bestrecruitmenttools.com/reviews/radancy/): Talent acquisition platform, 4.2/5, $$$$, best for enterprises that want referrals inside a full talent acquisition suite.
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
 - [Recruiterflow](https://bestrecruitmenttools.com/reviews/recruiterflow/): Staffing & agency software, 4.2/5, $$, best for agencies that want sales and recruiting pipelines plus email sequences in one tool.
 - [Red Rover](https://bestrecruitmenttools.com/reviews/red-rover/): K-12 recruiting software, 4.1/5, $$, best for districts that want a modern hiring and onboarding module alongside substitute absence management.
@@ -150,6 +155,7 @@
 - [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.
 - [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.
 - [Talview](https://bestrecruitmenttools.com/reviews/talview/): Interview integrity & proctoring, 4.2/5, $$$, best for teams that want identity checks built into interviews and assessments.
+- [Teamable](https://bestrecruitmenttools.com/reviews/teamable/): Sourcing and referrals, 4.1/5, $$, best for turning employees' networks into a searchable talent pool.
 - [Teamtailor](https://bestrecruitmenttools.com/reviews/teamtailor/): Applicant tracking, 4.2/5, $$, best for employer branding and careers sites for SMBs.
 - [TestGorilla](https://bestrecruitmenttools.com/reviews/testgorilla/): Skills assessment, 4.0/5, $, best for non-technical skills and cognitive tests for small businesses.
 - [Textio](https://bestrecruitmenttools.com/reviews/textio/): Job description and recruiting content software, 4.4/5, $$$, best for talent teams that want scored, inclusive job posts and a shared library of approved descriptions.

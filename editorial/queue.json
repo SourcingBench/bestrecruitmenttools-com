@@ -278,6 +278,40 @@
    "status": "published",
    "slug": "contact-finders-for-recruiters",
    "date": "2026-11-17"
+  },
+  {
+   "id": "brt-031",
+   "family": "ranked-use-case",
+   "keyword": "employee referral software",
+   "volume": 590,
+   "noon_target": null,
+   "status": "published",
+   "slug": "employee-referral-software",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "brt-032",
+   "family": "ranked-use-case",
+   "keyword": "vendor management system software",
+   "volume": 1000,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-033",
+   "family": "ranked-use-case",
+   "keyword": "programmatic job advertising",
+   "volume": 320,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-034",
+   "family": "ranked-use-case",
+   "keyword": "reference check software",
+   "volume": 90,
+   "noon_target": null,
+   "status": "queued"
   }
  ]
 }
