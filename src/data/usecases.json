@@ -3427,5 +3427,113 @@
     "a": "Talroo is built around frontline roles and publishes its pricing, PandoLogic has long served high volume hourly hiring, and Wonderkind reaches people on social apps who are not searching job boards."
    }
   ]
+ },
+ {
+  "slug": "reference-check-software",
+  "updated": "2026-11-19",
+  "title": "Best reference check software",
+  "short": "Reference check software",
+  "seoTitle": "Best Reference Check Software in 2026: 8 Tools Ranked",
+  "h1": "The best reference check software in 2026, ranked for speed, fraud signals and price",
+  "description": "Eight reference check platforms ranked from vendor sites read November 19, 2026: Crosschq, SkillSurvey, Checkster, Xref, Certn, Vitay, RefNow and Referoo, with pricing where it is published.",
+  "intro": "A phone reference takes a recruiter two calls, a voicemail and a scribbled note, and it still tells you only what one former manager chose to say out loud. Reference check software replaces that with a short online survey sent to several referees at once, collects the answers in a standard report and, in the better tools, flags references that look fake. We read each vendor's product and pricing pages on November 19, 2026 and ranked eight tools on turnaround, fraud detection, integrations and how clearly they price; our <a href='/how-we-rank/'>how we rank</a> page explains the site wide scoring. If you also need criminal and identity checks, compare this list with our <a href='/best-for/candidate-fraud-detection-tools/'>candidate fraud detection tools</a> ranking, and for skills tests see <a href='/best-for/pre-employment-testing-tools/'>pre employment testing tools</a>.",
+  "ranked": [
+   {
+    "slug": "crosschq",
+    "why": "Crosschq ranks first because it treats a reference as data, not a document. Its <a href='https://www.crosschq.com/' target='_blank' rel='noopener'>product pages</a> describe 360 Reference Checks alongside identity verification powered by ID.me, AI interviewing, assessments and pipeline analytics, with connectors for Workday, SAP, Greenhouse, iCIMS and Oracle. Teams that want to compare reference scores with later performance get the most from it. Pricing is quoted.",
+    "ai": "Aggregates survey answers into hiring analytics and flags identity risk",
+    "human": "Recruiter chooses which competencies to ask referees about"
+   },
+   {
+    "slug": "skillsurvey",
+    "why": "SkillSurvey was one of the first survey based reference tools and now sits inside iCIMS; the old address redirects to the <a href='https://www.icims.com/products/skillsurvey/' target='_blank' rel='noopener'>iCIMS SkillSurvey page</a>, which positions it as skills verification and reference checking. For employers already on iCIMS it is the shortest path to online references with one vendor contract. Outside that suite, compare it carefully with Crosschq.",
+    "ai": "Scores referee answers against job related behaviors",
+    "human": "Hiring team reviews the report before an offer"
+   },
+   {
+    "slug": "checkster",
+    "why": "Checkster is Harver's reference product. <a href='https://harver.com/software/reference-checking/' target='_blank' rel='noopener'>Harver says</a> checks come back in 24 hours, save 1.5 hours per reference and average six references per check, and that 52% of references opt in to hear about jobs. Those are vendor figures, but the design choice behind the last one is real: every referee is a potential candidate. Strong fit for high volume teams already using Harver assessments.",
+    "ai": "Runs the two minute mobile survey and chases late referees",
+    "human": "Recruiter follows up on flagged answers"
+   },
+   {
+    "slug": "xref",
+    "why": "Xref is the only tool here with a full public price list. Its <a href='https://www.xref.com/pricing' target='_blank' rel='noopener'>pricing page</a> shows a Starter plan for 1 to 74 employees at $70 a month billed annually or $80 monthly, with a cap of 25 hires a year, rising to $485 a month for 301 to 500 employees. Every plan includes unlimited users, and the platform adds pulse and exit surveys. Read the turnover caps before you pick a tier.",
+    "ai": "Automates requests, reminders and the written report",
+    "human": "Hiring manager reads the comparison across referees"
+   },
+   {
+    "slug": "certn",
+    "why": "Certn is primarily a background check company, but its <a href='https://certn.co/professional-reference-checks/' target='_blank' rel='noopener'>professional reference checks</a> are worth a look for teams that want one vendor for both. References can be collected by phone, email or SMS with custom questions, an in house team starts work within one business day, and the <a href='https://certn.co/pricing/' target='_blank' rel='noopener'>pricing page</a> lists reference checks at $39.99 with no setup fees or minimums.",
+    "ai": "Packages reference answers with background results in one dashboard",
+    "human": "Certn's verification team runs phone references"
+   },
+   {
+    "slug": "vitay",
+    "why": "Vitay targets agencies, including healthcare staffing firms. Its <a href='https://vitay.io/' target='_blank' rel='noopener'>site</a> says a check can be sent in 60 seconds, usually completes in under 24 hours and is checked for fraud with IP matching and device fingerprinting, which catches candidates who write their own references. It reports more than 1,500 teams as users. Pricing requires a demo.",
+    "ai": "Flags references that share a device or network with the candidate",
+    "human": "Recruiter decides whether a flagged reference is disqualifying"
+   },
+   {
+    "slug": "refnow",
+    "why": "RefNow is a UK platform with a credit model: its <a href='https://refnow.com/pricing' target='_blank' rel='noopener'>pricing page</a> says one referencing credit collects up to ten references from one candidate. It also runs DBS checks and employment verification through RefNow Respond, and offers a free trial without a card. Good for UK employers who hire in bursts.",
+    "ai": "Sends and chases reference requests automatically",
+    "human": "HR team signs off on the final file"
+   },
+   {
+    "slug": "referoo",
+    "why": "Referoo, based in Australia with a UK service, collects references by <a href='https://www.referoo.com/' target='_blank' rel='noopener'>email, phone or SMS</a> and bundles background, identity, right to work and DBS checks. The Referoo Hub links to HR and applicant tracking systems. Pricing is not published online, so request a quote alongside the free trial.",
+    "ai": "Automates reminders across email and SMS",
+    "human": "Recruiter can switch any reference to a phone call"
+   }
+  ],
+  "aiTableTitle": "What the software automates and what stays with a person",
+  "sections": [
+   {
+    "h": "Survey or phone: which reference format to buy",
+    "p": [
+     "Most tools on this list send an online questionnaire. Referees answer on their own time, usually on a phone, and the answers arrive in the same structure for every candidate, which makes comparison fair. Certn and Referoo also offer phone references for roles where a conversation matters, such as clinical or senior finance hires."
+    ],
+    "list": [
+     "<b>Hiring more than 20 people a month:</b> survey tools with automatic reminders, such as Checkster, Vitay or Crosschq.",
+     "<b>Hiring a few people a quarter:</b> Xref's published plans or RefNow's credits keep cost predictable.",
+     "<b>Need checks bundled:</b> Certn or Referoo combine references with background and right to work checks."
+    ]
+   },
+   {
+    "h": "Fraud signals worth paying for",
+    "p": [
+     "The weak point of any reference is that the candidate picks the referee. Ask each vendor how it detects a friend posing as a former manager. Vitay describes IP matching and device fingerprinting, and Crosschq adds identity verification through ID.me. Tools without these controls still save time, but they will not catch a fabricated reference."
+    ]
+   },
+   {
+    "h": "Compliance and candidate consent",
+    "p": [
+     "Online reference tools collect personal opinions about a candidate, so treat them like any other hiring record. Get the candidate's consent before contacting referees, keep the questions job related, and agree retention periods with each vendor. If a reference check is bundled with a background check in the US, the background portion falls under the Fair Credit Reporting Act and needs its own disclosure."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is reference check software?",
+    "a": "It automates collecting references: the candidate names referees, the tool sends each one a short survey, chases late replies and compiles the answers into a report the hiring team can compare."
+   },
+   {
+    "q": "How much does reference check software cost?",
+    "a": "Of the tools we checked, Xref publishes plans from $70 a month on annual billing and Certn lists reference checks at $39.99 each. Crosschq, SkillSurvey, Checkster, Vitay and Referoo quote prices on request."
+   },
+   {
+    "q": "Can reference checking tools detect fake references?",
+    "a": "Some can. Vitay checks IP addresses and device fingerprints, and Crosschq verifies identity through ID.me. Ask any vendor what fraud signals it uses before you buy."
+   },
+   {
+    "q": "Is SkillSurvey still available?",
+    "a": "Yes. SkillSurvey is now an iCIMS product, and its old website redirects to the iCIMS SkillSurvey page."
+   },
+   {
+    "q": "How fast are automated reference checks?",
+    "a": "Harver says Checkster checks return in 24 hours and Vitay says most finish in under 24 hours. Actual speed depends on how quickly referees respond."
+   }
+  ]
  }
 ]

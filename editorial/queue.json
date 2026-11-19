@@ -315,7 +315,9 @@
    "keyword": "reference check software",
    "volume": 90,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "reference-check-software",
+   "date": "2026-11-19"
   }
  ]
 }
