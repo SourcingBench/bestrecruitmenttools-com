@@ -305,7 +305,9 @@
    "keyword": "programmatic job advertising",
    "volume": 320,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "programmatic-job-advertising",
+   "date": "2026-11-19"
   },
   {
    "id": "brt-034",

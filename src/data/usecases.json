@@ -3329,5 +3329,103 @@
     "a": "Workday VNDLY is built to pair with Workday HCM, and SAP Fieldglass integrates with SAP and non SAP ERP systems. Most other vendors offer integrations to both, so ask for live customer references on your stack."
    }
   ]
+ },
+ {
+  "slug": "programmatic-job-advertising",
+  "updated": "2026-11-19",
+  "title": "Best Programmatic Job Advertising Platforms",
+  "short": "Programmatic job advertising",
+  "seoTitle": "Best Programmatic Job Advertising Platforms 2026: 8 Ranked",
+  "h1": "The best programmatic job advertising platforms in 2026, ranked by who should buy them",
+  "description": "Eight programmatic job advertising platforms ranked for 2026: Appcast, Joveo, Recruitics, Radancy, PandoLogic, Talroo, Wonderkind and VONQ, compared on optimization model, pricing, channels and the hiring volume each one suits.",
+  "intro": "Programmatic job advertising means software, not a person, decides which job sites, social feeds and search placements show each opening, how much to bid and when to pull the ad once a role has enough applicants. The category only pays off above a certain volume, so the most useful question is how many roles you advertise each month and whether you can measure what happens after the click. We read each vendor's own product and pricing pages on November 19, 2026 and ranked eight platforms on optimization model, channel reach, price transparency and fit by hiring volume. If your bottleneck is processing the applicants rather than finding them, see our <a href='/best-for/high-volume-hiring/'>high volume hiring ranking</a>; frontline employers should also read the <a href='/best-for/warehouse-hiring-software/'>warehouse hiring software</a> and <a href='/best-for/restaurant-hiring-software/'>restaurant hiring software</a> lists.",
+  "ranked": [
+   {
+    "slug": "appcast",
+    "why": "Appcast ranks first because it optimizes toward hires rather than traffic. Its <a href='https://www.appcast.io/' target='_blank' rel='noopener'>homepage</a> says it uses ATS driven quality insights and labor market benchmarks to move spend automatically toward the roles and channels that produce results, and it tracks media performance through to ATS outcomes. That closed loop is what separates programmatic buying from simply spreading a budget across boards.",
+    "ai": "Shifts budget toward roles and channels using ATS hire quality data and market benchmarks",
+    "human": "Sets hiring goals and reviews spend with an account team"
+   },
+   {
+    "slug": "joveo",
+    "why": "Joveo is second for buyers who want media plus conversion in one contract. The <a href='https://www.joveo.com/' target='_blank' rel='noopener'>Joveo platform page</a> lists AI job advertising next to AI career sites, landing pages, full funnel analytics, labor market intelligence and AI interviewing, scheduling and chat agents. Its new Tandem agent also has a free starting tier, which makes a trial cheaper than with most enterprise rivals.",
+    "ai": "Bids across channels and feeds applicants into AI chat, screening and scheduling",
+    "human": "Approves campaigns and owns the interview decision"
+   },
+   {
+    "slug": "recruitics",
+    "why": "Recruitics earns third for analytics. Its <a href='https://www.recruitics.com/' target='_blank' rel='noopener'>platform overview</a> splits the product into Predict, Attract and Convert, with live visibility by channel, market and role before money is spent, and advertising that reaches job boards, social, search, influencers and LLM surfaces. Healthcare and retail teams with many locations get the most from that market view.",
+    "ai": "Predicts channel performance by market and role, then buys media",
+    "human": "Chooses markets and signs off on budget shifts"
+   },
+   {
+    "slug": "radancy",
+    "why": "Radancy is the pick when programmatic is one piece of a larger employer brand and career site program. The <a href='https://www.radancy.com/' target='_blank' rel='noopener'>Radancy site</a> pairs AI driven media optimization and programmatic ad spend control with career sites, employee referral activation, screening and scheduling. Buy it for the suite; a team that wants only media will pay for features it leaves unused.",
+    "ai": "Optimizes cross channel ad spend inside a wider career site suite",
+    "human": "Runs employer brand content and referral programs"
+   },
+   {
+    "slug": "pandologic",
+    "why": "PandoLogic, now trading as Veritone Hire, is the established engine for automated placement. Its <a href='https://pandologic.com/' target='_blank' rel='noopener'>pandoIQ page</a> describes programmatic placement across thousands of job sites and adds conversational AI to engage applicants. Staffing firms like that it has a dedicated staffing offering.",
+    "ai": "Places and bids on ads across thousands of job sites, then engages applicants by chat",
+    "human": "Sets budgets and reviews qualified applicants"
+   },
+   {
+    "slug": "talroo",
+    "why": "Talroo is the most transparent on price. Its <a href='https://www.talroo.com/pricing' target='_blank' rel='noopener'>pricing page</a> starts budgets at $2,000 a month with no subscription fee, no posting fee and no annual commitment, and you pay only for clicks against a target cost per application. Hourly hiring in logistics, grocery and food service is where it fits best.",
+    "ai": "Bids per click to keep cost per application near your target",
+    "human": "Sets the monthly cap and target cost per application"
+   },
+   {
+    "slug": "wonderkind",
+    "why": "Wonderkind is the social choice. Rather than bidding on job boards first, it runs campaigns on Meta, TikTok and Snap and recently added more than 1,000 job boards, according to its <a href='https://www.wonderkind.com/' target='_blank' rel='noopener'>homepage</a>. The <a href='https://www.wonderkind.com/pricing' target='_blank' rel='noopener'>pricing page</a> lists a Starter credit bundle at $149 a month, with media priced per click or per application on top.",
+    "ai": "Builds social campaigns, generates ad copy and images, qualifies responders",
+    "human": "Writes the job brief and interviews the shortlist"
+   },
+   {
+    "slug": "vonq",
+    "why": "VONQ closes the list as the European specialist. The <a href='https://www.vonq.com/' target='_blank' rel='noopener'>VONQ site</a> covers multiposting, programmatic advertising and employer branding, and its HAPI product lets ATS and HCM vendors embed job marketing for their own customers. North American employers will find fewer local references.",
+    "ai": "Recommends and distributes job ads across channels, with agents for screening",
+    "human": "Picks the channel mix and approves the job copy"
+   }
+  ],
+  "aiTableTitle": "How each platform decides where the money goes",
+  "sections": [
+   {
+    "h": "Do you have enough volume for programmatic?",
+    "p": [
+     "Programmatic tools learn from data. With three openings a quarter there is too little signal for a bidding algorithm to beat a recruiter posting manually on two or three boards. The case gets strong once you advertise dozens of roles a month across several locations, when budget sitting on filled jobs is real money."
+    ],
+    "list": [
+     "<b>Under 10 open roles a month:</b> post directly, or try a self serve option such as Wonderkind's trial or Talroo's ReadySetHire.",
+     "<b>10 to 100 roles:</b> Talroo or PandoLogic give automated bidding without an enterprise contract.",
+     "<b>100 roles and up, or many sites:</b> Appcast, Joveo, Recruitics or Radancy, where ATS integration and analytics justify the fee."
+    ]
+   },
+   {
+    "h": "The three numbers to agree before signing",
+    "p": [
+     "Ask every vendor for cost per click, cost per application and cost per hire on roles similar to yours, and insist the last one comes from your ATS rather than their pixel. A platform that can only report clicks is a media reseller with a dashboard. Also agree how fast ads pause once a role hits its applicant target, since that rule drives most of the savings."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is programmatic job advertising?",
+    "a": "It is the automated buying of job ad placements. Software chooses publishers, sets bids and shifts budget between roles in near real time based on performance data, instead of a recruiter buying fixed slots on individual job boards."
+   },
+   {
+    "q": "How much does programmatic job advertising cost?",
+    "a": "Most platforms charge a media budget plus a platform or service fee. Talroo publishes budgets from $2,000 a month with no subscription fee, and Wonderkind lists a $149 monthly credit bundle plus media. Appcast, Joveo, Recruitics, Radancy and VONQ quote enterprise pricing."
+   },
+   {
+    "q": "Is programmatic better than posting on Indeed?",
+    "a": "Not always. Programmatic platforms usually include Indeed and other large boards in their networks, so the gain comes from moving money between roles and channels automatically. For a small number of roles, posting directly is often cheaper."
+   },
+   {
+    "q": "Which programmatic platform is best for hourly jobs?",
+    "a": "Talroo is built around frontline roles and publishes its pricing, PandoLogic has long served high volume hourly hiring, and Wonderkind reaches people on social apps who are not searching job boards."
+   }
+  ]
  }
 ]
