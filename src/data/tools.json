@@ -2880,7 +2880,8 @@
   "teamSize": "Enterprise",
   "trial": "Demo only",
   "useCases": [
-   "employee-referral-software"
+   "employee-referral-software",
+   "programmatic-job-advertising"
   ],
   "verdict": "Radancy offers employee referrals as one module of a broad talent acquisition platform, which suits large employers that already buy career sites and recruitment marketing from it.",
   "standout": "Referrals connected to career sites, CRM and recruitment marketing",
@@ -3163,6 +3164,237 @@
    "magnit",
    "simplifyvms",
    "beeline"
+  ]
+ },
+ {
+  "slug": "appcast",
+  "name": "Appcast",
+  "website": "https://www.appcast.io",
+  "category": "Programmatic job advertising",
+  "rating": 4.5,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "enterprise and high volume employers that judge job ads on hires, not clicks",
+  "teamSize": "Mid sized to global enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "Appcast is the safest default for large employers who want ATS outcome data steering where every dollar of job ad budget goes.",
+  "standout": "Spend allocation driven by ATS quality signals and labor market benchmarks",
+  "weakness": "Managed service model is more than a small team needs",
+  "overview": "Appcast sells recruitment marketing technology that ties job ad media performance to candidate behavior and ATS outcomes, then reallocates budget toward the roles and channels producing quality applicants. Employer brand strategy, career sites and a team of recruitment marketing specialists sit alongside the software, and the company sells into global hiring programs.",
+  "pros": [
+   "Optimizes on hiring outcomes rather than raw clicks",
+   "Career site and brand services in the same contract",
+   "Global media coverage for multinational programs"
+  ],
+  "cons": [
+   "No public pricing",
+   "Built for budgets larger than most small businesses spend"
+  ],
+  "alternatives": [
+   "joveo",
+   "recruitics",
+   "pandologic"
+  ]
+ },
+ {
+  "slug": "joveo",
+  "name": "Joveo",
+  "website": "https://www.joveo.com",
+  "category": "Programmatic job advertising",
+  "rating": 4.4,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "talent teams that want programmatic ads plus AI screening and scheduling agents from one vendor",
+  "teamSize": "Mid sized to enterprise",
+  "trial": "Free to start",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "Joveo has grown from a programmatic media platform into an agentic recruiting suite, which suits teams that want the click to hire journey in one place.",
+  "standout": "AI job advertising joined to career sites, chat, interviewing and scheduling agents",
+  "weakness": "Breadth of modules can make scoping a contract slow",
+  "overview": "Joveo describes an agentic recruiting platform with AI job advertising, AI career sites, landing pages, full funnel analytics, labor market intelligence, messaging campaigns and AI interviewer, scheduling and chatbot agents. In November 2026 it launched Tandem, a prompt driven recruiting agent with a free starting option.",
+  "pros": [
+   "Programmatic media and conversion tools under one login",
+   "Labor market intelligence for budget planning",
+   "Free entry point through Tandem"
+  ],
+  "cons": [
+   "Enterprise pricing is quoted, not published",
+   "More platform than a buyer who only wants media needs"
+  ],
+  "alternatives": [
+   "appcast",
+   "radancy",
+   "recruitics"
+  ]
+ },
+ {
+  "slug": "pandologic",
+  "name": "PandoLogic (Veritone Hire)",
+  "website": "https://pandologic.com",
+  "category": "Programmatic job advertising",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "employers and staffing firms that want hands off programmatic placement across a large job site network",
+  "teamSize": "Small to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "PandoLogic, now branded Veritone Hire, is a long running programmatic engine that pairs automated placement with conversational AI screening.",
+  "standout": "pandoIQ automates placement across thousands of job sites",
+  "weakness": "Brand transition to Veritone Hire can confuse procurement",
+  "overview": "PandoLogic says it is now Veritone Hire. Its pandoIQ product automates job ad placement across a network of thousands of job sites, and the company adds conversational AI to engage applicants, with separate offerings for employers, staffing firms and recruitment technology partners.",
+  "pros": [
+   "Mature automated bidding",
+   "Separate staffing and partner offerings",
+   "Conversational AI follow up on applicants"
+  ],
+  "cons": [
+   "Pricing on request",
+   "Reporting depth lags the enterprise leaders"
+  ],
+  "alternatives": [
+   "talroo",
+   "appcast",
+   "joveo"
+  ]
+ },
+ {
+  "slug": "recruitics",
+  "name": "Recruitics",
+  "website": "https://www.recruitics.com",
+  "category": "Programmatic job advertising",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "healthcare, retail and hospitality employers that want market data before they spend",
+  "teamSize": "Mid sized to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "Recruitics is the analytics heavy pick, built around predicting where candidates are before it buys media.",
+  "standout": "Predict, Attract and Convert modules on one platform",
+  "weakness": "Best value only at enterprise scale",
+  "overview": "Recruitics positions itself as a talent acquisition platform with three parts: Predict for live channel, market and role visibility, Attract for advertising across job boards, social, search, influencers and LLM surfaces, and Convert for verifying, interviewing and screening applicants before a recruiter sees them. It publishes a Talent Market Index.",
+  "pros": [
+   "Strong labor market analytics",
+   "Advertises beyond job boards, including social and LLM surfaces",
+   "Industry playbooks for healthcare and retail"
+  ],
+  "cons": [
+   "No published pricing",
+   "Overkill for a handful of roles"
+  ],
+  "alternatives": [
+   "appcast",
+   "joveo",
+   "radancy"
+  ]
+ },
+ {
+  "slug": "talroo",
+  "name": "Talroo",
+  "website": "https://www.talroo.com",
+  "category": "Programmatic job advertising",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": 2000,
+  "bestFor": "frontline hiring in logistics, retail, food service and healthcare on a monthly pay per click budget",
+  "teamSize": "Small to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "Talroo is the clearest priced option for hourly and frontline roles, with no subscription and no annual commitment.",
+  "standout": "Published pricing: pay per click from $2,000 a month with no subscription fee",
+  "weakness": "Focused on frontline roles rather than professional hiring",
+  "overview": "Talroo builds job advertising for frontline workers. Its pricing page says budgets start at $2,000 a month with no subscription fees, no job posting fees and no annual commitment, and it points smaller budgets to ReadySetHire, a self serve option. SmartQualify lets candidates confirm must have requirements before they apply.",
+  "pros": [
+   "Transparent monthly budget model",
+   "No annual contract",
+   "SmartQualify filters before the click turns into an application"
+  ],
+  "cons": [
+   "Less suited to senior or specialist roles",
+   "Minimum budget rules out one off hires"
+  ],
+  "alternatives": [
+   "pandologic",
+   "wonderkind",
+   "appcast"
+  ]
+ },
+ {
+  "slug": "wonderkind",
+  "name": "Wonderkind",
+  "website": "https://www.wonderkind.com",
+  "category": "Social recruitment advertising",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": 149,
+  "bestFor": "teams that need passive candidates from Meta, TikTok and Snap rather than job board traffic",
+  "teamSize": "Small to enterprise",
+  "trial": "Free trial",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "Wonderkind is the social first choice, with self serve pricing and AI agents that build, screen and deliver campaigns.",
+  "standout": "Attract, qualify and deliver agents for social job ads",
+  "weakness": "Credits and media budget are separate line items",
+  "overview": "Wonderkind runs job campaigns on Meta, TikTok and Snap, qualifies people who respond and delivers interview ready candidates into the ATS. It recently added more than 1,000 job boards. Pricing combines a credit bundle for AI actions, starting at $149 a month on the Starter plan, with the price per click or application you choose to pay.",
+  "pros": [
+   "Reaches people not browsing job boards",
+   "Self serve trial with no credit card",
+   "Published plan prices"
+  ],
+  "cons": [
+   "Social audiences need strong creative",
+   "Job board reach is newer than its social reach"
+  ],
+  "alternatives": [
+   "vonq",
+   "talroo",
+   "joveo"
+  ]
+ },
+ {
+  "slug": "vonq",
+  "name": "VONQ",
+  "website": "https://www.vonq.com",
+  "category": "Programmatic job advertising",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "European employers and ATS vendors that want job marketing embedded in their workflow",
+  "teamSize": "Small to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "programmatic-job-advertising"
+  ],
+  "verdict": "VONQ is strongest in Europe and for software vendors that want to embed job marketing through an API.",
+  "standout": "HAPI lets ATS and HCM platforms embed job marketing",
+  "weakness": "Smaller North American footprint",
+  "overview": "VONQ offers multiposting, data driven advertising, programmatic advertising and employer branding, plus EQO AI agents that write job descriptions, distribute jobs, screen and interview candidates and score talent. Its HAPI product is aimed at ATS and HCM platforms that want to resell job marketing inside their own interface.",
+  "pros": [
+   "Wide European channel catalog",
+   "API for ATS and HCM partners",
+   "AI agents for writing and screening"
+  ],
+  "cons": [
+   "Pricing is quoted",
+   "US buyers have fewer local references"
+  ],
+  "alternatives": [
+   "wonderkind",
+   "appcast",
+   "joveo"
   ]
  }
 ]
