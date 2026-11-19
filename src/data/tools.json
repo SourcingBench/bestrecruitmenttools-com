@@ -940,6 +940,7 @@
   "teamSize": "Any",
   "trial": "Pay per check",
   "useCases": [
+   "reference-check-software",
    "candidate-fraud-detection-tools",
    "remote-hiring",
    "enterprise"
@@ -3395,6 +3396,231 @@
    "wonderkind",
    "appcast",
    "joveo"
+  ]
+ },
+ {
+  "slug": "crosschq",
+  "name": "Crosschq",
+  "website": "https://www.crosschq.com",
+  "category": "Reference checking",
+  "rating": 4.4,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "Mid market and enterprise teams that want reference data tied to quality of hire reporting",
+  "teamSize": "Mid market to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "Crosschq is the most complete option when reference checks are one input to a wider hiring analytics program.",
+  "standout": "360 Reference Checks plus ID.me identity verification",
+  "weakness": "Pricing is quoted and the suite is more than many teams need",
+  "overview": "Crosschq sells a hiring intelligence platform built around 360 Reference Checks, with candidate identity verification powered by ID.me, AI interviewing, Traitify assessments and TalentWall pipeline reporting. It lists integrations with Workday, SAP, Greenhouse, iCIMS and Oracle.",
+  "pros": [
+   "Digital references feed quality of hire analytics",
+   "Identity verification for fraud screening",
+   "Enterprise ATS integrations"
+  ],
+  "cons": [
+   "No published pricing",
+   "Broad suite can be overkill for small teams"
+  ],
+  "alternatives": [
+   "skillsurvey",
+   "checkster",
+   "xref"
+  ]
+ },
+ {
+  "slug": "skillsurvey",
+  "name": "SkillSurvey",
+  "website": "https://www.icims.com/products/skillsurvey/",
+  "category": "Reference checking",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "iCIMS customers and healthcare or enterprise employers with structured reference programs",
+  "teamSize": "Mid market to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "SkillSurvey is now an iCIMS product, which makes it the natural choice for iCIMS shops that want online reference checks inside their suite.",
+  "standout": "Skills verification and reference checking sold by iCIMS",
+  "weakness": "Best value depends on already using iCIMS",
+  "overview": "SkillSurvey pioneered online reference surveys and is now part of iCIMS, which markets it as skills verification and reference checking. The old skillsurvey.com address redirects to the iCIMS product page, and existing customers still sign in to SkillSurvey.",
+  "pros": [
+   "Backed by a large talent acquisition suite",
+   "Long track record in survey based references"
+  ],
+  "cons": [
+   "Quoted pricing",
+   "Product roadmap now tied to iCIMS"
+  ],
+  "alternatives": [
+   "crosschq",
+   "checkster"
+  ]
+ },
+ {
+  "slug": "checkster",
+  "name": "Checkster",
+  "website": "https://harver.com/software/reference-checking/",
+  "category": "Reference checking",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "High volume employers that want fast, mobile reference surveys",
+  "teamSize": "Mid market to enterprise",
+  "trial": "Demo only",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "Checkster, now Harver's reference checking product, is built for speed and for turning references into sourcing leads.",
+  "standout": "Harver reports a 24 hour turnaround and six references per check",
+  "weakness": "Sold as part of Harver, so standalone buyers get less attention",
+  "overview": "Checkster is Harver's reference checking solution. Harver's page says references complete a two minute mobile survey, checks return in 24 hours, recruiters save 1.5 hours per reference and an average of six references are collected per check. It integrates with most applicant tracking systems.",
+  "pros": [
+   "Fast mobile survey for references",
+   "References can opt in as passive candidates",
+   "Fits Harver assessment workflows"
+  ],
+  "cons": [
+   "Pricing is quoted",
+   "Performance figures are vendor reported"
+  ],
+  "alternatives": [
+   "crosschq",
+   "vitay"
+  ]
+ },
+ {
+  "slug": "xref",
+  "name": "Xref",
+  "website": "https://www.xref.com",
+  "category": "Reference checking",
+  "rating": 4.2,
+  "priceTier": "$$",
+  "startingPrice": 70,
+  "bestFor": "Small and mid sized employers that want published monthly plans",
+  "teamSize": "Small to mid market",
+  "trial": "Free trial",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "Xref is the easiest platform here to price, with monthly plans published by employee count.",
+  "standout": "Published plans from $70 a month on annual billing",
+  "weakness": "Plans cap the number of hires per year",
+  "overview": "Xref runs online reference checks, background checks, Pulse engagement surveys, exit surveys and talent pooling. Its pricing page lists a Starter plan for 1 to 74 employees at $70 a month on annual billing or $80 paid monthly, with a turnover cap of 25, and larger tiers up to $485 a month for 301 to 500 employees.",
+  "pros": [
+   "Transparent monthly pricing",
+   "Unlimited users on every plan",
+   "Exit and pulse surveys included"
+  ],
+  "cons": [
+   "Hiring caps per plan",
+   "Prices shown change by currency and region"
+  ],
+  "alternatives": [
+   "vitay",
+   "refnow",
+   "referoo"
+  ]
+ },
+ {
+  "slug": "vitay",
+  "name": "Vitay",
+  "website": "https://vitay.io",
+  "category": "Reference checking",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "Staffing agencies and healthcare staffing firms checking references at volume",
+  "teamSize": "Small to mid market",
+  "trial": "Demo only",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "Vitay is built for recruiters who run reference checks every day, with fraud signals that general tools skip.",
+  "standout": "IP matching and device fingerprinting flag suspicious references",
+  "weakness": "Pricing is not published",
+  "overview": "Vitay automates reference requests by SMS or email and says checks can be sent in 60 seconds and completed in under 24 hours. It flags suspicious references through IP matching and device fingerprinting, integrates with applicant tracking systems and says it is trusted by more than 1,500 teams.",
+  "pros": [
+   "Fraud detection on references",
+   "SMS and email requests",
+   "Aimed at staffing workflows"
+  ],
+  "cons": [
+   "Quoted pricing",
+   "Smaller enterprise footprint"
+  ],
+  "alternatives": [
+   "xref",
+   "checkster"
+  ]
+ },
+ {
+  "slug": "refnow",
+  "name": "RefNow",
+  "website": "https://refnow.com",
+  "category": "Reference checking",
+  "rating": 3.9,
+  "priceTier": "$",
+  "startingPrice": null,
+  "bestFor": "UK employers that want credit based reference checks and DBS checks",
+  "teamSize": "Small to mid market",
+  "trial": "Free trial",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "RefNow suits UK teams that hire unevenly through the year and prefer credits to a subscription.",
+  "standout": "One credit collects up to ten references from one candidate",
+  "weakness": "Strongest in the UK market",
+  "overview": "RefNow automates reference checks and employment verification and also offers DBS checks. Its pricing page says one referencing credit collects up to ten references from a single candidate, and it offers a free trial without a credit card.",
+  "pros": [
+   "Credit model fits irregular hiring",
+   "DBS checks alongside references",
+   "Free trial"
+  ],
+  "cons": [
+   "UK focused",
+   "Full credit prices sit behind the pricing flow"
+  ],
+  "alternatives": [
+   "referoo",
+   "xref"
+  ]
+ },
+ {
+  "slug": "referoo",
+  "name": "Referoo",
+  "website": "https://www.referoo.com",
+  "category": "Reference checking",
+  "rating": 3.8,
+  "priceTier": "$",
+  "startingPrice": null,
+  "bestFor": "Australian and UK employers that want phone, email or SMS references with right to work checks",
+  "teamSize": "Small to mid market",
+  "trial": "Free trial",
+  "useCases": [
+   "reference-check-software"
+  ],
+  "verdict": "Referoo is a practical pick for Australian and UK teams that want references and pre employment checks in one place.",
+  "standout": "Reference checks by email, phone or SMS",
+  "weakness": "Limited presence in North America",
+  "overview": "Referoo runs reference checks by email, phone or SMS and adds background, identity, right to work and DBS checks. Its Referoo Hub connects to HR and applicant tracking systems, and the company offers a free trial.",
+  "pros": [
+   "Three request channels",
+   "Pre employment checks in the same account",
+   "Free trial"
+  ],
+  "cons": [
+   "Pricing not published online",
+   "Few US integrations"
+  ],
+  "alternatives": [
+   "refnow",
+   "xref"
   ]
  }
 ]
