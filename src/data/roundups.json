@@ -161,5 +161,64 @@
       }
     ],
     "directory": "Also in the directory: rankings for <a href=\"/best-for/ai-hiring-tools/\">AI hiring tools</a>, <a href=\"/best-for/high-volume-hiring/\">high volume hiring</a> and <a href=\"/best-for/staffing-agencies/\">staffing agencies</a>, plus reviews of <a href=\"/reviews/eightfold/\">Eightfold</a> and <a href=\"/reviews/ziprecruiter/\">ZipRecruiter</a>."
+  },
+  {
+    "slug": "2026-11-20",
+    "title": "This week in recruiting tools: SAP earns a Customers' Choice in talent acquisition, Olamee lists a $69 plan, Archer raises $10M on per role pricing",
+    "date": "2026-11-20",
+    "period": "14 to 20 November 2026",
+    "summary": "Seven dated stories on pricing and rankings. SAP picked up a Gartner Peer Insights Customers' Choice for recruiting suites, Olamee published a $69 monthly price for sourcing plus ATS plus employer of record, Archer raised $10 million while charging per role, Pinpoint pushed more AI into every package, Talroo became an iCIMS Premier Partner, ATS Mako scheduled 15 features for Thanksgiving Day, and SThree showed a staffing operating system run by AI agents.",
+    "items": [
+      {
+        "vendor": "SAP SuccessFactors / SmartRecruiters",
+        "category": "Enterprise ATS and recruiting suites",
+        "headline": "SAP named a Customers' Choice in the 2026 Gartner Peer Insights report for recruiting suites",
+        "detail": "Published 18 Nov 2026 (<a href=\"https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/\">SAP News Center</a>). The Voice of the Customer distinction is built from verified end user reviews, and SAP says 293 peer reviews fell inside the consideration period. It scores Overall Experience and User Interest and Adoption against the market average. SAP adds that earlier in 2026 it was a Leader in the Gartner Magic Quadrant for HCM suites for organizations with 1,000 or more employees, and it now sells SmartRecruiters for SAP SuccessFactors as its recruiting layer. Peer review badges are vendor announced, so read the underlying reviews for companies your size before you treat the badge as a ranking. Our <a href=\"/best-for/enterprise/\">enterprise ranking</a> lists the suites we compare it against.",
+        "matters": "A suite vendor now holds both an analyst quadrant position and a peer review badge, which gives SuccessFactors buyers a ready argument against adding a separate ATS."
+      },
+      {
+        "vendor": "Olamee",
+        "category": "Global hiring, ATS and EOR",
+        "headline": "Olamee went generally available with published pricing from $69 per month",
+        "detail": "Published 19 Nov 2026 (<a href=\"https://www.prnewswire.com/news-releases/olamee-announces-general-availability-of-ai-hiring-platform-that-unifies-sourcing-ats-and-employer-of-record-302944235.html\">PR Newswire</a>). The Dallas company puts AI candidate sourcing, an applicant tracking system, employer of record services and workforce management in one account aimed at small and midsize businesses, professional services firms and staffing agencies. It was built by the team behind AbroadWorks, which says it has placed more than 1,500 professionals with 300 companies since 2020. The release cites the Sapient Insights Group survey figure of 26 HR modules per organization in 2024, up from 10 in 2020, as the case for consolidation. The $69 entry price is for the platform; employer of record fees for each hire are a separate line to confirm before you sign.",
+        "matters": "A sub $100 list price on a bundle that includes sourcing pressures point tools that charge per seat for search alone."
+      },
+      {
+        "vendor": "Archer (hackajob)",
+        "category": "AI matching and sourcing",
+        "headline": "Archer from hackajob raised $10 million and kept pricing per role rather than per hire",
+        "detail": "Published 20 Nov 2026 (<a href=\"https://www.unite.ai/archer-raises-10m-to-expand-ai-tools-for-candidates-and-recruiters/\">Unite.AI</a>). Volition Capital led the round with support from AVP. Archer reports more than 700,000 candidate signups in the past 12 months and 10,000 introductions a week, about half of them people its customers had not seen before. It also claims annual recurring revenue grew fivefold in 2026 and that customer cost per hire ran 67% below staffing agency hiring; those are company figures, not audited ones. Because the fee is set per role, the cost of each hire falls as more hires come from the same requisition. Archer is moving past technology roles into enterprise sales, front office finance and data center build outs. Compare it with the agents in our <a href=\"/best-for/ai-recruiters/\">AI recruiters ranking</a>.",
+        "matters": "Per role pricing is a third model next to seats and placement fees, and it is easiest to compare when you know how many hires each requisition produces."
+      },
+      {
+        "vendor": "Pinpoint",
+        "category": "ATS",
+        "headline": "Pinpoint relaunched its Hiring Copilot as Pin and added AI to every package",
+        "detail": "Reported this week (<a href=\"https://www.onrec.com/news/ai-automation/pinpoint-launches-next-generation-of-recruitment-ai-to-tackle-tech-sprawl\">Onrec</a>). The update is available to new and existing customers and spreads more AI functionality across all Pinpoint tiers instead of selling it as an add on. Pin can source candidates, compare applicants, prepare interview briefs, draft emails and build reports. Two new features let teams reuse work: Plays are saved prompts that can be shared with a person, a team or the whole company, and Routines run those tasks on a schedule. Our <a href=\"/reviews/pinpoint/\">Pinpoint review</a> covers the base product and how its packages are priced.",
+        "matters": "When the ATS ships an assistant in every tier, the business case for a separate AI screening or drafting tool has to be made on quality, not on access."
+      },
+      {
+        "vendor": "Talroo / iCIMS",
+        "category": "Programmatic job advertising",
+        "headline": "Talroo joined the iCIMS Partner Ecosystem as a Premier Partner with a Verified integration",
+        "detail": "Published 20 Nov 2026 (<a href=\"https://techrseries.com/hiring/talroo-joins-icims-partner-ecosystem-as-premier-partner-launches-new-verified-integration-with-icims/\">TechRSeries, via Business Wire</a>). The integration connects Talroo Job Advertising to iCIMS so mutual customers can push openings to Talroo without posting and managing jobs in a second system, with candidate data kept in sync across both. Talroo sells AI driven job advertising, and the Premier Partner tier is the top level of the iCIMS program. Pricing was not part of the announcement. Talroo already appears in our <a href=\"/best-for/programmatic-job-advertising/\">programmatic job advertising ranking</a>; this change mainly lowers setup work for iCIMS shops.",
+        "matters": "A verified connector removes one of the main switching costs for iCIMS customers testing a second programmatic vendor."
+      },
+      {
+        "vendor": "ATS Mako",
+        "category": "ATS for high volume hiring",
+        "headline": "ATS Mako set 15 new features, including AI text and voice agents, to go live on 26 November",
+        "detail": "Published 19 Nov 2026 (<a href=\"https://techrseries.com/recruitment-and-on-boarding/ats-mako-unleashes-15-powerful-new-features-this-thanksgiving-putting-ai-agents-calling-video-and-employee-management-in-one-platform/\">TechRSeries, via Cision PRWeb</a>). The Phoenix built ATS plans to switch on the release on Thanksgiving Day. Mimi, an AI recruiting agent, texts applicants once they reach a chosen stage, follows up, offers times, books interviews and flags anyone who needs a person. Separate AI voice agents phone screen chosen applicants between 8 AM and 9 PM local time and write a summary, transcript and recording to the profile. The release also adds a browser auto dialer, private video interviews and an employee portal with Clock In and Clock Out. The release names no price change, so ask whether the agents are metered. See our <a href=\"/best-for/high-volume-hiring/\">high volume hiring ranking</a> for the tools it competes with.",
+        "matters": "Texting and calling agents bundled into a small ATS undercut the case for buying a separate conversational AI vendor for hourly roles."
+      },
+      {
+        "vendor": "SThree",
+        "category": "Staffing firm technology",
+        "headline": "SThree demonstrated a workforce operating system that runs 297 AI agents",
+        "detail": "Published 19 Nov 2026 (<a href=\"https://techrseries.com/recruitment-and-on-boarding/sthree-unveils-its-people-and-ai-driven-operating-system-built-to-redefine-recruitment/\">TechRSeries, via EIN Presswire</a>). At Microsoft Ignite the STEM staffing group walked a placement from the first conversation to the final invoice inside one system it built and owns. SThree says the system directs 297 agents grouped into more than 40 families, 140 of them already live, and that adding a new task takes six to eight weeks. Consultants still decide who goes forward and manage the client. The part that finds, interviews and shortlists candidates is in use now, with the rest rolling out across the group in stages. Buyers comparing agency partners can start with our <a href=\"/best-for/staffing-agencies/\">staffing agencies ranking</a>.",
+        "matters": "Large staffing firms building their own agent systems is a sign they expect to buy less from outside recruiting software vendors, not more."
+      }
+    ],
+    "directory": "Also in the directory: rankings for <a href=\"/best-for/ai-recruitment-tools/\">AI recruitment tools</a>, <a href=\"/best-for/recruiting-chatbots/\">recruiting chatbots</a> and <a href=\"/best-for/vendor-management-system-software/\">vendor management systems</a>, plus reviews of <a href=\"/reviews/talroo/\">Talroo</a> and <a href=\"/reviews/pinpoint/\">Pinpoint</a>."
   }
 ]
