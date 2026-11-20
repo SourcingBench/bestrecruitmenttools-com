@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 104 tools rated 1–5; 43 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 111 tools rated 1–5; 44 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -60,6 +60,7 @@
 - [Best Vendor Management System Software](https://bestrecruitmenttools.com/best-for/vendor-management-system-software/): 1. SAP Fieldglass, 2. Workday VNDLY, 3. Beeline, 4. SimplifyVMS, 5. Magnit, 6. Flextrack
 - [Best Programmatic Job Advertising Platforms](https://bestrecruitmenttools.com/best-for/programmatic-job-advertising/): 1. Appcast, 2. Joveo, 3. Recruitics, 4. Radancy, 5. PandoLogic (Veritone Hire), 6. Talroo, 7. Wonderkind, 8. VONQ
 - [Best reference check software](https://bestrecruitmenttools.com/best-for/reference-check-software/): 1. Crosschq, 2. SkillSurvey, 3. Checkster, 4. Xref, 5. Certn, 6. Vitay, 7. RefNow, 8. Referoo
+- [Best job board software](https://bestrecruitmenttools.com/best-for/job-board-software/): 1. Niceboard, 2. JBoard, 3. SmartJobBoard, 4. Jobiqo, 5. Job Boardly, 6. Getro, 7. WP Job Manager
 
 ## Comparisons
 
@@ -120,6 +121,7 @@
 - [Frontline Recruiting & Hiring](https://bestrecruitmenttools.com/reviews/frontline-education/): K-12 recruiting software, 4.3/5, $$$, best for public school districts that want applicant tracking connected to an education job board and onboarding.
 - [Gem](https://bestrecruitmenttools.com/reviews/gem/): Recruiting CRM, 4.4/5, $$$, best for sourcing teams that need a CRM and outreach layer on top of their ATS.
 - [GetReal Security](https://bestrecruitmenttools.com/reviews/getreal-security/): Deepfake & identity fraud detection, 4.3/5, $$$$, best for security and talent teams worried about deepfake candidates in remote interviews.
+- [Getro](https://bestrecruitmenttools.com/reviews/getro/): Job board software, 4.0/5, $$$, best for Venture capital firms, accelerators and networks that run a job board across portfolio companies.
 - [GoodTime](https://bestrecruitmenttools.com/reviews/goodtime/): Interview scheduling, 4.3/5, $$$, best for coordinating complex interview loops at scale.
 - [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/): Applicant tracking, 4.5/5, $$$, best for mid-market structured hiring.
 - [HackerRank](https://bestrecruitmenttools.com/reviews/hackerrank/): Skills assessment, 4.1/5, $$, best for technical screening with a self-serve entry point.
@@ -133,7 +135,10 @@
 - [Humanly](https://bestrecruitmenttools.com/reviews/humanly/): Conversational AI, 4.2/5, $$$, best for mid-market and enterprise frontline hiring that wants chat screening, AI interviews and scheduling in one product.
 - [Indeed](https://bestrecruitmenttools.com/reviews/indeed/): Job boards & advertising, 4.3/5, $, best for high-volume and hourly hiring.
 - [JazzHR](https://bestrecruitmenttools.com/reviews/jazzhr/): Applicant tracking, 3.8/5, $, best for budget ATS for small US businesses.
+- [JBoard](https://bestrecruitmenttools.com/reviews/jboard/): Job board software, 4.3/5, $$, best for Founders and media sites launching a niche board that needs content on day one.
+- [Job Boardly](https://bestrecruitmenttools.com/reviews/job-boardly/): Job board software, 4.0/5, $, best for Bootstrapped founders testing a niche job board idea cheaply.
 - [JobAdder](https://bestrecruitmenttools.com/reviews/jobadder/): Staffing & agency software, 4.0/5, $$, best for mid sized agencies, especially in Australia, New Zealand and the UK, that want broad job board and payroll integrations.
+- [Jobiqo](https://bestrecruitmenttools.com/reviews/jobiqo/): Job board software, 4.1/5, $$$, best for Media groups, publishers and regional job boards that need white label software and programmatic distribution.
 - [Joveo](https://bestrecruitmenttools.com/reviews/joveo/): Programmatic job advertising, 4.4/5, $$$, best for talent teams that want programmatic ads plus AI screening and scheduling agents from one vendor.
 - [Juicebox](https://bestrecruitmenttools.com/reviews/juicebox/): AI search & sourcing, 4.3/5, $$, best for recruiters who want natural-language search with self-serve pricing.
 - [Kaspr](https://bestrecruitmenttools.com/reviews/kaspr/): Contact data & outreach, 3.9/5, $, best for recruiters hiring in Europe who need contact details from profile pages.
@@ -145,6 +150,7 @@
 - [Magnit](https://bestrecruitmenttools.com/reviews/magnit/): Vendor management system, 4.1/5, $$$, best for companies that want software and a managed service provider from the same vendor.
 - [Manatal](https://bestrecruitmenttools.com/reviews/manatal/): Applicant tracking, 3.9/5, $, best for very low-cost ATS for agencies and small teams.
 - [Metaview](https://bestrecruitmenttools.com/reviews/metaview/): Interview intelligence, 4.3/5, $$, best for fast-moving teams that want AI interview notes with minimal setup.
+- [Niceboard](https://bestrecruitmenttools.com/reviews/niceboard/): Job board software, 4.4/5, $$, best for Associations, nonprofits and niche communities that want to charge employers per posting.
 - [Noon](https://bestrecruitmenttools.com/reviews/noon/): AI sourcing, 4.8/5, $$, best for teams that want sourcing done, not a database to search.
 - [Odoo Recruitment](https://bestrecruitmenttools.com/reviews/odoo-recruitment/): Applicant Tracking System, 4.0/5, $, best for companies that want many free seats or already run Odoo.
 - [Ongig](https://bestrecruitmenttools.com/reviews/ongig/): Job description management, 4.0/5, $$$, best for HR teams cleaning up a large job description library with published pricing.
@@ -170,6 +176,7 @@
 - [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.
 - [SimplifyVMS](https://bestrecruitmenttools.com/reviews/simplifyvms/): Vendor management system, 4.2/5, $$$, best for multi country enterprises that want a modern VMS with direct sourcing, healthcare credentialing and strong reporting.
 - [SkillSurvey](https://bestrecruitmenttools.com/reviews/skillsurvey/): Reference checking, 4.2/5, $$$, best for iCIMS customers and healthcare or enterprise employers with structured reference programs.
+- [SmartJobBoard](https://bestrecruitmenttools.com/reviews/smartjobboard/): Job board software, 4.2/5, $$, best for Professional and trade associations that want non dues revenue without upfront software fees.
 - [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.
 - [Talroo](https://bestrecruitmenttools.com/reviews/talroo/): Programmatic job advertising, 4.1/5, $$$, best for frontline hiring in logistics, retail, food service and healthcare on a monthly pay per click budget.
 - [Talview](https://bestrecruitmenttools.com/reviews/talview/): Interview integrity & proctoring, 4.2/5, $$$, best for teams that want identity checks built into interviews and assessments.
@@ -186,6 +193,7 @@
 - [Workable](https://bestrecruitmenttools.com/reviews/workable/): Applicant tracking, 4.2/5, $$, best for small businesses that want publishing + ATS fast.
 - [Workday VNDLY](https://bestrecruitmenttools.com/reviews/workday-vndly/): Vendor management system, 4.4/5, $$$$, best for Workday HCM customers that want contingent workers in the same system as employees.
 - [Workstream](https://bestrecruitmenttools.com/reviews/workstream/): Hourly hiring platform, 4.2/5, $$, best for multi-unit restaurant and quick service operators.
+- [WP Job Manager](https://bestrecruitmenttools.com/reviews/wp-job-manager/): Job board plugin, 3.9/5, $, best for Teams that already run a WordPress site and want a job board without a new platform.
 - [Xref](https://bestrecruitmenttools.com/reviews/xref/): Reference checking, 4.2/5, $$, best for Small and mid sized employers that want published monthly plans.
 - [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/): Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
 - [Zoho Recruit](https://bestrecruitmenttools.com/reviews/zoho-recruit/): Applicant Tracking System, 4.2/5, $, best for small teams that want a free ATS for one active job.

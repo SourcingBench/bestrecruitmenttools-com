@@ -3535,5 +3535,94 @@
     "a": "Harver says Checkster checks return in 24 hours and Vitay says most finish in under 24 hours. Actual speed depends on how quickly referees respond."
    }
   ]
+ },
+ {
+  "slug": "job-board-software",
+  "updated": "2026-11-20",
+  "title": "Best job board software",
+  "short": "Job board software",
+  "seoTitle": "Best Job Board Software in 2026: 7 Platforms Ranked",
+  "h1": "The best job board software in 2026: 7 platforms ranked for associations, niche boards and publishers",
+  "description": "Seven job board platforms ranked from vendor sites read November 20, 2026: Niceboard, JBoard, SmartJobBoard, Jobiqo, Job Boardly, Getro and WP Job Manager, with published prices and the buyer each one fits.",
+  "intro": "Verdict first: if you run an association or a niche community and want employers to pay for postings, start with Niceboard; if you are launching a board from nothing, JBoard's backfill keeps it from looking empty. Job board software is a different purchase from an applicant tracking system. An ATS helps one employer manage its own applicants, while job board software lets you run a marketplace where many employers post, pay and promote openings to your audience. We read each vendor's own site and pricing page on November 20, 2026, and ranked seven platforms on monetization tools, published pricing, content seeding and fit for the three common buyers: associations, independent niche boards and media publishers. If you want to push openings onto other boards rather than host your own, see our ranking of <a href='/best-for/programmatic-job-advertising/'>programmatic job advertising</a> platforms, and for posting your own openings for free start with <a href='/best-for/free-recruitment-tools/'>free recruitment tools</a>.",
+  "ranked": [
+   {
+    "slug": "niceboard",
+    "why": "Niceboard ranks first because it connects a paid board to the systems associations already use. Its <a href='https://niceboard.co/' target='_blank' rel='noopener'>site</a> lists connectors for iMIS, GrowthZone, Novi, MemberClicks, WildApricot and other association platforms, and its <a href='https://niceboard.co/pricing' target='_blank' rel='noopener'>pricing page</a> models revenue from listings sold between $99 and $299 each.",
+    "ai": "Can prefill a new board with listings",
+    "human": "Board owner sets posting prices and approves employers"
+   },
+   {
+    "slug": "jboard",
+    "why": "JBoard is second for new boards. Its <a href='https://jboard.io/pricing' target='_blank' rel='noopener'>published plans</a> run from $119 a month on annual billing to $679 a month, and even the Basic tier includes 100 AI backfilled jobs a month, a blog and paid postings.",
+    "ai": "Backfills listings and scrapes sources to seed the board",
+    "human": "Owner curates backfilled jobs and sells featured slots"
+   },
+   {
+    "slug": "smartjobboard",
+    "why": "SmartJobBoard ranks third for associations that prefer shared revenue to a fixed bill. Its <a href='https://www.smartjobboard.com/pricing/' target='_blank' rel='noopener'>pricing page</a> describes a revenue share plan in which it processes employer payments and pays the association monthly.",
+    "ai": "Runs an AI powered career center for members",
+    "human": "Association negotiates the revenue share and markets the board"
+   },
+   {
+    "slug": "jobiqo",
+    "why": "Jobiqo is the pick for publishers. Its <a href='https://www.jobiqo.com/' target='_blank' rel='noopener'>white label platform</a> adds AI matching and Jobiqo AIR programmatic advertising, which helps a media group distribute paid listings beyond its own pages.",
+    "ai": "Matches candidates to jobs and buys programmatic distribution",
+    "human": "Sales team sells job packages to employers"
+   },
+   {
+    "slug": "job-boardly",
+    "why": "Job Boardly is the budget option. Its <a href='https://www.jobboardly.com/pricing' target='_blank' rel='noopener'>three plans</a> cost $60, $120 and $240 a month, and the entry plan already allows 10,000 active jobs."
+   },
+   {
+    "slug": "getro",
+    "why": "Getro serves a narrower buyer: investor and community networks. Its <a href='https://www.getro.com/pricing' target='_blank' rel='noopener'>annual plans</a> start at $2,520 a year and aggregate openings from member companies instead of selling posts.",
+    "ai": "Collects and updates jobs from member company career sites",
+    "human": "Network team makes warm introductions"
+   },
+   {
+    "slug": "wp-job-manager",
+    "why": "WP Job Manager closes the list for WordPress owners. The <a href='https://wpjobmanager.com/' target='_blank' rel='noopener'>open source plugin</a> from Automattic is free, with paid add ons for monetization."
+   }
+  ],
+  "aiTableTitle": "What each platform automates and what the board owner still does",
+  "sections": [
+   {
+    "h": "Three buyers, three different shortlists",
+    "p": [
+     "The right platform depends on who pays and why. Associations usually want non dues revenue and a member benefit, so integrations with their member database and a hands off payment process matter most. Independent founders need a cheap launch and enough listings to attract job seekers before employers will pay. Publishers need distribution and sales tools, because the board is a revenue line with a quota."
+    ],
+    "list": [
+     "<b>Association or nonprofit:</b> Niceboard or SmartJobBoard.",
+     "<b>New niche board:</b> JBoard, or Job Boardly on a tight budget.",
+     "<b>Media group or publisher:</b> Jobiqo.",
+     "<b>Portfolio network:</b> Getro."
+    ]
+   },
+   {
+    "h": "Questions to ask before you sign",
+    "p": [
+     "Ask who owns the employer and candidate data if you leave, whether the platform takes a percentage of posting revenue, and how backfilled or scraped jobs are labeled to job seekers. Check that structured job data is published for search engines, since organic traffic is how most boards grow. If the board will also feed your own hiring, compare it with an <a href='/best-for/small-business/'>applicant tracking system for small business</a> rather than stretching one tool to do both jobs."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is job board software?",
+    "a": "It is software for running a job site where many employers post openings, usually for a fee, and job seekers search and apply. It differs from an applicant tracking system, which manages one employer's own candidates."
+   },
+   {
+    "q": "How much does job board software cost?",
+    "a": "Published prices on November 20, 2026 ranged from a free WordPress plugin to $60 a month for Job Boardly, $119 to $679 a month for JBoard and $2,520 a year and up for Getro. Others quote or share revenue."
+   },
+   {
+    "q": "Can a job board make money?",
+    "a": "Yes, mainly from paid postings, featured listings and employer packages. Niceboard's pricing calculator, for example, models listings sold between $99 and $299 each."
+   },
+   {
+    "q": "Which job board software is best for associations?",
+    "a": "Niceboard and SmartJobBoard, because they integrate with association systems or handle employer payments under a revenue share."
+   }
+  ]
  }
 ]

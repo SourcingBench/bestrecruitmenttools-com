@@ -318,6 +318,16 @@
    "status": "published",
    "slug": "reference-check-software",
    "date": "2026-11-19"
+  },
+  {
+   "id": "brt-035",
+   "family": "ranked-use-case",
+   "keyword": "job board software",
+   "volume": 260,
+   "noon_target": null,
+   "status": "published",
+   "slug": "job-board-software",
+   "date": "2026-11-20"
   }
  ]
 }

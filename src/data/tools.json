@@ -3622,5 +3622,236 @@
    "refnow",
    "xref"
   ]
+ },
+ {
+  "slug": "niceboard",
+  "name": "Niceboard",
+  "website": "https://niceboard.co",
+  "category": "Job board software",
+  "rating": 4.4,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "Associations, nonprofits and niche communities that want to charge employers per posting",
+  "teamSize": "Small teams to large associations",
+  "trial": "Free trial",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "Niceboard is the most practical choice for associations that want a paid job board connected to their member database.",
+  "standout": "Connectors for association management systems such as iMIS, GrowthZone and Novi",
+  "weakness": "Revenue depends on your own employer audience; the platform does not bring buyers",
+  "overview": "Niceboard sells hosted job board software with employer checkout, a custom domain and embeddable listings. Its site lists job board integrations for association management systems including Novi, iMIS, GrowthZone, MemberClicks, WildApricot, Personify, Higher Logic, YourMembership and Aptify, and its pricing page includes a revenue calculator that models listings sold at $99 to $299 per job.",
+  "pros": [
+   "Association software connectors",
+   "Revenue calculator on the pricing page",
+   "Free trial"
+  ],
+  "cons": [
+   "Plan pricing is not shown as a simple table",
+   "Best suited to boards that charge employers"
+  ],
+  "alternatives": [
+   "jboard",
+   "smartjobboard",
+   "job-boardly"
+  ],
+  "priceNote": "Per job revenue model; plan quoted on site"
+ },
+ {
+  "slug": "jboard",
+  "name": "JBoard",
+  "website": "https://jboard.io",
+  "category": "Job board software",
+  "rating": 4.3,
+  "priceTier": "$$",
+  "startingPrice": 149,
+  "bestFor": "Founders and media sites launching a niche board that needs content on day one",
+  "teamSize": "Solo operators to mid sized publishers",
+  "trial": "14 day trial",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "JBoard is the best fit when an empty board is the biggest risk, because its plans include AI backfilled jobs and job scrapers.",
+  "standout": "Published plans from $119 a month on annual billing, with AI backfill and scrapers",
+  "weakness": "Higher tiers get expensive as job volume grows",
+  "overview": "JBoard publishes five tiers: Basic at $149 a month or $119 a month billed annually, Standard at $199, Advanced at $359, Scale at $679 and a custom Enterprise plan. Even the Basic tier includes a website builder, a custom domain, paid job postings, a blog, reporting and 100 AI backfilled jobs a month. The company says more than 500 organizations run their boards on it.",
+  "pros": [
+   "Transparent tiered pricing",
+   "Backfill and scraping to seed listings",
+   "Built in blog for search traffic"
+  ],
+  "cons": [
+   "Costs climb on the larger tiers",
+   "Backfilled jobs need curation to stay relevant"
+  ],
+  "alternatives": [
+   "niceboard",
+   "job-boardly",
+   "smartjobboard"
+  ]
+ },
+ {
+  "slug": "smartjobboard",
+  "name": "SmartJobBoard",
+  "website": "https://www.smartjobboard.com",
+  "category": "Job board software",
+  "rating": 4.2,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "Professional and trade associations that want non dues revenue without upfront software fees",
+  "teamSize": "Associations and membership groups",
+  "trial": "Free trial",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "SmartJobBoard suits associations that would rather share revenue than pay a fixed software bill.",
+  "standout": "Revenue share plan that processes employer payments and pays out monthly",
+  "weakness": "Revenue share pricing means the vendor earns more as your board succeeds",
+  "overview": "SmartJobBoard's pricing page leads with a revenue share model for professional and trade associations that charge employers to post jobs. Under that plan the company processes every employer transaction, pays out the association's non dues revenue each month and supplies a branded, AI powered career center. The site also offers a free trial.",
+  "pros": [
+   "Little or no upfront cost under revenue share",
+   "Payment processing handled for you",
+   "Branded career center"
+  ],
+  "cons": [
+   "Revenue share can cost more than a flat fee at high volume",
+   "Plan details require a conversation"
+  ],
+  "alternatives": [
+   "niceboard",
+   "jobiqo"
+  ],
+  "priceNote": "Revenue share or subscription"
+ },
+ {
+  "slug": "jobiqo",
+  "name": "Jobiqo",
+  "website": "https://www.jobiqo.com",
+  "category": "Job board software",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "Media groups, publishers and regional job boards that need white label software and programmatic distribution",
+  "teamSize": "Mid market to enterprise publishers",
+  "trial": "Demo only",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "Jobiqo is built for publishers running a job board as a real business line.",
+  "standout": "White label platform plus Jobiqo AIR programmatic job advertising and AI matching",
+  "weakness": "Overbuilt and too expensive for a small community board",
+  "overview": "Jobiqo describes itself as white label job board software for media brands, publishers and associations, with an AI search and matching layer and Jobiqo AIR, a programmatic job advertising service. Its solution pages cover regional job boards, B2B publishers, niche boards and associations and universities.",
+  "pros": [
+   "Programmatic distribution included in the suite",
+   "Built for multi brand publishers",
+   "AI search and matching"
+  ],
+  "cons": [
+   "No self serve pricing",
+   "Long setup compared with hosted builders"
+  ],
+  "alternatives": [
+   "smartjobboard",
+   "niceboard"
+  ],
+  "priceNote": "Quote only"
+ },
+ {
+  "slug": "job-boardly",
+  "name": "Job Boardly",
+  "website": "https://www.jobboardly.com",
+  "category": "Job board software",
+  "rating": 4.0,
+  "priceTier": "$",
+  "startingPrice": 60,
+  "bestFor": "Bootstrapped founders testing a niche job board idea cheaply",
+  "teamSize": "Solo operators and small teams",
+  "trial": "14 day trial",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "Job Boardly is the cheapest serious way to test whether a niche board can earn money.",
+  "standout": "Standard plan at $60 a month",
+  "weakness": "Fewer enterprise and association features than the leaders",
+  "overview": "Job Boardly publishes three plans: Standard at $60 a month, Pro at $120 and Ultra at $240, each with a 14 day free trial. The Standard plan already allows up to 10,000 active jobs, which is generous for a new board.",
+  "pros": [
+   "Low entry price",
+   "Generous job limits",
+   "Simple setup"
+  ],
+  "cons": [
+   "Lighter feature set for associations",
+   "Smaller vendor"
+  ],
+  "alternatives": [
+   "jboard",
+   "niceboard"
+  ]
+ },
+ {
+  "slug": "getro",
+  "name": "Getro",
+  "website": "https://www.getro.com",
+  "category": "Job board software",
+  "rating": 4.0,
+  "priceTier": "$$$",
+  "startingPrice": 210,
+  "bestFor": "Venture capital firms, accelerators and networks that run a job board across portfolio companies",
+  "teamSize": "Investor networks and communities",
+  "trial": "Demo only",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "Getro is the specialist for portfolio and network job boards rather than paid posting boards.",
+  "standout": "Network job board that aggregates jobs from member companies, plus warm introduction tools",
+  "weakness": "Annual plans start at $2,520, which is steep for a hobby board",
+  "overview": "Getro sells network job boards that collect openings from a group of companies, most often a venture firm's portfolio, along with tools for warm introductions. Its pricing page lists annual plans starting at $2,520, $6,300 and $9,100 a year.",
+  "pros": [
+   "Pulls jobs from many company sites automatically",
+   "Strong fit for investor talent teams",
+   "Introductions workflow"
+  ],
+  "cons": [
+   "Not designed for selling job posts",
+   "Annual commitment"
+  ],
+  "alternatives": [
+   "jboard",
+   "niceboard"
+  ],
+  "priceNote": "From $2,520 a year"
+ },
+ {
+  "slug": "wp-job-manager",
+  "name": "WP Job Manager",
+  "website": "https://wpjobmanager.com",
+  "category": "Job board plugin",
+  "rating": 3.9,
+  "priceTier": "$",
+  "startingPrice": null,
+  "bestFor": "Teams that already run a WordPress site and want a job board without a new platform",
+  "teamSize": "Any size with WordPress skills",
+  "trial": "Free plugin",
+  "useCases": [
+   "job-board-software"
+  ],
+  "verdict": "WP Job Manager is the low cost route for WordPress sites, as long as someone can maintain the plugins.",
+  "standout": "Free open source plugin built by Automattic, used on more than 100,000 websites",
+  "weakness": "You host, secure and update it yourself",
+  "overview": "WP Job Manager is an open source job board plugin for WordPress made by Automattic, the company behind WordPress.com and WooCommerce. The core plugin is a free download and the site says it powers job listings on more than 100,000 websites. Paid add ons, including a bundle from $159 a year, add features such as paid listings and alerts.",
+  "pros": [
+   "Free core plugin",
+   "Large install base",
+   "Runs inside an existing site"
+  ],
+  "cons": [
+   "Hosting and maintenance are on you",
+   "Add ons needed for monetization"
+  ],
+  "alternatives": [
+   "job-boardly",
+   "jboard"
+  ],
+  "priceNote": "Free plugin; add on bundle from $159 a year"
  }
 ]
