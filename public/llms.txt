@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 111 tools rated 1–5; 45 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 111 tools rated 1–5; 46 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -62,6 +62,7 @@
 - [Best reference check software](https://bestrecruitmenttools.com/best-for/reference-check-software/): 1. Crosschq, 2. SkillSurvey, 3. Checkster, 4. Xref, 5. Certn, 6. Vitay, 7. RefNow, 8. Referoo
 - [Best job board software](https://bestrecruitmenttools.com/best-for/job-board-software/): 1. Niceboard, 2. JBoard, 3. SmartJobBoard, 4. Jobiqo, 5. Job Boardly, 6. Getro, 7. WP Job Manager
 - [Best text recruiting software](https://bestrecruitmenttools.com/best-for/text-recruiting-software/): 1. Sense, 2. Paradox, 3. Noon, 4. Loxo, 5. Humanly, 6. Talkpush, 7. Recruit CRM
+- [Best HackerRank alternatives](https://bestrecruitmenttools.com/best-for/hackerrank-alternatives/): 1. CodeSignal, 2. TestGorilla, 3. Adaface, 4. Vervoe, 5. Criteria
 
 ## Comparisons
 
