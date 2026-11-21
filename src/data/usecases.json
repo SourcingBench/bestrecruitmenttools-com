@@ -3624,5 +3624,109 @@
     "a": "Niceboard and SmartJobBoard, because they integrate with association systems or handle employer payments under a revenue share."
    }
   ]
- }
+ },
+  {
+    "slug": "text-recruiting-software",
+    "updated": "2026-11-21",
+    "title": "Best text recruiting software",
+    "short": "Text recruiting software",
+    "seoTitle": "Best Text Recruiting Software in 2026: 7 Tools Ranked",
+    "h1": "The best text recruiting software in 2026: 7 SMS tools ranked by who you are texting",
+    "description": "Seven text recruiting tools ranked from vendor sites read November 21, 2026: Sense, Paradox, Noon, Loxo, Humanly, Talkpush and Recruit CRM, sorted by whether you text applicants, past placements or passive candidates.",
+    "intro": "Verdict first: staffing firms that text large databases should start with Sense, hourly employers that want candidates to apply and schedule by text should look at Paradox, and teams trying to reach people who never applied should use Noon. Text recruiting software covers three different jobs that vendors blur together. The first is mass texting, sending one message about an open shift to hundreds of contacts. The second is conversational screening, where a bot asks knockout questions and books interviews over SMS. The third is outbound sequencing, where texts follow emails to a passive candidate. We read every vendor's own website on November 21, 2026, and ranked seven tools on how central texting is to the product, two way conversation handling, and fit for each of those jobs. If you mainly want a chatbot on your careers page, our <a href='/best-for/recruiting-chatbots/'>recruiting chatbots</a> ranking goes deeper.",
+    "ranked": [
+      {
+        "slug": "sense",
+        "why": "Sense ranks first because texting is a full product line rather than a feature buried in a CRM. Its site has separate pages for <a href='https://www.sensehq.com/product/mass-texting' target='_blank' rel='noopener'>mass texting</a> and <a href='https://www.sensehq.com/product/sms-for-sense-messaging' target='_blank' rel='noopener'>SMS inside Sense Messaging</a>, plus WhatsApp, a mobile app, an AI chatbot and automation workflows for database cleanup and interview scheduling. That mix suits staffing firms that need to blast an open shift to hundreds of past placements, then hold one to one conversations with whoever replies.",
+        "ai": "Sends bulk and triggered texts, runs chatbot screening and scheduling",
+        "human": "Recruiter writes campaigns, owns the replies that need judgment"
+      },
+      {
+        "slug": "paradox",
+        "why": "Paradox is the strongest pick when text is how candidates apply, not just how you follow up. The <a href='https://www.paradox.ai/' target='_blank' rel='noopener'>Paradox site</a> describes applicant screening through chat or text, self scheduling, and an assistant that detects more than 100 languages and translates messages automatically. It also sells a Workday integration that puts SMS candidate communication directly inside Workday, and HR Executive named it a 2025 Top HR Product of the Year. It is built for large hourly employers, so a ten person agency will find it heavy.",
+        "ai": "Screens applicants by text, books interviews, translates conversations",
+        "human": "Hiring manager interviews and decides; TA sets screening rules"
+      },
+      {
+        "slug": "noon",
+        "why": "Noon is the only tool here aimed at outbound sourcing rather than inbound applicants. You describe a role, it finds and ranks candidates, verifies their emails and phone numbers, and runs <a href='https://noon.ai/product/ai-outreach' target='_blank' rel='noopener'>personalized email and SMS sequences</a> written from each person's background, then passes replies to the recruiter. That makes it the right choice when the people you want are employed and have never heard of you, which no applicant texting bot can solve.",
+        "ai": "Finds candidates, verifies contact details, writes and sends email and SMS sequences",
+        "human": "Recruiter briefs the role and takes over interested replies"
+      },
+      {
+        "slug": "loxo",
+        "why": "Loxo fits search firms and small agencies that want texting inside the same record as their ATS and CRM. The <a href='https://www.loxo.co/products/outreach' target='_blank' rel='noopener'>Loxo Outreach</a> page describes one platform for email, SMS, calls and meetings, with automated campaigns and a free starting option. The pitch is that a recruiter can send a text, log a call and book a meeting without switching tools, which matters more to a desk recruiter than mass blast volume.",
+        "ai": "Runs multi channel campaigns and drafts outreach copy",
+        "human": "Recruiter manages relationships and client side conversations"
+      },
+      {
+        "slug": "humanly",
+        "why": "Humanly targets mid market and enterprise frontline hiring. Its <a href='https://www.humanly.io/' target='_blank' rel='noopener'>site</a> says it reaches candidates across SMS, email and chat, re-engages past applicants and taps a network of more than 600 million profiles, then screens and schedules. Choose it if your texting problem is really a pipeline problem: too few applicants for recurring shift roles and a database full of people nobody has contacted in months.",
+        "ai": "Re-engages past applicants, screens and schedules by text",
+        "human": "Recruiters and managers review fit and make offers"
+      },
+      {
+        "slug": "talkpush",
+        "why": "Talkpush makes sense where SMS is only one of several messaging apps candidates use. The <a href='https://www.talkpush.com/' target='_blank' rel='noopener'>Talkpush site</a> lists WhatsApp, Facebook, SMS and TikTok as engagement channels and positions the product as an applicant tracking system for high volume hiring, with a strong BPO and contact center focus. For employers recruiting in markets where WhatsApp outranks text messaging, that breadth is the reason to pick it.",
+        "ai": "Engages and screens candidates across chat apps and SMS",
+        "human": "Recruiters handle assessments and final interviews"
+      },
+      {
+        "slug": "recruit-crm",
+        "why": "Recruit CRM is the budget option for small agencies. Its <a href='https://recruitcrm.io/' target='_blank' rel='noopener'>homepage</a> lists outreach sequences across email, LinkedIn and SMS inside an ATS and CRM built for recruitment firms, with AI help drafting the first message, and the vendor offers a free trial. Texting is part of a sequence rather than a dedicated mass texting engine, so it suits agencies sending dozens of texts a day, not thousands.",
+        "ai": "Drafts first messages and runs multi step sequences",
+        "human": "Recruiter personalizes, sends follow ups and manages placements"
+      }
+    ],
+    "aiTableTitle": "What each tool sends by text and what stays with the recruiter",
+    "sections": [
+      {
+        "h": "Match the tool to who you are texting",
+        "p": [
+          "The fastest way to narrow this list is to look at the phone numbers you already have. A staffing database of past workers, a stream of new applicants and a list of people who have never heard of you each need a different product."
+        ],
+        "list": [
+          "<b>Past placements and old applicants:</b> Sense or Humanly, both built to re-engage a database at volume.",
+          "<b>New hourly applicants:</b> Paradox or Talkpush, where screening and scheduling happen inside the text thread.",
+          "<b>Passive candidates you found yourself:</b> Noon, which sources the people and sequences email with SMS.",
+          "<b>Agency desk recruiters:</b> Loxo or Recruit CRM, with texting next to the ATS record."
+        ]
+      },
+      {
+        "h": "Consent and opt outs come before any campaign",
+        "p": [
+          "Recruiting texts are commercial messages in the eyes of carriers, and in the United States the Telephone Consumer Protection Act governs automated texting. Before you import a list, confirm how each number was collected and whether the person agreed to receive texts. Every tool on this list supports opt out handling, but none of them can make an old purchased list compliant. Ask vendors how they register numbers for carrier 10DLC programs and how STOP replies are logged, and get your counsel to sign off on the consent language on your application form.",
+          "A practical rule: text people who applied, worked for you or asked to hear from you, and use email for the first touch with anyone else. Sequencing tools that start with email and add SMS only after a contact has a verified mobile number follow that pattern naturally."
+        ]
+      },
+      {
+        "h": "How we ranked",
+        "p": [
+          "We weighted three things: how central texting is to the product rather than an add on, whether replies flow back into a two way conversation the recruiter can see, and how clearly the vendor describes the hiring situation it is built for. Prices were not a factor because only Loxo and Recruit CRM advertise a free starting option on their sites; the rest sell through demos. See our <a href='/how-we-rank/'>ranking method</a> for the general rules, and the <a href='/best-for/high-volume-hiring/'>high volume hiring</a> list if texting is one part of a larger hourly hiring stack."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is text recruiting software?",
+        "a": "Software that lets recruiters send and receive SMS messages with candidates, either one at a time, as bulk campaigns, or through automated bots that screen applicants and schedule interviews inside the text thread."
+      },
+      {
+        "q": "Is it legal to text job candidates?",
+        "a": "Generally yes when the candidate has given consent, for example by applying and agreeing to receive texts. Automated texting in the United States falls under the Telephone Consumer Protection Act, so keep consent records and honor opt out replies."
+      },
+      {
+        "q": "Which text recruiting tool is best for staffing agencies?",
+        "a": "Sense for agencies texting large databases of past workers, and Loxo or Recruit CRM for smaller desks that want texting inside their ATS and CRM."
+      },
+      {
+        "q": "Can text recruiting software reach passive candidates?",
+        "a": "Only if you already have their mobile number and permission. Noon is the tool in this list designed for outbound work: it finds candidates, verifies contact details and combines email with SMS in a sequence."
+      },
+      {
+        "q": "Do candidates prefer texts over email?",
+        "a": "It depends on the role. Hourly and frontline candidates often answer texts faster because they are away from a desk, while many professional candidates prefer an email first and a text once a conversation has started."
+      }
+    ]
+  }
 ]

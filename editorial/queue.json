@@ -328,6 +328,16 @@
    "status": "published",
    "slug": "job-board-software",
    "date": "2026-11-20"
+  },
+  {
+   "id": "brt-036",
+   "family": "ranked-use-case",
+   "keyword": "text recruiting software",
+   "volume": 40,
+   "noon_target": "/product/ai-outreach",
+   "status": "published",
+   "slug": "text-recruiting-software",
+   "date": "2026-11-21"
   }
  ]
 }
