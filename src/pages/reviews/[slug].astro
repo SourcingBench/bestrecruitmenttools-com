@@ -42,7 +42,7 @@ const schema = [reviewSchema(t), faqSchema(faq), breadcrumbSchema([{ name: 'Home
       {t.longOverview && <><h2 id="how">How {t.name} works</h2>{t.longOverview.map((p) => <p>{p}</p>)}</>}
       <h2 id="pros-cons">Pros and cons</h2>
       <div class="pm">{t.pros.map((p) => <div class="plus">{p}</div>)}{t.cons.map((c) => <div class="minus">{c}</div>)}</div>
-      {ranks.length > 0 && <><h2 id="ranks">Where {t.name} ranks</h2><ul>{ranks.map(({ u, i }) => <li>#{i + 1} in <a href={`/best-for/${u.slug}/`}>{u.title}</a>: {u.ranked[i].why}</li>)}</ul></>}
+      {ranks.length > 0 && <><h2 id="ranks">Where {t.name} ranks</h2><ul>{ranks.map(({ u, i }) => <li>#{i + 1} in <a href={`/best-for/${u.slug}/`}>{u.title}</a>: <Fragment set:html={u.ranked[i].why} /></li>)}</ul></>}
       {cmps.length > 0 && <><h2 id="h2h">Head-to-head</h2><ul>{cmps.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a>: {c.summary}</li>)}</ul></>}
       <h2 id="alternatives">Alternatives to {t.name}</h2>
       <div class="cards">{[...new Set([...t.alternatives, ...sameCat.map((x) => x.slug)])].slice(0, 4).map((s) => <a class="card has-logo" href={`/reviews/${s}/`}><Logo slug={s} name={by[s].name} /><div><span class="kicker">{by[s].category}</span><h3>{by[s].name}</h3><p>{by[s].rating.toFixed(1)}/5 · {by[s].bestFor}</p></div></a>)}</div>
