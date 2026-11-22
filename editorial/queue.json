@@ -358,6 +358,48 @@
    "status": "published",
    "slug": "bamboohr-alternatives",
    "date": "2026-11-22"
+  },
+  {
+   "id": "brt-039",
+   "family": "ranked-use-case",
+   "keyword": "gusto alternatives",
+   "volume": 260,
+   "noon_target": null,
+   "status": "published",
+   "slug": "gusto-alternatives",
+   "date": "2026-11-22"
+  },
+  {
+   "id": "brt-040",
+   "family": "ranked-use-case",
+   "keyword": "adp alternatives",
+   "volume": 260,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-041",
+   "family": "ranked-use-case",
+   "keyword": "rippling alternatives",
+   "volume": 210,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-042",
+   "family": "ranked-use-case",
+   "keyword": "workday alternatives",
+   "volume": 210,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-043",
+   "family": "ranked-use-case",
+   "keyword": "ziprecruiter alternatives",
+   "volume": 70,
+   "noon_target": null,
+   "status": "queued"
   }
  ]
 }

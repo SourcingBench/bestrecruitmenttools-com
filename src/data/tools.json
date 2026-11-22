@@ -3952,5 +3952,106 @@
    "rippling",
    "hibob"
   ]
+ },
+ {
+  "slug": "justworks",
+  "name": "Justworks",
+  "website": "https://www.justworks.com",
+  "category": "PEO and payroll with built in ATS",
+  "rating": 4.2,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Payroll $8/employee/mo + $50 base; PEO from $79/employee/mo",
+  "bestFor": "US small businesses that want benefits, compliance and an applicant tracker in one PEO",
+  "teamSize": "1 to 500 employees",
+  "trial": "Demo; no free trial",
+  "useCases": [
+   "gusto-alternatives"
+  ],
+  "verdict": "Justworks is a PEO that bundles payroll, health benefits, compliance help and an applicant tracking system, priced per employee with no long sales cycle.",
+  "standout": "Applicant tracking included in the PEO Basic plan",
+  "weakness": "The ATS is basic next to dedicated recruiting software",
+  "overview": "Justworks sells a payroll only plan and two PEO plans. The PEO model makes Justworks the co employer of record, which lets small companies offer large group health insurance and hand off much of their HR compliance.\n\nIts pricing page lists an applicant tracking system among the features of PEO Basic, along with HR consulting, 401(k) access and 24/7 support.",
+  "pros": [
+   "Published per employee prices",
+   "Applicant tracking without a second vendor",
+   "Large group benefits through the PEO"
+  ],
+  "cons": [
+   "PEO pricing climbs quickly with headcount",
+   "Applicant tracker is light on sourcing and outreach",
+   "US focus outside the separate EOR plan"
+  ],
+  "alternatives": [
+   "rippling",
+   "paycor"
+  ]
+ },
+ {
+  "slug": "adp-run",
+  "name": "RUN Powered by ADP",
+  "website": "https://www.adp.com/what-we-offer/products/run-powered-by-adp.aspx",
+  "category": "Small business payroll and HR",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "Businesses with 1 to 49 employees that want a large payroll provider and phone support",
+  "teamSize": "1 to 49 employees",
+  "trial": "Promotional free payroll months; quote based",
+  "useCases": [
+   "gusto-alternatives"
+  ],
+  "verdict": "RUN Powered by ADP is ADP's payroll and HR package for businesses under 50 employees, with recruiting, hiring and onboarding tools inside the higher packages.",
+  "standout": "Scale and around the clock support from a payroll specialist",
+  "weakness": "Prices are quoted, not published",
+  "overview": "ADP positions RUN as its small business platform for companies with 1 to 49 employees and says it is trusted by more than 900,000 small businesses. Packages cover payroll processing and tax filing, with HR tools such as recruiting, hiring and onboarding available as you move up.\n\nADP advertises 24/7 support from payroll professionals and often runs promotions with free payroll months for new customers.",
+  "pros": [
+   "Very large provider with deep compliance experience",
+   "24/7 support from payroll specialists",
+   "Recruiting and onboarding in higher packages"
+  ],
+  "cons": [
+   "Quote based pricing",
+   "Add ons can raise the bill",
+   "Hiring tools are less modern than dedicated ATS products"
+  ],
+  "alternatives": [
+   "paycor",
+   "rippling"
+  ]
+ },
+ {
+  "slug": "square-payroll",
+  "name": "Square Payroll",
+  "website": "https://squareup.com/us/en/payroll",
+  "category": "Payroll for hourly teams",
+  "rating": 3.9,
+  "priceTier": "$",
+  "startingPrice": 35,
+  "priceNote": "$35/mo + $6 per person paid; contractor only $6/person",
+  "bestFor": "Restaurants and retailers already running Square point of sale",
+  "teamSize": "1 to 100 employees",
+  "trial": "No free trial; cancel anytime",
+  "useCases": [
+   "gusto-alternatives"
+  ],
+  "verdict": "Square Payroll is the simplest choice for businesses that already take payments on Square, since timecards and tips flow straight from the point of sale into payroll.",
+  "standout": "Timecards and tips imported from Square POS",
+  "weakness": "No applicant tracking of its own",
+  "overview": "Square Payroll runs full service payroll with unlimited pay runs, tax filings and new hire reporting for $35 a month plus $6 per person paid. A contractor only plan costs $6 per person.\n\nIt connects to the Square dashboard and Square Staff, imports timecards and tips, and offers health insurance, retirement plans and a QuickBooks Online sync.",
+  "pros": [
+   "Low published price",
+   "Tips and timecards from the POS",
+   "Contractor only plan"
+  ],
+  "cons": [
+   "No recruiting or applicant tracking",
+   "Best only inside the Square ecosystem",
+   "Limited HR depth"
+  ],
+  "alternatives": [
+   "homebase",
+   "paycor"
+  ]
  }
 ]
