@@ -3853,5 +3853,104 @@
    "jboard"
   ],
   "priceNote": "Free plugin; add on bundle from $159 a year"
+ },
+ {
+  "slug": "rippling",
+  "name": "Rippling",
+  "website": "https://www.rippling.com",
+  "category": "HR platform with built in ATS",
+  "rating": 4.4,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "growing US companies that want HR, payroll, IT and recruiting on one employee record",
+  "teamSize": "10 to 5,000+ employees",
+  "trial": "Demo and custom quote",
+  "useCases": [
+   "bamboohr-alternatives"
+  ],
+  "verdict": "Rippling is the HR suite to shortlist when the goal is one system for every employee change, with an ATS built into the same record rather than bolted on.",
+  "standout": "Recruiting, HR, payroll and device management share one employee record",
+  "weakness": "Pricing is quote only and modular, so the total depends on how many products you add",
+  "overview": "Rippling sells HR, payroll, benefits, IT and spend management as modules on one platform, priced per employee after a quote. Its recruiting product is marketed as an AI native ATS for recruiters, HR and hiring managers, so an accepted offer can flow straight into onboarding, payroll and laptop provisioning.\n\nFor recruiting teams the appeal is fewer handoffs. The tradeoff is that you buy into a broad suite, and the quote grows with every module.",
+  "pros": [
+   "Hiring flows directly into onboarding and payroll",
+   "Modular, so you can start with HR and add recruiting later",
+   "Strong automation across HR and IT tasks"
+  ],
+  "cons": [
+   "No public list price",
+   "Suite breadth means a longer setup",
+   "Recruiting depth is lighter than a dedicated ATS"
+  ],
+  "alternatives": [
+   "hibob",
+   "deel"
+  ]
+ },
+ {
+  "slug": "hibob",
+  "name": "HiBob",
+  "website": "https://www.hibob.com",
+  "category": "HR platform with built in ATS",
+  "rating": 4.3,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "mid market companies with staff in several countries that care about employee experience",
+  "teamSize": "50 to 5,000 employees",
+  "trial": "Free demo",
+  "useCases": [
+   "bamboohr-alternatives"
+  ],
+  "verdict": "HiBob, sold as Bob, is a people platform built for mid market companies with distributed teams, and its hiring module now covers the path from headcount planning to onboarding.",
+  "standout": "Hiring, workforce planning and onboarding in one people platform",
+  "weakness": "Quote only pricing and a focus on mid market buyers",
+  "overview": "HiBob's platform covers core HR, employee self service, analytics, talent management, learning, compensation and payroll, with US and UK payroll listed on its site. The hiring module is marketed as an all in one AI powered ATS that runs from planning through onboarding.\n\nIt suits HR teams that want a modern, social style employee experience and need headcount planning to sit close to recruiting.",
+  "pros": [
+   "Workforce planning sits next to hiring",
+   "Clean employee experience that staff actually use",
+   "Payroll options for the US and UK"
+  ],
+  "cons": [
+   "No public list price",
+   "Built for mid market, not very small teams",
+   "Advanced recruiting teams may still want a dedicated ATS"
+  ],
+  "alternatives": [
+   "rippling",
+   "deel"
+  ]
+ },
+ {
+  "slug": "paycor",
+  "name": "Paycor",
+  "website": "https://www.paycor.com",
+  "category": "HR platform with built in ATS",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "bestFor": "US small and midsize businesses that hire hourly and frontline staff",
+  "teamSize": "1 to 1,000+ employees",
+  "trial": "Guided tour and demo",
+  "useCases": [
+   "bamboohr-alternatives"
+  ],
+  "verdict": "Paycor is a US payroll and HCM provider whose recruiting software is aimed at employers that hire often, text candidates and want tax credit screening built in.",
+  "standout": "Recruiting with candidate texting next to payroll and tax credit help",
+  "weakness": "Plans are bundled and quoted, which makes side by side price comparison hard",
+  "overview": "Paycor sells payroll, HR, time, benefits and analytics as bundles, with plans for businesses under 50 employees up to larger employers. Its recruiting software promises to help employers find candidates, communicate with them by text and move them into onboarding.\n\nThe small business pages also describe Work Opportunity Tax Credit support, which matters for employers that hire in volume from eligible groups.",
+  "pros": [
+   "Candidate texting built into recruiting",
+   "Payroll and tax compliance updates handled for you",
+   "Bundles sized for very small employers"
+  ],
+  "cons": [
+   "Quote based bundles",
+   "US focus",
+   "Interface feels more payroll first than recruiting first"
+  ],
+  "alternatives": [
+   "rippling",
+   "hibob"
+  ]
  }
 ]
