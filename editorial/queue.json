@@ -385,7 +385,9 @@
    "keyword": "rippling alternatives",
    "volume": 210,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "rippling-alternatives",
+   "date": "2026-11-23"
   },
   {
    "id": "brt-042",

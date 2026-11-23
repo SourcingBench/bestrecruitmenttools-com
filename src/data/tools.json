@@ -1149,7 +1149,8 @@
   "trial": "Free HRIS tier",
   "useCases": [
    "remote-hiring",
-   "startups"
+   "startups",
+   "rippling-alternatives"
   ],
   "verdict": "Deel is the broadest employer-of-record and contractor platform: it turns 'can we hire this person in Portugal' from a legal project into a form, with payroll, compliance and equipment handled.",
   "standout": "Coverage in 150+ countries for EOR, contractors and payroll",
@@ -3899,7 +3900,8 @@
   "teamSize": "50 to 5,000 employees",
   "trial": "Free demo",
   "useCases": [
-   "bamboohr-alternatives"
+   "bamboohr-alternatives",
+   "rippling-alternatives"
   ],
   "verdict": "HiBob, sold as Bob, is a people platform built for mid market companies with distributed teams, and its hiring module now covers the path from headcount planning to onboarding.",
   "standout": "Hiring, workforce planning and onboarding in one people platform",
@@ -3932,7 +3934,8 @@
   "teamSize": "1 to 1,000+ employees",
   "trial": "Guided tour and demo",
   "useCases": [
-   "bamboohr-alternatives"
+   "bamboohr-alternatives",
+   "rippling-alternatives"
   ],
   "verdict": "Paycor is a US payroll and HCM provider whose recruiting software is aimed at employers that hire often, text candidates and want tax credit screening built in.",
   "standout": "Recruiting with candidate texting next to payroll and tax credit help",
@@ -3966,7 +3969,8 @@
   "teamSize": "1 to 500 employees",
   "trial": "Demo; no free trial",
   "useCases": [
-   "gusto-alternatives"
+   "gusto-alternatives",
+   "rippling-alternatives"
   ],
   "verdict": "Justworks is a PEO that bundles payroll, health benefits, compliance help and an applicant tracking system, priced per employee with no long sales cycle.",
   "standout": "Applicant tracking included in the PEO Basic plan",
@@ -3999,7 +4003,8 @@
   "teamSize": "1 to 49 employees",
   "trial": "Promotional free payroll months; quote based",
   "useCases": [
-   "gusto-alternatives"
+   "gusto-alternatives",
+   "rippling-alternatives"
   ],
   "verdict": "RUN Powered by ADP is ADP's payroll and HR package for businesses under 50 employees, with recruiting, hiring and onboarding tools inside the higher packages.",
   "standout": "Scale and around the clock support from a payroll specialist",
