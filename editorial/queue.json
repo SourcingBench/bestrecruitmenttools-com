@@ -375,7 +375,9 @@
    "keyword": "adp alternatives",
    "volume": 260,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "adp-alternatives",
+   "date": "2026-11-23"
   },
   {
    "id": "brt-041",
