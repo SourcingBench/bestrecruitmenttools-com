@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 117 tools rated 1–5; 49 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 117 tools rated 1–5; 50 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -66,6 +66,7 @@
 - [Best BambooHR alternatives](https://bestrecruitmenttools.com/best-for/bamboohr-alternatives/): 1. Rippling, 2. HiBob, 3. Paycor, 4. Deel
 - [Best Gusto alternatives](https://bestrecruitmenttools.com/best-for/gusto-alternatives/): 1. Rippling, 2. Justworks, 3. RUN Powered by ADP, 4. Homebase, 5. Square Payroll
 - [Best ADP alternatives](https://bestrecruitmenttools.com/best-for/adp-alternatives/): 1. Rippling, 2. Paycor, 3. HiBob, 4. Deel
+- [Best Rippling alternatives](https://bestrecruitmenttools.com/best-for/rippling-alternatives/): 1. Justworks, 2. HiBob, 3. Paycor, 4. Deel, 5. RUN Powered by ADP
 
 ## Comparisons
 
