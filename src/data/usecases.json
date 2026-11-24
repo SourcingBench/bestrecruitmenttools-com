@@ -4237,5 +4237,100 @@
         "a": "Yes. Many companies keep Workday as the HR system of record and add a separate applicant tracking system that syncs hires into it."
       }
     ]
+  },
+  {
+    "slug": "ziprecruiter-alternatives",
+    "updated": "2026-11-24",
+    "title": "Best ZipRecruiter alternatives",
+    "short": "ZipRecruiter alternatives",
+    "seoTitle": "5 Best ZipRecruiter Alternatives in 2026, Ranked on Cost per Applicant",
+    "h1": "ZipRecruiter alternatives in 2026: 5 job boards and applicant trackers that cost less to fill a role",
+    "description": "Five ZipRecruiter alternatives ranked from vendor pricing and product pages read November 24, 2026: Indeed, LinkedIn Jobs, Wellfound, Workable and JazzHR, compared on free posting, paid promotion, AI screening and which kind of hire each suits.",
+    "intro": "People usually start looking past ZipRecruiter for one of two reasons. Either the monthly subscription feels expensive for a company that only hires a few times a year, or the applicants are arriving but the wrong ones are. Those are different problems, and they point to different tools. A cheaper job board fixes the first. A better applicant tracking system, which posts to many free boards at once and screens what comes back, fixes the second. This list mixes both. We read each vendor's own pricing and product pages on November 24, 2026 and ranked them for a small or midsize employer that currently pays for ZipRecruiter. Indeed comes first because it lets you post for free and pay only when you want a boost. LinkedIn Jobs is second for salaried office roles, Wellfound third for startups hiring engineers, and Workable and JazzHR round out the list for teams that want to stop paying a single board altogether. ZipRecruiter's own site blocked our automated check, so for its current plans see our <a href='/reviews/ziprecruiter/'>ZipRecruiter review</a>.",
+    "ranked": [
+      {
+        "slug": "indeed",
+        "why": "Indeed is the closest swap because it covers the same hourly, retail, trades and office roles, but it does not force a subscription. Its <a href='https://www.indeed.com/hire/pricing'>pricing page</a> lists a free tier for a single job post, then Standard, Premium and a beta Premium Plus tier of Sponsored Jobs that move your listing above free posts in search, and it says you can cancel at any time. The Premium Plus beta adds an AI feature that talks with candidates as they apply. If you hire one or two people a quarter, paying to sponsor only the posts that are slow to fill usually costs less than a flat monthly plan.",
+        "ai": "Sponsored placement, automated candidate messages, a beta AI that chats with applicants",
+        "human": "You set the budget per post and review every applicant"
+      },
+      {
+        "slug": "linkedin-jobs",
+        "why": "For salaried office, sales, finance and tech roles, LinkedIn's applicant pool is the strongest alternative. Its <a href='https://business.linkedin.com/hire/post-jobs'>job posting page</a> says you can post free with limited features or promote a post to unlock more, and that more than 70 million active job seekers search the site every week. The weakness is hourly and frontline work, where Indeed and ZipRecruiter both reach more candidates.",
+        "ai": "Promoted posts get advanced features and wider reach",
+        "human": "You review applicants and decide who to contact"
+      },
+      {
+        "slug": "wellfound",
+        "why": "Wellfound is built for startups. Its <a href='https://wellfound.com/recruit'>recruiting page</a> promises unlimited job posts free forever, broadcast to a startup network it puts at 10 million people, and adds paid sourcing in which AI agents find candidates and send personalized outreach from your own inbox, plus an option to hand a search to a Wellfound recruiter. A seed or Series A company hiring engineers, designers or early sales staff will find a more relevant crowd here than on a general board.",
+        "ai": "Matches and sorts applicants, runs AI sourcing agents on paid plans",
+        "human": "Founders and hiring managers run the interviews"
+      },
+      {
+        "slug": "workable",
+        "why": "Workable replaces the board with an applicant tracking system that posts to many boards and manages the pipeline. Its <a href='https://www.workable.com/pricing'>pricing page</a> sets the price by employee count, lists texting at $89 a month, video interviews at $109 and assessments at $59 as add ons, and highlights a new AI Recruiting Agent. Sourcing, screening and engagement agents run on AI credits, and each ATS plan comes with 3,000 complimentary credits. It is the best fit when the real problem is sorting applicants rather than finding them.",
+        "ai": "Sourcing, screening and engagement agents that use AI credits",
+        "human": "Recruiters approve shortlists and run interviews"
+      },
+      {
+        "slug": "jazzhr",
+        "why": "JazzHR is the budget applicant tracker for US small businesses that want posting and tracking without a per board bill. Its <a href='https://www.jazzhr.com/pricing'>pricing page</a> lists Hero at $1,000 a year, Plus at $3,480 and Pro at $5,508, all billed annually, and says it integrates with over a dozen free job boards while still letting you buy premium listings. That annual price is easy to compare directly against twelve months of a job board subscription.",
+        "ai": "Automates tasks and messages inside the hiring workflow",
+        "human": "Hiring managers score candidates and make offers"
+      }
+    ],
+    "aiTableTitle": "What each ZipRecruiter alternative automates, and what you still do yourself",
+    "sections": [
+      {
+        "h": "Do you need a new job board or a better applicant tracker?",
+        "p": [
+          "Count your hires. If you fill fewer than ten roles a year, pay per post on Indeed or post free on LinkedIn or Wellfound and skip subscriptions entirely. If you fill more than that and spend hours sorting resumes, the board is not the bottleneck; an applicant tracking system like Workable or JazzHR that syndicates to free boards and screens the results will save more time and money than switching boards."
+        ]
+      },
+      {
+        "h": "Matching the alternative to the job",
+        "p": [
+          "Different roles live on different sites, so a single replacement rarely covers everything."
+        ],
+        "list": [
+          "Hourly, retail and trades: Indeed, with Sponsored Jobs only on the slow roles.",
+          "Salaried office and sales roles: LinkedIn Jobs.",
+          "Startup engineering and design: Wellfound.",
+          "Ten or more hires a year across many roles: Workable or JazzHR posting to free boards."
+        ]
+      },
+      {
+        "h": "Before you cancel ZipRecruiter",
+        "p": [
+          "Export your open jobs, applicant lists and any notes first, because a cancelled account may lose that history. Then run your next two roles in parallel on the new tool and compare applicants per dollar before committing. For broader options see our guides to <a href='/best-for/job-board-software/'>job board software</a> and <a href='/best-for/programmatic-job-advertising/'>programmatic job advertising</a>."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the best free alternative to ZipRecruiter?",
+        "a": "Indeed, LinkedIn Jobs and Wellfound all allow free job posts. Wellfound says its job posts are unlimited and free forever, while Indeed's free tier and LinkedIn's free posts come with fewer features than their paid promotions."
+      },
+      {
+        "q": "Is Indeed cheaper than ZipRecruiter?",
+        "a": "Usually, for occasional hiring, because Indeed lets you post free and pay only for Sponsored Jobs you choose to promote, and its pricing page says those plans can be cancelled at any time."
+      },
+      {
+        "q": "Which ZipRecruiter alternative is best for startups?",
+        "a": "Wellfound, because its network is made up of people who want to work at startups and it offers free unlimited job posts."
+      },
+      {
+        "q": "Should I replace ZipRecruiter with an applicant tracking system?",
+        "a": "If you hire often, yes. Workable and JazzHR post to many job boards at once and manage the whole pipeline, which often costs less than a dedicated job board subscription."
+      },
+      {
+        "q": "How much does JazzHR cost compared with a job board subscription?",
+        "a": "JazzHR lists annual plans of $1,000, $3,480 and $5,508 on its pricing page. Compare that against twelve months of your current job board bill, including any per post upgrades."
+      },
+      {
+        "q": "Does Workable include AI?",
+        "a": "Yes. Workable lists an AI Recruiting Agent and separate sourcing, screening and engagement agents that use AI credits, with 3,000 complimentary credits included on each ATS plan."
+      }
+    ]
   }
 ]

@@ -405,7 +405,9 @@
    "keyword": "ziprecruiter alternatives",
    "volume": 70,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "ziprecruiter-alternatives",
+   "date": "2026-11-24"
   }
  ]
 }
