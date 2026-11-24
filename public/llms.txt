@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 117 tools rated 1–5; 50 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 120 tools rated 1–5; 51 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -67,6 +67,7 @@
 - [Best Gusto alternatives](https://bestrecruitmenttools.com/best-for/gusto-alternatives/): 1. Rippling, 2. Justworks, 3. RUN Powered by ADP, 4. Homebase, 5. Square Payroll
 - [Best ADP alternatives](https://bestrecruitmenttools.com/best-for/adp-alternatives/): 1. Rippling, 2. Paycor, 3. HiBob, 4. Deel
 - [Best Rippling alternatives](https://bestrecruitmenttools.com/best-for/rippling-alternatives/): 1. Justworks, 2. HiBob, 3. Paycor, 4. Deel, 5. RUN Powered by ADP
+- [Best Workday alternatives](https://bestrecruitmenttools.com/best-for/workday-alternatives/): 1. Dayforce, 2. Oracle Fusion Cloud HCM, 3. SAP SuccessFactors, 4. Rippling, 5. HiBob
 
 ## Comparisons
 
@@ -116,6 +117,7 @@
 - [Criteria](https://bestrecruitmenttools.com/reviews/criteria/): Skills assessment, 4.2/5, $$, best for validated cognitive aptitude and personality testing for professional and hourly roles.
 - [Crosschq](https://bestrecruitmenttools.com/reviews/crosschq/): Reference checking, 4.4/5, $$$, best for Mid market and enterprise teams that want reference data tied to quality of hire reporting.
 - [Datapeople](https://bestrecruitmenttools.com/reviews/datapeople/): Job description management, 4.2/5, $$$, best for enterprise TA and compensation teams that need compliant job content inside the ATS.
+- [Dayforce](https://bestrecruitmenttools.com/reviews/dayforce/): Enterprise HCM suite with recruiting, 4.2/5, $$$, best for large employers with hourly and frontline staff that want pay, time and hiring on one data model.
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
 - [EDJOIN](https://bestrecruitmenttools.com/reviews/edjoin/): Education job board, 3.8/5, $, best for districts and county offices that want a widely used public education job board with region search.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
@@ -163,6 +165,7 @@
 - [Odoo Recruitment](https://bestrecruitmenttools.com/reviews/odoo-recruitment/): Applicant Tracking System, 4.0/5, $, best for companies that want many free seats or already run Odoo.
 - [Ongig](https://bestrecruitmenttools.com/reviews/ongig/): Job description management, 4.0/5, $$$, best for HR teams cleaning up a large job description library with published pricing.
 - [OpenCATS](https://bestrecruitmenttools.com/reviews/opencats/): Applicant Tracking System, 3.6/5, $, best for technical teams and agencies that want to host their own ATS.
+- [Oracle Fusion Cloud HCM](https://bestrecruitmenttools.com/reviews/oracle-hcm/): Enterprise HCM suite with recruiting, 4.1/5, $$$, best for global enterprises that already run Oracle finance or ERP.
 - [Otter](https://bestrecruitmenttools.com/reviews/otter/): AI meeting notes, 4.0/5, $, best for recruiters who want cheap, general meeting transcription across Zoom, Teams and Meet.
 - [PandoLogic (Veritone Hire)](https://bestrecruitmenttools.com/reviews/pandologic/): Programmatic job advertising, 4.1/5, $$, best for employers and staffing firms that want hands off programmatic placement across a large job site network.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
@@ -182,6 +185,7 @@
 - [Rippling](https://bestrecruitmenttools.com/reviews/rippling/): HR platform with built in ATS, 4.4/5, $$, best for growing US companies that want HR, payroll, IT and recruiting on one employee record.
 - [RUN Powered by ADP](https://bestrecruitmenttools.com/reviews/adp-run/): Small business payroll and HR, 4.0/5, $$, best for Businesses with 1 to 49 employees that want a large payroll provider and phone support.
 - [SAP Fieldglass](https://bestrecruitmenttools.com/reviews/sap-fieldglass/): Vendor management system, 4.5/5, $$$$, best for global enterprises managing contractors, consultants and statements of work across many countries.
+- [SAP SuccessFactors](https://bestrecruitmenttools.com/reviews/sap-successfactors/): Enterprise HCM suite with recruiting, 4.0/5, $$$, best for multinationals on SAP ERP that need localized HR and payroll in many countries.
 - [SchoolSpring](https://bestrecruitmenttools.com/reviews/schoolspring/): Education job board, 3.9/5, $, best for districts and schools that need an education specific job board to reach teachers and staff.
 - [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.
 - [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.

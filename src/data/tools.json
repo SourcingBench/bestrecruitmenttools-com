@@ -3867,6 +3867,7 @@
   "teamSize": "10 to 5,000+ employees",
   "trial": "Demo and custom quote",
   "useCases": [
+   "workday-alternatives",
    "bamboohr-alternatives"
   ],
   "verdict": "Rippling is the HR suite to shortlist when the goal is one system for every employee change, with an ATS built into the same record rather than bolted on.",
@@ -3900,6 +3901,7 @@
   "teamSize": "50 to 5,000 employees",
   "trial": "Free demo",
   "useCases": [
+   "workday-alternatives",
    "bamboohr-alternatives",
    "rippling-alternatives"
   ],
@@ -4057,6 +4059,105 @@
   "alternatives": [
    "homebase",
    "paycor"
+  ]
+ },
+ {
+  "slug": "dayforce",
+  "name": "Dayforce",
+  "website": "https://www.dayforce.com",
+  "category": "Enterprise HCM suite with recruiting",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "large employers with hourly and frontline staff that want pay, time and hiring on one data model",
+  "teamSize": "500 to 100,000+ employees",
+  "trial": "Demo and custom quote",
+  "useCases": [
+   "workday-alternatives"
+  ],
+  "verdict": "Dayforce is the closest like for like Workday replacement for employers whose hardest problems are payroll, scheduling and high volume hiring rather than finance.",
+  "standout": "Payroll, time, HR and recruiting share a single data model",
+  "weakness": "Quote only pricing and a long implementation for large rollouts",
+  "overview": "Dayforce sells a global HCM platform covering HR, pay, time, talent and analytics, and its home page says it is trusted by 7 million users worldwide. It describes the product as an agentic HCM platform built on a single data model.\n\nDayforce Recruiting uses AI to screen applicants against job criteria and to run initial on demand screening interviews whose insights go to recruiters for review. The company has announced agentic recruiting designed for frontline and high volume hiring, with AI agents for sourcing, screening, scheduling and candidate engagement.",
+  "pros": [
+   "One data model for pay, time and hiring",
+   "Built for frontline and high volume hiring",
+   "AI screening interviews with recruiter review"
+  ],
+  "cons": [
+   "No published pricing",
+   "Large implementations take months",
+   "More than a small company needs"
+  ],
+  "alternatives": [
+   "sap-successfactors",
+   "oracle-hcm"
+  ]
+ },
+ {
+  "slug": "oracle-hcm",
+  "name": "Oracle Fusion Cloud HCM",
+  "website": "https://www.oracle.com/human-capital-management/",
+  "category": "Enterprise HCM suite with recruiting",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "global enterprises that already run Oracle finance or ERP",
+  "teamSize": "1,000 to 100,000+ employees",
+  "trial": "Demo and custom quote",
+  "useCases": [
+   "workday-alternatives"
+  ],
+  "verdict": "Oracle Fusion Cloud HCM is the natural Workday alternative for companies that already keep their general ledger in Oracle and want HR and recruiting on the same cloud.",
+  "standout": "Oracle Recruiting Booster adds SMS, AI candidate recommendations and hiring events",
+  "weakness": "Complex to configure and priced by quote",
+  "overview": "Oracle Fusion Cloud HCM covers human resources, talent management, workforce management and payroll. Oracle says Gartner has named it a Leader in Cloud HCM for the eleventh year in a row, and it describes the suite as a unified platform with embedded AI and governed agentic execution.\n\nOracle Recruiting and Recruiting Booster add branded career sites, generative AI job descriptions, applications that start with only an email or phone number, SMS interactions with candidates, AI candidate recommendations, hiring events and an internal opportunity marketplace.",
+  "pros": [
+   "Deep fit with Oracle ERP and finance",
+   "SMS and mobile candidate experience",
+   "Internal mobility marketplace"
+  ],
+  "cons": [
+   "Quote only pricing",
+   "Needs an implementation partner",
+   "Heavy for mid sized companies"
+  ],
+  "alternatives": [
+   "sap-successfactors",
+   "dayforce"
+  ]
+ },
+ {
+  "slug": "sap-successfactors",
+  "name": "SAP SuccessFactors",
+  "website": "https://www.sap.com/products/hcm.html",
+  "category": "Enterprise HCM suite with recruiting",
+  "rating": 4.0,
+  "priceTier": "$$$",
+  "startingPrice": null,
+  "bestFor": "multinationals on SAP ERP that need localized HR and payroll in many countries",
+  "teamSize": "1,000 to 100,000+ employees",
+  "trial": "Demo and custom quote",
+  "useCases": [
+   "workday-alternatives"
+  ],
+  "verdict": "SAP SuccessFactors is the Workday alternative for global companies already standardized on SAP, now with SmartRecruiters as its recruiting layer.",
+  "standout": "SmartRecruiters for SAP SuccessFactors syncs people, job and org data with one login",
+  "weakness": "Implementation effort and quote only pricing",
+  "overview": "SAP SuccessFactors HCM covers core HR, payroll, learning and talent management, with Joule assistants and agents for HR processes. SAP's customer story says Volkswagen Group supports more than 430,000 employees and over 400 companies in one system.\n\nRecruiting now runs on SmartRecruiters for SAP SuccessFactors, which SAP markets with AI candidate matching, automated screening and sourcing analytics. People, job and organizational data sync automatically between the two products, and recruiters and hiring managers use a single login.",
+  "pros": [
+   "Strong localization for global payroll",
+   "SmartRecruiters recruiting with HR data sync",
+   "Fits SAP ERP estates"
+  ],
+  "cons": [
+   "Quote only pricing",
+   "Long rollouts",
+   "Two product heritages to learn"
+  ],
+  "alternatives": [
+   "oracle-hcm",
+   "dayforce"
   ]
  }
 ]
