@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 120 tools rated 1–5; 51 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 120 tools rated 1–5; 52 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -68,6 +68,7 @@
 - [Best ADP alternatives](https://bestrecruitmenttools.com/best-for/adp-alternatives/): 1. Rippling, 2. Paycor, 3. HiBob, 4. Deel
 - [Best Rippling alternatives](https://bestrecruitmenttools.com/best-for/rippling-alternatives/): 1. Justworks, 2. HiBob, 3. Paycor, 4. Deel, 5. RUN Powered by ADP
 - [Best Workday alternatives](https://bestrecruitmenttools.com/best-for/workday-alternatives/): 1. Dayforce, 2. Oracle Fusion Cloud HCM, 3. SAP SuccessFactors, 4. Rippling, 5. HiBob
+- [Best ZipRecruiter alternatives](https://bestrecruitmenttools.com/best-for/ziprecruiter-alternatives/): 1. Indeed, 2. LinkedIn Jobs, 3. Wellfound, 4. Workable, 5. JazzHR
 
 ## Comparisons
 
