@@ -395,7 +395,9 @@
    "keyword": "workday alternatives",
    "volume": 210,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "workday-alternatives",
+   "date": "2026-11-24"
   },
   {
    "id": "brt-043",
