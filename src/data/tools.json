@@ -1148,6 +1148,7 @@
   "teamSize": "1\u20135,000 employees",
   "trial": "Free HRIS tier",
   "useCases": [
+   "employer-of-record-services",
    "remote-hiring",
    "startups",
    "rippling-alternatives"
@@ -1183,6 +1184,7 @@
   "teamSize": "1\u20132,000 employees",
   "trial": "Free HRIS tier",
   "useCases": [
+   "employer-of-record-services",
    "remote-hiring"
   ],
   "verdict": "Remote owns its legal entities in most countries rather than using partners, which gives more predictable compliance and IP protection; pricing is transparent and competitive with Deel.",
@@ -4158,6 +4160,176 @@
   "alternatives": [
    "oracle-hcm",
    "dayforce"
+  ]
+ },
+ {
+  "slug": "oyster",
+  "name": "Oyster",
+  "website": "https://www.oysterhr.com",
+  "category": "Global hiring & payroll",
+  "rating": 4.2,
+  "priceTier": "$$$",
+  "startingPrice": 29,
+  "priceNote": "EOR USD 699/employee/mo; contractors from $29/mo",
+  "bestFor": "small and midsize companies that want an EOR with HR advice included",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "Free contractor plan; demo for EOR",
+  "useCases": [
+   "employer-of-record-services"
+  ],
+  "verdict": "Oyster is a full service employer of record in 120+ countries that costs more per employee than Deel or Remote but adds paid HR advisory hours for teams without an HR lead.",
+  "standout": "People Partner HR advisory service alongside EOR",
+  "weakness": "Highest published EOR fee in our ranking",
+  "overview": "Oyster employs workers on your behalf in 120+ countries, runs local payroll and benefits, and pays contractors. Its pricing page lists EOR at USD 699 per employee per month, contractor payments from $29 a month and People Partner advisory hours at $300 an hour.\n\nIt is a good fit for a startup making its first international hires that wants someone to call with employment questions.",
+  "pros": [
+   "120+ countries",
+   "Contractor payments from $29",
+   "Optional HR advisory"
+  ],
+  "cons": [
+   "Higher EOR fee",
+   "Advisory billed by the hour",
+   "Fewer adjacent products than Deel"
+  ],
+  "alternatives": [
+   "deel",
+   "remote-com"
+  ]
+ },
+ {
+  "slug": "g-p",
+  "name": "G-P",
+  "website": "https://www.globalization-partners.com",
+  "category": "Global hiring & payroll",
+  "rating": 4.1,
+  "priceTier": "$$$",
+  "startingPrice": 599,
+  "priceNote": "EOR from $599/employee/mo; volume discounts",
+  "bestFor": "larger companies hiring in many countries, including less common markets",
+  "teamSize": "50 to 10,000+ employees",
+  "trial": "Demo and quote",
+  "useCases": [
+   "employer-of-record-services"
+  ],
+  "verdict": "G-P, formerly Globalization Partners, lists employer of record coverage in 180+ countries and now sells an AI agent, Gia, for cross border HR and legal questions.",
+  "standout": "180+ country coverage and the Gia AI agent",
+  "weakness": "Gia is priced separately at $500 per seat per month",
+  "overview": "G-P hires and pays employees for you in more than 180 countries through its EOR, with a Global Compliance Engine behind contracts and payroll. Its pricing page lists EOR from $599 per employee per month with volume discounts, and Gia at $500 per seat per month.\n\nIt suits HR and legal teams at larger companies that hire across many jurisdictions.",
+  "pros": [
+   "Very wide coverage",
+   "Volume discounts",
+   "AI agent for HR and legal questions"
+  ],
+  "cons": [
+   "AI agent costs extra",
+   "Enterprise sales process",
+   "Less suited to one off hires"
+  ],
+  "alternatives": [
+   "deel",
+   "papaya-global"
+  ]
+ },
+ {
+  "slug": "papaya-global",
+  "name": "Papaya Global",
+  "website": "https://www.papayaglobal.com",
+  "category": "Global hiring & payroll",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": 499,
+  "priceNote": "EOR from $499/employee/mo",
+  "bestFor": "companies that run payroll in several countries and need EOR in a few more",
+  "teamSize": "50 to 10,000+ employees",
+  "trial": "Demo and quote",
+  "useCases": [
+   "employer-of-record-services"
+  ],
+  "verdict": "Papaya Global pairs employer of record in 180+ countries with global payroll and payments, and describes itself as a licensed financial institution.",
+  "standout": "Payments infrastructure under payroll and EOR",
+  "weakness": "Strongest for payroll heavy companies, less for a single first hire",
+  "overview": "Papaya Global offers EOR, contractor of record and global payroll on one platform. Its pricing page lists EOR from $499 per employee per month in 180+ countries.\n\nIts payments layer is the main difference from recruiting oriented EORs: it moves money as well as running payroll.",
+  "pros": [
+   "180+ countries",
+   "EOR from $499",
+   "Payroll and payments together"
+  ],
+  "cons": [
+   "Built for larger payroll estates",
+   "Quote needed for payroll",
+   "Fewer HR extras"
+  ],
+  "alternatives": [
+   "deel",
+   "g-p"
+  ]
+ },
+ {
+  "slug": "pebl",
+  "name": "Pebl",
+  "website": "https://www.hellopebl.com",
+  "category": "Global hiring & payroll",
+  "rating": 4.0,
+  "priceTier": "$$",
+  "startingPrice": 399,
+  "priceNote": "EOR $399/employee/mo",
+  "bestFor": "companies hiring a few people abroad that want a low flat EOR fee",
+  "teamSize": "1 to 5,000 employees",
+  "trial": "Demo",
+  "useCases": [
+   "employer-of-record-services"
+  ],
+  "verdict": "Pebl, the new name of Velocity Global, publishes a $399 monthly EOR fee, benefits in 185+ countries and an AI assistant called Alfie.",
+  "standout": "Low published fee and fast onboarding claim",
+  "weakness": "New brand name can confuse finance teams checking vendor records",
+  "overview": "Pebl is Velocity Global under a new name. Its EOR pricing page lists $399 per employee per month, benefits in 185+ countries and onboarding in as little as 24 hours, with an AI assistant, Alfie, for employment questions.\n\nIt is a value choice for small international teams.",
+  "pros": [
+   "$399 published fee",
+   "185+ countries for benefits",
+   "AI assistant included"
+  ],
+  "cons": [
+   "Rebrand still settling",
+   "Fewer adjacent HR tools",
+   "Check entity model per country"
+  ],
+  "alternatives": [
+   "deel",
+   "skuad"
+  ]
+ },
+ {
+  "slug": "skuad",
+  "name": "Skuad (Payoneer Workforce Management)",
+  "website": "https://www.skuad.io",
+  "category": "Global hiring & payroll",
+  "rating": 3.9,
+  "priceTier": "$",
+  "startingPrice": 199,
+  "priceNote": "EOR from $199/employee/mo",
+  "bestFor": "cost sensitive teams hiring in many countries that also need visas or equipment",
+  "teamSize": "1 to 1,000 employees",
+  "trial": "Demo",
+  "useCases": [
+   "employer-of-record-services"
+  ],
+  "verdict": "Skuad, now presented as Payoneer Workforce Management, has the lowest published employer of record fee we found, from $199 a month in 160+ countries, with background checks, visas and equipment available.",
+  "standout": "Lowest published EOR starting price",
+  "weakness": "Entity model varies by country; confirm before signing",
+  "overview": "Skuad runs EOR, contractor management and payroll in 160+ countries and now sits under the Payoneer brand. Its pricing page lists EOR from $199 per employee per month and add on services for background checks, visas and equipment.\n\nIt suits teams that need many low cost international hires.",
+  "pros": [
+   "From $199 per employee",
+   "160+ countries",
+   "Visas and equipment available"
+  ],
+  "cons": [
+   "Check owned versus partner entities",
+   "Brand transition",
+   "Fewer enterprise features"
+  ],
+  "alternatives": [
+   "pebl",
+   "deel"
   ]
  }
 ]
