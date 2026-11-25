@@ -408,6 +408,16 @@
    "status": "published",
    "slug": "ziprecruiter-alternatives",
    "date": "2026-11-24"
+  },
+  {
+   "id": "brt-044",
+   "family": "ranked-use-case",
+   "keyword": "employer of record services",
+   "volume": 2400,
+   "noon_target": null,
+   "status": "published",
+   "slug": "employer-of-record-services",
+   "date": "2026-11-25"
   }
  ]
 }

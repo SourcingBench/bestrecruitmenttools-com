@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 120 tools rated 1–5; 52 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 125 tools rated 1–5; 53 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -69,6 +69,7 @@
 - [Best Rippling alternatives](https://bestrecruitmenttools.com/best-for/rippling-alternatives/): 1. Justworks, 2. HiBob, 3. Paycor, 4. Deel, 5. RUN Powered by ADP
 - [Best Workday alternatives](https://bestrecruitmenttools.com/best-for/workday-alternatives/): 1. Dayforce, 2. Oracle Fusion Cloud HCM, 3. SAP SuccessFactors, 4. Rippling, 5. HiBob
 - [Best ZipRecruiter alternatives](https://bestrecruitmenttools.com/best-for/ziprecruiter-alternatives/): 1. Indeed, 2. LinkedIn Jobs, 3. Wellfound, 4. Workable, 5. JazzHR
+- [Best employer of record services](https://bestrecruitmenttools.com/best-for/employer-of-record-services/): 1. Deel, 2. Remote, 3. Oyster, 4. G-P, 5. Papaya Global, 6. Pebl, 7. Skuad (Payoneer Workforce Management)
 
 ## Comparisons
 
@@ -128,6 +129,7 @@
 - [Flextrack](https://bestrecruitmenttools.com/reviews/flextrack/): Vendor management system, 3.9/5, $$, best for Salesforce customers that want contingent workforce management inside their existing platform.
 - [Fountain](https://bestrecruitmenttools.com/reviews/fountain/): High-volume hiring platform, 4.0/5, $$$, best for frontline and gig workforce hiring pipelines.
 - [Frontline Recruiting & Hiring](https://bestrecruitmenttools.com/reviews/frontline-education/): K-12 recruiting software, 4.3/5, $$$, best for public school districts that want applicant tracking connected to an education job board and onboarding.
+- [G-P](https://bestrecruitmenttools.com/reviews/g-p/): Global hiring & payroll, 4.1/5, $$$, best for larger companies hiring in many countries, including less common markets.
 - [Gem](https://bestrecruitmenttools.com/reviews/gem/): Recruiting CRM, 4.4/5, $$$, best for sourcing teams that need a CRM and outreach layer on top of their ATS.
 - [GetReal Security](https://bestrecruitmenttools.com/reviews/getreal-security/): Deepfake & identity fraud detection, 4.3/5, $$$$, best for security and talent teams worried about deepfake candidates in remote interviews.
 - [Getro](https://bestrecruitmenttools.com/reviews/getro/): Job board software, 4.0/5, $$$, best for Venture capital firms, accelerators and networks that run a job board across portfolio companies.
@@ -168,9 +170,12 @@
 - [OpenCATS](https://bestrecruitmenttools.com/reviews/opencats/): Applicant Tracking System, 3.6/5, $, best for technical teams and agencies that want to host their own ATS.
 - [Oracle Fusion Cloud HCM](https://bestrecruitmenttools.com/reviews/oracle-hcm/): Enterprise HCM suite with recruiting, 4.1/5, $$$, best for global enterprises that already run Oracle finance or ERP.
 - [Otter](https://bestrecruitmenttools.com/reviews/otter/): AI meeting notes, 4.0/5, $, best for recruiters who want cheap, general meeting transcription across Zoom, Teams and Meet.
+- [Oyster](https://bestrecruitmenttools.com/reviews/oyster/): Global hiring & payroll, 4.2/5, $$$, best for small and midsize companies that want an EOR with HR advice included.
 - [PandoLogic (Veritone Hire)](https://bestrecruitmenttools.com/reviews/pandologic/): Programmatic job advertising, 4.1/5, $$, best for employers and staffing firms that want hands off programmatic placement across a large job site network.
+- [Papaya Global](https://bestrecruitmenttools.com/reviews/papaya-global/): Global hiring & payroll, 4.0/5, $$, best for companies that run payroll in several countries and need EOR in a few more.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
 - [Paycor](https://bestrecruitmenttools.com/reviews/paycor/): HR platform with built in ATS, 4.1/5, $$, best for US small and midsize businesses that hire hourly and frontline staff.
+- [Pebl](https://bestrecruitmenttools.com/reviews/pebl/): Global hiring & payroll, 4.0/5, $$, best for companies hiring a few people abroad that want a low flat EOR fee.
 - [Phenom](https://bestrecruitmenttools.com/reviews/phenom/): Talent CRM, 4.2/5, $$$$, best for enterprises whose CRM is fed mainly by the career site.
 - [Pindrop](https://bestrecruitmenttools.com/reviews/pindrop/): Deepfake & identity fraud detection, 4.0/5, $$$$, best for large employers already using voice security who now see fake applicants.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
@@ -192,6 +197,7 @@
 - [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.
 - [SimplifyVMS](https://bestrecruitmenttools.com/reviews/simplifyvms/): Vendor management system, 4.2/5, $$$, best for multi country enterprises that want a modern VMS with direct sourcing, healthcare credentialing and strong reporting.
 - [SkillSurvey](https://bestrecruitmenttools.com/reviews/skillsurvey/): Reference checking, 4.2/5, $$$, best for iCIMS customers and healthcare or enterprise employers with structured reference programs.
+- [Skuad (Payoneer Workforce Management)](https://bestrecruitmenttools.com/reviews/skuad/): Global hiring & payroll, 3.9/5, $, best for cost sensitive teams hiring in many countries that also need visas or equipment.
 - [SmartJobBoard](https://bestrecruitmenttools.com/reviews/smartjobboard/): Job board software, 4.2/5, $$, best for Professional and trade associations that want non dues revenue without upfront software fees.
 - [Square Payroll](https://bestrecruitmenttools.com/reviews/square-payroll/): Payroll for hourly teams, 3.9/5, $, best for Restaurants and retailers already running Square point of sale.
 - [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.
