@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 125 tools rated 1–5; 53 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 131 tools rated 1–5; 54 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -70,6 +70,7 @@
 - [Best Workday alternatives](https://bestrecruitmenttools.com/best-for/workday-alternatives/): 1. Dayforce, 2. Oracle Fusion Cloud HCM, 3. SAP SuccessFactors, 4. Rippling, 5. HiBob
 - [Best ZipRecruiter alternatives](https://bestrecruitmenttools.com/best-for/ziprecruiter-alternatives/): 1. Indeed, 2. LinkedIn Jobs, 3. Wellfound, 4. Workable, 5. JazzHR
 - [Best employer of record services](https://bestrecruitmenttools.com/best-for/employer-of-record-services/): 1. Deel, 2. Remote, 3. Oyster, 4. G-P, 5. Papaya Global, 6. Pebl, 7. Skuad (Payoneer Workforce Management)
+- [Best Handshake alternatives](https://bestrecruitmenttools.com/best-for/handshake-alternatives/): 1. RippleMatch, 2. Yello, 3. Symplicity Recruit, 4. College Recruiter, 5. 12twenty, 6. Wellfound, 7. LinkedIn Jobs
 
 ## Comparisons
 
@@ -95,6 +96,7 @@
 
 ## All reviews
 
+- [12twenty](https://bestrecruitmenttools.com/reviews/12twenty/): Early career recruiting, 3.8/5, $, best for law firms, banks and consultancies recruiting from MBA programs and law schools.
 - [7shifts](https://bestrecruitmenttools.com/reviews/7shifts/): Restaurant scheduling and hiring, 4.3/5, $, best for independent restaurants and small groups that schedule in 7shifts.
 - [Adaface](https://bestrecruitmenttools.com/reviews/adaface/): Skills assessment, 3.9/5, $, best for small teams that want published per credit pricing and short tests.
 - [Alex](https://bestrecruitmenttools.com/reviews/alex/): AI interviews, 4.4/5, $$$, best for high-volume teams that want an AI recruiter to phone every applicant and run the first screen.
@@ -113,6 +115,7 @@
 - [Checkr](https://bestrecruitmenttools.com/reviews/checkr/): Background checks, 4.4/5, $, best for fast, API-driven background checks.
 - [Checkster](https://bestrecruitmenttools.com/reviews/checkster/): Reference checking, 4.1/5, $$, best for High volume employers that want fast, mobile reference surveys.
 - [CodeSignal](https://bestrecruitmenttools.com/reviews/codesignal/): Skills assessment, 4.3/5, $$$, best for screening software engineers at volume.
+- [College Recruiter](https://bestrecruitmenttools.com/reviews/college-recruiter/): Early career recruiting, 3.7/5, $$, best for high volume entry level employers that want paid reach without campus by campus setup.
 - [ContactOut](https://bestrecruitmenttools.com/reviews/contactout/): Contact data & outreach, 4.1/5, $$, best for recruiters who need personal emails and direct dials for candidates they already found.
 - [ConverzAI](https://bestrecruitmenttools.com/reviews/converzai/): AI recruiter for staffing, 4.1/5, $$$, best for staffing firms that want a virtual recruiter calling, texting and emailing candidates from inside their ATS.
 - [Crelate](https://bestrecruitmenttools.com/reviews/crelate/): Staffing & agency software, 4.1/5, $$, best for search firms and small agencies that want an ATS and CRM in one record per contact.
@@ -136,6 +139,7 @@
 - [GoodTime](https://bestrecruitmenttools.com/reviews/goodtime/): Interview scheduling, 4.3/5, $$$, best for coordinating complex interview loops at scale.
 - [Greenhouse](https://bestrecruitmenttools.com/reviews/greenhouse/): Applicant tracking, 4.5/5, $$$, best for mid-market structured hiring.
 - [HackerRank](https://bestrecruitmenttools.com/reviews/hackerrank/): Skills assessment, 4.1/5, $$, best for technical screening with a self-serve entry point.
+- [Handshake](https://bestrecruitmenttools.com/reviews/handshake/): Early career recruiting, 4.3/5, $$, best for employers recruiting students and recent graduates across many US campuses.
 - [Harri](https://bestrecruitmenttools.com/reviews/harri/): Hospitality workforce platform, 4.1/5, $$$, best for restaurant groups and hotel brands with a corporate HR team.
 - [HiBob](https://bestrecruitmenttools.com/reviews/hibob/): HR platform with built in ATS, 4.3/5, $$, best for mid market companies with staff in several countries that care about employee experience.
 - [HigherMe](https://bestrecruitmenttools.com/reviews/higherme/): Hourly hiring platform, 4.0/5, $$, best for franchise restaurants hiring crew members every week.
@@ -188,6 +192,7 @@
 - [RefNow](https://bestrecruitmenttools.com/reviews/refnow/): Reference checking, 3.9/5, $, best for UK employers that want credit based reference checks and DBS checks.
 - [Remote](https://bestrecruitmenttools.com/reviews/remote-com/): Global hiring & payroll, 4.1/5, $$, best for remote teams that prefer owned entities and transparent EOR pricing.
 - [Ribbon](https://bestrecruitmenttools.com/reviews/ribbon/): AI interviews, 4.3/5, $$, best for frontline and hourly hiring teams that want every applicant interviewed by AI within hours.
+- [RippleMatch](https://bestrecruitmenttools.com/reviews/ripplematch/): Early career recruiting, 4.2/5, $$, best for employers that want pre matched early career candidates instead of a job board inbox.
 - [Rippling](https://bestrecruitmenttools.com/reviews/rippling/): HR platform with built in ATS, 4.4/5, $$, best for growing US companies that want HR, payroll, IT and recruiting on one employee record.
 - [RUN Powered by ADP](https://bestrecruitmenttools.com/reviews/adp-run/): Small business payroll and HR, 4.0/5, $$, best for Businesses with 1 to 49 employees that want a large payroll provider and phone support.
 - [SAP Fieldglass](https://bestrecruitmenttools.com/reviews/sap-fieldglass/): Vendor management system, 4.5/5, $$$$, best for global enterprises managing contractors, consultants and statements of work across many countries.
@@ -200,6 +205,7 @@
 - [Skuad (Payoneer Workforce Management)](https://bestrecruitmenttools.com/reviews/skuad/): Global hiring & payroll, 3.9/5, $, best for cost sensitive teams hiring in many countries that also need visas or equipment.
 - [SmartJobBoard](https://bestrecruitmenttools.com/reviews/smartjobboard/): Job board software, 4.2/5, $$, best for Professional and trade associations that want non dues revenue without upfront software fees.
 - [Square Payroll](https://bestrecruitmenttools.com/reviews/square-payroll/): Payroll for hourly teams, 3.9/5, $, best for Restaurants and retailers already running Square point of sale.
+- [Symplicity Recruit](https://bestrecruitmenttools.com/reviews/symplicity/): Early career recruiting, 3.9/5, $, best for employers that want to post to university career centers that run on Symplicity.
 - [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.
 - [Talroo](https://bestrecruitmenttools.com/reviews/talroo/): Programmatic job advertising, 4.1/5, $$$, best for frontline hiring in logistics, retail, food service and healthcare on a monthly pay per click budget.
 - [Talview](https://bestrecruitmenttools.com/reviews/talview/): Interview integrity & proctoring, 4.2/5, $$$, best for teams that want identity checks built into interviews and assessments.
@@ -218,6 +224,7 @@
 - [Workstream](https://bestrecruitmenttools.com/reviews/workstream/): Hourly hiring platform, 4.2/5, $$, best for multi-unit restaurant and quick service operators.
 - [WP Job Manager](https://bestrecruitmenttools.com/reviews/wp-job-manager/): Job board plugin, 3.9/5, $, best for Teams that already run a WordPress site and want a job board without a new platform.
 - [Xref](https://bestrecruitmenttools.com/reviews/xref/): Reference checking, 4.2/5, $$, best for Small and mid sized employers that want published monthly plans.
+- [Yello](https://bestrecruitmenttools.com/reviews/yello/): Early career recruiting, 4.1/5, $$$, best for enterprise campus teams running events, interviews and university relationships at scale.
 - [ZipRecruiter](https://bestrecruitmenttools.com/reviews/ziprecruiter/): Job boards & advertising, 3.8/5, $$, best for small businesses that want one post distributed everywhere.
 - [Zoho Recruit](https://bestrecruitmenttools.com/reviews/zoho-recruit/): Applicant Tracking System, 4.2/5, $, best for small teams that want a free ATS for one active job.
 
