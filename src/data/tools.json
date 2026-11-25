@@ -4331,5 +4331,210 @@
    "pebl",
    "deel"
   ]
- }
+ },
+  {
+    "slug": "ripplematch",
+    "name": "RippleMatch",
+    "website": "https://ripplematch.com/employers",
+    "category": "Early career recruiting",
+    "rating": 4.2,
+    "priceTier": "$$",
+    "startingPrice": null,
+    "priceNote": "Quote only",
+    "bestFor": "employers that want pre matched early career candidates instead of a job board inbox",
+    "teamSize": "50 to 10,000+ employees",
+    "trial": "Demo only",
+    "useCases": [
+      "handshake-alternatives"
+    ],
+    "verdict": "RippleMatch matches early career candidates to roles with AI and verified skills data, so recruiters review a short list instead of sorting every campus applicant.",
+    "standout": "AI matching with verified skills and AI fluency signals",
+    "weakness": "No public pricing; less useful for one off postings",
+    "overview": "RippleMatch is an early career recruiting platform. Its employer page describes AI matching against verified skills, including AI fluency, a campus recruiting workspace it calls Campus OS, and integrations with applicant tracking systems.\n\nIt suits teams running a steady intern and new graduate program.",
+    "pros": [
+      "Pre matched candidates",
+      "Verified skills data",
+      "ATS integrations"
+    ],
+    "cons": [
+      "Quote only pricing",
+      "Built for programs, not single roles",
+      "Mostly US focused"
+    ],
+    "alternatives": [
+      "yello",
+      "handshake"
+    ]
+  },
+  {
+    "slug": "yello",
+    "name": "Yello",
+    "website": "https://yello.co/",
+    "category": "Early career recruiting",
+    "rating": 4.1,
+    "priceTier": "$$$",
+    "startingPrice": null,
+    "priceNote": "Quote only",
+    "bestFor": "enterprise campus teams running events, interviews and university relationships at scale",
+    "teamSize": "1,000+ employees",
+    "trial": "Demo only",
+    "useCases": [
+      "handshake-alternatives"
+    ],
+    "verdict": "Yello is campus recruiting software for large programs: event planning, sourcing, interview scheduling and an AI agent, with WayUp's early career candidate network attached.",
+    "standout": "Campus event and interview management plus the WayUp network",
+    "weakness": "Enterprise scale and price; heavy for small teams",
+    "overview": "Yello runs campus recruiting workflows: planning which schools to visit, sourcing, running events and scheduling interviews, and it now markets an AI agent for campus recruiting. WayUp, which describes itself as powered by Yello, lists more than 6 million early career candidates.\n\nIt fits employers that recruit at dozens of campuses each season.",
+    "pros": [
+      "Event and campus planning",
+      "Interview scheduling built in",
+      "WayUp candidate network"
+    ],
+    "cons": [
+      "Quote only",
+      "Long setup",
+      "Overkill below a few hundred hires a year"
+    ],
+    "alternatives": [
+      "ripplematch",
+      "symplicity"
+    ]
+  },
+  {
+    "slug": "symplicity",
+    "name": "Symplicity Recruit",
+    "website": "https://www.symplicity.com/employers",
+    "category": "Early career recruiting",
+    "rating": 3.9,
+    "priceTier": "$",
+    "startingPrice": null,
+    "priceNote": "Free and paid tiers; quote for enterprise",
+    "bestFor": "employers that want to post to university career centers that run on Symplicity",
+    "teamSize": "Any",
+    "trial": "Free to start",
+    "useCases": [
+      "handshake-alternatives"
+    ],
+    "verdict": "Symplicity Recruit reaches students through the career center systems many universities already run, which makes it the closest like for like swap for Handshake postings.",
+    "standout": "Access to 500+ universities in a curated network",
+    "weakness": "Coverage depends on which schools use Symplicity",
+    "overview": "Symplicity sells career services software to universities and a recruiting product to employers. Its employer page describes a curated network of more than 500 universities, over 400,000 active recruiters and use by 95 of the Fortune 100.\n\nIt is useful when your target schools run Symplicity rather than Handshake.",
+    "pros": [
+      "University career center reach",
+      "Free option for posting",
+      "Large recruiter base"
+    ],
+    "cons": [
+      "School coverage varies",
+      "Less AI matching",
+      "Separate tools for events"
+    ],
+    "alternatives": [
+      "handshake",
+      "12twenty"
+    ]
+  },
+  {
+    "slug": "college-recruiter",
+    "name": "College Recruiter",
+    "website": "https://www.collegerecruiter.com/employers",
+    "category": "Early career recruiting",
+    "rating": 3.7,
+    "priceTier": "$$",
+    "startingPrice": null,
+    "priceNote": "Targeted email from $5,000; CPC and CPA job ads",
+    "bestFor": "high volume entry level employers that want paid reach without campus by campus setup",
+    "teamSize": "500+ employees",
+    "trial": "Demo and quote",
+    "useCases": [
+      "handshake-alternatives"
+    ],
+    "verdict": "College Recruiter sells reach: job ads priced per click or per application and targeted email to an opt in audience of students and recent graduates.",
+    "standout": "Performance priced job ads to an early career audience",
+    "weakness": "Advertising, not relationship building with schools",
+    "overview": "College Recruiter is a job board and media business for students and recent graduates. Its employer page cites more than 20 million opt in students and grads, cost per click and cost per application job ads, and targeted email campaigns starting at $5,000 for 75,000 delivered emails.\n\nIt suits employers hiring hundreds of entry level people a year.",
+    "pros": [
+      "Performance based pricing",
+      "Large opt in audience",
+      "No school by school setup"
+    ],
+    "cons": [
+      "Minimums are high for small teams",
+      "Less control over school mix",
+      "Results depend on ad budget"
+    ],
+    "alternatives": [
+      "handshake",
+      "linkedin-jobs"
+    ]
+  },
+  {
+    "slug": "12twenty",
+    "name": "12twenty",
+    "website": "https://12twenty.com/employers",
+    "category": "Early career recruiting",
+    "rating": 3.8,
+    "priceTier": "$",
+    "startingPrice": null,
+    "priceNote": "Posting is free through school portals",
+    "bestFor": "law firms, banks and consultancies recruiting from MBA programs and law schools",
+    "teamSize": "Any",
+    "trial": "Free postings",
+    "useCases": [
+      "handshake-alternatives"
+    ],
+    "verdict": "12twenty is the career platform many business and law schools run, so it is where MBA and JD recruiting usually happens.",
+    "standout": "Coverage of MBA programs and law schools",
+    "weakness": "Narrow outside graduate and professional schools",
+    "overview": "12twenty provides career services software to universities, with a strong presence in business and law schools. Its employer page describes MBA, undergraduate and law school recruiting and lets employers post jobs to partner schools.\n\nIt suits firms whose pipeline runs through on campus interviewing at graduate programs.",
+    "pros": [
+      "Strong in MBA and law",
+      "Free to post to schools",
+      "Familiar to graduate career offices"
+    ],
+    "cons": [
+      "Limited undergraduate reach",
+      "Few sourcing features",
+      "School by school approvals"
+    ],
+    "alternatives": [
+      "symplicity",
+      "handshake"
+    ]
+  },
+  {
+    "slug": "handshake",
+    "name": "Handshake",
+    "website": "https://joinhandshake.com/employers/",
+    "category": "Early career recruiting",
+    "rating": 4.3,
+    "priceTier": "$$",
+    "startingPrice": 450,
+    "priceNote": "Free Basic; Pro $450/mo; promoted jobs from $34/day",
+    "bestFor": "employers recruiting students and recent graduates across many US campuses",
+    "teamSize": "Any",
+    "trial": "Free plan",
+    "useCases": [
+      "handshake-alternatives"
+    ],
+    "verdict": "Handshake is the default early career network in the US, with a free Basic plan, a $450 a month Pro plan and paid promoted jobs.",
+    "standout": "Largest US student network with a free tier",
+    "weakness": "Free plan caps messaging at 10 a month",
+    "overview": "Handshake connects employers with students and recent graduates through university career centers. Its pricing page lists a free Basic plan with 10 messages a month, Pro at $450 a month with 200 messages and 100 talent matches per job, and Enterprise on quote with ATS integrations.\n\nMost alternatives are compared against it.",
+    "pros": [
+      "Free Basic plan",
+      "Huge student reach",
+      "Clear published pricing"
+    ],
+    "cons": [
+      "Message caps on lower tiers",
+      "Promoted jobs cost extra on Basic",
+      "Crowded inboxes for popular roles"
+    ],
+    "alternatives": [
+      "ripplematch",
+      "symplicity",
+      "yello"
+    ]
+  }
 ]

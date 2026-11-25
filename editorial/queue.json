@@ -418,6 +418,48 @@
    "status": "published",
    "slug": "employer-of-record-services",
    "date": "2026-11-25"
+  },
+  {
+   "id": "brt-045",
+   "family": "ranked-use-case",
+   "keyword": "handshake alternatives",
+   "volume": 90,
+   "noon_target": null,
+   "status": "published",
+   "slug": "handshake-alternatives",
+   "date": "2026-11-25"
+  },
+  {
+   "id": "brt-046",
+   "family": "ranked-use-case",
+   "keyword": "calendly alternatives",
+   "volume": 880,
+   "noon_target": "/product/ai-scheduler",
+   "status": "queued"
+  },
+  {
+   "id": "brt-047",
+   "family": "ranked-use-case",
+   "keyword": "deel alternatives",
+   "volume": 140,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-048",
+   "family": "ranked-use-case",
+   "keyword": "paychex alternatives",
+   "volume": 70,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "brt-049",
+   "family": "ranked-use-case",
+   "keyword": "monster alternatives",
+   "volume": 70,
+   "noon_target": null,
+   "status": "queued"
   }
- ]
+]
 }
