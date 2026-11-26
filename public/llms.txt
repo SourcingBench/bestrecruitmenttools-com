@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 135 tools rated 1–5; 55 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 135 tools rated 1–5; 56 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -72,6 +72,7 @@
 - [Best employer of record services](https://bestrecruitmenttools.com/best-for/employer-of-record-services/): 1. Deel, 2. Remote, 3. Oyster, 4. G-P, 5. Papaya Global, 6. Pebl, 7. Skuad (Payoneer Workforce Management)
 - [Best Handshake alternatives](https://bestrecruitmenttools.com/best-for/handshake-alternatives/): 1. RippleMatch, 2. Yello, 3. Symplicity Recruit, 4. College Recruiter, 5. 12twenty, 6. Wellfound, 7. LinkedIn Jobs
 - [Best Calendly alternatives for recruiting](https://bestrecruitmenttools.com/best-for/calendly-alternatives/): 1. GoodTime, 2. Cal.com, 3. Noon, 4. SavvyCal, 5. Paradox, 6. Reclaim.ai, 7. Chili Piper
+- [Best Deel alternatives](https://bestrecruitmenttools.com/best-for/deel-alternatives/): 1. Remote, 2. Rippling, 3. Skuad (Payoneer Workforce Management), 4. Papaya Global, 5. Oyster, 6. Pebl, 7. G-P
 
 ## Comparisons
 
