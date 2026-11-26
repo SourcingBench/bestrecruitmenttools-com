@@ -435,7 +435,9 @@
    "keyword": "calendly alternatives",
    "volume": 880,
    "noon_target": "/product/ai-scheduler",
-   "status": "queued"
+   "status": "published",
+   "slug": "calendly-alternatives",
+   "date": "2026-11-26"
   },
   {
    "id": "brt-047",

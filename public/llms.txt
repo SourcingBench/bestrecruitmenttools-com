@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 131 tools rated 1–5; 54 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 135 tools rated 1–5; 55 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -71,6 +71,7 @@
 - [Best ZipRecruiter alternatives](https://bestrecruitmenttools.com/best-for/ziprecruiter-alternatives/): 1. Indeed, 2. LinkedIn Jobs, 3. Wellfound, 4. Workable, 5. JazzHR
 - [Best employer of record services](https://bestrecruitmenttools.com/best-for/employer-of-record-services/): 1. Deel, 2. Remote, 3. Oyster, 4. G-P, 5. Papaya Global, 6. Pebl, 7. Skuad (Payoneer Workforce Management)
 - [Best Handshake alternatives](https://bestrecruitmenttools.com/best-for/handshake-alternatives/): 1. RippleMatch, 2. Yello, 3. Symplicity Recruit, 4. College Recruiter, 5. 12twenty, 6. Wellfound, 7. LinkedIn Jobs
+- [Best Calendly alternatives for recruiting](https://bestrecruitmenttools.com/best-for/calendly-alternatives/): 1. GoodTime, 2. Cal.com, 3. Noon, 4. SavvyCal, 5. Paradox, 6. Reclaim.ai, 7. Chili Piper
 
 ## Comparisons
 
@@ -110,10 +111,12 @@
 - [Breezy HR](https://bestrecruitmenttools.com/reviews/breezy-hr/): Applicant tracking, 4.0/5, $, best for small teams that need a free ATS.
 - [BrightHire](https://bestrecruitmenttools.com/reviews/brighthire/): Interview intelligence, 4.2/5, $$, best for teams that want interview notes, highlights and coaching.
 - [Bullhorn](https://bestrecruitmenttools.com/reviews/bullhorn/): Staffing & agency software, 4.0/5, $$$, best for established staffing agencies that need ATS, CRM and back office together.
+- [Cal.com](https://bestrecruitmenttools.com/reviews/cal-com/): Interview scheduling, 4.5/5, $, best for teams that want a cheaper or self hosted Calendly replacement.
 - [Calendly](https://bestrecruitmenttools.com/reviews/calendly/): Interview scheduling, 4.1/5, $, best for small teams scheduling one-on-one interviews.
 - [Certn](https://bestrecruitmenttools.com/reviews/certn/): Background checks, 4.0/5, $, best for international and Canadian background checks.
 - [Checkr](https://bestrecruitmenttools.com/reviews/checkr/): Background checks, 4.4/5, $, best for fast, API-driven background checks.
 - [Checkster](https://bestrecruitmenttools.com/reviews/checkster/): Reference checking, 4.1/5, $$, best for High volume employers that want fast, mobile reference surveys.
+- [Chili Piper](https://bestrecruitmenttools.com/reviews/chili-piper/): Meeting routing, 4.4/5, $$$, best for staffing firms booking client intake calls from web forms.
 - [CodeSignal](https://bestrecruitmenttools.com/reviews/codesignal/): Skills assessment, 4.3/5, $$$, best for screening software engineers at volume.
 - [College Recruiter](https://bestrecruitmenttools.com/reviews/college-recruiter/): Early career recruiting, 3.7/5, $$, best for high volume entry level employers that want paid reach without campus by campus setup.
 - [ContactOut](https://bestrecruitmenttools.com/reviews/contactout/): Contact data & outreach, 4.1/5, $$, best for recruiters who need personal emails and direct dials for candidates they already found.
@@ -184,6 +187,7 @@
 - [Pindrop](https://bestrecruitmenttools.com/reviews/pindrop/): Deepfake & identity fraud detection, 4.0/5, $$$$, best for large employers already using voice security who now see fake applicants.
 - [Pinpoint](https://bestrecruitmenttools.com/reviews/pinpoint/): Applicant tracking, 4.1/5, $$, best for in-house teams that want enterprise ATS features with hands-on support.
 - [Radancy](https://bestrecruitmenttools.com/reviews/radancy/): Talent acquisition platform, 4.2/5, $$$$, best for enterprises that want referrals inside a full talent acquisition suite.
+- [Reclaim.ai](https://bestrecruitmenttools.com/reviews/reclaim-ai/): Calendar automation, 4.5/5, $, best for recruiters who need to protect sourcing time on a crowded calendar.
 - [Recruit CRM](https://bestrecruitmenttools.com/reviews/recruit-crm/): Staffing & agency software, 4.1/5, $, best for small agencies on a budget.
 - [Recruiterflow](https://bestrecruitmenttools.com/reviews/recruiterflow/): Staffing & agency software, 4.2/5, $$, best for agencies that want sales and recruiting pipelines plus email sequences in one tool.
 - [Recruitics](https://bestrecruitmenttools.com/reviews/recruitics/): Programmatic job advertising, 4.2/5, $$$, best for healthcare, retail and hospitality employers that want market data before they spend.
@@ -197,6 +201,7 @@
 - [RUN Powered by ADP](https://bestrecruitmenttools.com/reviews/adp-run/): Small business payroll and HR, 4.0/5, $$, best for Businesses with 1 to 49 employees that want a large payroll provider and phone support.
 - [SAP Fieldglass](https://bestrecruitmenttools.com/reviews/sap-fieldglass/): Vendor management system, 4.5/5, $$$$, best for global enterprises managing contractors, consultants and statements of work across many countries.
 - [SAP SuccessFactors](https://bestrecruitmenttools.com/reviews/sap-successfactors/): Enterprise HCM suite with recruiting, 4.0/5, $$$, best for multinationals on SAP ERP that need localized HR and payroll in many countries.
+- [SavvyCal](https://bestrecruitmenttools.com/reviews/savvycal/): Interview scheduling, 4.6/5, $, best for recruiters booking busy senior candidates.
 - [SchoolSpring](https://bestrecruitmenttools.com/reviews/schoolspring/): Education job board, 3.9/5, $, best for districts and schools that need an education specific job board to reach teachers and staff.
 - [SeekOut](https://bestrecruitmenttools.com/reviews/seekout/): Talent search, 4.2/5, $$$, best for technical and diversity sourcing at scale.
 - [Sense](https://bestrecruitmenttools.com/reviews/sense/): Conversational AI, 4.1/5, $$$, best for staffing firms that want a chatbot plus mass texting and redeployment on top of their ATS.

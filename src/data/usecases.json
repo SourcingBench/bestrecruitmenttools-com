@@ -4527,5 +4527,105 @@
         "a": "Yes, and most employers do. Different universities run different career platforms, so covering two of them reaches more of your target schools."
       }
     ]
-  }
+  },
+ {
+  "slug": "calendly-alternatives",
+  "updated": "2026-11-26",
+  "title": "Best Calendly alternatives for recruiting",
+  "short": "Calendly alternatives",
+  "seoTitle": "7 Best Calendly Alternatives for Recruiters in 2026, Ranked",
+  "h1": "Calendly alternatives in 2026: 7 scheduling tools ranked for recruiting teams",
+  "description": "Seven Calendly alternatives for hiring teams, ranked from vendor pricing and product pages read on November 26, 2026: GoodTime, Cal.com, Noon, SavvyCal, Paradox, Reclaim.ai and Chili Piper, with what each costs and which interviews it can book.",
+  "intro": "Calendly works until a candidate needs a panel. Its Standard plan is $10 a seat per month and Teams is $16, billed yearly, which buys round robin and multi host events but no interviewer pools, load limits or scorecards. Recruiters usually go looking for a replacement for one of three reasons: onsite loops that take a coordinator an afternoon to assemble, hourly applicants who never open an email link, or a finance team asking why every hiring manager has a paid seat. The seven tools below answer those problems differently. We read each vendor's pricing and product pages on November 26, 2026, and ranked them for recruiting rather than for sales demos.",
+  "ranked": [
+   {
+    "slug": "goodtime",
+    "why": "GoodTime is the pick when the real pain is the onsite. It builds multi interviewer loops from pools tagged by skill, respects weekly interview limits, slots in shadow interviewers for training and reschedules automatically when someone declines. Nothing in Calendly's plan list covers that work. Pricing is quoted after a demo, so it fits companies with a coordinator team rather than a founder doing their own screens.",
+    "ai": "Assembles panel schedules from interviewer pools and rebooks when an interviewer drops",
+    "human": "Choosing who sits on each loop and training new interviewers"
+   },
+   {
+    "slug": "cal-com",
+    "why": "Cal.com is the closest like for like swap, and the cheapest paid one. Individuals use it free, Teams costs $12 per user a month on annual billing and Organizations $28. It adds routing forms, Salesforce and HubSpot sync and a one click import of existing Calendly events, and its open source code can be self hosted by teams that want candidate data on their own servers.",
+    "ai": "Routes bookings with forms and round robin rules across a team",
+    "human": "Writing the event types and keeping interviewer calendars accurate"
+   },
+   {
+    "slug": "noon",
+    "why": "Noon is a different kind of alternative: it removes the step where a recruiter pastes a link at all. Its AI Scheduler answers candidate questions about the role, books the interview, handles reschedule requests and syncs the event to your ATS. The <a href=\"https://www.noon.ai/product/ai-scheduler\">AI Scheduler page</a> says it books through a Calendly integration, so teams can keep their booking pages and let the agent run the back and forth. It is most useful when Noon is already sourcing and running personalized email and SMS outreach, because replies turn into booked screens without a handoff.",
+    "ai": "Replies to candidates, answers role questions and books or moves the interview",
+    "human": "Setting interviewer availability and running the interview itself"
+   },
+   {
+    "slug": "savvycal",
+    "why": "SavvyCal suits recruiters who book senior candidates and care how the invite feels. Instead of a bare grid, the candidate sees their own calendar overlaid on your open times, which cuts the back and forth with busy executives. Plans start at $10 per user a month, and annual billing brings Basic to $120 a year and Premium to $200. It is a personal scheduling tool, so it has no interviewer pools.",
+    "ai": "Overlays the candidate's calendar on your availability to suggest overlapping times",
+    "human": "Deciding which slots to offer and to whom"
+   },
+   {
+    "slug": "paradox",
+    "why": "Paradox, now part of Workday, belongs on the list for hourly hiring, where an emailed link is the wrong channel. Its assistant texts applicants, checks knockout questions and lets them pick an interview slot inside the conversation, with integrations for Workday and SAP SuccessFactors. It is an enterprise purchase with quoted pricing and an implementation project, so it only makes sense at thousands of hires a year.",
+    "ai": "Screens applicants by text and chat, then books the interview in the same thread",
+    "human": "Setting the screening criteria and staffing the interview slots"
+   },
+   {
+    "slug": "reclaim-ai",
+    "why": "Reclaim.ai is for the recruiter whose own calendar is the problem. It defends focus time for sourcing and admin, then offers scheduling links that only show slots left after those blocks. Starter is $10 per seat a month, Business $15 and Enterprise $22. It replaces Calendly for individual screens but does not coordinate panels or talk to an ATS.",
+    "ai": "Rearranges flexible blocks so booking links show realistic open time",
+    "human": "Setting priorities and protecting the hours that matter"
+   },
+   {
+    "slug": "chili-piper",
+    "why": "Chili Piper is a sales routing platform, and we list it last because its strongest feature, instant booking from a web form, rarely maps to hiring. Growth starts at $1,250 a month with 15 seats, or $15,000 a year, and the standalone ChiliCal calendar is $12 per user a month with a 200 seat minimum. A staffing firm that books client intake calls from its website may get value from it; an in house recruiting team usually will not.",
+    "ai": "Qualifies form submissions and routes them to the right calendar instantly",
+    "human": "Defining routing rules and owning the conversation once booked"
+   }
+  ],
+  "aiTableTitle": "What each Calendly alternative automates, and what your team still owns",
+  "sections": [
+   {
+    "h": "Published prices, read November 26, 2026",
+    "p": [
+     "Five of the seven vendors publish numbers. GoodTime and Paradox quote after a demo, and Noon quotes per team. Annual billing is assumed where a vendor shows both."
+    ],
+    "list": [
+     "Calendly: Free with one event type, Standard $10 per seat a month, Teams $16, Enterprise from $15,000 a year at 50 seats",
+     "Cal.com: Free for individuals, Teams $12 per user a month, Organizations $28",
+     "SavvyCal: from $10 per user a month; Basic $120 and Premium $200 per user per year",
+     "Reclaim.ai: Starter $10, Business $15, Enterprise $22 per seat a month",
+     "Chili Piper: Growth $1,250 a month including 15 seats; ChiliCal $12 per user a month, minimum 200 seats",
+     "GoodTime, Paradox and Noon: quoted"
+    ]
+   },
+   {
+    "h": "Which alternative fits which hiring problem",
+    "p": [
+     "If your coordinators spend hours on onsites, buy GoodTime and keep a cheap link tool for phone screens. If you simply want Calendly's job done for less money or on your own servers, Cal.com is the straightforward move. If candidates stall between replying and booking, an agent such as Noon's scheduler closes that gap without replacing your booking pages. For hourly roles where applicants live in text messages, Paradox is built for the volume. SavvyCal and Reclaim.ai are personal productivity choices that improve one recruiter's week rather than a whole team's process.",
+     "Before switching, check what your ATS already includes. Greenhouse, Ashby and several other systems ship self scheduling, and Calendly's own recruiting page leans on a browser extension that works inside Greenhouse and JazzHR. Paying twice for the same feature is the most common scheduling mistake we see."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the best Calendly alternative for recruiters?",
+    "a": "GoodTime for teams that schedule multi interviewer onsites, Cal.com for a cheaper direct replacement, and Noon for teams that want an agent to answer candidates and book interviews for them."
+   },
+   {
+    "q": "Is there a free alternative to Calendly?",
+    "a": "Yes. Cal.com is free for individuals, and its open source version can be self hosted. Calendly's own free plan is limited to one event type and one connected calendar."
+   },
+   {
+    "q": "Does Calendly work for panel interviews?",
+    "a": "Only partly. Paid plans support collective events with several hosts, but there are no interviewer pools, load limits or shadowing rules, which is why larger teams move to GoodTime or their ATS scheduler."
+   },
+   {
+    "q": "How much does Calendly cost in 2026?",
+    "a": "On annual billing, Standard is $10 per seat a month and Teams is $16. Enterprise starts at $15,000 a year for 50 seats. Invitees never need a seat."
+   },
+   {
+    "q": "Can I keep Calendly and still automate scheduling?",
+    "a": "Yes. Noon's AI Scheduler books through a Calendly integration, so the agent handles candidate replies and reschedules while your existing booking pages stay in place."
+   }
+  ]
+ }
 ]
