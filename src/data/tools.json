@@ -218,6 +218,7 @@
   "teamSize": "5\u20132,000 employees",
   "trial": "Free to start; paid plan quoted per team",
   "useCases": [
+   "calendly-alternatives",
    "candidate-fraud-detection-tools",
    "candidate-sourcing",
    "ai-recruitment-tools",
@@ -656,6 +657,7 @@
   "teamSize": "500+ employees",
   "trial": "Demo only",
   "useCases": [
+   "calendly-alternatives",
    "enterprise",
    "high-volume-hiring",
    "tech-hiring",
@@ -976,6 +978,7 @@
   "teamSize": "1,000+ employees",
   "trial": "Demo only",
   "useCases": [
+   "calendly-alternatives",
    "high-volume-hiring",
    "enterprise",
    "ai-recruitment-tools",
@@ -4536,5 +4539,145 @@
       "symplicity",
       "yello"
     ]
-  }
+  },
+ {
+  "slug": "cal-com",
+  "name": "Cal.com",
+  "website": "https://cal.com",
+  "category": "Interview scheduling",
+  "rating": 4.5,
+  "priceTier": "$",
+  "startingPrice": 0,
+  "priceNote": "Free for individuals; Teams $12/user/mo; Organizations $28/user/mo (annual)",
+  "bestFor": "teams that want a cheaper or self hosted Calendly replacement",
+  "teamSize": "Any",
+  "trial": "Free plan",
+  "useCases": [
+   "calendly-alternatives"
+  ],
+  "verdict": "Cal.com is an open source scheduling platform that matches most of Calendly's features at a lower team price and can be self hosted.",
+  "standout": "Open source with a one click Calendly import",
+  "weakness": "No interviewer pools or panel logic",
+  "overview": "Cal.com offers booking pages, round robin and collective events, routing forms and CRM sync. Its pricing page lists a free plan for individuals, Teams at $12 per user a month and Organizations at $28 on annual billing.\n\nThe code is open source, so teams with strict data rules can run it on their own infrastructure.",
+  "pros": [
+   "Free individual plan",
+   "Self hosting option",
+   "Imports Calendly event types"
+  ],
+  "cons": [
+   "Not built for recruiting loops",
+   "Self hosting needs engineering time",
+   "ATS integrations are limited"
+  ],
+  "alternatives": [
+   "calendly",
+   "savvycal",
+   "goodtime"
+  ]
+ },
+ {
+  "slug": "savvycal",
+  "name": "SavvyCal",
+  "website": "https://savvycal.com",
+  "category": "Interview scheduling",
+  "rating": 4.6,
+  "priceTier": "$",
+  "startingPrice": 10,
+  "priceNote": "From $10/user/mo; Basic $120/yr, Premium $200/yr",
+  "bestFor": "recruiters booking busy senior candidates",
+  "teamSize": "1 to 50 employees",
+  "trial": "Free trial",
+  "useCases": [
+   "calendly-alternatives"
+  ],
+  "verdict": "SavvyCal is a scheduling link tool that lets invitees overlay their own calendar on your availability, which makes booking with busy people faster.",
+  "standout": "Calendar overlay for the person booking",
+  "weakness": "Personal tool with no team interview logic",
+  "overview": "SavvyCal's pricing page lists plans from $10 per user a month, with annual billing at $120 per user a year for Basic and $200 for Premium.\n\nIts main difference from Calendly is the booking view, which shows the invitee their own calendar next to your open times.",
+  "pros": [
+   "Polished invitee experience",
+   "Low price",
+   "Ranked and preferred time slots"
+  ],
+  "cons": [
+   "No interviewer pools",
+   "No ATS integration",
+   "Small team features only"
+  ],
+  "alternatives": [
+   "calendly",
+   "cal-com",
+   "reclaim-ai"
+  ]
+ },
+ {
+  "slug": "reclaim-ai",
+  "name": "Reclaim.ai",
+  "website": "https://reclaim.ai",
+  "category": "Calendar automation",
+  "rating": 4.5,
+  "priceTier": "$",
+  "startingPrice": 10,
+  "priceNote": "Starter $10, Business $15, Enterprise $22 per seat/mo",
+  "bestFor": "recruiters who need to protect sourcing time on a crowded calendar",
+  "teamSize": "Any",
+  "trial": "Free plan",
+  "useCases": [
+   "calendly-alternatives"
+  ],
+  "verdict": "Reclaim.ai is an AI calendar assistant that schedules focus time, habits and meetings, with booking links that respect those blocks.",
+  "standout": "Booking links that account for protected focus time",
+  "weakness": "Not an interview coordination tool",
+  "overview": "Reclaim.ai's pricing page lists Starter at $10 per seat a month, Business at $15 and Enterprise at $22.\n\nIt moves flexible blocks around meetings so a scheduling link shows time that is actually free.",
+  "pros": [
+   "Protects focus time",
+   "Simple scheduling links",
+   "Free plan available"
+  ],
+  "cons": [
+   "No panel scheduling",
+   "No ATS connection",
+   "Best for individuals"
+  ],
+  "alternatives": [
+   "calendly",
+   "savvycal",
+   "cal-com"
+  ]
+ },
+ {
+  "slug": "chili-piper",
+  "name": "Chili Piper",
+  "website": "https://www.chilipiper.com",
+  "category": "Meeting routing",
+  "rating": 4.4,
+  "priceTier": "$$$",
+  "startingPrice": 1250,
+  "priceNote": "Growth $1,250/mo incl. 15 seats; ChiliCal $12/user/mo, 200 seat minimum",
+  "bestFor": "staffing firms booking client intake calls from web forms",
+  "teamSize": "50+ employees",
+  "trial": "Demo only",
+  "useCases": [
+   "calendly-alternatives"
+  ],
+  "verdict": "Chili Piper routes and books meetings the moment a web form is submitted, a sales feature that only occasionally fits recruiting.",
+  "standout": "Instant form to meeting routing with CRM rules",
+  "weakness": "High entry price for hiring use cases",
+  "overview": "Chili Piper's pricing page lists Growth from $1,250 a month with 15 seats, Scale from $42,000 a year, and a standalone ChiliCal calendar at $12 per user a month with a 200 seat minimum.\n\nIt is designed for inbound sales teams.",
+  "pros": [
+   "Fast inbound routing",
+   "Deep CRM rules",
+   "Enterprise controls"
+  ],
+  "cons": [
+   "Sales first product",
+   "Expensive for recruiters",
+   "Seat minimums"
+  ],
+  "alternatives": [
+   "calendly",
+   "cal-com",
+   "goodtime"
+  ]
+ }
 ]
