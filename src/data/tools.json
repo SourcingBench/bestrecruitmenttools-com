@@ -1187,6 +1187,7 @@
   "teamSize": "1\u20132,000 employees",
   "trial": "Free HRIS tier",
   "useCases": [
+   "deel-alternatives",
    "employer-of-record-services",
    "remote-hiring"
   ],
@@ -3872,6 +3873,7 @@
   "teamSize": "10 to 5,000+ employees",
   "trial": "Demo and custom quote",
   "useCases": [
+   "deel-alternatives",
    "workday-alternatives",
    "bamboohr-alternatives"
   ],
@@ -4178,6 +4180,7 @@
   "teamSize": "1 to 1,000 employees",
   "trial": "Free contractor plan; demo for EOR",
   "useCases": [
+   "deel-alternatives",
    "employer-of-record-services"
   ],
   "verdict": "Oyster is a full service employer of record in 120+ countries that costs more per employee than Deel or Remote but adds paid HR advisory hours for teams without an HR lead.",
@@ -4212,6 +4215,7 @@
   "teamSize": "50 to 10,000+ employees",
   "trial": "Demo and quote",
   "useCases": [
+   "deel-alternatives",
    "employer-of-record-services"
   ],
   "verdict": "G-P, formerly Globalization Partners, lists employer of record coverage in 180+ countries and now sells an AI agent, Gia, for cross border HR and legal questions.",
@@ -4246,6 +4250,7 @@
   "teamSize": "50 to 10,000+ employees",
   "trial": "Demo and quote",
   "useCases": [
+   "deel-alternatives",
    "employer-of-record-services"
   ],
   "verdict": "Papaya Global pairs employer of record in 180+ countries with global payroll and payments, and describes itself as a licensed financial institution.",
@@ -4280,6 +4285,7 @@
   "teamSize": "1 to 5,000 employees",
   "trial": "Demo",
   "useCases": [
+   "deel-alternatives",
    "employer-of-record-services"
   ],
   "verdict": "Pebl, the new name of Velocity Global, publishes a $399 monthly EOR fee, benefits in 185+ countries and an AI assistant called Alfie.",
@@ -4314,6 +4320,7 @@
   "teamSize": "1 to 1,000 employees",
   "trial": "Demo",
   "useCases": [
+   "deel-alternatives",
    "employer-of-record-services"
   ],
   "verdict": "Skuad, now presented as Payoneer Workforce Management, has the lowest published employer of record fee we found, from $199 a month in 160+ countries, with background checks, visas and equipment available.",

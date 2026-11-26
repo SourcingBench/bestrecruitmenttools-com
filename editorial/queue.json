@@ -445,7 +445,9 @@
    "keyword": "deel alternatives",
    "volume": 140,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "deel-alternatives",
+   "date": "2026-11-26"
   },
   {
    "id": "brt-048",
