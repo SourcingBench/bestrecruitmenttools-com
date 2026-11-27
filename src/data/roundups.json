@@ -220,5 +220,64 @@
       }
     ],
     "directory": "Also in the directory: rankings for <a href=\"/best-for/ai-recruitment-tools/\">AI recruitment tools</a>, <a href=\"/best-for/recruiting-chatbots/\">recruiting chatbots</a> and <a href=\"/best-for/vendor-management-system-software/\">vendor management systems</a>, plus reviews of <a href=\"/reviews/talroo/\">Talroo</a> and <a href=\"/reviews/pinpoint/\">Pinpoint</a>."
+  },
+  {
+    "slug": "2026-11-27",
+    "title": "This week in recruiting tools: G2 finds AI recruiting ROI slipping to 7.6 months, 100Hires buys Alooba, Jobma posts Gartner peer scores",
+    "date": "2026-11-27",
+    "period": "21 to 27 November 2026",
+    "summary": "Seven dated stories on rankings and pricing. G2 published review data showing time to ROI for AI recruiting software stretched from 4.48 to 7.6 months, 100Hires bought skills testing vendor Alooba and kept its plans intact, Jobma announced Gartner Peer Insights scores of 4.4 out of 5, Take2 AI launched a 14 million clinician database, Workday said AI products drove nearly $150 million in new contract value, BOSS Zhipin counted 7.2 million paying employers, and Frontline Source Group gave phone screens to an AI recruiter.",
+    "items": [
+      {
+        "vendor": "G2",
+        "category": "Review data and rankings",
+        "headline": "G2's 2026 buyer report says time to ROI for AI recruiting tools ranged from 4.48 to 7.6 months",
+        "detail": "Published 27 Nov 2026 (<a href=\"https://learn.g2.com/ai-recruiting\">G2 Learn Hub</a>). The analysis covers more than 2,000 verified reviews in G2's AI Recruiting Software category from August 2025 to November 2026. Ease of use was praised in roughly 53% of sampled reviews and sourcing was the most cited use case at about 28%. Average time to ROI moved from 4.48 months in October 2025 to 7.6 months in July 2026 while review volume grew 453%. Hubert and BrightHire contributed vendor survey answers, so the commentary sections reflect two vendors' views. Our <a href=\"/best-for/ai-recruitment-tools/\">AI recruitment tools ranking</a> uses its own scoring rather than G2 badges.",
+        "matters": "A longer payback window is the number procurement will ask about first, so ask any AI vendor for time to value from customers your size, not the category average."
+      },
+      {
+        "vendor": "100Hires / Alooba",
+        "category": "ATS and skills assessments",
+        "headline": "100Hires acquired Alooba and says Alooba customers keep their existing plans",
+        "detail": "Announced 23 Nov 2026 (<a href=\"https://www.streetinsider.com/Press+Releases/100Hires+acquires+Alooba%2C+the+Sydney-built+skills-assessment+platform/27385273.html\">PRWeb via StreetInsider</a>). The small business ATS bought the Sydney skills testing platform founded by Tim Freestone in 2019, which covers more than 500 skills and has assessed over 300,000 candidates. Terms were not disclosed. Alooba stays a standalone product, current customers keep their access and plans, and Freestone becomes a strategic advisor. It is the first acquisition for 100Hires, which says it has grown without outside investors. Compare testing vendors in our <a href=\"/best-for/pre-employment-testing-tools/\">pre employment testing ranking</a>.",
+        "matters": "Plan continuity is promised for now; if you buy Alooba today, ask how long current pricing is guaranteed and whether a bundled 100Hires tier is coming."
+      },
+      {
+        "vendor": "Jobma",
+        "category": "Video interviewing and assessments",
+        "headline": "Jobma announced Gartner Peer Insights ratings of 4.4 overall and 4.6 for video interviewing",
+        "detail": "Published 25 Nov 2026 (<a href=\"https://techrseries.com/hiring/jobma-earns-top-ratings-from-users-on-gartner-peer-insights-validating-its-intelligent-human-first-approach-to-hiring/\">HRTech Series</a>). Jobma reports 4.6 out of 5 in Video Interviewing Software, 4.0 in AI enabled Interview Intelligence and 4.7 in Talent Assessment Software, from verified users. The release positions the product as one platform for one way, live, panel and agentic AI interviews plus skills tests, with ID verification against candidate fraud. As with any vendor announced badge, check the review count behind each score. See how it compares in our <a href=\"/best-for/ai-interview-tools/\">AI interview tools ranking</a>.",
+        "matters": "Peer scores in three categories let Jobma compete in assessment and interviewing deals at once, which pressures single purpose vendors on price."
+      },
+      {
+        "vendor": "Take2 AI",
+        "category": "Healthcare recruiting data",
+        "headline": "Take2 AI launched a provider database covering about 14 million licensed U.S. clinicians",
+        "detail": "Announced 25 Nov 2026 (<a href=\"https://www.tmcnet.com/usubmit/2026/11/25/10487528.htm\">PR Newswire via TMCnet</a>). The New York company, which sells AI agents for healthcare sourcing, screening, scheduling, credentialing and onboarding, says each profile is built from state licensing boards, certification bodies and federal registries, refreshed daily, and carries more than 50 data points plus a verified mobile number and email. Coverage spans physicians, advanced practice providers, nurses and allied health. Health systems weighing it against general contact data vendors can start with our <a href=\"/best-for/contact-finders-for-recruiters/\">contact finders ranking</a>.",
+        "matters": "License based data is a direct challenge to generic people search tools in a vertical where credentials, not job titles, decide who is qualified."
+      },
+      {
+        "vendor": "Workday",
+        "category": "HCM suites",
+        "headline": "Workday said AI products drove nearly $150 million in new annual contract value last quarter",
+        "detail": "Reported 24 Nov 2026 (<a href=\"https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2027-Third-Quarter-Financial-Results/default.aspx\">Workday investor relations</a>). Third quarter fiscal 2027 revenue was $2.705 billion, up 11.2%, with subscription revenue of $2.532 billion. CEO Aneel Bhusri said AI products produced more than three times the new ACV of a year earlier, and Workday raised fiscal 2027 subscription revenue guidance to $9.958 billion. The quarter included $51 million of restructuring expense. Buyers looking at the other side of the market can use our <a href=\"/best-for/workday-alternatives/\">Workday alternatives list</a>.",
+        "matters": "When AI is a growing share of new contract value, expect it to show up as separate line items at renewal, so price AI agents and recruiting add ons separately."
+      },
+      {
+        "vendor": "BOSS Zhipin (Kanzhun)",
+        "category": "Job platforms",
+        "headline": "BOSS Zhipin reported 7.2 million paying employers and 73 million monthly users",
+        "detail": "Reported 25 Nov 2026 (<a href=\"https://finance.yahoo.com/markets/stocks/articles/kanzhun-limited-announces-third-quarter-111000447.html\">GlobeNewswire via Yahoo Finance</a>). Kanzhun's paid enterprise customers rose 5.9% to 7.2 million over twelve months, average monthly active users rose 14.4% to 73.0 million, and quarterly revenue grew 11.7% to RMB2,416.2 million (US$360.4 million). Founder Jonathan Peng Zhao credited AI for better matching accuracy, and said blue collar workers, smaller employers and lower tier cities drove growth. The company posted a net loss of RMB249.2 million against adjusted net income of RMB1,065.1 million.",
+        "matters": "The largest job platform outside the U.S. is growing paid employers on matching quality, the same pitch Western job boards now make for their AI tiers."
+      },
+      {
+        "vendor": "Frontline Source Group",
+        "category": "Staffing and AI screening",
+        "headline": "Frontline Source Group's AI recruiter now runs first round phone interviews",
+        "detail": "Announced 24 Nov 2026 (<a href=\"https://finance.yahoo.com/technology/ai/articles/ai-recruiter-lexi-reed-promoted-033300520.html\">GlobeNewswire via Yahoo Finance</a>). The Dallas staffing and executive search firm, founded in 2004, says its assistant Lexi Reed spent 11 years as a website chat bot and now calls candidates, answers return calls and replies by email, while human recruiters make every hiring decision. The firm reports more than 5,619 placements from more than 32 offices. Agencies building the same workflow can compare vendors in our <a href=\"/best-for/ai-phone-screening-tools/\">AI phone screening ranking</a>.",
+        "matters": "A staffing firm putting an AI voice on first round calls sets a reference point for what agency clients will expect to be automated, and what they will expect to stay human."
+      }
+    ],
+    "directory": "Also in the directory: rankings for <a href=\"/best-for/candidate-fraud-detection-tools/\">candidate fraud detection</a>, <a href=\"/best-for/staffing-agencies/\">staffing agency software</a> and <a href=\"/best-for/high-volume-hiring/\">high volume hiring</a>."
   }
 ]
