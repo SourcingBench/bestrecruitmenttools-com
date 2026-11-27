@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 135 tools rated 1–5; 56 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 137 tools rated 1–5; 57 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -73,6 +73,7 @@
 - [Best Handshake alternatives](https://bestrecruitmenttools.com/best-for/handshake-alternatives/): 1. RippleMatch, 2. Yello, 3. Symplicity Recruit, 4. College Recruiter, 5. 12twenty, 6. Wellfound, 7. LinkedIn Jobs
 - [Best Calendly alternatives for recruiting](https://bestrecruitmenttools.com/best-for/calendly-alternatives/): 1. GoodTime, 2. Cal.com, 3. Noon, 4. SavvyCal, 5. Paradox, 6. Reclaim.ai, 7. Chili Piper
 - [Best Deel alternatives](https://bestrecruitmenttools.com/best-for/deel-alternatives/): 1. Remote, 2. Rippling, 3. Skuad (Payoneer Workforce Management), 4. Papaya Global, 5. Oyster, 6. Pebl, 7. G-P
+- [Best Paychex alternatives](https://bestrecruitmenttools.com/best-for/paychex-alternatives/): 1. Patriot Payroll, 2. Square Payroll, 3. Rippling, 4. Paycom, 5. HiBob, 6. Dayforce
 
 ## Comparisons
 
@@ -182,6 +183,8 @@
 - [PandoLogic (Veritone Hire)](https://bestrecruitmenttools.com/reviews/pandologic/): Programmatic job advertising, 4.1/5, $$, best for employers and staffing firms that want hands off programmatic placement across a large job site network.
 - [Papaya Global](https://bestrecruitmenttools.com/reviews/papaya-global/): Global hiring & payroll, 4.0/5, $$, best for companies that run payroll in several countries and need EOR in a few more.
 - [Paradox](https://bestrecruitmenttools.com/reviews/paradox/): Conversational AI, 4.3/5, $$$$, best for high-volume hourly hiring with text-based screening and scheduling.
+- [Patriot Payroll](https://bestrecruitmenttools.com/reviews/patriot-payroll/): Payroll for small businesses, 4.2/5, $, best for Owners with under 50 employees who want the lowest published payroll price.
+- [Paycom](https://bestrecruitmenttools.com/reviews/paycom/): HR and payroll suite, 4.1/5, $$, best for Companies of 50 to several thousand that want employees to check their own paychecks.
 - [Paycor](https://bestrecruitmenttools.com/reviews/paycor/): HR platform with built in ATS, 4.1/5, $$, best for US small and midsize businesses that hire hourly and frontline staff.
 - [Pebl](https://bestrecruitmenttools.com/reviews/pebl/): Global hiring & payroll, 4.0/5, $$, best for companies hiring a few people abroad that want a low flat EOR fee.
 - [Phenom](https://bestrecruitmenttools.com/reviews/phenom/): Talent CRM, 4.2/5, $$$$, best for enterprises whose CRM is fed mainly by the career site.

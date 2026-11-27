@@ -4686,5 +4686,73 @@
    "cal-com",
    "goodtime"
   ]
+ },
+ {
+  "slug": "patriot-payroll",
+  "name": "Patriot Payroll",
+  "website": "https://www.patriotsoftware.com/payroll/",
+  "category": "Payroll for small businesses",
+  "rating": 4.2,
+  "priceTier": "$",
+  "startingPrice": 17,
+  "priceNote": "Basic $17/mo + $4 per worker; Full Service $37/mo + $5 per worker",
+  "bestFor": "Owners with under 50 employees who want the lowest published payroll price",
+  "teamSize": "1 to 100 employees",
+  "trial": "30 days free",
+  "useCases": [
+   "paychex-alternatives"
+  ],
+  "verdict": "Patriot Payroll is the budget pick: published per worker prices, a self filing tier and a full service tier that files payroll taxes for you.",
+  "standout": "Published two tier pricing with a free trial",
+  "weakness": "No applicant tracking or performance tools",
+  "overview": "Patriot sells payroll in two tiers. Basic Payroll runs pay and leaves tax filing to you; Full Service Payroll adds federal, state and local tax deposits and filings. Its pricing page lists $17 a month plus $4 per worker for Basic and $37 a month plus $5 per worker for Full Service before promotions.",
+  "pros": [
+   "Lowest published price in this ranking",
+   "Choice of self filing or full service",
+   "Accounting add on from the same vendor"
+  ],
+  "cons": [
+   "Thin HR features",
+   "No built in hiring tools",
+   "Promotional pricing can obscure the list price"
+  ],
+  "alternatives": [
+   "square-payroll",
+   "rippling"
+  ]
+ },
+ {
+  "slug": "paycom",
+  "name": "Paycom",
+  "website": "https://www.paycom.com/software/payroll/",
+  "category": "HR and payroll suite",
+  "rating": 4.1,
+  "priceTier": "$$",
+  "startingPrice": null,
+  "priceNote": "Custom quote",
+  "bestFor": "Companies of 50 to several thousand that want employees to check their own paychecks",
+  "teamSize": "50 to 10,000+ employees",
+  "trial": "Demo on request",
+  "useCases": [
+   "paychex-alternatives"
+  ],
+  "verdict": "Paycom is the pick for mid sized employers who want payroll errors caught by employees before the run closes.",
+  "standout": "Beti, an employee driven payroll that starts automatically each pay period",
+  "weakness": "No public pricing",
+  "overview": "Paycom runs payroll, time and labor, talent acquisition and HR in one system. Its Beti feature starts payroll automatically each pay period and asks employees to review and fix errors before submission, and the suite adds expense management, garnishment administration and payroll tax handling.",
+  "pros": [
+   "Single database across HR and payroll",
+   "Employees review their own pay before it runs",
+   "Built in applicant tracking"
+  ],
+  "cons": [
+   "Quote only pricing",
+   "More system than a ten person shop needs",
+   "Long implementation for complex pay rules"
+  ],
+  "alternatives": [
+   "rippling",
+   "dayforce"
+  ]
  }
 ]
