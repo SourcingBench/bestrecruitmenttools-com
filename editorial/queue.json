@@ -465,7 +465,9 @@
    "keyword": "monster alternatives",
    "volume": 70,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "monster-alternatives",
+   "date": "2026-11-28"
   }
 ]
 }
