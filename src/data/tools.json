@@ -4754,5 +4754,75 @@
    "rippling",
    "dayforce"
   ]
- }
+ },
+  {
+    "slug": "dice",
+    "name": "Dice",
+    "website": "https://www.dice.com/hiring",
+    "category": "Job boards & advertising",
+    "rating": 4.2,
+    "priceTier": "$$$",
+    "startingPrice": 399,
+    "priceNote": "Single job slot $399 for 30 days; Starter $649/mo; Standard $899/mo (annual)",
+    "bestFor": "Employers hiring software, data, cloud and security professionals",
+    "teamSize": "Any",
+    "trial": "No free plan",
+    "useCases": [
+      "monster-alternatives"
+    ],
+    "verdict": "Dice is the tech only job board to use when generalist boards bury engineering roles under unrelated applicants.",
+    "standout": "Candidate search across 8.5 million tech profiles on paid plans",
+    "weakness": "No free posting and the cheapest tier has no candidate search",
+    "overview": "Dice is a job board and candidate database for technology roles. Its pricing page lists a $399 single job slot that stays live for 30 days, a Starter plan at $649 a month with 3 active jobs and 250 profile views in TalentSearch, and a Standard plan at $899 a month on an annual contract with 5 jobs, 2 users and branded listings.\n\nDice says 23% of its job seekers are not on generalist platforms.",
+    "pros": [
+      "Tech focused audience",
+      "Month to month Starter plan",
+      "Candidate search included from Starter"
+    ],
+    "cons": [
+      "No free tier",
+      "Profile view caps",
+      "Little reach for non tech roles"
+    ],
+    "alternatives": [
+      "linkedin-jobs",
+      "indeed",
+      "wellfound"
+    ]
+  },
+  {
+    "slug": "snagajob",
+    "name": "Snagajob",
+    "website": "https://www.snagajob.com/employer",
+    "category": "Hourly hiring platform",
+    "rating": 4.0,
+    "priceTier": "$",
+    "startingPrice": 0,
+    "priceNote": "Free to start for businesses under 100 employees; enterprise on quote",
+    "bestFor": "Restaurants, retailers, grocers and warehouses hiring hourly staff",
+    "teamSize": "Any",
+    "trial": "Free to start",
+    "useCases": [
+      "monster-alternatives"
+    ],
+    "verdict": "Snagajob is the job board for shift work, with a self serve option for small businesses and managed plans for large employers.",
+    "standout": "Audience of more than 6 million hourly job seekers",
+    "weakness": "Weak fit for salaried and professional roles",
+    "overview": "Snagajob is a marketplace for hourly work. It says it connects more than 6 million hourly job seekers with 700,000 employers. Small businesses under 100 employees can sign up and post on their own, while enterprise employers work with its sales team.\n\nIts core industries are restaurants and quick service, hospitality, logistics and warehouse, ecommerce, grocery and cleaning services.",
+    "pros": [
+      "Built for hourly roles",
+      "Self serve for small businesses",
+      "Free to get started"
+    ],
+    "cons": [
+      "Enterprise pricing not published",
+      "Limited reach for salaried roles",
+      "Applicant quality varies by market"
+    ],
+    "alternatives": [
+      "indeed",
+      "workstream",
+      "higherme"
+    ]
+  }
 ]

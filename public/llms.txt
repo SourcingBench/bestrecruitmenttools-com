@@ -1,6 +1,6 @@
 # BestRecruitmentTools.com
 
-> Independent, editor-ranked guide to recruitment tools, organised by use case. 137 tools rated 1–5; 57 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
+> Independent, editor-ranked guide to recruitment tools, organised by use case. 139 tools rated 1–5; 58 use-case rankings; 19 head-to-head comparisons. No vendor pays for placement or position.
 
 ## Top 10 recruitment tools overall
 
@@ -74,6 +74,7 @@
 - [Best Calendly alternatives for recruiting](https://bestrecruitmenttools.com/best-for/calendly-alternatives/): 1. GoodTime, 2. Cal.com, 3. Noon, 4. SavvyCal, 5. Paradox, 6. Reclaim.ai, 7. Chili Piper
 - [Best Deel alternatives](https://bestrecruitmenttools.com/best-for/deel-alternatives/): 1. Remote, 2. Rippling, 3. Skuad (Payoneer Workforce Management), 4. Papaya Global, 5. Oyster, 6. Pebl, 7. G-P
 - [Best Paychex alternatives](https://bestrecruitmenttools.com/best-for/paychex-alternatives/): 1. Patriot Payroll, 2. Square Payroll, 3. Rippling, 4. Paycom, 5. HiBob, 6. Dayforce
+- [Best Monster alternatives](https://bestrecruitmenttools.com/best-for/monster-alternatives/): 1. Indeed, 2. Dice, 3. LinkedIn Jobs, 4. Snagajob, 5. Wellfound, 6. Handshake
 
 ## Comparisons
 
@@ -129,6 +130,7 @@
 - [Datapeople](https://bestrecruitmenttools.com/reviews/datapeople/): Job description management, 4.2/5, $$$, best for enterprise TA and compensation teams that need compliant job content inside the ATS.
 - [Dayforce](https://bestrecruitmenttools.com/reviews/dayforce/): Enterprise HCM suite with recruiting, 4.2/5, $$$, best for large employers with hourly and frontline staff that want pay, time and hiring on one data model.
 - [Deel](https://bestrecruitmenttools.com/reviews/deel/): Global hiring & payroll, 4.3/5, $$, best for hiring and paying remote staff in countries where you have no entity.
+- [Dice](https://bestrecruitmenttools.com/reviews/dice/): Job boards & advertising, 4.2/5, $$$, best for Employers hiring software, data, cloud and security professionals.
 - [EDJOIN](https://bestrecruitmenttools.com/reviews/edjoin/): Education job board, 3.8/5, $, best for districts and county offices that want a widely used public education job board with region search.
 - [Eightfold AI](https://bestrecruitmenttools.com/reviews/eightfold/): Talent intelligence platform, 4.1/5, $$$$, best for large enterprises unifying hiring, internal mobility and workforce planning on one skills model.
 - [EmployeeReferrals.com](https://bestrecruitmenttools.com/reviews/employeereferrals/): Employee referrals, 4.3/5, $$, best for branded referral programs tied to ATS, HRIS and payroll.
@@ -213,6 +215,7 @@
 - [SkillSurvey](https://bestrecruitmenttools.com/reviews/skillsurvey/): Reference checking, 4.2/5, $$$, best for iCIMS customers and healthcare or enterprise employers with structured reference programs.
 - [Skuad (Payoneer Workforce Management)](https://bestrecruitmenttools.com/reviews/skuad/): Global hiring & payroll, 3.9/5, $, best for cost sensitive teams hiring in many countries that also need visas or equipment.
 - [SmartJobBoard](https://bestrecruitmenttools.com/reviews/smartjobboard/): Job board software, 4.2/5, $$, best for Professional and trade associations that want non dues revenue without upfront software fees.
+- [Snagajob](https://bestrecruitmenttools.com/reviews/snagajob/): Hourly hiring platform, 4.0/5, $, best for Restaurants, retailers, grocers and warehouses hiring hourly staff.
 - [Square Payroll](https://bestrecruitmenttools.com/reviews/square-payroll/): Payroll for hourly teams, 3.9/5, $, best for Restaurants and retailers already running Square point of sale.
 - [Symplicity Recruit](https://bestrecruitmenttools.com/reviews/symplicity/): Early career recruiting, 3.9/5, $, best for employers that want to post to university career centers that run on Symplicity.
 - [Talkpush](https://bestrecruitmenttools.com/reviews/talkpush/): Conversational AI, 4.0/5, $$$, best for BPO, contact center and multilingual high-volume hiring.
